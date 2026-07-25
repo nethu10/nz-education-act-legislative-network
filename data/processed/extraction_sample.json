@@ -9,14 +9,13 @@
       "relations": [
         {
           "type": "definition_reference",
-          "description": "defines what a deputy chief referee is"
+          "description": "defines 'deputy chief referee' as a person appointed under section 219(3)"
         }
       ],
-      "summary": "This provision defines 'deputy chief referee' as a person appointed under section 219(3).",
+      "summary": "This provision defines what a deputy chief referee is.",
       "topic_tags": [
         "interpretation",
-        "definitions",
-        "appointments"
+        "definitions"
       ]
     }
   },
@@ -29,14 +28,15 @@
       ],
       "relations": [
         {
-          "type": "reporting义务",
-          "description": "provider group向Secretary报告其表现和进展"
+          "type": "power_or_duty",
+          "description": "the provider group must report annually; the Secretary may specify report requirements"
         }
       ],
-      "summary": "规定提供者团体每年至少向秘书报告一次其表现和进展情况。",
+      "summary": "Requires provider groups to submit annual reports to the Secretary and allows the Secretary to set reporting formats or content.",
       "topic_tags": [
-        "教育管理",
-        "报告要求"
+        "education",
+        "reporting",
+        "regulation"
       ]
     }
   },
@@ -56,20 +56,47 @@
       ],
       "relations": [
         {
-          "type": "cross_reference",
-          "description": "refers to section 268(2)(d) for characteristics of institutions"
+          "type": "power_or_duty",
+          "description": "the Minister may grant consent to use the term 'university'"
         },
         {
-          "type": "citation",
-          "description": "receives advice from NZQA and TEC, consults with various bodies"
+          "type": "power_or_duty",
+          "description": "the Minister must take into account certain characteristics of institutions before granting consent"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "the Minister must receive advice from NZQA and TEC before granting consent"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "the Minister must be satisfied that the application is in the interests of the tertiary education system and nation as a whole"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "the Minister may consult certain bodies before granting consent to wānanga"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "the Minister must ensure students, employers, and members of the public are informed about the legal status or characteristics of the institution"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "the Minister must protect the quality and reputation of institutions that do not apply for consent to use 'university'"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "the Minister may review an institution's compliance with conditions subject to which consent was granted"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "if unsatisfied, the Minister may withdraw or suspend consent"
         }
       ],
-      "summary": "The provision outlines the process by which registered establishments or wānanga can apply to use the term 'university' and sets out conditions for granting such consent.",
+      "summary": "The provision outlines the process for the Minister to grant consent for registered establishments and wānanga to use the term 'university', including conditions and reviews.",
       "topic_tags": [
         "education",
-        "universities",
-        "registration",
-        "consent"
+        "tertiary education",
+        "institutional naming"
       ]
     }
   },
@@ -82,10 +109,10 @@
       "relations": [
         {
           "type": "cross_reference",
-          "description": "provides a transitional arrangement for the export education levy"
+          "description": "refers to another section within this Act without defining a term or changing wording"
         }
       ],
-      "summary": "This provision makes arrangements for the transition related to the export education levy.",
+      "summary": "This provision makes transitional arrangements related to the export education levy.",
       "topic_tags": [
         "education",
         "levy",
@@ -97,19 +124,19 @@
     "provision_id": "LMS253977",
     "extraction": {
       "entities": [
-        "dissolved final report"
+        "dissolved",
+        "Final report"
       ],
       "relations": [
         {
-          "type": "cross_reference",
-          "description": "references to another section within this Act"
+          "type": "power_or_duty",
+          "description": "describes the requirement for a final report upon dissolution"
         }
       ],
-      "summary": "Refers to the final report of a dissolved entity within the same Act.",
+      "summary": "Requires the preparation of a final report when an entity is dissolved.",
       "topic_tags": [
         "education",
-        "training",
-        "administration"
+        "institutional governance"
       ]
     }
   },
@@ -129,11 +156,11 @@
           "description": "defines 'parent' in different contexts"
         }
       ],
-      "summary": "This provision defines who qualifies as a parent for the purposes of serving on a board of a State school and for other purposes.",
+      "summary": "This provision defines who can be considered a parent for the purposes of serving on a board of a State school and for other purposes.",
       "topic_tags": [
         "interpretation",
-        "education",
-        "legal definition"
+        "definition",
+        "education"
       ]
     }
   },
@@ -143,23 +170,29 @@
       "entities": [
         "specialist school",
         "Minister",
-        "board of any of the following State schools"
+        "State schools",
+        "board",
+        "charter school",
+        "State integrated school",
+        "distance school",
+        "Kura Kaupapa Māori",
+        "designated character school"
       ],
       "relations": [
         {
-          "type": "restriction",
-          "description": "The specialist school cannot apply for approval to operate a charter school."
+          "type": "power_or_duty",
+          "description": "The Minister may not issue a direction to the board of certain State schools."
         },
         {
-          "type": "restriction",
-          "description": "The Minister cannot issue a direction to the board of certain State schools regarding a charter school application."
+          "type": "power_or_duty",
+          "description": "A specialist school may not apply for approval to operate a charter school."
         }
       ],
-      "summary": "This provision restricts specialist schools from applying for charter school approval and prevents the Minister from issuing directions to specific State school boards.",
+      "summary": "This provision restricts specialist schools from applying for charter school status and prohibits the Minister from issuing directions to specific types of State schools.",
       "topic_tags": [
         "education policy",
-        "charter schools",
-        "school types"
+        "school types",
+        "regulation"
       ]
     }
   },
@@ -169,22 +202,25 @@
       "entities": [
         "State school's board",
         "principal",
-        "religious instruction",
-        "observances",
+        "voluntary instructors",
+        "school buildings",
         "classrooms",
-        "school as a whole",
-        "voluntary instructors"
+        "school as a whole"
       ],
       "relations": [
         {
-          "type": "cross_reference",
-          "description": "Refers to section 97 and other provisions in this Act or regulations made under this Act relating to the closure of schools"
+          "type": "power_or_duty",
+          "description": "the board may determine the use of school buildings for religious instruction or observances"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "the board may approve voluntary instructors for conducting religious instruction or observances"
         }
       ],
-      "summary": "Allows State school boards, after consultation with principals, to close classrooms or the whole school for up to 20 hours a year for religious instruction or observances conducted by approved instructors.",
+      "summary": "This provision allows State school boards to close classrooms or school buildings during the day for up to 60 minutes per week or 20 hours in a year for religious instruction conducted by approved instructors.",
       "topic_tags": [
         "education",
-        "religion",
+        "religious instruction",
         "school policies"
       ]
     }
@@ -194,34 +230,26 @@
     "extraction": {
       "entities": [
         "private training establishment",
-        "clause 9(6) of Schedule 9",
-        "penalty specified in subsection (3)",
-        "section 9(6) of Schedule 9",
-        "false or misleading statement",
-        "statement from which any material matter has been omitted",
-        "false or misleading paper, document, or record",
-        "paper, document, or record from which any material matter has been omitted",
-        "$5,000 fine",
-        "$500 fine for each day the offence continues",
-        "Criminal Procedure Act 2011",
-        "MSD"
+        "MSD",
+        "Schedule 9",
+        "Criminal Procedure Act 2011"
       ],
       "relations": [
         {
-          "type": "citation",
-          "description": "refers to section 25 of the Criminal Procedure Act 2011"
+          "type": "power_or_duty",
+          "description": "The private training establishment has a duty to comply with the requirements of Schedule 9, and faces penalties for non-compliance."
         },
         {
-          "type": "definition_reference",
-          "description": "defines what constitutes an offence and specifies penalties"
+          "type": "citation",
+          "description": "This provision refers to section 25 of the Criminal Procedure Act 2011 regarding prosecution time limits."
         }
       ],
-      "summary": "This provision outlines offences for private training establishments that fail or refuse to comply with information requests from MSD, including making false statements or providing incomplete documents, and sets out the associated penalties.",
+      "summary": "Private training establishments are required to comply with information requests from MSD; failure to do so or providing false, misleading, or incomplete information results in criminal penalties.",
       "topic_tags": [
         "education",
-        "training",
         "regulation",
-        "penalties"
+        "penalties",
+        "information requests"
       ]
     }
   },
@@ -240,12 +268,12 @@
       "relations": [
         {
           "type": "definition_reference",
-          "description": "defines 'benefit' based on other provisions in the Social Security Act 2018"
+          "description": "defines 'benefit' in terms of other provisions"
         }
       ],
-      "summary": "This provision defines what constitutes a 'benefit' for the purposes of this Act, primarily referring to various types of support under the Social Security Act 2018.",
+      "summary": "This provision defines what constitutes a 'benefit' for the purposes of this Act, referencing various provisions within the Social Security Act 2018.",
       "topic_tags": [
-        "education",
+        "interpretation",
         "social security",
         "definition"
       ]
@@ -258,22 +286,35 @@
         "parent",
         "principal",
         "Secretary",
-        "student",
         "medical practitioner",
         "psychologist",
-        "full-time caregiver"
+        "full-time caregiver",
+        "student",
+        "registered school"
       ],
       "relations": [
         {
-          "type": "cross_reference",
-          "description": "Refers to section 36 for context"
+          "type": "power_or_duty",
+          "description": "parents, principal, and Secretary can agree a plan to reduce attendance for well-being needs"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "full-time caregiver can act as parent with Secretary's approval"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "parents, principal, and Secretary can agree a transition plan for students aged 5 years"
         },
         {
           "type": "definition_reference",
-          "description": "Defines the roles and conditions under which a plan can be agreed upon"
+          "description": "plan duration and renewal conditions are defined in subsections (5) and (6)"
+        },
+        {
+          "type": "cross_reference",
+          "description": "subsection references section 36 of the Act"
         }
       ],
-      "summary": "Allows parents, principals, and Secretary to agree on reduced attendance plans for students based on well-being needs or transition assistance.",
+      "summary": "Allows parents, principal, and Secretary to agree on plans reducing student attendance or facilitating transition for well-being reasons.",
       "topic_tags": [
         "education",
         "well-being",
@@ -285,19 +326,19 @@
     "provision_id": "LMS177711",
     "extraction": {
       "entities": [
-        "Holidays"
+        "holidays"
       ],
       "relations": [
         {
-          "type": "definition_reference",
-          "description": "defines 'Holidays'"
+          "type": "power_or_duty",
+          "description": "defines when holidays apply"
         }
       ],
-      "summary": "Defines what constitutes a holiday in the context of this Act.",
+      "summary": "This provision outlines the conditions under which holidays are applicable.",
       "topic_tags": [
-        "Education",
-        "Training",
-        "Legislation"
+        "education",
+        "school",
+        "holidays"
       ]
     }
   },
@@ -306,27 +347,50 @@
     "extraction": {
       "entities": [
         "Minister",
-        "TEC",
+        "TEC (Tertiary Education Commission)",
         "organisation",
-        "persons or bodies",
-        "other persons specified by TEC"
+        "persons or bodies"
       ],
       "relations": [
         {
-          "type": "amendment",
-          "description": "outlines a framework for planning, funding, and monitoring in the tertiary education sector"
+          "type": "power_or_duty",
+          "description": "the Minister determines the design of funding mechanisms and whether funding under those mechanisms is via plans"
         },
         {
-          "type": "definition_reference",
-          "description": "describes how the framework works through steps a to i"
+          "type": "power_or_duty",
+          "description": "TEC develops the details of how to implement funding mechanisms"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "TEC issues guidance on what must be contained in proposed plans"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "TEC identifies criteria for assessing proposed plans"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "organisation prepares a proposed plan, submits it to TEC, and receives funding approval or monitoring"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "TEC applies assessment criteria to the proposed plan and decides whether or not to give funding approval"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "if the proposed plan is given funding approval, TEC determines the amount of funding payable to the organisation by applying the appropriate funding mechanism"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "TEC monitors the organisation’s performance to determine if it is achieving, or has achieved, the outcomes it has specified in its plan"
         }
       ],
-      "summary": "Outlines a process for determining and approving plans for tertiary education funding.",
+      "summary": "This provision outlines the roles and processes for planning, funding, and monitoring in tertiary education sector, with key responsibilities assigned to the Minister and TEC.",
       "topic_tags": [
         "education",
         "funding",
         "monitoring",
-        "tertiary sector"
+        "tertiary"
       ]
     }
   },
@@ -335,24 +399,27 @@
     "extraction": {
       "entities": [
         "Minister",
-        "election",
-        "board member"
+        "board elections",
+        "lateness",
+        "omission",
+        "irregularity"
       ],
       "relations": [
         {
-          "type": "cross_reference",
-          "description": "references validation and invalidation procedures for elections"
+          "type": "power_or_duty",
+          "description": "the Minister may validate or invalidate board elections under certain conditions"
         },
         {
-          "type": "definition_reference",
-          "description": "defines conditions under which the Minister can validate or invalidate an election"
+          "type": "power_or_duty",
+          "description": "the Minister may extend the time for doing things required in connection with an election"
         }
       ],
-      "summary": "This provision outlines the Minister's authority to validate irregularities in board elections or declare them invalid, and requires new elections if necessary.",
+      "summary": "This provision outlines the Minister's powers to validate, invalidate, and extend deadlines related to board elections.",
       "topic_tags": [
-        "elections",
-        "governance",
-        "education"
+        "board elections",
+        "Minister's power",
+        "validation",
+        "invalidation"
       ]
     }
   },
@@ -368,10 +435,10 @@
       "relations": [
         {
           "type": "definition_reference",
-          "description": "defines what a micro-credential is"
+          "description": "defines 'micro-credential' as study or training that leads to an award but does not, of itself, lead to an award of a qualification listed on the Qualifications and Credentials Framework"
         }
       ],
-      "summary": "This provision defines what constitutes a micro-credential in terms of study or training that leads to an award but does not lead to a qualification listed on the Qualifications and Credentials Framework.",
+      "summary": "This provision defines what constitutes a micro-credential.",
       "topic_tags": [
         "education",
         "qualifications",
@@ -387,31 +454,37 @@
         "State school",
         "Kura Kaupapa Māori",
         "te reo Māori",
-        "Te Aho Matua"
+        "Te Aho Matua",
+        "board",
+        "Secretary"
       ],
       "relations": [
         {
-          "type": "amendment",
-          "description": "The Minister may, by notice in the Gazette, designate a State school as a Kura Kaupapa Māori."
+          "type": "power_or_duty",
+          "description": "the Minister may designate a State school as Kura Kaupapa Māori"
         },
         {
-          "type": "definition_reference",
-          "description": "te reo Māori is to be the main language of instruction at the school"
+          "type": "power_or_duty",
+          "description": "the Minister may refuse to establish a school as Kura Kaupapa Māori"
         },
         {
-          "type": "citation",
-          "description": "This Act applies to every Kura Kaupapa Māori as if it were not a Kura Kaupapa Māori, except for specific provisions."
+          "type": "power_or_duty",
+          "description": "the Minister must consult te kaitiaki o Te Aho Matua before establishing a State school as Kura Kaupapa Māori"
         },
         {
-          "type": "amendment",
-          "description": "The Minister may from time to time, by notice in the Gazette, amend the name of the school, its special characteristics, or the constitution of the board."
+          "type": "power_or_duty",
+          "description": "the board of a Kura Kaupapa Māori must ensure that te reo Māori is the principal language of instruction and the school operates in accordance with Te Aho Matua"
+        },
+        {
+          "type": "power_or_duty",
+          "description": "the Secretary may fix a maximum roll for a Kura Kaupapa Māori"
         }
       ],
-      "summary": "This provision outlines how a State school can be designated as a Kura Kaupapa Māori and the conditions under which this designation is made.",
+      "summary": "This provision outlines how the Minister can establish or refuse to establish a State school as a Kura Kaupapa Māori and sets out requirements for such schools.",
       "topic_tags": [
         "education",
         "Māori education",
-        "government policy"
+        "language preservation"
       ]
     }
   },
@@ -431,19 +504,19 @@
       ],
       "relations": [
         {
-          "type": "cross_reference",
-          "description": "provides conditions for releasing students from attendance"
+          "type": "power_or_duty",
+          "description": "principal may release a student from attendance for outside tuition if satisfied"
         },
         {
-          "type": "cross_reference",
-          "description": "specifies criteria for allowing early departure"
+          "type": "power_or_duty",
+          "description": "principal may let a student leave early on a particular day if satisfied with conditions"
         }
       ],
-      "summary": "This provision allows principals to release students from school for outside tuition or to leave early if certain conditions are met.",
+      "summary": "This provision allows the principal to release students from school for outside tuition or to leave early under certain conditions.",
       "topic_tags": [
         "education",
-        "school policy",
-        "student attendance"
+        "school attendance",
+        "tuition"
       ]
     }
   },
@@ -457,14 +530,14 @@
       "relations": [
         {
           "type": "definition_reference",
-          "description": "defines apprenticeship training code in relation to section 378"
+          "description": "defines 'apprenticeship training code' as the training code (if any) issued under section 378"
         }
       ],
-      "summary": "Defines what constitutes an apprenticeship training code.",
+      "summary": "This provision defines what an apprenticeship training code is.",
       "topic_tags": [
         "education",
         "training",
-        "legislation"
+        "definition"
       ]
     }
   },
@@ -480,14 +553,14 @@
       ],
       "relations": [
         {
-          "type": "citation",
-          "description": "refers to section 46(1) for context"
+          "type": "power_or_duty",
+          "description": "the Act defines an offence for failing to comply with a notice"
         }
       ],
-      "summary": "Parents who fail to comply with a notice given under section 46 commit an offence and can be fined up to $3,000.",
+      "summary": "Parents who do not follow a notice given under section 46 are committing an offence and can be fined up to $3,000.",
       "topic_tags": [
-        "parental responsibility",
         "education compliance",
+        "parental responsibility",
         "legal penalties"
       ]
     }
@@ -502,14 +575,13 @@
       "relations": [
         {
           "type": "definition_reference",
-          "description": "The term '1989 Act' is defined as the 'Education Act 1989'"
+          "description": "defines '1989 Act' as 'Education Act 1989'"
         }
       ],
-      "summary": "Defines the term '1989 Act' to refer to the 'Education Act 1989'.",
+      "summary": "This provision defines the term '1989 Act' to refer to the Education Act 1989.",
       "topic_tags": [
         "interpretation",
-        "definition",
-        "legislation"
+        "legislation reference"
       ]
     }
   }
