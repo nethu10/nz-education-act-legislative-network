@@ -1,0 +1,516 @@
+[
+  {
+    "provision_id": "LMS325139",
+    "extraction": {
+      "entities": [
+        "deputy chief referee",
+        "section 219(3)"
+      ],
+      "relations": [
+        {
+          "type": "definition_reference",
+          "description": "defines what a deputy chief referee is"
+        }
+      ],
+      "summary": "This provision defines 'deputy chief referee' as a person appointed under section 219(3).",
+      "topic_tags": [
+        "interpretation",
+        "definitions",
+        "appointments"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS177914",
+    "extraction": {
+      "entities": [
+        "provider group",
+        "Secretary"
+      ],
+      "relations": [
+        {
+          "type": "reporting义务",
+          "description": "provider group向Secretary报告其表现和进展"
+        }
+      ],
+      "summary": "规定提供者团体每年至少向秘书报告一次其表现和进展情况。",
+      "topic_tags": [
+        "教育管理",
+        "报告要求"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS172307",
+    "extraction": {
+      "entities": [
+        "Minister",
+        "registered establishment",
+        "wānanga",
+        "NZQA",
+        "TEC",
+        "institutions",
+        "organisations representing institutions",
+        "other relevant bodies",
+        "persons or bodies knowledgeable in āhuatanga Māori and tikanga Māori within a kaupapa Māori pedagogy"
+      ],
+      "relations": [
+        {
+          "type": "cross_reference",
+          "description": "refers to section 268(2)(d) for characteristics of institutions"
+        },
+        {
+          "type": "citation",
+          "description": "receives advice from NZQA and TEC, consults with various bodies"
+        }
+      ],
+      "summary": "The provision outlines the process by which registered establishments or wānanga can apply to use the term 'university' and sets out conditions for granting such consent.",
+      "topic_tags": [
+        "education",
+        "universities",
+        "registration",
+        "consent"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS357086",
+    "extraction": {
+      "entities": [
+        "export education levy"
+      ],
+      "relations": [
+        {
+          "type": "cross_reference",
+          "description": "provides a transitional arrangement for the export education levy"
+        }
+      ],
+      "summary": "This provision makes arrangements for the transition related to the export education levy.",
+      "topic_tags": [
+        "education",
+        "levy",
+        "transitional provisions"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS253977",
+    "extraction": {
+      "entities": [
+        "dissolved final report"
+      ],
+      "relations": [
+        {
+          "type": "cross_reference",
+          "description": "references to another section within this Act"
+        }
+      ],
+      "summary": "Refers to the final report of a dissolved entity within the same Act.",
+      "topic_tags": [
+        "education",
+        "training",
+        "administration"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS264712",
+    "extraction": {
+      "entities": [
+        "parent",
+        "mother",
+        "father",
+        "guardian",
+        "immediate caregiver"
+      ],
+      "relations": [
+        {
+          "type": "definition_reference",
+          "description": "defines 'parent' in different contexts"
+        }
+      ],
+      "summary": "This provision defines who qualifies as a parent for the purposes of serving on a board of a State school and for other purposes.",
+      "topic_tags": [
+        "interpretation",
+        "education",
+        "legal definition"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS997642",
+    "extraction": {
+      "entities": [
+        "specialist school",
+        "Minister",
+        "board of any of the following State schools"
+      ],
+      "relations": [
+        {
+          "type": "restriction",
+          "description": "The specialist school cannot apply for approval to operate a charter school."
+        },
+        {
+          "type": "restriction",
+          "description": "The Minister cannot issue a direction to the board of certain State schools regarding a charter school application."
+        }
+      ],
+      "summary": "This provision restricts specialist schools from applying for charter school approval and prevents the Minister from issuing directions to specific State school boards.",
+      "topic_tags": [
+        "education policy",
+        "charter schools",
+        "school types"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS176240",
+    "extraction": {
+      "entities": [
+        "State school's board",
+        "principal",
+        "religious instruction",
+        "observances",
+        "classrooms",
+        "school as a whole",
+        "voluntary instructors"
+      ],
+      "relations": [
+        {
+          "type": "cross_reference",
+          "description": "Refers to section 97 and other provisions in this Act or regulations made under this Act relating to the closure of schools"
+        }
+      ],
+      "summary": "Allows State school boards, after consultation with principals, to close classrooms or the whole school for up to 20 hours a year for religious instruction or observances conducted by approved instructors.",
+      "topic_tags": [
+        "education",
+        "religion",
+        "school policies"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS202470",
+    "extraction": {
+      "entities": [
+        "private training establishment",
+        "clause 9(6) of Schedule 9",
+        "penalty specified in subsection (3)",
+        "section 9(6) of Schedule 9",
+        "false or misleading statement",
+        "statement from which any material matter has been omitted",
+        "false or misleading paper, document, or record",
+        "paper, document, or record from which any material matter has been omitted",
+        "$5,000 fine",
+        "$500 fine for each day the offence continues",
+        "Criminal Procedure Act 2011",
+        "MSD"
+      ],
+      "relations": [
+        {
+          "type": "citation",
+          "description": "refers to section 25 of the Criminal Procedure Act 2011"
+        },
+        {
+          "type": "definition_reference",
+          "description": "defines what constitutes an offence and specifies penalties"
+        }
+      ],
+      "summary": "This provision outlines offences for private training establishments that fail or refuse to comply with information requests from MSD, including making false statements or providing incomplete documents, and sets out the associated penalties.",
+      "topic_tags": [
+        "education",
+        "training",
+        "regulation",
+        "penalties"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS276063",
+    "extraction": {
+      "entities": [
+        "benefit",
+        "jobseeker support",
+        "Social Security Act 2018",
+        "funeral grant lump sum",
+        "section 90 of the Social Security Act 2018",
+        "special assistance",
+        "programme approved or established under section 100 or 101 of the Social Security Act 2018"
+      ],
+      "relations": [
+        {
+          "type": "definition_reference",
+          "description": "defines 'benefit' based on other provisions in the Social Security Act 2018"
+        }
+      ],
+      "summary": "This provision defines what constitutes a 'benefit' for the purposes of this Act, primarily referring to various types of support under the Social Security Act 2018.",
+      "topic_tags": [
+        "education",
+        "social security",
+        "definition"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS200031",
+    "extraction": {
+      "entities": [
+        "parent",
+        "principal",
+        "Secretary",
+        "student",
+        "medical practitioner",
+        "psychologist",
+        "full-time caregiver"
+      ],
+      "relations": [
+        {
+          "type": "cross_reference",
+          "description": "Refers to section 36 for context"
+        },
+        {
+          "type": "definition_reference",
+          "description": "Defines the roles and conditions under which a plan can be agreed upon"
+        }
+      ],
+      "summary": "Allows parents, principals, and Secretary to agree on reduced attendance plans for students based on well-being needs or transition assistance.",
+      "topic_tags": [
+        "education",
+        "well-being",
+        "student support"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS177711",
+    "extraction": {
+      "entities": [
+        "Holidays"
+      ],
+      "relations": [
+        {
+          "type": "definition_reference",
+          "description": "defines 'Holidays'"
+        }
+      ],
+      "summary": "Defines what constitutes a holiday in the context of this Act.",
+      "topic_tags": [
+        "Education",
+        "Training",
+        "Legislation"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS172347",
+    "extraction": {
+      "entities": [
+        "Minister",
+        "TEC",
+        "organisation",
+        "persons or bodies",
+        "other persons specified by TEC"
+      ],
+      "relations": [
+        {
+          "type": "amendment",
+          "description": "outlines a framework for planning, funding, and monitoring in the tertiary education sector"
+        },
+        {
+          "type": "definition_reference",
+          "description": "describes how the framework works through steps a to i"
+        }
+      ],
+      "summary": "Outlines a process for determining and approving plans for tertiary education funding.",
+      "topic_tags": [
+        "education",
+        "funding",
+        "monitoring",
+        "tertiary sector"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS177812",
+    "extraction": {
+      "entities": [
+        "Minister",
+        "election",
+        "board member"
+      ],
+      "relations": [
+        {
+          "type": "cross_reference",
+          "description": "references validation and invalidation procedures for elections"
+        },
+        {
+          "type": "definition_reference",
+          "description": "defines conditions under which the Minister can validate or invalidate an election"
+        }
+      ],
+      "summary": "This provision outlines the Minister's authority to validate irregularities in board elections or declare them invalid, and requires new elections if necessary.",
+      "topic_tags": [
+        "elections",
+        "governance",
+        "education"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS729212",
+    "extraction": {
+      "entities": [
+        "micro-credential",
+        "study or training",
+        "award",
+        "qualification listed on the Qualifications and Credentials Framework"
+      ],
+      "relations": [
+        {
+          "type": "definition_reference",
+          "description": "defines what a micro-credential is"
+        }
+      ],
+      "summary": "This provision defines what constitutes a micro-credential in terms of study or training that leads to an award but does not lead to a qualification listed on the Qualifications and Credentials Framework.",
+      "topic_tags": [
+        "education",
+        "qualifications",
+        "training"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS177837",
+    "extraction": {
+      "entities": [
+        "Minister",
+        "State school",
+        "Kura Kaupapa Māori",
+        "te reo Māori",
+        "Te Aho Matua"
+      ],
+      "relations": [
+        {
+          "type": "amendment",
+          "description": "The Minister may, by notice in the Gazette, designate a State school as a Kura Kaupapa Māori."
+        },
+        {
+          "type": "definition_reference",
+          "description": "te reo Māori is to be the main language of instruction at the school"
+        },
+        {
+          "type": "citation",
+          "description": "This Act applies to every Kura Kaupapa Māori as if it were not a Kura Kaupapa Māori, except for specific provisions."
+        },
+        {
+          "type": "amendment",
+          "description": "The Minister may from time to time, by notice in the Gazette, amend the name of the school, its special characteristics, or the constitution of the board."
+        }
+      ],
+      "summary": "This provision outlines how a State school can be designated as a Kura Kaupapa Māori and the conditions under which this designation is made.",
+      "topic_tags": [
+        "education",
+        "Māori education",
+        "government policy"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS177679",
+    "extraction": {
+      "entities": [
+        "principal of a State school",
+        "person responsible for teaching and learning in a charter school",
+        "student",
+        "parent of the student",
+        "outside the school tuition",
+        "school",
+        "place where the tuition is to be given",
+        "4 hours or more",
+        "good reasons"
+      ],
+      "relations": [
+        {
+          "type": "cross_reference",
+          "description": "provides conditions for releasing students from attendance"
+        },
+        {
+          "type": "cross_reference",
+          "description": "specifies criteria for allowing early departure"
+        }
+      ],
+      "summary": "This provision allows principals to release students from school for outside tuition or to leave early if certain conditions are met.",
+      "topic_tags": [
+        "education",
+        "school policy",
+        "student attendance"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS170711",
+    "extraction": {
+      "entities": [
+        "apprenticeship training code",
+        "section 378"
+      ],
+      "relations": [
+        {
+          "type": "definition_reference",
+          "description": "defines apprenticeship training code in relation to section 378"
+        }
+      ],
+      "summary": "Defines what constitutes an apprenticeship training code.",
+      "topic_tags": [
+        "education",
+        "training",
+        "legislation"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS258474",
+    "extraction": {
+      "entities": [
+        "parent",
+        "notice",
+        "section 46(1)",
+        "offence",
+        "fine"
+      ],
+      "relations": [
+        {
+          "type": "citation",
+          "description": "refers to section 46(1) for context"
+        }
+      ],
+      "summary": "Parents who fail to comply with a notice given under section 46 commit an offence and can be fined up to $3,000.",
+      "topic_tags": [
+        "parental responsibility",
+        "education compliance",
+        "legal penalties"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS302267",
+    "extraction": {
+      "entities": [
+        "1989 Act",
+        "Education Act 1989"
+      ],
+      "relations": [
+        {
+          "type": "definition_reference",
+          "description": "The term '1989 Act' is defined as the 'Education Act 1989'"
+        }
+      ],
+      "summary": "Defines the term '1989 Act' to refer to the 'Education Act 1989'.",
+      "topic_tags": [
+        "interpretation",
+        "definition",
+        "legislation"
+      ]
+    }
+  }
+]
