@@ -5,7 +5,7 @@
       "entities": [],
       "relations": [
         {
-          "type": "title",
+          "type": "cross_reference",
           "description": "Identifies this as a title or heading for the Act"
         }
       ],
@@ -29410,11 +29410,11 @@
       ],
       "relations": [
         {
-          "type": "repeal",
+          "type": "amendment",
           "description": "provisions of this Act are repealed"
         },
         {
-          "type": "repeal",
+          "type": "amendment",
           "description": "legislative instruments specified in Part 4 of Schedule 26 are revoked"
         }
       ],
@@ -37716,7 +37716,7 @@
           "description": "the proprietor must obtain prior consent from the Minister before entering into a lease"
         },
         {
-          "type": "consequence",
+          "type": "power_or_duty",
           "description": "if the proprietor fails to obtain prior consent, the Minister may cancel the integration agreement"
         }
       ],
@@ -46133,8 +46133,7 @@
         {
           "type": "power_or_duty",
           "description": "The Minister can remove a deputy chairperson after consultation with the person concerned and providing written notice."
-        },
-        "summary): "
+        }
       ],
       "topic_tags": [
         "appointment",
