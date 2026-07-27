@@ -1,0 +1,21 @@
+[
+  {
+    "provision_id": "LMS170678",
+    "warnings": [
+      "Unexpected relation type: 'title'"
+    ]
+  },
+  {
+    "provision_id": "LMS172572",
+    "warnings": [
+      "Unexpected relation type: 'repeal'",
+      "Unexpected relation type: 'repeal'"
+    ]
+  },
+  {
+    "provision_id": "LMS177893",
+    "warnings": [
+      "Unexpected relation type: 'consequence'"
+    ]
+  }
+]
