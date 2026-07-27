@@ -62,6 +62,9 @@ def validate_extraction(extraction):
     warnings = []
     relations = extraction.get("relations", [])
     for rel in relations:
+        if not isinstance(rel, dict):
+            warnings.append("Relation item was not a JSON object: " + repr(rel))
+            continue
         rel_type = rel.get("type")
         if rel_type not in ALLOWED_RELATION_TYPES:
             warnings.append("Unexpected relation type: " + repr(rel_type))

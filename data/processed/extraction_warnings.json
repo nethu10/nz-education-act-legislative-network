@@ -17,5 +17,11 @@
     "warnings": [
       "Unexpected relation type: 'consequence'"
     ]
+  },
+  {
+    "provision_id": "LMS272870",
+    "warnings": [
+      "Relation item was not a JSON object: 'summary): '"
+    ]
   }
 ]

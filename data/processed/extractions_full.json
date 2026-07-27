@@ -46098,5 +46098,82 @@
         "legislation"
       ]
     }
+  },
+  {
+    "provision_id": "LMS272870",
+    "extraction": {
+      "entities": [
+        "Minister",
+        "member",
+        "deputy chairperson",
+        "chairperson",
+        "Teaching Council"
+      ],
+      "relations": [
+        {
+          "type": "power_or_duty",
+          "description": "The Minister may appoint a deputy chairperson."
+        },
+        {
+          "type": "power_or_duty",
+          "description": "The deputy chairperson can exercise the powers of the chairperson when the latter is absent."
+        },
+        {
+          "type": "power_or_duty",
+          "description": "The deputy chairperson holds office until certain conditions are met."
+        },
+        {
+          "type": "power_or_duty",
+          "description": "A person may be reappointed as deputy chairperson for a further term."
+        },
+        {
+          "type": "power_or_duty",
+          "description": "The deputy chairperson can resign from the office by giving written notice to the Minister."
+        },
+        {
+          "type": "power_or_duty",
+          "description": "The Minister can remove a deputy chairperson after consultation with the person concerned and providing written notice."
+        },
+        "summary): "
+      ],
+      "topic_tags": [
+        "appointment",
+        "deputy role",
+        "chairperson powers",
+        "removal procedures"
+      ]
+    }
+  },
+  {
+    "provision_id": "LMS267770",
+    "extraction": {
+      "entities": [
+        "industry skills board",
+        "provider that offers programmes must be endorsed by industry skills board",
+        "undischarged bankrupt",
+        "person prohibited from being director or promoter of incorporated/unincorporated body",
+        "property order under Protection of Personal and Property Rights Act 1988",
+        "personal order reflecting adversely on competence to manage own affairs in relation to property, capacity to make decisions relating personal care/welfare",
+        "convicted person with imprisonment term over two years without pardon/served sentence/penalty suffered",
+        "member of Parliament",
+        "person disqualified from holding office under Act"
+      ],
+      "relations": [
+        {
+          "type": "power_or_duty",
+          "description": "disqualifies persons based on certain conditions"
+        },
+        {
+          "type": "definition_reference",
+          "description": "defines 'property order' and 'personal order'"
+        }
+      ],
+      "summary": "This provision outlines the disqualification criteria for members of an industry skills board.",
+      "topic_tags": [
+        "education regulation",
+        "governance roles",
+        "disqualifications"
+      ]
+    }
   }
 ]
