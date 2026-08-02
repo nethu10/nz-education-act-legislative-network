@@ -98,27 +98,6 @@
     }
   },
   {
-    "provision_id": "LMS261289",
-    "extraction": {
-      "entities": [
-        "Minister",
-        "statement of national education and learning priorities"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister may issue a statement"
-        }
-      ],
-      "summary": "The provision grants the Minister the power to issue a statement on national education and learning priorities.",
-      "topic_tags": [
-        "education policy",
-        "Ministerial powers",
-        "priorities"
-      ]
-    }
-  },
-  {
     "provision_id": "LMS274511",
     "extraction": {
       "entities": [
@@ -5515,193 +5494,6 @@
     }
   },
   {
-    "provision_id": "LMS274559",
-    "extraction": {
-      "entities": [
-        "Minister",
-        "licence"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister has the power to approve applications for licences"
-        }
-      ],
-      "summary": "The provision outlines that the Minister must approve any application for a licence.",
-      "topic_tags": [
-        "education",
-        "licensing",
-        "ministerial approval"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS729721",
-    "extraction": {
-      "entities": [
-        "approval",
-        "licence"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "conditions for obtaining approval to apply for a licence"
-        }
-      ],
-      "summary": "Describes conditions that must be met to receive approval to apply for a licence.",
-      "topic_tags": [
-        "education",
-        "licensing",
-        "approval"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS729723",
-    "extraction": {
-      "entities": [
-        "approval to apply for licence"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "describes the condition under which an approval expires"
-        }
-      ],
-      "summary": "Describes when an approval to apply for a licence expires.",
-      "topic_tags": [
-        "licensing",
-        "education",
-        "regulation"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS729725",
-    "extraction": {
-      "entities": [
-        "approval to apply for licence"
-      ],
-      "relations": [
-        {
-          "type": "amendment",
-          "description": "formally changes the wording of another Act or records that another Act changed this one"
-        }
-      ],
-      "summary": "Revokes approval to apply for a licence",
-      "topic_tags": [
-        "education",
-        "licensing"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS729796",
-    "extraction": {
-      "entities": [
-        "Minister",
-        "statements",
-        "network of licensed early childhood services"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister may issue statements"
-        }
-      ],
-      "summary": "The Minister has the power to make statements regarding the network of licensed early childhood services.",
-      "topic_tags": [
-        "Ministerial powers",
-        "early childhood education",
-        "licensing"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS341159",
-    "extraction": {
-      "entities": [
-        "Secretary",
-        "applicants for approval to apply for licences"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Secretary assesses fitness"
-        }
-      ],
-      "summary": "The Secretary evaluates whether applicants seeking licence approvals are fit and proper.",
-      "topic_tags": [
-        "education",
-        "licensing",
-        "assessment"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS729801",
-    "extraction": {
-      "entities": [
-        "Secretary",
-        "proposed early childhood service"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Secretary has the power to assess the financial viability of a proposed early childhood service"
-        }
-      ],
-      "summary": "The provision grants the Secretary the authority to evaluate the financial feasibility of new early childhood services.",
-      "topic_tags": [
-        "education",
-        "finance",
-        "early childhood"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS729804",
-    "extraction": {
-      "entities": [
-        "adverse assessment"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "requires notification of an adverse assessment"
-        }
-      ],
-      "summary": "Requires the person receiving an adverse assessment to notify relevant parties.",
-      "topic_tags": [
-        "education",
-        "assessment",
-        "notification"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS729808",
-    "extraction": {
-      "entities": [
-        "Minister",
-        "board",
-        "person"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister may make regulations for the purposes of this Act"
-        }
-      ],
-      "summary": "This provision allows the Minister to create regulations related to appeals against adverse assessments.",
-      "topic_tags": [
-        "education",
-        "appeals",
-        "regulations"
-      ]
-    }
-  },
-  {
     "provision_id": "LMS171323",
     "extraction": {
       "entities": [
@@ -9428,26 +9220,6 @@
         "education board powers",
         "authorizations",
         "functions"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS177735",
-    "extraction": {
-      "entities": [
-        "board",
-        "cultural diversity"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the board must ensure its policies and practices reflect cultural diversity"
-        }
-      ],
-      "summary": "Requires the board to incorporate cultural diversity into its policies and practices.",
-      "topic_tags": [
-        "education policy",
-        "cultural inclusivity"
       ]
     }
   },
@@ -14201,28 +13973,6 @@
     }
   },
   {
-    "provision_id": "LMS202224",
-    "extraction": {
-      "entities": [
-        "Minister",
-        "institutions",
-        "compulsory student services fees"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister may give direction to institutions regarding compulsory student services fees"
-        }
-      ],
-      "summary": "The provision allows the Minister to issue directions to institutions concerning compulsory student services fees.",
-      "topic_tags": [
-        "education policy",
-        "student fees",
-        "ministerial powers"
-      ]
-    }
-  },
-  {
     "provision_id": "LMS202225",
     "extraction": {
       "entities": [
@@ -17800,27 +17550,6 @@
     }
   },
   {
-    "provision_id": "LMS202453",
-    "extraction": {
-      "entities": [
-        "Minister",
-        "registered establishment"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister may give direction to registered establishments"
-        }
-      ],
-      "summary": "The provision allows the Minister to direct registered establishments regarding compulsory student services fees.",
-      "topic_tags": [
-        "education",
-        "fees",
-        "ministerial powers"
-      ]
-    }
-  },
-  {
     "provision_id": "LMS202472",
     "extraction": {
       "entities": [
@@ -18408,26 +18137,6 @@
         "industry skills boards",
         "transactions",
         "reporting obligations"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS267779",
-    "extraction": {
-      "entities": [
-        "apprenticeship training code"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "describes the availability of apprenticeship training code"
-        }
-      ],
-      "summary": "Describes the conditions under which an apprenticeship training code can be made available.",
-      "topic_tags": [
-        "education",
-        "training",
-        "apprenticeships"
       ]
     }
   },
@@ -20319,25 +20028,6 @@
         "institutions",
         "wānanga",
         "TEC"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS338131",
-    "extraction": {
-      "entities": [
-        "Additional requirement"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "imposes an additional requirement on the Minister"
-        }
-      ],
-      "summary": "Imposes an additional duty on the Minister to consider certain matters.",
-      "topic_tags": [
-        "education",
-        "Minister's duties"
       ]
     }
   },
@@ -25708,25 +25398,6 @@
     }
   },
   {
-    "provision_id": "LMS259699",
-    "extraction": {
-      "entities": [
-        "Legislation Act 2012"
-      ],
-      "relations": [
-        {
-          "type": "citation",
-          "description": "refers to another Act for establishing context"
-        }
-      ],
-      "summary": "Cites the Legislation Act 2012 for application purposes.",
-      "topic_tags": [
-        "legislation",
-        "application"
-      ]
-    }
-  },
-  {
     "provision_id": "LMS259700",
     "extraction": {
       "entities": [
@@ -25861,27 +25532,6 @@
         "education funding",
         "salary regulations",
         "Ministerial power"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS336595",
-    "extraction": {
-      "entities": [
-        "school",
-        "Minister of Education"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister may provide school transport"
-        }
-      ],
-      "summary": "The provision grants the Minister of Education the power to provide school transport.",
-      "topic_tags": [
-        "education",
-        "transport",
-        "ministry"
       ]
     }
   },
@@ -27008,27 +26658,6 @@
         "negotiation",
         "collective agreements",
         "institutions"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS267842",
-    "extraction": {
-      "entities": [
-        "institutions",
-        "Minister"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister may appoint senior positions"
-        }
-      ],
-      "summary": "The provision allows the Minister to appoint senior positions at institutions.",
-      "topic_tags": [
-        "education",
-        "appointments",
-        "ministerial powers"
       ]
     }
   },
@@ -29054,26 +28683,6 @@
     }
   },
   {
-    "provision_id": "LMS357078",
-    "extraction": {
-      "entities": [
-        "directions",
-        "Minister"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister must publish certain directions"
-        }
-      ],
-      "summary": "Requires the Minister to publish specific directions.",
-      "topic_tags": [
-        "education",
-        "ministerial powers"
-      ]
-    }
-  },
-  {
     "provision_id": "LMS357079",
     "extraction": {
       "entities": [
@@ -29703,48 +29312,6 @@
         "education legislation",
         "curriculum",
         "school charter"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS375835",
-    "extraction": {
-      "entities": [
-        "Minister",
-        "early childhood education and care centre"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister has the power to grant licences for early childhood education and care centres"
-        }
-      ],
-      "summary": "The provision outlines the Minister's authority to issue licences for operating early childhood education and care centres.",
-      "topic_tags": [
-        "licensing",
-        "education",
-        "ministerial powers"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS341821",
-    "extraction": {
-      "entities": [
-        "Minister",
-        "board"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister may direct the board to review a decision"
-        }
-      ],
-      "summary": "The provision allows the Minister to order the board to review a decision under section 17B.",
-      "topic_tags": [
-        "education",
-        "governance",
-        "review"
       ]
     }
   },
@@ -31341,25 +30908,6 @@
     }
   },
   {
-    "provision_id": "LMS275925",
-    "extraction": {
-      "entities": [
-        "domestic tertiary students"
-      ],
-      "relations": [
-        {
-          "type": "cross_reference",
-          "description": "refers to another section within this Act"
-        }
-      ],
-      "summary": "This provision makes transitional arrangements for domestic tertiary students.",
-      "topic_tags": [
-        "transitional provisions",
-        "tertiary education"
-      ]
-    }
-  },
-  {
     "provision_id": "LMS289522",
     "extraction": {
       "entities": [
@@ -31379,26 +30927,6 @@
       "topic_tags": [
         "education",
         "international students",
-        "transitional provisions"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS357086",
-    "extraction": {
-      "entities": [
-        "export education levy"
-      ],
-      "relations": [
-        {
-          "type": "cross_reference",
-          "description": "refers to another section within this Act without defining a term or changing wording"
-        }
-      ],
-      "summary": "This provision makes transitional arrangements related to the export education levy.",
-      "topic_tags": [
-        "education",
-        "levy",
         "transitional provisions"
       ]
     }
@@ -35720,27 +35248,6 @@
     }
   },
   {
-    "provision_id": "LMS171863",
-    "extraction": {
-      "entities": [
-        "registration",
-        "practising certificate"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "describes the power to set fees for registration and practising certificates"
-        }
-      ],
-      "summary": "The provision outlines the authority to determine fees for registration and practising certificates.",
-      "topic_tags": [
-        "fees",
-        "certificates",
-        "registration"
-      ]
-    }
-  },
-  {
     "provision_id": "LMS171865",
     "extraction": {
       "entities": [
@@ -35953,26 +35460,6 @@
     }
   },
   {
-    "provision_id": "LMS171873",
-    "extraction": {
-      "entities": [
-        "limited authority to teach"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "grants power to grant or refuse limited authority to teach"
-        }
-      ],
-      "summary": "The provision grants the Minister of Education the power to grant or refuse limited authority to teach.",
-      "topic_tags": [
-        "education",
-        "authorities",
-        "Minister"
-      ]
-    }
-  },
-  {
     "provision_id": "LMS171875",
     "extraction": {
       "entities": [
@@ -36081,27 +35568,6 @@
         "child safety",
         "licensing",
         "police vetting"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS171349",
-    "extraction": {
-      "entities": [
-        "person",
-        "Police vet"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "obtaining a Police vet is required before having unsupervised access to children"
-        }
-      ],
-      "summary": "Requires a person to obtain a Police vet before gaining unsupervised access to children.",
-      "topic_tags": [
-        "child protection",
-        "police clearance",
-        "access restrictions"
       ]
     }
   },
@@ -36299,28 +35765,6 @@
     }
   },
   {
-    "provision_id": "LMS177704",
-    "extraction": {
-      "entities": [
-        "person",
-        "Police vet",
-        "students"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "obtaining a Police vet is required before having unsupervised access to students"
-        }
-      ],
-      "summary": "Requires a person to obtain a Police vet before gaining unsupervised access to students.",
-      "topic_tags": [
-        "education",
-        "safety",
-        "police checks"
-      ]
-    }
-  },
-  {
     "provision_id": "LMS177705",
     "extraction": {
       "entities": [
@@ -36375,26 +35819,6 @@
         "confidentiality",
         "police vet",
         "school management"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS324599",
-    "extraction": {
-      "entities": [
-        "Children’s Act 2014"
-      ],
-      "relations": [
-        {
-          "type": "citation",
-          "description": "Refers to another Act for context"
-        }
-      ],
-      "summary": "Establishes the relationship between this Act and the Children’s Act 2014.",
-      "topic_tags": [
-        "legislation",
-        "children",
-        "education"
       ]
     }
   },
@@ -38448,27 +37872,6 @@
         "private schools",
         "fit and proper persons",
         "assessment criteria"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS171800",
-    "extraction": {
-      "entities": [
-        "Manager",
-        "statement of national education and learning priorities"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Manager must consider the statement in their decision-making"
-        }
-      ],
-      "summary": "Requires the Manager to take into account the national education and learning priorities when making decisions.",
-      "topic_tags": [
-        "education policy",
-        "priorities",
-        "decision-making"
       ]
     }
   },
@@ -41640,295 +41043,6 @@
     }
   },
   {
-    "provision_id": "LMS253959",
-    "extraction": {
-      "entities": [
-        "interpretation",
-        "Act"
-      ],
-      "relations": [
-        {
-          "type": "definition_reference",
-          "description": "defines 'interpretation' and 'Act'"
-        }
-      ],
-      "summary": "Defines key terms used in the Act.",
-      "topic_tags": [
-        "interpretation",
-        "legislation"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS253961",
-    "extraction": {
-      "entities": [
-        "dissolution"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "describes the power to dissolve"
-        }
-      ],
-      "summary": "This provision outlines the authority to dissolve an educational institution.",
-      "topic_tags": [
-        "education",
-        "institution",
-        "administration"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS253963",
-    "extraction": {
-      "entities": [
-        "Members of",
-        "Minister"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister appoints and removes members"
-        }
-      ],
-      "summary": "The provision outlines the power of the Minister to appoint and remove members.",
-      "topic_tags": [
-        "education",
-        "governance",
-        "appointment"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS253967",
-    "extraction": {
-      "entities": [
-        "rights",
-        "assets",
-        "liabilities"
-      ],
-      "relations": [
-        {
-          "type": "cross_reference",
-          "description": "references other provisions for transferring rights, assets, and liabilities"
-        }
-      ],
-      "summary": "This provision outlines the transfer of rights, assets, and liabilities to another entity.",
-      "topic_tags": [
-        "education",
-        "legislation",
-        "transfer"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS253968",
-    "extraction": {
-      "entities": [
-        "Employment",
-        "Minister"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister may employ people"
-        }
-      ],
-      "summary": "The provision grants the Minister the power to employ individuals.",
-      "topic_tags": [
-        "employment",
-        "ministerial powers"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS253969",
-    "extraction": {
-      "entities": [
-        "Government Superannuation Fund"
-      ],
-      "relations": [
-        {
-          "type": "cross_reference",
-          "description": "references another section within this Act"
-        }
-      ],
-      "summary": "This provision likely refers to the Government Superannuation Fund and its management, possibly cross-referencing other sections of the same Act.",
-      "topic_tags": [
-        "superannuation",
-        "fund",
-        "government"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS253971",
-    "extraction": {
-      "entities": [
-        "Students"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "defines who are considered students under this Act"
-        }
-      ],
-      "summary": "This provision defines who qualifies as a student under the Education and Training Act 2020.",
-      "topic_tags": [
-        "students",
-        "education",
-        "definition"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS302454",
-    "extraction": {
-      "entities": [
-        "visas",
-        "Immigration Act 2009"
-      ],
-      "relations": [
-        {
-          "type": "citation",
-          "description": "refers to another Act for context"
-        }
-      ],
-      "summary": "This provision refers to the granting of visas under the Immigration Act 2009.",
-      "topic_tags": [
-        "visas",
-        "immigration",
-        "legislation"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS253972",
-    "extraction": {
-      "entities": [
-        "approvals",
-        "accreditations",
-        "consents"
-      ],
-      "relations": [
-        {
-          "type": "cross_reference",
-          "description": "references existing approvals, accreditations, and consents within the Act"
-        }
-      ],
-      "summary": "This provision deals with the continuation of existing approvals, accreditations, and consents under the Education and Training Act 2020.",
-      "topic_tags": [
-        "education",
-        "training",
-        "approval"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS315037",
-    "extraction": {
-      "entities": [
-        "TEC",
-        "funding mechanism"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "TEC has the power to pay existing funding under a specified mechanism"
-        }
-      ],
-      "summary": "TEC is granted the authority to provide existing funding through a designated funding mechanism.",
-      "topic_tags": [
-        "funding",
-        "education",
-        "finance"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS253975",
-    "extraction": {
-      "entities": [
-        "proceedings",
-        "other matters"
-      ],
-      "relations": [
-        {
-          "type": "cross_reference",
-          "description": "references existing proceedings and other matters within this Act"
-        }
-      ],
-      "summary": "This provision addresses existing proceedings and other matters within the Act.",
-      "topic_tags": [
-        "education",
-        "training",
-        "proceedings"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS253977",
-    "extraction": {
-      "entities": [
-        "dissolved",
-        "Final report"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "describes the requirement for a final report upon dissolution"
-        }
-      ],
-      "summary": "Requires the preparation of a final report when an entity is dissolved.",
-      "topic_tags": [
-        "education",
-        "institutional governance"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS253978",
-    "extraction": {
-      "entities": [
-        "transfer of contracts",
-        "claims"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "prohibits transfer of contracts from giving rise to claims"
-        }
-      ],
-      "summary": "This provision states that transferring a contract does not result in any legal claims.",
-      "topic_tags": [
-        "contracts",
-        "legal claims",
-        "education"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS302455",
-    "extraction": {
-      "entities": [
-        "corresponding provisions"
-      ],
-      "relations": [
-        {
-          "type": "cross_reference",
-          "description": "references to other provisions within the same Act"
-        }
-      ],
-      "summary": "This provision refers to other provisions that apply in conjunction with this one.",
-      "topic_tags": [
-        "education",
-        "legislation",
-        "provisions"
-      ]
-    }
-  },
-  {
     "provision_id": "LMS280938",
     "extraction": {
       "entities": [
@@ -42181,293 +41295,6 @@
         "education funding",
         "mediation",
         "arbitration"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS289534",
-    "extraction": {
-      "entities": [
-        "ballot papers"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "describes requirements for ballot papers"
-        }
-      ],
-      "summary": "Describes the requirements that must be met by ballot papers.",
-      "topic_tags": [
-        "elections",
-        "voting",
-        "procedures"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS289535",
-    "extraction": {
-      "entities": [
-        "returning officer",
-        "votes"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the returning officer has the duty to count votes"
-        }
-      ],
-      "summary": "The provision mandates that the returning officer must count votes.",
-      "topic_tags": [
-        "elections",
-        "voting",
-        "administration"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS289536",
-    "extraction": {
-      "entities": [
-        "returning officer",
-        "ballot papers"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the returning officer has a duty to keep ballot papers"
-        }
-      ],
-      "summary": "The provision requires the returning officer to maintain ballot papers.",
-      "topic_tags": [
-        "elections",
-        "voting",
-        "administration"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS289537",
-    "extraction": {
-      "entities": [
-        "qualifying members",
-        "workforce development council"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "The provision states that qualifying members have a duty to pay a levy to the workforce development council."
-        }
-      ],
-      "summary": "This provision requires qualifying members to pay a levy to the workforce development council.",
-      "topic_tags": [
-        "education funding",
-        "levy payment",
-        "workforce development"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS289538",
-    "extraction": {
-      "entities": [
-        "Certificate of exemption"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "grants authority to issue certificates of exemption"
-        }
-      ],
-      "summary": "Authorizes the granting of certificates of exemption.",
-      "topic_tags": [
-        "education",
-        "exemption",
-        "certification"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS289539",
-    "extraction": {
-      "entities": [
-        "levy"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "describes how the levy is collected"
-        }
-      ],
-      "summary": "Describes the method of collecting the levy.",
-      "topic_tags": [
-        "education funding",
-        "levy collection"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS289540",
-    "extraction": {
-      "entities": [
-        "levy order",
-        "agent"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the levy order may authorize the collection of levies through an agent"
-        }
-      ],
-      "summary": "This provision allows a levy order to delegate the collection of levies to an agent.",
-      "topic_tags": [
-        "levy",
-        "collection",
-        "agent"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS289541",
-    "extraction": {
-      "entities": [
-        "levy funds",
-        "bank accounts",
-        "authorised purposes"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the obligation to keep levy funds in separate bank accounts and use them only for authorised purposes is imposed"
-        }
-      ],
-      "summary": "Requires that levy funds be stored separately and used solely for approved purposes.",
-      "topic_tags": [
-        "funding",
-        "财务管理",
-        "教育资金"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS289542",
-    "extraction": {
-      "entities": [
-        "the board",
-        "records"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the board must keep certain records"
-        }
-      ],
-      "summary": "Requires the board to maintain specific records.",
-      "topic_tags": [
-        "education",
-        "administration",
-        "record-keeping"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS289543",
-    "extraction": {
-      "entities": [
-        "Minister",
-        "annual report"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister must prepare and submit an annual report"
-        }
-      ],
-      "summary": "The provision requires the Minister to provide an annual report.",
-      "topic_tags": [
-        "education",
-        "reporting",
-        "ministerial duties"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS289544",
-    "extraction": {
-      "entities": [
-        "Minister",
-        "commercially sensitive information"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister must take steps to protect commercially sensitive information"
-        }
-      ],
-      "summary": "The provision requires the Minister to safeguard commercially sensitive information.",
-      "topic_tags": [
-        "education policy",
-        "information protection"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS289545",
-    "extraction": {
-      "entities": [
-        "Arbitration or mediation system"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the requirement to establish an arbitration or mediation system"
-        }
-      ],
-      "summary": "Requires the establishment of an arbitration or mediation system.",
-      "topic_tags": [
-        "education",
-        "dispute resolution",
-        "legislation"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS289546",
-    "extraction": {
-      "entities": [
-        "disputes",
-        "coverage"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "describes a process for resolving disputes"
-        }
-      ],
-      "summary": "Describes a process for resolving disputes about coverage.",
-      "topic_tags": [
-        "education",
-        "dispute resolution"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS289547",
-    "extraction": {
-      "entities": [
-        "District Court"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "provides for appeals to the District Court"
-        }
-      ],
-      "summary": "This provision allows for appeals to be made to the District Court.",
-      "topic_tags": [
-        "appeals",
-        "court",
-        "education"
       ]
     }
   },
@@ -44532,146 +43359,6 @@
     }
   },
   {
-    "provision_id": "LMS176266",
-    "extraction": {
-      "entities": [
-        "school year"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "defines the length of the school year"
-        }
-      ],
-      "summary": "This provision sets out the length of the school year.",
-      "topic_tags": [
-        "education",
-        "school year"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS177710",
-    "extraction": {
-      "entities": [
-        "terms",
-        "definition_reference"
-      ],
-      "relations": [
-        {
-          "type": "definition_reference",
-          "description": "defines terms used in this Act"
-        }
-      ],
-      "summary": "This provision defines terms used throughout the Education and Training Act 2020.",
-      "topic_tags": [
-        "education",
-        "training",
-        "legislation"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS177711",
-    "extraction": {
-      "entities": [
-        "holidays"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "defines when holidays apply"
-        }
-      ],
-      "summary": "This provision outlines the conditions under which holidays are applicable.",
-      "topic_tags": [
-        "education",
-        "school",
-        "holidays"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS177712",
-    "extraction": {
-      "entities": [
-        "exceptions",
-        "particular cases"
-      ],
-      "relations": [
-        {
-          "type": "cross_reference",
-          "description": "refers to specific sections where exceptions apply"
-        }
-      ],
-      "summary": "This provision outlines circumstances under which certain exceptions may apply in particular cases.",
-      "topic_tags": [
-        "education",
-        "legislation",
-        "exceptions"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS177715",
-    "extraction": {
-      "entities": [
-        "timetable arrangements"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "describes the ability to make multiple timetable arrangements"
-        }
-      ],
-      "summary": "Allows for the creation of more than one timetable arrangement.",
-      "topic_tags": [
-        "education",
-        "scheduling"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS177717",
-    "extraction": {
-      "entities": [
-        "provisions",
-        "Act"
-      ],
-      "relations": [
-        {
-          "type": "cross_reference",
-          "description": "references other sections within the same Act"
-        }
-      ],
-      "summary": "This provision outlines how different parts of the Act apply to various situations.",
-      "topic_tags": [
-        "education",
-        "legislation",
-        "application"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS177718",
-    "extraction": {
-      "entities": [
-        "Minister"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Minister may give instructions"
-        }
-      ],
-      "summary": "The provision allows the Minister to act by giving instructions.",
-      "topic_tags": [
-        "education",
-        "ministerial powers"
-      ]
-    }
-  },
-  {
     "provision_id": "LMS177788",
     "extraction": {
       "entities": [
@@ -45848,125 +44535,6 @@
         "statistics",
         "research",
         "data"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS339283",
-    "extraction": {
-      "entities": [
-        "schedule"
-      ],
-      "relations": [
-        {
-          "type": "cross_reference",
-          "description": "references to other sections within the same Act"
-        }
-      ],
-      "summary": "References other sections of the Education and Training Act 2020 to establish context for the schedule.",
-      "topic_tags": [
-        "education",
-        "training",
-        "schedule"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS339284",
-    "extraction": {
-      "entities": [
-        "interpretation",
-        "Act"
-      ],
-      "relations": [
-        {
-          "type": "definition_reference",
-          "description": "defines 'interpretation' and 'Act'"
-        }
-      ],
-      "summary": "Defines key terms used in the Act.",
-      "topic_tags": [
-        "interpretation",
-        "legislation"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS339289",
-    "extraction": {
-      "entities": [
-        "Secretary",
-        "education entities"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "the Secretary may direct education entities regarding COVID-19 measures"
-        }
-      ],
-      "summary": "The Secretary has the power to direct education entities on matters related to COVID-19.",
-      "topic_tags": [
-        "education",
-        "COVID-19",
-        "government authority"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS339290",
-    "extraction": {
-      "entities": [
-        "directions"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "describes the effect of directions"
-        }
-      ],
-      "summary": "Describes the consequences or effects of given directions under this Act",
-      "topic_tags": [
-        "directions",
-        "education policy",
-        "legal provisions"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS339291",
-    "extraction": {
-      "entities": [
-        "directions"
-      ],
-      "relations": [
-        {
-          "type": "cross_reference",
-          "description": "references to other sections for conditions on expiry"
-        }
-      ],
-      "summary": "References other sections for conditions under which directions may expire.",
-      "topic_tags": [
-        "education policy",
-        "legislative procedures"
-      ]
-    }
-  },
-  {
-    "provision_id": "LMS339292",
-    "extraction": {
-      "entities": [
-        "academic freedom"
-      ],
-      "relations": [
-        {
-          "type": "power_or_duty",
-          "description": "affirms that academic freedom is not affected by this provision"
-        }
-      ],
-      "summary": "This provision ensures that academic freedom remains unaffected.",
-      "topic_tags": [
-        "education policy",
-        "academic freedom"
       ]
     }
   },

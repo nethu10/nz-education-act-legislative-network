@@ -53,6 +53,19 @@ def find_ancestor(el, tag_name):
         parent = parent.getparent()
     return parent
 
+def is_repealed_or_empty(el, text: str) -> bool:
+    """True if this element is formally repealed (via deletion-status on a
+    <prov>, checked on the element or its nearest <prov> ancestor) or if
+    its extracted text is genuinely empty regardless of cause."""
+    if not text.strip():
+        return True
+    ancestor = el
+    while ancestor is not None:
+        if local_name(ancestor.tag) == "prov" and ancestor.get("deletion-status") == "repealed":
+            return True
+        ancestor = ancestor.getparent()
+    return False
+
 
 def extract_refs(el, tag_name) -> list[str]:
     return [
@@ -62,7 +75,6 @@ def extract_refs(el, tag_name) -> list[str]:
 
 
 def extract_provisions(root) -> list[dict]:
-    """Ordinary provisions and, separately, individual definitions."""
     records = []
     for prov in root.iter():
         if local_name(prov.tag) != "prov":
@@ -76,34 +88,38 @@ def extract_provisions(root) -> list[dict]:
         if body_el is None:
             continue
 
+        prov_is_repealed = prov.get("deletion-status") == "repealed"
         def_paras = [el for el in body_el.iter() if local_name(el.tag) == "def-para"]
 
         if def_paras:
             for dp in def_paras:
                 term_el = find_first(dp, "def-term")
+                dp_text = element_text(dp)
                 records.append({
                     "id": dp.get("id"),
                     "type": "definition",
                     "section_number": section_number,
                     "heading": heading,
                     "term": element_text(term_el) or None,
-                    "text": element_text(dp),
+                    "text": dp_text,
                     "internal_refs": extract_refs(dp, "intref"),
                     "external_refs": extract_refs(dp, "extref"),
+                    "is_repealed_or_empty": prov_is_repealed or not dp_text.strip(),
                 })
         else:
+            body_text = element_text(body_el)
             records.append({
                 "id": prov.get("id"),
                 "type": "provision",
                 "section_number": section_number,
                 "heading": heading,
                 "term": None,
-                "text": element_text(body_el),
+                "text": body_text,
                 "internal_refs": extract_refs(body_el, "intref"),
                 "external_refs": extract_refs(body_el, "extref"),
+                "is_repealed_or_empty": prov_is_repealed or not body_text.strip(),
             })
     return records
-
 
 def extract_amendment_records(root) -> list[dict]:
     """Incoming: other Acts amending this one."""

@@ -17,6 +17,11 @@ SAVE_EVERY = 50
 
 provisions = json.loads(INPUT_PATH.read_text())
 
+extractable = [p for p in provisions if not p.get("is_repealed_or_empty")]
+skipped = [p for p in provisions if p.get("is_repealed_or_empty")]
+print(f"Skipping {len(skipped)} repealed/empty provisions \u2014 no legal text to extract from.")
+provisions = extractable
+
 results = []
 done_ids = set()
 if OUTPUT_PATH.exists():
