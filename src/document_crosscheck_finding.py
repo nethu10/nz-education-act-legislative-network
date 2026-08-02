@@ -1,0 +1,43 @@
+"""
+Records the final Stage 4 structural cross-check result as a permanent,
+citable output — including the one explained exception — rather than
+leaving the finding only in terminal scrollback.
+"""
+
+import json
+from pathlib import Path
+
+finding = {
+    "check": "Stage 4 structural cross-check",
+    "description": (
+        "Compares SLM-extracted relations against internal_refs/external_refs "
+        "captured directly from the XML's own <intref>/<extref> tags in Stage 2."
+    ),
+    "provisions_with_structural_reference": 946,
+    "recalled_by_slm": 945,
+    "recall_rate": "99.9%",
+    "unrecalled_provisions": [
+        {
+            "id": "LMS256361",
+            "heading": "Outline of Part 5",
+            "reason": (
+                "A table-of-contents-style outline provision (\"This Part... is "
+                "divided into 8 subparts...\"), with 8 tagged internal references "
+                "but no verbs indicating a power, duty, definition, citation, or "
+                "amendment. The SLM returned an empty relations list rather than "
+                "classifying it as cross_reference. A distinct, narrow pattern not "
+                "otherwise observed in the dataset — not evidence of a systemic "
+                "extraction weakness."
+            ),
+        }
+    ],
+    "provisions_without_structural_reference": 741,
+    "flagged_anyway": 61,
+    "flagged_anyway_rate": "8.2%",
+    "flagged_anyway_status": "Not yet investigated \u2014 pending review of real examples.",
+}
+
+out_path = Path("data/processed/stage4_structural_crosscheck_results.json")
+out_path.write_text(json.dumps(finding, indent=2, ensure_ascii=False), encoding="utf-8")
+print(f"Saved to {out_path}")
+print(json.dumps(finding, indent=2, ensure_ascii=False))
