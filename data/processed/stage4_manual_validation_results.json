@@ -1,0 +1,63 @@
+{
+  "sample_size": 100,
+  "by_type": {
+    "power_or_duty": {
+      "n": 74,
+      "correct": 40,
+      "partial": 32,
+      "incorrect": 2,
+      "strict_precision": 54.1,
+      "lenient_precision": 97.3,
+      "small_sample_caveat": false
+    },
+    "definition_reference": {
+      "n": 15,
+      "correct": 5,
+      "partial": 7,
+      "incorrect": 3,
+      "strict_precision": 33.3,
+      "lenient_precision": 80.0,
+      "small_sample_caveat": true
+    },
+    "cross_reference": {
+      "n": 6,
+      "correct": 0,
+      "partial": 5,
+      "incorrect": 1,
+      "strict_precision": 0.0,
+      "lenient_precision": 83.3,
+      "small_sample_caveat": true
+    },
+    "citation": {
+      "n": 4,
+      "correct": 1,
+      "partial": 2,
+      "incorrect": 1,
+      "strict_precision": 25.0,
+      "lenient_precision": 75.0,
+      "small_sample_caveat": true
+    },
+    "amendment": {
+      "n": 1,
+      "correct": 0,
+      "partial": 1,
+      "incorrect": 0,
+      "strict_precision": 0.0,
+      "lenient_precision": 100.0,
+      "small_sample_caveat": true
+    }
+  },
+  "overall": {
+    "n": 100,
+    "correct": 46,
+    "partial": 47,
+    "incorrect": 7,
+    "strict_precision": 46.0,
+    "lenient_precision": 93.0,
+    "comparison_baseline": {
+      "source": "Ardekani et al. (2026), rule-based extraction",
+      "reported_precision": 93.0
+    },
+    "key_finding": "power_or_duty (74.3% of the full 3,255-relation dataset) shows the lowest fabrication rate (2.7%) and highest lenient precision (97.3%) of any category, meaning the dominant category is also the most reliable one -- overall dataset reliability is weighted toward its strongest-performing category, not a flat average across types."
+  }
+}
