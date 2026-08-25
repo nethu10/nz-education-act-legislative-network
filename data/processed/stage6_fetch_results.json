@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Crown Entities Act 2004 (2004 No 115)",
+    "year": "2004",
+    "number": "115",
+    "status": "success",
+    "chars": 669234,
+    "file": "data/raw/stage6_targets/2004_115.xml"
+  },
+  {
+    "name": "Treaty of Waitangi Act 1975 (1975 No 114)",
+    "year": "1975",
+    "number": "114",
+    "status": "success",
+    "chars": 254455,
+    "file": "data/raw/stage6_targets/1975_114.xml"
+  },
+  {
+    "name": "Social Security Act 2018 (2018 No 32)",
+    "year": "2018",
+    "number": "32",
+    "status": "success",
+    "chars": 2860451,
+    "file": "data/raw/stage6_targets/2018_32.xml"
+  },
+  {
+    "name": "Income Tax Act 2007 (2007 No 97)",
+    "year": "2007",
+    "number": "97",
+    "status": "success",
+    "chars": 20796371,
+    "file": "data/raw/stage6_targets/2007_97.xml"
+  },
+  {
+    "name": "Public Bodies Contracts Act 1959 (1959 No 98)",
+    "year": "1959",
+    "number": "98",
+    "status": "success",
+    "chars": 109979,
+    "file": "data/raw/stage6_targets/1959_98.xml"
+  },
+  {
+    "name": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "year": "2011",
+    "number": "62",
+    "status": "success",
+    "chars": 814011,
+    "file": "data/raw/stage6_targets/2011_62.xml"
+  },
+  {
+    "name": "Employment Relations Act 2000 (2000 No 24)",
+    "year": "2000",
+    "number": "24",
+    "status": "success",
+    "chars": 1770268,
+    "file": "data/raw/stage6_targets/2000_24.xml"
+  },
+  {
+    "name": "Lincoln University Act 1961 (1961 No 52)",
+    "year": "1961",
+    "number": "52",
+    "status": "success",
+    "chars": 63868,
+    "file": "data/raw/stage6_targets/1961_52.xml"
+  },
+  {
+    "name": "Massey University Act 1963 (1963 No 7)",
+    "year": "1963",
+    "number": "7",
+    "status": "success",
+    "chars": 73909,
+    "file": "data/raw/stage6_targets/1963_7.xml"
+  },
+  {
+    "name": "University of Auckland Act 1961 (1961 No 50)",
+    "year": "1961",
+    "number": "50",
+    "status": "success",
+    "chars": 66517,
+    "file": "data/raw/stage6_targets/1961_50.xml"
+  },
+  {
+    "name": "University of Canterbury Act 1961 (1961 No 49)",
+    "year": "1961",
+    "number": "49",
+    "status": "success",
+    "chars": 65610,
+    "file": "data/raw/stage6_targets/1961_49.xml"
+  },
+  {
+    "name": "University of Waikato Act 1963 (1963 No 8)",
+    "year": "1963",
+    "number": "8",
+    "status": "success",
+    "chars": 61676,
+    "file": "data/raw/stage6_targets/1963_8.xml"
+  },
+  {
+    "name": "Victoria University of Wellington Act 1961 (1961 No 51)",
+    "year": "1961",
+    "number": "51",
+    "status": "success",
+    "chars": 66583,
+    "file": "data/raw/stage6_targets/1961_51.xml"
+  }
+]
