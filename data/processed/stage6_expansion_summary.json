@@ -1,0 +1,13 @@
+{
+  "expansion_boundary": "2 rings (seed Act -> 13 selected Acts -> second-ring connections, not expanded further)",
+  "ring_1_acts_selected": 13,
+  "ring_1_selection_criterion": ">=7 outgoing amendment records from the seed Act (evidence-based cutoff, see stage6_public_act_distribution.py)",
+  "ring_2_distinct_acts_discovered": 546,
+  "ring_2_overlap_with_original_193": 28,
+  "ring_2_genuinely_new": 518,
+  "growth_rate": "42.0x per Act, 546x from a start of 13",
+  "stopping_justification": "A single further hop discovered 546 distinct Acts from just 13 starting points, a 42x expansion, with only 5% overlap against the original 193 -- confirming rapid, largely non-overlapping growth. The single largest contributor (Income Tax Act 2007, 342 of 546) demonstrates that continued expansion is dominated by administrative breadth (tax law touching nearly all legislation) rather than thematic relevance to education policy. Consistent with the pre-registered 'fixed-depth, 2-3 layer' expansion boundary in the methodology, expansion stops after this second ring. The complete bidirectional count (969 new Acts, ~75x growth) further reinforces this conclusion beyond the originally documented outgoing-only figure.",
+  "ring_2_note": "Originally documented using outgoing-only connections (546 distinct Acts, 42x growth). Once merged into the actual graph, incoming connections were also included (462 further distinct Acts, 0 overlap with the outgoing set), giving a complete second-ring total of 969 genuinely new Acts (39 of 1,008 total distinct names already existed in the graph; of those, 2 represent direct citations between two of the 13 selected ring-1 Acts themselves). This is a more complete and more decisive figure than originally reported.",
+  "ring_2_distinct_acts_discovered_bidirectional": 969,
+  "growth_rate_bidirectional": "74.5x per Act, 969x from a start of 13"
+}
