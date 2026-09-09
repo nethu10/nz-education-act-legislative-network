@@ -22,7 +22,7 @@
   {
     "node_id": "LMS202213",
     "label": "Establishment of institutions [provision]",
-    "katz_centrality": 0.04931290960098326
+    "katz_centrality": 0.049312909600983265
   },
   {
     "node_id": "LMS172239",
@@ -31,8 +31,8 @@
   },
   {
     "node_id": "LMS267809",
-    "label": "LMS267809 [provision]",
-    "katz_centrality": 0.048841218701820115
+    "label": "Well-being and safety codes of practice [provision]",
+    "katz_centrality": 0.04884121870182012
   },
   {
     "node_id": "LMS171321",

@@ -65,13 +65,13 @@
     "katz_centrality": 0.041123055080213786
   },
   {
-    "node_id": "EXTERNAL::Smoke-free Environments Act 1990 (1990 No 108)",
-    "label": "Smoke-free Environments Act 1990 (1990 No 108)",
+    "node_id": "EXTERNAL::Government Superannuation Fund Act 1956 (1956 No 47)",
+    "label": "Government Superannuation Fund Act 1956 (1956 No 47)",
     "katz_centrality": 0.03992890250839449
   },
   {
-    "node_id": "EXTERNAL::Public Audit Act 2001 (2001 No 10)",
-    "label": "Public Audit Act 2001 (2001 No 10)",
+    "node_id": "EXTERNAL::Smoke-free Environments Act 1990 (1990 No 108)",
+    "label": "Smoke-free Environments Act 1990 (1990 No 108)",
     "katz_centrality": 0.03992890250839449
   }
 ]
