@@ -83,7 +83,7 @@ def extract_provisions(root) -> list[dict]:
         label_el = prov.find("label")
         heading_el = prov.find("heading")
         section_number = label_el.text if label_el is not None else None
-        heading = heading_el.text if heading_el is not None else None
+        heading = element_text(heading_el) if heading_el is not None else None
         body_el = prov.find("prov.body")
         if body_el is None:
             continue

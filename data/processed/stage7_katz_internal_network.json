@@ -1,0 +1,77 @@
+[
+  {
+    "node_id": "LMS172387",
+    "label": "TEC may fund tertiary education programmes and activities [provision]",
+    "katz_centrality": 0.06861513061080977
+  },
+  {
+    "node_id": "LMS172300",
+    "label": "Rules [provision]",
+    "katz_centrality": 0.06242420843074117
+  },
+  {
+    "node_id": "LMS171311",
+    "label": "Interpretation [section_container]",
+    "katz_centrality": 0.05919821969275342
+  },
+  {
+    "node_id": "LMS172409",
+    "label": "Funding other than via plans [provision]",
+    "katz_centrality": 0.05685114025514264
+  },
+  {
+    "node_id": "LMS202213",
+    "label": "Establishment of institutions [provision]",
+    "katz_centrality": 0.04931290960098326
+  },
+  {
+    "node_id": "LMS172239",
+    "label": "Powers of Disciplinary Tribunal [provision]",
+    "katz_centrality": 0.04904617059246721
+  },
+  {
+    "node_id": "LMS267809",
+    "label": "LMS267809 [provision]",
+    "katz_centrality": 0.048841218701820115
+  },
+  {
+    "node_id": "LMS171321",
+    "label": "Regulations relating to early childhood services [provision]",
+    "katz_centrality": 0.0476378707393552
+  },
+  {
+    "node_id": "LMS172280",
+    "label": "Approval of programmes [provision]",
+    "katz_centrality": 0.04689066957600767
+  },
+  {
+    "node_id": "LMS172315",
+    "label": "Compliance notices [provision]",
+    "katz_centrality": 0.04602522438684181
+  },
+  {
+    "node_id": "LMS171714",
+    "label": "Consultation [provision]",
+    "katz_centrality": 0.04476775282500328
+  },
+  {
+    "node_id": "LMS171470",
+    "label": "Curriculum statements and national performance measures [provision]",
+    "katz_centrality": 0.044410294817226886
+  },
+  {
+    "node_id": "LMS267818",
+    "label": "Student contract dispute resolution scheme established [provision]",
+    "katz_centrality": 0.044347651850741084
+  },
+  {
+    "node_id": "LMS267771",
+    "label": "Functions of industry skills boards [provision]",
+    "katz_centrality": 0.04355057723034286
+  },
+  {
+    "node_id": "LMS176259",
+    "label": "Surrender and retention of property [provision]",
+    "katz_centrality": 0.04350197848204589
+  }
+]

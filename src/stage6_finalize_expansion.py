@@ -32,7 +32,7 @@ summary = {
         "breadth (tax law touching nearly all legislation) rather than thematic relevance to "
         "education policy. Consistent with the pre-registered 'fixed-depth, 2-3 layer' "
         "expansion boundary in the methodology, expansion stops after this second ring."
-    ),
+    )
 }
 
 Path("data/processed/stage6_expansion_summary.json").write_text(

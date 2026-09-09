@@ -1,0 +1,77 @@
+[
+  {
+    "node_id": "EXTERNAL::Income Tax Act 2007 (2007 No 97)",
+    "label": "Income Tax Act 2007 (2007 No 97)",
+    "katz_centrality": 0.19116775161749552
+  },
+  {
+    "node_id": "EXTERNAL::Treaty of Waitangi Act 1975 (1975 No 114)",
+    "label": "Treaty of Waitangi Act 1975 (1975 No 114)",
+    "katz_centrality": 0.13204571707617266
+  },
+  {
+    "node_id": "EXTERNAL::Public Bodies Contracts Act 1959 (1959 No 98)",
+    "label": "Public Bodies Contracts Act 1959 (1959 No 98)",
+    "katz_centrality": 0.129749269822674
+  },
+  {
+    "node_id": "EXTERNAL::Employment Relations Act 2000 (2000 No 24)",
+    "label": "Employment Relations Act 2000 (2000 No 24)",
+    "katz_centrality": 0.1171188099284314
+  },
+  {
+    "node_id": "EXTERNAL::Crown Entities Act 2004 (2004 No 115)",
+    "label": "Crown Entities Act 2004 (2004 No 115)",
+    "katz_centrality": 0.10219190278069014
+  },
+  {
+    "node_id": "EXTERNAL::Social Security Act 2018 (2018 No 32)",
+    "label": "Social Security Act 2018 (2018 No 32)",
+    "katz_centrality": 0.06430052309796233
+  },
+  {
+    "node_id": "EXTERNAL::Student Loan Scheme Act 2011 (2011 No 62)",
+    "label": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "katz_centrality": 0.061774431119113814
+  },
+  {
+    "node_id": "EXTERNAL::Privacy Act 1993 (1993 No 28)",
+    "label": "Privacy Act 1993 (1993 No 28)",
+    "katz_centrality": 0.05208859071566987
+  },
+  {
+    "node_id": "SEED_ACT",
+    "label": "Education and Training Act 2020",
+    "katz_centrality": 0.045928945069973096
+  },
+  {
+    "node_id": "EXTERNAL::Education Act 1989 (1989 No 80)",
+    "label": "Education Act 1989 (1989 No 80)",
+    "katz_centrality": 0.04393620296574964
+  },
+  {
+    "node_id": "EXTERNAL::Electricity Industry Reform Act 1998 (1998 No 88)",
+    "label": "Electricity Industry Reform Act 1998 (1998 No 88)",
+    "katz_centrality": 0.0434883957513174
+  },
+  {
+    "node_id": "EXTERNAL::Companies Act 1993 (1993 No 105)",
+    "label": "Companies Act 1993 (1993 No 105)",
+    "katz_centrality": 0.04146752216823858
+  },
+  {
+    "node_id": "EXTERNAL::Student Allowances Regulations 1998 (SR 1998/277)",
+    "label": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "katz_centrality": 0.041123055080213786
+  },
+  {
+    "node_id": "EXTERNAL::Smoke-free Environments Act 1990 (1990 No 108)",
+    "label": "Smoke-free Environments Act 1990 (1990 No 108)",
+    "katz_centrality": 0.03992890250839449
+  },
+  {
+    "node_id": "EXTERNAL::Public Audit Act 2001 (2001 No 10)",
+    "label": "Public Audit Act 2001 (2001 No 10)",
+    "katz_centrality": 0.03992890250839449
+  }
+]
