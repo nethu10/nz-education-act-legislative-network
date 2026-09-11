@@ -1,0 +1,1304 @@
+[
+  {
+    "provision_id": "LMS995961",
+    "type": "definition_reference",
+    "description": "defines 'Crown agent' using the meaning given in section 10(1) of the Crown Entities Act 2004",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS170812",
+    "type": "definition_reference",
+    "description": "The term 'Crown entity group' is defined by section 136(1) of the Crown Entities Act 2004.",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS170848",
+    "type": "definition_reference",
+    "description": "defines 'early childhood education and care service' in terms of a free kindergarten and other services declared by regulations",
+    "act_name": "regulations",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS170877",
+    "type": "definition_reference",
+    "description": "defines 'employment agreement' using the definition from the Employment Relations Act 2000",
+    "act_name": "the Employment Relations Act 2000",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS170987",
+    "type": "definition_reference",
+    "description": "defines 'land' using the definition from the Land Transfer Act 2017",
+    "act_name": "the Land Transfer Act 2017",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS170997",
+    "type": "definition_reference",
+    "description": "defines 'licensed early childhood service' in terms of a current licence issued under regulations made under section 636",
+    "act_name": "the Education and Training Act 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS170999",
+    "type": "definition_reference",
+    "description": "defines 'licensed home-based education and care service' in terms of a current licence issued under regulations",
+    "act_name": "regulations",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS171001",
+    "type": "definition_reference",
+    "description": "defines 'licensed hospital-based education and care service' in terms of a current licence issued under regulations",
+    "act_name": "regulations",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS267437",
+    "type": "definition_reference",
+    "description": "defines 'student accommodation' in terms of section 5B of another Act",
+    "act_name": "another Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS171341",
+    "type": "power_or_duty",
+    "description": "Service providers must obtain a license to operate an early childhood education and care centre as per regulations.",
+    "act_name": "regulations",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS257110",
+    "type": "power_or_duty",
+    "description": "Service providers must implement any applicable curriculum framework in accordance with regulations made under section 636 or 637.",
+    "act_name": "the Education and Training Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS171581",
+    "type": "power_or_duty",
+    "description": "requires State schools and special institutions to have a board unless specified otherwise in the Act",
+    "act_name": "the Education and Training Act 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS177732",
+    "type": "cross_reference",
+    "description": "subsection (2) applies except as provided in this Act or another enactment or rule of law",
+    "act_name": "this Act or another enactment or rule of law",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1555059",
+    "type": "power_or_duty",
+    "description": "the board must review and adopt a new or amended attendance management plan in accordance with regulations",
+    "act_name": "regulations",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS262279",
+    "type": "power_or_duty",
+    "description": "the board must prepare its first strategic plan and annual implementation plan when required by regulations",
+    "act_name": "regulations",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS262287",
+    "type": "power_or_duty",
+    "description": "The board must report on its performance in the annual report according to regulations made under section 639.",
+    "act_name": "regulations made under section 639",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS289485",
+    "type": "cross_reference",
+    "description": "refers to Schedule 3 of the Crown Entities Act 2004 for applicable provisions",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS289487",
+    "type": "citation",
+    "description": "refers to sections 160 and 162 of the Crown Entities Act 2004 for context",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS289488",
+    "type": "power_or_duty",
+    "description": "the board is not allowed to delegate its power to borrow money as granted under the Crown Entities Act 2004",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS289489",
+    "type": "citation",
+    "description": "refers to sections 160 and 163 of the Crown Entities Act 2004 for context",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS289490",
+    "type": "citation",
+    "description": "refers to sections 160 and 164 of the Crown Entities Act 2004 for context",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS289491",
+    "type": "power_or_duty",
+    "description": "boards may accept or disclaim gifts in accordance with section 167 of the Crown Entities Act 2004",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS325634",
+    "type": "power_or_duty",
+    "description": "Terms and conditions under subsection (1)(a) are secondary legislation with publication requirements as per the Legislation Act 2019.",
+    "act_name": "the Legislation Act 2019",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS262184",
+    "type": "power_or_duty",
+    "description": "The board must report on student performance as required by regulations.",
+    "act_name": "regulations",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS997636",
+    "type": "power_or_duty",
+    "description": "The Authorisation Board performs any functions conferred by this Act or other legislation.",
+    "act_name": "other legislation",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS997680",
+    "type": "power_or_duty",
+    "description": "applies Section 3(b) of the New Zealand Bill of Rights Act 1990",
+    "act_name": "the New Zealand Bill of Rights Act 1990",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS997681",
+    "type": "cross_reference",
+    "description": "refers to the application of the Official Information Act 1982 based on the sponsor's activities under this Act and related contracts",
+    "act_name": "the Official Information Act 1982",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS997682",
+    "type": "citation",
+    "description": "refers to the Public Service Act 2020 for context",
+    "act_name": "the Public Service Act 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS339293",
+    "type": "power_or_duty",
+    "description": "the power to establish dispute resolution panels is granted by regulations made under section 644",
+    "act_name": "section 644",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS289497",
+    "type": "power_or_duty",
+    "description": "delegates any of its functions or powers to a specified person or office holder via regulations made under section 644",
+    "act_name": "the Regulation",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS336400",
+    "type": "definition_reference",
+    "description": "'in care' has the same meaning as in section 7(4) of the Oranga Tamariki Act 1989",
+    "act_name": "the Oranga Tamariki Act 1989",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172569",
+    "type": "definition_reference",
+    "description": "meanings as in section 7 of the Building Act 2004",
+    "act_name": "the Building Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202215",
+    "type": "citation",
+    "description": "secondary legislation requirements as per Part 3 of the Legislation Act 2019",
+    "act_name": "the Legislation Act 2019",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS267893",
+    "type": "citation",
+    "description": "refers to the Protection of Personal and Property Rights Act 1988 for definitions and context",
+    "act_name": "the Protection of Personal and Property Rights Act 1988",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202319",
+    "type": "power_or_duty",
+    "description": "determines policies for managing affairs, subject to the Public Service Act 2020",
+    "act_name": "the Public Service Act 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202319",
+    "type": "citation",
+    "description": "refers to the Public Service Act 2020",
+    "act_name": "the Public Service Act 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202324",
+    "type": "power_or_duty",
+    "description": "allows institutions to do any other thing authorized by this Act, another enactment, or rule of law",
+    "act_name": "another enactment, or rule of law",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202342",
+    "type": "citation",
+    "description": "section 158 of the Crown Entities Act 2004 is cited for reference",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202347",
+    "type": "citation",
+    "description": "refers to the Trusts Act 2019 for investment guidelines",
+    "act_name": "the Trusts Act 2019",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202350",
+    "type": "citation",
+    "description": "refers to the Crown Entities Act 2004 and Public Finance Act 1989",
+    "act_name": "the Crown Entities Act 2004 and Public Finance Act 1989",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202350",
+    "type": "power_or_duty",
+    "description": "limits the application of the Crown Entities Act 2004 based on this section's provisions",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202352",
+    "type": "citation",
+    "description": "section 156 of the Crown Entities Act 2004 applies to institutions and is read as referring to a statement of service performance under subsection (4)(f)",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202352",
+    "type": "definition_reference",
+    "description": "parent Crown entity has the same meaning as in section 8 of the Crown Entities Act 2004",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202399",
+    "type": "citation",
+    "description": "refers to the Crown Entities Act 2004 for application of sections and schedule",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202400",
+    "type": "power_or_duty",
+    "description": "The Vice-Chancellors Committee can exercise powers of NZQA under this Act in relation to universities.",
+    "act_name": "the Education and Training Act 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS353046",
+    "type": "power_or_duty",
+    "description": "subsection (1) invalidates acts of the Federation Committee if they are contrary to or outside the authority of an Act, or not done for the purpose of performing the Federation Committee’s functions",
+    "act_name": "an Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS353048",
+    "type": "power_or_duty",
+    "description": "is an official for the purposes of sections 105 and 105A of the Crimes Act 1961",
+    "act_name": "the Crimes Act 1961",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202444",
+    "type": "power_or_duty",
+    "description": "must comply with rules made under section 452",
+    "act_name": "the exact name mentioned",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS302241",
+    "type": "power_or_duty",
+    "description": "industry skills board must pay an annual fee to NZQA as prescribed by rules",
+    "act_name": "rules",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS267777",
+    "type": "definition_reference",
+    "description": "defines 'public entity' as per Public Audit Act 2001",
+    "act_name": "the Public Audit Act 2001",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS267778",
+    "type": "power_or_duty",
+    "description": "the industry skills board must ensure its acts are within the authority of an Act and for the purpose of performing its functions",
+    "act_name": "an Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS267781",
+    "type": "citation",
+    "description": "Part 3 of the Legislation Act 2019 for publication requirements",
+    "act_name": "the Legislation Act 2019",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202470",
+    "type": "citation",
+    "description": "This provision refers to section 25 of the Criminal Procedure Act 2011 regarding prosecution time limits.",
+    "act_name": "the Criminal Procedure Act 2011",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS891787",
+    "type": "power_or_duty",
+    "description": "excludes category B wānanga from the definition of local authority under the Local Authorities (Members’ Interests) Act 1968",
+    "act_name": "the Local Authorities (Members’ Interests) Act 1968",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS891789",
+    "type": "definition_reference",
+    "description": "defines 'institution that is a category B wānanga' as a public entity under the Public Audit Act 2001",
+    "act_name": "the Public Audit Act 2001",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS891790",
+    "type": "power_or_duty",
+    "description": "defines who are considered officials for the purposes of sections 105 and 105A of the Crimes Act 1961",
+    "act_name": "the Crimes Act 1961",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS891804",
+    "type": "cross_reference",
+    "description": "references section 40 of the Public Works Act 1981 for obligations related to vested land",
+    "act_name": "the Public Works Act 1981",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172349",
+    "type": "power_or_duty",
+    "description": "TEC is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172349",
+    "type": "power_or_duty",
+    "description": "Members of TEC are considered the board for the purposes of the Crown Entities Act 2004",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172350",
+    "type": "power_or_duty",
+    "description": "the Minister appoints members of TEC in accordance with the Crown Entities Act 2004",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172350",
+    "type": "cross_reference",
+    "description": "subsection (3) does not limit section 29 of the Crown Entities Act 2004",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172358",
+    "type": "citation",
+    "description": "refers to section 117 of the Crown Entities Act 2004 for appointment procedures",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172354",
+    "type": "power_or_duty",
+    "description": "must comply with the Minister's direction under the Crown Entities Act 2004",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS338130",
+    "type": "definition_reference",
+    "description": "functions and powers under this Act (except those referred to in section 419) or any other Act, including functions or powers delegated to the Minister under this Act or any other Act",
+    "act_name": "any other Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS338130",
+    "type": "definition_reference",
+    "description": "the power of the Minister to delegate under this section is subject to prohibitions, restrictions, or conditions contained in any other Act",
+    "act_name": "any other Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS353052",
+    "type": "power_or_duty",
+    "description": "The Minister may direct TEC to undertake additional functions as per the Crown Entities Act 2004, but not to provide or deny funding under specific sections.",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172320",
+    "type": "power_or_duty",
+    "description": "NZQA is continued as a Crown entity under the Crown Entities Act 2004",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172320",
+    "type": "definition_reference",
+    "description": "NZQA's status as a Crown entity is defined by section 7 of the Crown Entities Act 2004",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172321",
+    "type": "citation",
+    "description": "Subsection (3) refers to section 29 of the Crown Entities Act 2004 without changing its wording or defining terms.",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172322",
+    "type": "power_or_duty",
+    "description": "NZQA must appoint a chief executive according to terms and conditions agreed with the person appointed, as per section 117 of the Crown Entities Act 2004",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172322",
+    "type": "amendment",
+    "description": "subsection (3) overrides section 73 of the Crown Entities Act 2004 regarding delegation authority",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172310",
+    "type": "citation",
+    "description": "Legislation Act 2019 is cited for publication requirements of secondary legislation",
+    "act_name": "the Legislation Act 2019",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172329",
+    "type": "power_or_duty",
+    "description": "The Chief Review Officer may conduct certain reviews of professional learning and development services on their own motion, despite a restriction in another Act.",
+    "act_name": "another Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172210",
+    "type": "cross_reference",
+    "description": "elections must be conducted in accordance with rules made under section 486",
+    "act_name": "the Rules made under section 486",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172214",
+    "type": "power_or_duty",
+    "description": "The Teaching Council must perform other functions conferred on it by this Act or any other enactment.",
+    "act_name": "any other enactment",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172220",
+    "type": "citation",
+    "description": "The code of conduct or an amendment to it is secondary legislation, as per Part 3 of the Legislation Act 2019.",
+    "act_name": "the Legislation Act 2019",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172240",
+    "type": "citation",
+    "description": "A hearing before the Disciplinary Tribunal is considered a judicial proceeding under section 109 of the Crimes Act 1961.",
+    "act_name": "the Crimes Act 1961",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172241",
+    "type": "power_or_duty",
+    "description": "a person required to attend a hearing is entitled to be paid witnesses' fees, allowances, and travelling expenses prescribed by regulations",
+    "act_name": "regulations",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172247",
+    "type": "power_or_duty",
+    "description": "The Competence Authority must be constituted according to rules made under section 486, and these rules must align with this section.",
+    "act_name": "section 486",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172416",
+    "type": "citation",
+    "description": "refers to section 7 of the Crown Entities Act 2004 for definition of Crown entity",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS275534",
+    "type": "power_or_duty",
+    "description": "the Minister appoints members to the board under section 28 of the Crown Entities Act 2004",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS275540",
+    "type": "citation",
+    "description": "refers to section 43 of the Commerce Act 1986 for authorization procedures",
+    "act_name": "the Commerce Act 1986",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS267820",
+    "type": "power_or_duty",
+    "description": "The District Court may make orders requiring parties to comply with the DRS rules or resolutions.",
+    "act_name": "the DRS rules or resolutions",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS731502",
+    "type": "cross_reference",
+    "description": "This section does not apply if the Children’s Act 2014 requires a safety check for employment.",
+    "act_name": "the Children’s Act 2014",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS998365",
+    "type": "definition_reference",
+    "description": "defines 'organisation' using the definition from section 6 of the Data and Statistics Act 2022",
+    "act_name": "the Data and Statistics Act 2022",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS998367",
+    "type": "definition_reference",
+    "description": "defines 'personal information' in terms of section 7(1) of the Privacy Act 2020",
+    "act_name": "the Privacy Act 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172542",
+    "type": "amendment",
+    "description": "sections of other Acts are exempted or modified for the purposes of land transfer to institutions under this Act",
+    "act_name": "this Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172544",
+    "type": "citation",
+    "description": "Refers to the Cadastral Survey Act 2002 and the Land Act 1948 for definitions and procedures",
+    "act_name": "the Cadastral Survey Act 2002 and the Land Act 1948",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172548",
+    "type": "power_or_duty",
+    "description": "the responsible Minister must acquire land under the Public Works Act 1981",
+    "act_name": "the Public Works Act 1981",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172548",
+    "type": "citation",
+    "description": "references to sections and schedules within the Public Works Act 1981",
+    "act_name": "the Public Works Act 1981",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172548",
+    "type": "amendment",
+    "description": "modifies the application of certain provisions from the Public Works Act 1981 for specific land acquisitions",
+    "act_name": "the Public Works Act 1981",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172549",
+    "type": "power_or_duty",
+    "description": "the Crown must provide compensation according to section 570 of the Public Works Act 1981",
+    "act_name": "the Public Works Act 1981",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172551",
+    "type": "power_or_duty",
+    "description": "The council of a disestablished institution continues to exist to comply with certain provisions of other Acts.",
+    "act_name": "other Acts",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172552",
+    "type": "cross_reference",
+    "description": "refers to Schedule 1 of the Tax Administration Act 1994",
+    "act_name": "the Tax Administration Act 1994",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172553",
+    "type": "citation",
+    "description": "refers to Schedule 1 of the Tax Administration Act 1994",
+    "act_name": "the Tax Administration Act 1994",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172553",
+    "type": "amendment",
+    "description": "excludes vesting from being treated as supply or disposition for GST and Estate and Gift Duties Act purposes",
+    "act_name": "the Estate and Gift Duties Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS894538",
+    "type": "cross_reference",
+    "description": "refers to Schedule 1 of the Tax Administration Act 1994",
+    "act_name": "the Tax Administration Act 1994",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS894538",
+    "type": "power_or_duty",
+    "description": "limits treatment of vesting under section 398ZC(4) as a supply or disposition for GST and Estate Duties Act",
+    "act_name": "the Estate Duties Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172523",
+    "type": "citation",
+    "description": "Reference to the Legislation Act 2019 for publication requirements of Orders under this section",
+    "act_name": "the Legislation Act 2019",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS242157",
+    "type": "citation",
+    "description": "refers to another Act (Employment Relations Act 2000) for establishing context",
+    "act_name": "Employment Relations Act 2000",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS267832",
+    "type": "power_or_duty",
+    "description": "The Public Service Commissioner has the same rights, duties, and obligations as an employer under the Employment Relations Act 2000 when negotiating collective agreements.",
+    "act_name": "the Employment Relations Act 2000",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS267834",
+    "type": "power_or_duty",
+    "description": "The Public Service Commissioner has the rights, duties, and powers of an employer under the Employment Relations Act 2000 for negotiating collective agreements.",
+    "act_name": "the Employment Relations Act 2000",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS267840",
+    "type": "power_or_duty",
+    "description": "negotiates collective agreements under the Employment Relations Act 2000",
+    "act_name": "the Employment Relations Act 2000",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS272371",
+    "type": "power_or_duty",
+    "description": "The Chief Referee and deputy chief referees must meet certain criteria for appointment and removal, as prescribed by regulations.",
+    "act_name": "regulations",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS272371",
+    "type": "power_or_duty",
+    "description": "Dispute resolution panels must follow processes and procedures as prescribed by regulations.",
+    "act_name": "regulations",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS276081",
+    "type": "definition_reference",
+    "description": "defines 'standard tax' in terms of a calculation method from the Tax Administration Act 1994",
+    "act_name": "the Tax Administration Act 1994",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS348617",
+    "type": "power_or_duty",
+    "description": "DRS operator must comply with annual reporting requirements as prescribed in regulations",
+    "act_name": "regulations",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS357075",
+    "type": "citation",
+    "description": "refers to sections of the Civil Defence Emergency Management Act 2002 and Epidemic Preparedness Act 2006",
+    "act_name": "the Civil Defence Emergency Management Act 2002 and Epidemic Preparedness Act 2006",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS272352",
+    "type": "citation",
+    "description": "refers to the Privacy Act 1993 and 2020",
+    "act_name": "the Privacy Act 1993 and 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS302267",
+    "type": "definition_reference",
+    "description": "defines '1989 Act' as 'Education Act 1989'",
+    "act_name": "Education Act 1989",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS354369",
+    "type": "citation",
+    "description": "The provision refers to and updates the Education (School Trustee Elections) Regulations 2000 by changing its title and references.",
+    "act_name": "the Education (School Trustee Elections) Regulations 2000",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS277905",
+    "type": "cross_reference",
+    "description": "References to the Legislation Act 2019 for publication requirements of secondary legislation.",
+    "act_name": "the Legislation Act 2019",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS277923",
+    "type": "citation",
+    "description": "refers to provisions in the 1989 Act",
+    "act_name": "the 1989 Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS357083",
+    "type": "citation",
+    "description": "refers to the 1989 Act for procedures on establishing, amending, or abandoning enrolment schemes",
+    "act_name": "the 1989 Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS259730",
+    "type": "citation",
+    "description": "refers to section 159AA of the 1989 Act for context",
+    "act_name": "the 1989 Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS320127",
+    "type": "citation",
+    "description": "refers to Part 10 of Schedule 1 of the 1989 Act",
+    "act_name": "the 1989 Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS275820",
+    "type": "power_or_duty",
+    "description": "the polytechnic is to be treated as a company registered under the Companies Act 1993",
+    "act_name": "the Companies Act 1993",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS302275",
+    "type": "amendment",
+    "description": "an order is secondary legislation and subject to publication requirements as per the Legislation Act 2019",
+    "act_name": "the Legislation Act 2019",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS275832",
+    "type": "citation",
+    "description": "refers to the Government Superannuation Fund Act 1956 to establish context and conditions",
+    "act_name": "the Government Superannuation Fund Act 1956",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS302288",
+    "type": "citation",
+    "description": "refers to the Immigration Act 2009 for context",
+    "act_name": "the Immigration Act 2009",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS275843",
+    "type": "definition_reference",
+    "description": "defines '1992 Act' as the 'Industry Training and Apprenticeships Act 1992'",
+    "act_name": "the Industry Training and Apprenticeships Act 1992",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS275845",
+    "type": "definition_reference",
+    "description": "defines 'former ITO' in terms of an industry training organisation listed in clause 44(1) that was recognised under Part 2 of the 1992 Act",
+    "act_name": "the 1992 Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS275860",
+    "type": "citation",
+    "description": "refers to the Industry Training and Apprenticeships Act 1992, its sections, and secondary legislation",
+    "act_name": "the Industry Training and Apprenticeships Act 1992",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS275860",
+    "type": "amendment",
+    "description": "modifies the application of certain provisions from the repealed Industry Training and Apprenticeships Act 1992 to transitional ITOs",
+    "act_name": "the Industry Training and Apprenticeships Act 1992",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS275861",
+    "type": "cross_reference",
+    "description": "references Part 20 of the 1989 Act and sections 439, 445, and 449",
+    "act_name": "the 1989 Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS275866",
+    "type": "definition_reference",
+    "description": "NZQA is defined in the Legislation Act 2019, but not within this provision.",
+    "act_name": "the Legislation Act 2019",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS275906",
+    "type": "citation",
+    "description": "refers to the Government Superannuation Fund Act 1956 for application context",
+    "act_name": "the Government Superannuation Fund Act 1956",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS346708",
+    "type": "definition_reference",
+    "description": "defines 'Government service' in terms of the Government Superannuation Fund Act 1956",
+    "act_name": "the Government Superannuation Fund Act 1956",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS275908",
+    "type": "citation",
+    "description": "refers to the Government Superannuation Fund Act 1956 and State Sector Retirement Savings Scheme",
+    "act_name": "the Government Superannuation Fund Act 1956",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS346710",
+    "type": "power_or_duty",
+    "description": "The chief executive of Education New Zealand is the controlling authority for applying the Government Superannuation Fund Act 1956.",
+    "act_name": "the Government Superannuation Fund Act 1956",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS346710",
+    "type": "cross_reference",
+    "description": "This provision cross-references the Government Superannuation Fund Act 1956 to establish conditions and procedures for superannuation contributions.",
+    "act_name": "the Government Superannuation Fund Act 1956",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS289522",
+    "type": "cross_reference",
+    "description": "refers to subpart 7 of Part 5 and Part 18A of the 1989 Act without changing their wording",
+    "act_name": "the 1989 Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS193896",
+    "type": "citation",
+    "description": "refers to section 343 of the 1989 Act and Schedule 24 for context",
+    "act_name": "the 1989 Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS522286",
+    "type": "citation",
+    "description": "refers to section 548, conditions or purposes specified under section 548(5)(a) or (b), and the Education and Training (Grants—Budget Measures) Amendment Act 2021",
+    "act_name": "the Education and Training (Grants—Budget Measures) Amendment Act 2021",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS732098",
+    "type": "definition_reference",
+    "description": "defines '1989 Act' as 'Education Act 1989'",
+    "act_name": "Education Act 1989",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS731547",
+    "type": "citation",
+    "description": "refers to section 227A of the 1989 Act for context",
+    "act_name": "the 1989 Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS731551",
+    "type": "definition_reference",
+    "description": "The training scheme is to be treated as a micro-credential under the Act.",
+    "act_name": "the Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS731564",
+    "type": "citation",
+    "description": "refers to Sections 536 to 538 and the DRS as established in another Act",
+    "act_name": "another Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS731566",
+    "type": "amendment",
+    "description": "Sections 536 to 538 are amended by the Amendment Act",
+    "act_name": "the Amendment Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS892147",
+    "type": "definition_reference",
+    "description": "Wānanga are defined as Crown entities for certain purposes and boards under the Crown Entities Act 2004.",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS892165",
+    "type": "cross_reference",
+    "description": "refers to the Immigration Act 2009 for context",
+    "act_name": "the Immigration Act 2009",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS892172",
+    "type": "citation",
+    "description": "refers to section 45J of the Public Finance Act 1989 for details on final report requirements",
+    "act_name": "the Public Finance Act 1989",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS998494",
+    "type": "amendment",
+    "description": "Overrides certain provisions from Part 6A of the Employment Relations Act 2000 and any relevant employment agreement regarding employment protection for transferred employees.",
+    "act_name": "the Employment Relations Act 2000",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS998498",
+    "type": "citation",
+    "description": "refers to section 2(1) of the Equal Pay Act 1972 for definitions",
+    "act_name": "the Equal Pay Act 1972",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS998502",
+    "type": "citation",
+    "description": "The meanings of 'holiday', 'holiday pay', and 'leave pay' are defined in section 5(1) of the Holidays Act 2003.",
+    "act_name": "the Holidays Act 2003",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS998505",
+    "type": "cross_reference",
+    "description": "refers to the Government Superannuation Fund Act 1956 for further details",
+    "act_name": "the Government Superannuation Fund Act 1956",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1538234",
+    "type": "citation",
+    "description": "refers to the Privacy Act 2020 for information privacy principles",
+    "act_name": "the Privacy Act 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1538245",
+    "type": "cross_reference",
+    "description": "refers to the Government Superannuation Fund Act 1956 for further details",
+    "act_name": "the Government Superannuation Fund Act 1956",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1538250",
+    "type": "cross_reference",
+    "description": "refers to another Act (Immigration Act 2009) for context and conditions",
+    "act_name": "the Immigration Act 2009",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1538273",
+    "type": "cross_reference",
+    "description": "references Inland Revenue Acts for purposes of tax administration",
+    "act_name": "Inland Revenue Acts",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1538279",
+    "type": "citation",
+    "description": "refers to the Government Superannuation Fund Act 1956 for context and application",
+    "act_name": "the Government Superannuation Fund Act 1956",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1538294",
+    "type": "power_or_duty",
+    "description": "The provision ensures that a WDC continues to exist during a specified period despite amendments made by another Act.",
+    "act_name": "another Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1538300",
+    "type": "power_or_duty",
+    "description": "treatment of WDC and industry skills board as same person for Inland Revenue Acts purposes",
+    "act_name": "the Inland Revenue Acts",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1538308",
+    "type": "cross_reference",
+    "description": "refers to another Act (Holidays Act 2003) for context",
+    "act_name": "the Holidays Act 2003",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1538309",
+    "type": "citation",
+    "description": "refers to the Government Superannuation Fund Act 1956 for further details and application",
+    "act_name": "the Government Superannuation Fund Act 1956",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1538310",
+    "type": "cross_reference",
+    "description": "refers to another Act (Immigration Act 2009) and provision (clause 179(3))",
+    "act_name": "the Immigration Act 2009",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1538321",
+    "type": "citation",
+    "description": "section 365 (as replaced by the amendment Act) sets out matters to be considered for appointment",
+    "act_name": "the amendment Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1555038",
+    "type": "citation",
+    "description": "refers to section 475(1)(a) and section 476(3) of the original Act, as amended by another Act",
+    "act_name": "another Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1575123",
+    "type": "definition_reference",
+    "description": "applied for judicial review means having applied for review of the decision or direction under the Judicial Review Procedure Act 2016, or instituted proceedings seeking any writ or order in respect of that decision or direction",
+    "act_name": "the Judicial Review Procedure Act 2016",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS171846",
+    "type": "citation",
+    "description": "Refers to the Children’s Act 2014 for definitions of specified offences and exemptions.",
+    "act_name": "the Children’s Act 2014",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS171859",
+    "type": "citation",
+    "description": "This clause refers to the Privacy Act 2020 and the Privacy Act 1993 for the purposes of agreeing upon arrangements and entering into agreements.",
+    "act_name": "the Privacy Act 1993",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS171859",
+    "type": "amendment",
+    "description": "The provision specifies that information can only be supplied under certain agreements as amended by Schedule 1 of the Privacy Act 2020.",
+    "act_name": "the Privacy Act 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS171867",
+    "type": "definition_reference",
+    "description": "\"suitable disposition, in relation to an applicant, means the applicant— a is of good character and fit to hold a limited authority to teach; and b either— i has not been convicted of a specified offence as defined in section 23(1) of the Children’s Act 2014; or ii has been granted an exemption under section 35 of the Children’s Act 2014 in respect of every conviction for a specified offence as defined in section 23(1) of that Act. \"",
+    "act_name": "the Children’s Act 2014",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS177859",
+    "type": "power_or_duty",
+    "description": "The Minister may delegate their power to enter into a supplementary agreement under clause 5 of Schedule 6 of the Public Service Act 2020.",
+    "act_name": "the Public Service Act 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS177885",
+    "type": "definition_reference",
+    "description": "A qualified auditor is defined in section 35 of the Financial Reporting Act 2013.",
+    "act_name": "the Financial Reporting Act 2013",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS177897",
+    "type": "power_or_duty",
+    "description": "the board must appoint teachers in accordance with the Public Service Act 2020",
+    "act_name": "the Public Service Act 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS177910",
+    "type": "citation",
+    "description": "refers to the Public Service Act 2020 and regulations made under it for context",
+    "act_name": "the Public Service Act 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS998851",
+    "type": "definition_reference",
+    "description": "public service chief executive has the meaning given in section 5 of the Public Service Act 2020",
+    "act_name": "the Public Service Act 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS276067",
+    "type": "definition_reference",
+    "description": "defines 'chief executive' using a reference to Schedule 2 of the Social Security Act 2018",
+    "act_name": "the Social Security Act 2018",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS276077",
+    "type": "definition_reference",
+    "description": "defines 'social housing information' in terms of a specific part of another Act",
+    "act_name": "another Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS276085",
+    "type": "definition_reference",
+    "description": "defines 'student loan' as per section 4(1) of the Student Loan Scheme Act 2011",
+    "act_name": "the Student Loan Scheme Act 2011",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS276089",
+    "type": "definition_reference",
+    "description": "defines 'student loan scheme' as per section 4(1) of the Student Loan Scheme Act 2011",
+    "act_name": "the Student Loan Scheme Act 2011",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS276091",
+    "type": "definition_reference",
+    "description": "defines 'tax file number' as per section YA 1 of the Income Tax Act 2007",
+    "act_name": "the Income Tax Act 2007",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS276104",
+    "type": "cross_reference",
+    "description": "References to the Social Security Act 2018 and Public and Community Housing Management Act 1992 for specific deduction methods",
+    "act_name": "the Social Security Act 2018 and Public and Community Housing Management Act 1992",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS276105",
+    "type": "citation",
+    "description": "references the Privacy Act 1993 and 2020 for conditions on information sharing",
+    "act_name": "the Privacy Act 1993 and 2020",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS202232",
+    "type": "definition_reference",
+    "description": "a Student Allowance Appeal Authority is a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951",
+    "act_name": "the Fees and Travelling Allowances Act 1951",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS267901",
+    "type": "citation",
+    "description": "This text refers to the Protection of Personal and Property Rights Act 1988 for specific conditions related to property orders and personal orders.",
+    "act_name": "the Protection of Personal and Property Rights Act 1988",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1538604",
+    "type": "power_or_duty",
+    "description": "the Federation Committee may invest its money as Treasury can under the Public Finance Act 1989",
+    "act_name": "the Public Finance Act 1989",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS267879",
+    "type": "power_or_duty",
+    "description": "the Vice-Chancellors Committee may invest its money as the Treasury can under specified sections of the Public Finance Act 1989",
+    "act_name": "the Public Finance Act 1989",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS1539000",
+    "type": "cross_reference",
+    "description": "enactment other than this Act may require different compliance from industry skills board",
+    "act_name": "this Act",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172363",
+    "type": "power_or_duty",
+    "description": "Minister may exercise powers under the Crown Entities Act 2004 as if TEC were covered by it",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172364",
+    "type": "citation",
+    "description": "refers to section 149I of the Crown Entities Act 2004 for the requirement",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172414",
+    "type": "power_or_duty",
+    "description": "TEC has the power to suspend or revoke funding under section 73 of the Crown Entities Act 2004",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS172414",
+    "type": "cross_reference",
+    "description": "subclause (2) applies to organisations where a person has exercised powers under section 73 of the Crown Entities Act 2004, specifically clauses 26 and 27",
+    "act_name": "the Crown Entities Act 2004",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS177826",
+    "type": "cross_reference",
+    "description": "refers to the Protection of Personal and Property Rights Act 1988 for property order context",
+    "act_name": "the Protection of Personal and Property Rights Act 1988",
+    "relationship": "citation"
+  },
+  {
+    "provision_id": "LMS347458",
+    "type": "definition_reference",
+    "description": "the teaching position is defined by regulation 6 for the purposes of the transition plan",
+    "act_name": "regulation 6",
+    "relationship": "citation"
+  }
+]
