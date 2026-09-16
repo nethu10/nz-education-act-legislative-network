@@ -1,0 +1,1556 @@
+[
+  {
+    "act": "Crown Entities Act 2004 (2004 No 115)",
+    "outgoing_amendments": 22,
+    "incoming_amendments": 0,
+    "citations": 32,
+    "combined_score": 54
+  },
+  {
+    "act": "Teaching Council Rules 2016 (LI 2016/122)",
+    "outgoing_amendments": 39,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 39
+  },
+  {
+    "act": "Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999 (SR 1999/202)",
+    "outgoing_amendments": 28,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 28
+  },
+  {
+    "act": "Social Security Regulations 2018 (LI 2018/202)",
+    "outgoing_amendments": 18,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 18
+  },
+  {
+    "act": "Treaty of Waitangi Act 1975 (1975 No 114)",
+    "outgoing_amendments": 17,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 17
+  },
+  {
+    "act": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+    "outgoing_amendments": 17,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 17
+  },
+  {
+    "act": "Social Security Act 2018 (2018 No 32)",
+    "outgoing_amendments": 14,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 15
+  },
+  {
+    "act": "Education (Surrender, Retention, and Search) Rules 2013 (SR 2013/469)",
+    "outgoing_amendments": 13,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 13
+  },
+  {
+    "act": "Education (School Trustee Elections) Regulations 2000 (SR 2000/195)",
+    "outgoing_amendments": 12,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 13
+  },
+  {
+    "act": "Employment Relations Act 2000 (2000 No 24)",
+    "outgoing_amendments": 7,
+    "incoming_amendments": 0,
+    "citations": 6,
+    "combined_score": 13
+  },
+  {
+    "act": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 10,
+    "combined_score": 13
+  },
+  {
+    "act": "Education (Registration of Early Childhood Services Teachers) Regulations 2004 (SR 2004/236)",
+    "outgoing_amendments": 12,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 12
+  },
+  {
+    "act": "Education (School Risk Management Scheme) Regulations 2003 (SR 2003/39)",
+    "outgoing_amendments": 12,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 12
+  },
+  {
+    "act": "Income Tax Act 2007 (2007 No 97)",
+    "outgoing_amendments": 11,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 12
+  },
+  {
+    "act": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "outgoing_amendments": 11,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 11
+  },
+  {
+    "act": "Legislation Act 2019 (2019 No 58)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 9,
+    "combined_score": 11
+  },
+  {
+    "act": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "outgoing_amendments": 8,
+    "incoming_amendments": 0,
+    "citations": 2,
+    "combined_score": 10
+  },
+  {
+    "act": "Education Act 1989",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 10,
+    "combined_score": 10
+  },
+  {
+    "act": "Education (Hostels) Regulations 2005 (SR 2005/332)",
+    "outgoing_amendments": 9,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 9
+  },
+  {
+    "act": "Tax Administration Act 1994 (1994 No 166)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 6,
+    "combined_score": 9
+  },
+  {
+    "act": "Public Bodies Contracts Act 1959 (1959 No 98)",
+    "outgoing_amendments": 8,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 8
+  },
+  {
+    "act": "Education (2020 School Staffing) Order 2019 (LI 2019/180)",
+    "outgoing_amendments": 8,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 8
+  },
+  {
+    "act": "International Student Contract Dispute Resolution Scheme Rules 2016 (LI 2016/42)",
+    "outgoing_amendments": 8,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 8
+  },
+  {
+    "act": "Children’s Act 2014 (2014 No 40)",
+    "outgoing_amendments": 5,
+    "incoming_amendments": 0,
+    "citations": 3,
+    "combined_score": 8
+  },
+  {
+    "act": "Immigration Act 2009 (2009 No 51)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 4,
+    "combined_score": 8
+  },
+  {
+    "act": "Lincoln University Act 1961 (1961 No 52)",
+    "outgoing_amendments": 7,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 7
+  },
+  {
+    "act": "Massey University Act 1963 (1963 No 7)",
+    "outgoing_amendments": 7,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 7
+  },
+  {
+    "act": "University of Auckland Act 1961 (1961 No 50)",
+    "outgoing_amendments": 7,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 7
+  },
+  {
+    "act": "University of Canterbury Act 1961 (1961 No 49)",
+    "outgoing_amendments": 7,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 7
+  },
+  {
+    "act": "University of Waikato Act 1963 (1963 No 8)",
+    "outgoing_amendments": 7,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 7
+  },
+  {
+    "act": "Victoria University of Wellington Act 1961 (1961 No 51)",
+    "outgoing_amendments": 7,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 7
+  },
+  {
+    "act": "Education (Playgroups) Regulations 2008 (SR 2008/205)",
+    "outgoing_amendments": 7,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 7
+  },
+  {
+    "act": "Public Works Act 1981 (1981 No 35)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 5,
+    "combined_score": 7
+  },
+  {
+    "act": "Financial Advisers Act 2008 (2008 No 91)",
+    "outgoing_amendments": 6,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 6
+  },
+  {
+    "act": "Te Kawerau ā Maki Claims Settlement Act 2015 (2015 No 75)",
+    "outgoing_amendments": 6,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 6
+  },
+  {
+    "act": "Teaching Council of Aotearoa New Zealand Election Rules 2018 (LI 2018/234)",
+    "outgoing_amendments": 6,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 6
+  },
+  {
+    "act": "Privacy Act 2020 (2020 No 31)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 3,
+    "combined_score": 6
+  },
+  {
+    "act": "Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014 (2014 No 52)",
+    "outgoing_amendments": 5,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 5
+  },
+  {
+    "act": "Ngāi Tahu Claims Settlement Act 1998 (1998 No 97)",
+    "outgoing_amendments": 5,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 5
+  },
+  {
+    "act": "Public Audit Act 2001 (2001 No 10)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 2,
+    "combined_score": 5
+  },
+  {
+    "act": "Crimes Act 1961 (1961 No 43)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 3,
+    "combined_score": 5
+  },
+  {
+    "act": "Accident Compensation Act 2001 (2001 No 49)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Corrections Act 2004 (2004 No 50)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Local Government Official Information and Meetings Act 1987 (1987 No 174)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Ngāruahine Claims Settlement Act 2016 (2016 No 93)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Ngāti Rangi Claims Settlement Act 2019 (2019 No 40)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Ngāti Tūwharetoa Claims Settlement Act 2018 (2018 No 55)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Ngāti Whātua o Kaipara Claims Settlement Act 2013 (2013 No 37)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Ombudsmen Act 1975 (1975 No 9)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "State Sector Act 1988 (1988 No 20)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Taranaki Iwi Claims Settlement Act 2016 (2016 No 95)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Taranaki Scholarships Trust Board Act 1957 (1957 No 108)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Te Atiawa Claims Settlement Act 2016 (2016 No 94)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Accident Compensation (Work Account Levies) Regulations 2019 (LI 2019/37)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Education (Payment of Relieving Teachers) Order 2012 (SR 2012/221)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Education (Tertiary Education—Criteria Permanent Residents Studying Overseas must Satisfy to be Domestic Students) Regulations 2016 (LI 2016/212)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Health Entitlement Cards Regulations 1993 (SR 1993/169)",
+    "outgoing_amendments": 4,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Resource Management (Natural and Built Environment and Spatial Planning Repeal and Interim Fast-track Consenting) Act 2023",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 4,
+    "citations": 0,
+    "combined_score": 4
+  },
+  {
+    "act": "Local Authorities (Members’ Interests) Act 1968 (1968 No 147)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 4
+  },
+  {
+    "act": "Privacy Act 1993 (1993 No 28)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 4
+  },
+  {
+    "act": "Family Violence Act 2018 (2018 No 46)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Health Act 1956 (1956 No 65)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Music Teachers Act 1981 (1981 No 3)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014 (2014 No 19)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Ngāti Kōata, Ngāti Rārua, Ngāti Tama ki Te Tau Ihu, and Te Ātiawa o Te Waka-a-Māui Claims Settlement Act 2014 (2014 No 20)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Ngāti Kuri Claims Settlement Act 2015 (2015 No 76)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Ngati Toa Rangatira Claims Settlement Act 2014 (2014 No 17)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Prohibition of Gang Insignia in Government Premises Act 2013 (2013 No 56)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Residential Tenancies Act 1986 (1986 No 120)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Te Rarawa Claims Settlement Act 2015 (2015 No 79)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Accident Compensation (Experience Rating) Regulations 2019 (LI 2019/38)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Education (Refund Requirements for International Students) Notice 2012 (SR 2012/312)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Health (Immunisation) Regulations 1995 (SR 1995/304)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Oranga Tamariki (National Care Standards and Related Matters) Regulations 2018 (LI 2018/111)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Outer Space and High-altitude Activities (Definition of High-altitude Vehicle) Regulations 2017 (LI 2017/251)",
+    "outgoing_amendments": 3,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 3
+  },
+  {
+    "act": "Official Information Act 1982 (1982 No 156)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 3
+  },
+  {
+    "act": "Oranga Tamariki Act 1989 (1989 No 24)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 3
+  },
+  {
+    "act": "Data and Statistics Act 2022",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 2,
+    "citations": 1,
+    "combined_score": 3
+  },
+  {
+    "act": "Protection Of Personal And Property Rights Act 1988",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 3,
+    "combined_score": 3
+  },
+  {
+    "act": "Industry Training And Apprenticeships Act 1992",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 3,
+    "combined_score": 3
+  },
+  {
+    "act": "Public Finance Act 1989",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 3,
+    "combined_score": 3
+  },
+  {
+    "act": "Care and Support Workers (Pay Equity) Settlement Act 2017 (2017 No 24)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Copyright Act 1994 (1994 No 143)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Customs and Excise Act 2018 (2018 No 4)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Electoral Act 1993 (1993 No 87)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Estate and Gift Duties Act 1968 (1968 No 35)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Finance Act (No 2) 1992 (1992 No 127)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Goods and Services Tax Act 1985 (1985 No 141)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Harmful Digital Communications Act 2015 (2015 No 63)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Health and Safety at Work Act 2015 (2015 No 70)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Heretaunga Tamatea Claims Settlement Act 2018 (2018 No 14)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Hineuru Claims Settlement Act 2016 (2016 No 33)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Iwi and Hapū of Te Rohe o Te Wairoa Claims Settlement Act 2018 (2018 No 28)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Kitchener Memorial Scholarship Trust Act 1941 (1941 No 20)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Legislation Act 2012 (2012 No 119)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Local Government Act 2002 (2002 No 84)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Local Government (Rating) Act 2002 (2002 No 6)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Maori Fisheries Act 2004 (2004 No 78)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Maungaharuru-Tangitū Hapū Claims Settlement Act 2014 (2014 No 12)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "New Zealand Superannuation and Veteran’s Pension Legislation Amendment Act 2020 (2020 No 36)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Ngāi Tai ki Tāmaki Claims Settlement Act 2018 (2018 No 18)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Ngai Tāmanuhiri Claims Settlement Act 2012 (2012 No 55)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "NgāiTakoto Claims Settlement Act 2015 (2015 No 78)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Ngāti Hauā Claims Settlement Act 2014 (2014 No 75)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Ngāti Koroki Kahukura Claims Settlement Act 2014 (2014 No 74)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Ngāti Mākino Claims Settlement Act 2012 (2012 No 53)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Ngāti Manuhiri Claims Settlement Act 2012 (2012 No 90)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Ngāti Pāhauwera Treaty Claims Settlement Act 2012 (2012 No 30)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Ngati Porou Claims Settlement Act 2012 (2012 No 31)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Ngāti Pūkenga Claims Settlement Act 2017 (2017 No 39)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Ngāti Rangiteaorere Claims Settlement Act 2014 (2014 No 13)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Ngāti Rangiwewehi Claims Settlement Act 2014 (2014 No 14)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Parental Leave and Employment Protection Act 1987 (1987 No 129)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009 (2009 No 26)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Public and Community Housing Management Act 1992 (1992 No 76)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Rangitāne o Manawatu Claims Settlement Act 2016 (2016 No 100)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Rangitāne Tū Mai Rā (Wairarapa Tamaki nui-ā-Rua) Claims Settlement Act 2017 (2017 No 38)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Raukawa Claims Settlement Act 2014 (2014 No 7)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Reserves and Other Lands Disposal Act 1993 (1993 No 1)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Rongowhakaata Claims Settlement Act 2012 (2012 No 54)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Smoke-free Environments Act 1990 (1990 No 108)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Summary Offences Act 1981 (1981 No 113)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Tapuika Claims Settlement Act 2014 (2014 No 15)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Te Aupouri Claims Settlement Act 2015 (2015 No 77)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Tūhoe Claims Settlement Act 2014 (2014 No 50)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Veterans’ Support Act 2014 (2014 No 56)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Crown Entities (Financial Powers) Regulations 2005 (SR 2005/68)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Education (Export Education Levy) Regulations 2011 (SR 2011/383)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Education (Ministry of Social Development Authorised to Use National Student Numbers) Regulations 2012 (SR 2012/338)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Education (School Attendance) Regulations 1951 (SR 1951/181)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Electronic Identity Verification Regulations 2013 (SR 2013/9)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Health and Safety at Work (Adventure Activities) Regulations 2016 (LI 2016/19)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Legal Services Regulations 2011 (SR 2011/144)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Social Security (Support for Children in Hardship—Transitional Subsidy) Regulations 2016 (LI 2016/52)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "State Sector (Employees of Boards of Waihopai School and Ruru Special School) Order 2006 (SR 2006/307)",
+    "outgoing_amendments": 2,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Public Service Amendment Act 2026",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 2,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Education (Free Kindergarten Associations) Order 2026",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 2,
+    "citations": 0,
+    "combined_score": 2
+  },
+  {
+    "act": "Building Act 2004 (2004 No 72)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 2
+  },
+  {
+    "act": "Equal Pay Act 1972 (1972 No 118)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 2
+  },
+  {
+    "act": "Trusts Act 2019 (2019 No 38)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 2
+  },
+  {
+    "act": "Privacy Act 1993 And 2020",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 2,
+    "combined_score": 2
+  },
+  {
+    "act": "Holidays Act 2003",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 2,
+    "combined_score": 2
+  },
+  {
+    "act": "Inland Revenue Acts",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 2,
+    "combined_score": 2
+  },
+  {
+    "act": "Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Central North Island Forests Land Collective Settlement Act 2008 (2008 No 99)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Child Support Act 1991 (1991 No 142)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Climate Change Response Act 2002 (2002 No 40)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Contract and Commercial Law Act 2017 (2017 No 5)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Dilworth Trustees Empowering Act 1983 (1983 No 3 (P))",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Fire and Emergency New Zealand Act 2017 (2017 No 17)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Food Act 2014 (2014 No 32)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Human Rights Act 1993 (1993 No 82)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Intelligence and Security Act 2017 (2017 No 10)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Maori Soldiers Trust Act 1957 (1957 No 29)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Maraeroa A and B Blocks Claims Settlement Act 2012 (2012 No 52)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Methodist Charitable and Educational Trusts Act 1911 (1911 No 1 (L))",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Ngaa Rauru Kiitahi Claims Settlement Act 2005 (2005 No 84)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Ngāti Apa (North Island) Claims Settlement Act 2010 (2010 No 129)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Ngāti Awa Claims Settlement Act 2005 (2005 No 28)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Ngāti Manawa Claims Settlement Act 2012 (2012 No 27)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Ngāti Mutunga Claims Settlement Act 2006 (2006 No 61)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Ngati Ruanui Claims Settlement Act 2003 (2003 No 20)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Ngati Tama Claims Settlement Act 2003 (2003 No 126)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Ngati Tamaoho Claims Settlement Act 2018 (2018 No 19)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Ngāti Tūrangitukua Claims Settlement Act 1999 (1999 No 118)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005 (2005 No 72)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Ngāti Whare Claims Settlement Act 2012 (2012 No 28)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Ngatikahu ki Whangaroa Claims Settlement Act 2017 (2017 No 41)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Overseas Investment Act 2005 (2005 No 82)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Pouakani Claims Settlement Act 2000 (2000 No 90)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Real Estate Agents Act 2008 (2008 No 66)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Reserves and Other Lands Disposal Act 1979 (1979 No 69)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Reserves and Other Lands Disposal Act 1995 (1995 No 54)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Reserves, Endowments, and Crown and Maori Lands Exchange, Sale, Disposal, and Enabling Act 1898 (1898 No 39)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Rotorua High Schools Board Empowering Act 1979 (1979 No 19)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Te Awa Tupua (Whanganui River Claims Settlement) Act 2017 (2017 No 7)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Te Roroa Claims Settlement Act 2008 (2008 No 100)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Te Urewera Act 2014 (2014 No 51)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Te Uri o Hau Claims Settlement Act 2002 (2002 No 36)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Thames Boys' and Girls’ High School Act 1878 (1878 No 54)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Waikato Raupatu Claims Settlement Act 1995 (1995 No 58)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Waitaha Claims Settlement Act 2013 (2013 No 38)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Wanganui High School Act 1878 (1878 No 42 (L))",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Accident Insurance (“Counsellor”) Regulations 1999 (SR 1999/166)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Building (Accreditation of Building Consent Authorities) Regulations 2006 (SR 2006/399)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Courts Security Regulations 2019 (LI 2019/61)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Education (2019 School Staffing) Order 2018 (LI 2018/129)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Education (Education Review Office Authorised to Use National Student Numbers) Regulations 2019 (LI 2019/20)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Education (Statistics New Zealand Authorised to Use National Student Numbers) Regulations 2008 (SR 2008/134)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Engine Drivers' Examination Regulations 1952 (SR 1952/149)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Health and Safety at Work (Hazardous Substances) Regulations 2017 (LI 2017/131)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Health and Safety at Work (Mining Operations and Quarrying Operations) Regulations 2016 (LI 2016/17)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Lawyers and Conveyancers Act (Conveyancers: Registration and Practice) Regulations 2008 (SR 2008/189)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Minimum Wage Order 2020 (LI 2020/9)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "National Civil Defence Emergency Management Plan Order 2015 (LI 2015/140)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Oranga Tamariki (Residential Care) Regulations 1996 (SR 1996/354)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Privacy (Information Sharing Agreement between Inland Revenue and Ministry of Social Development) Order 2017 (LI 2017/176)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Privacy (Information Sharing Agreement between Ministry of Social Development and New Zealand Customs Service) Order 2019 (LI 2019/75)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Privacy (Information Sharing Agreement between New Zealand Gang Intelligence Centre Agencies) Order 2018 (LI 2018/247)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Private Security Personnel and Private Investigators (Minimum Training) Regulations 2013 (SR 2013/321)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "United World Colleges Scholarships Regulations 1980 (SR 1980/102)",
+    "outgoing_amendments": 1,
+    "incoming_amendments": 0,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Pae Ora (Healthy Futures) Act 2022",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 1,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Pae Ora (Disestablishment of Māori Health Authority) Amendment Act 2024",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 1,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Public Finance Amendment Act 2026",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 1,
+    "citations": 0,
+    "combined_score": 1
+  },
+  {
+    "act": "Land Transfer Act 2017",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  },
+  {
+    "act": "New Zealand Bill Of Rights Act 1990",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  },
+  {
+    "act": "Crown Entities Act 2004 And Public Finance Act 1989",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  },
+  {
+    "act": "Criminal Procedure Act 2011",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  },
+  {
+    "act": "Commerce Act 1986",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  },
+  {
+    "act": "Cadastral Survey Act 2002 And The Land Act 1948",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  },
+  {
+    "act": "Civil Defence Emergency Management Act 2002 And Epidemic Preparedness Act 2006",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  },
+  {
+    "act": "Companies Act 1993",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  },
+  {
+    "act": "1992 Act",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  },
+  {
+    "act": "Judicial Review Procedure Act 2016",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  },
+  {
+    "act": "Financial Reporting Act 2013",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  },
+  {
+    "act": "Social Security Act 2018 And Public And Community Housing Management Act 1992",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  },
+  {
+    "act": "Fees And Travelling Allowances Act 1951",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  },
+  {
+    "act": "Estate And Gift Duties Act",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  },
+  {
+    "act": "Estate Duties Act",
+    "outgoing_amendments": 0,
+    "incoming_amendments": 0,
+    "citations": 1,
+    "combined_score": 1
+  }
+]
