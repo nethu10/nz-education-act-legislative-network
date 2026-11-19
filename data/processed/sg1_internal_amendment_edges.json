@@ -1,0 +1,237 @@
+[
+  {
+    "source": "Crown Entities Act 2004 (2004 No 115)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "count": 70
+  },
+  {
+    "source": "Crown Entities Act 2004 (2004 No 115)",
+    "target": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "count": 101
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999 (SR 1999/202)",
+    "count": 2
+  },
+  {
+    "source": "Legislation Act 2019 (2019 No 58)",
+    "target": "Social Security Regulations 2018 (LI 2018/202)",
+    "count": 1
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Social Security Regulations 2018 (LI 2018/202)",
+    "count": 9
+  },
+  {
+    "source": "Legislation Act 2019 (2019 No 58)",
+    "target": "Treaty of Waitangi Act 1975 (1975 No 114)",
+    "count": 1
+  },
+  {
+    "source": "Legislation Act 2019 (2019 No 58)",
+    "target": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+    "count": 1
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "count": 30
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "count": 8
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "count": 30
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "count": 8
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "count": 9
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "count": 19
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Social Security Act 2018 (2018 No 32)",
+    "count": 19
+  },
+  {
+    "source": "Legislation Act 2019 (2019 No 58)",
+    "target": "Social Security Act 2018 (2018 No 32)",
+    "count": 1
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Employment Relations Act 2000 (2000 No 24)",
+    "count": 5
+  },
+  {
+    "source": "Legislation Act 2019 (2019 No 58)",
+    "target": "Employment Relations Act 2000 (2000 No 24)",
+    "count": 3
+  },
+  {
+    "source": "Employment Relations Act 2000 (2000 No 24)",
+    "target": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "count": 6
+  },
+  {
+    "source": "Legislation Act 2019 (2019 No 58)",
+    "target": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "count": 8
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "count": 7
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "count": 26
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "count": 7
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "count": 4
+  },
+  {
+    "source": "Legislation Act 2019 (2019 No 58)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "count": 3
+  },
+  {
+    "source": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "count": 7
+  },
+  {
+    "source": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "target": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "count": 4
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "count": 2
+  },
+  {
+    "source": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "count": 12
+  },
+  {
+    "source": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "count": 36
+  },
+  {
+    "source": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "target": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+    "count": 2
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "count": 12
+  },
+  {
+    "source": "Employment Relations Act 2000 (2000 No 24)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "count": 3
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "count": 473
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "count": 9
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Lincoln University Act 1961 (1961 No 52)",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Massey University Act 1963 (1963 No 7)",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "University of Auckland Act 1961 (1961 No 50)",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "University of Canterbury Act 1961 (1961 No 49)",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "University of Waikato Act 1963 (1963 No 8)",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Victoria University of Wellington Act 1961 (1961 No 51)",
+    "count": 1
+  },
+  {
+    "source": "Legislation Act 2019 (2019 No 58)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "count": 2
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "count": 13
+  },
+  {
+    "source": "Massey University Act 1963 (1963 No 7)",
+    "target": "Victoria University of Wellington Act 1961 (1961 No 51)",
+    "count": 2
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Financial Advisers Act 2008 (2008 No 91)",
+    "count": 1
+  },
+  {
+    "source": "Legislation Act 2019 (2019 No 58)",
+    "target": "Privacy Act 2020 (2020 No 31)",
+    "count": 3
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "fix": "audit_fix_12",
+  "policy": "dedupe",
+  "merges": [
+    {
+      "alias": "Schedule 9 of the Education and Training Act 2020",
+      "canonical": "Education and Training Act 2020",
+      "kind": "merge",
+      "evidence": "Structural reference to a schedule of the seed Act, resolved by the identifier step to 2020 No 38 (the seed). Both XML files carry document id LMS170674; they are different snapshots (1.78M vs 1.84M characters of text), so out-edges take the larger count.",
+      "alias_node": {
+        "layer": "SG2",
+        "has_xml": "True",
+        "resolved": "True",
+        "year": "2020",
+        "number": "38",
+        "doc_type": "act"
+      }
+    },
+    {
+      "alias": "Schedule 1 of the Social Security Act 2018",
+      "canonical": "Social Security Act 2018 (2018 No 32)",
+      "kind": "merge",
+      "evidence": "Resolved to 2018 No 32; the SG3 XML text is identical to the SG1 file (normalised text, 1,137,638 characters).",
+      "alias_node": {
+        "layer": "SG3",
+        "has_xml": "True",
+        "resolved": "True",
+        "year": "2018",
+        "number": "32",
+        "doc_type": "act"
+      }
+    },
+    {
+      "alias": "Schedule 5 of the Crown Entities Act 2004",
+      "canonical": "Crown Entities Act 2004 (2004 No 115)",
+      "kind": "merge",
+      "evidence": "Resolved to 2004 No 115; the SG3 XML text is identical to the SG1 file (251,773 characters).",
+      "alias_node": {
+        "layer": "SG3",
+        "has_xml": "True",
+        "resolved": "True",
+        "year": "2004",
+        "number": "115",
+        "doc_type": "act"
+      }
+    },
+    {
+      "alias": "Government Superannuation Fund Act 1956 (1956 No 47) (RS Vol 21, p 209)",
+      "canonical": "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "kind": "merge",
+      "evidence": "Same Act cited with a reprint-volume note; the SG3 XML text is identical to the SG1 file (837,635 characters).",
+      "alias_node": {
+        "layer": "SG3",
+        "has_xml": "True",
+        "resolved": "True",
+        "year": "1956",
+        "number": "47",
+        "doc_type": "act"
+      }
+    },
+    {
+      "alias": "Health Reforms (Transitional Provisions) Act 1993",
+      "canonical": "Health Sector (Transfers) Act 1993",
+      "kind": "merge",
+      "evidence": "Both resolved to 1993 No 23 at the same legislation.govt.nz URL; the current title (in the SG2 XML) is Health Sector (Transfers) Act 1993, so the SG4 name is a former title.",
+      "alias_node": {
+        "layer": "SG4",
+        "has_xml": "True",
+        "resolved": "True",
+        "year": "1993",
+        "number": "23",
+        "doc_type": "act"
+      }
+    },
+    {
+      "alias": "Securities Trustees and Statutory Supervisors Act 2011",
+      "canonical": "Financial Markets Supervisors Act 2011",
+      "kind": "merge",
+      "evidence": "Both resolved to 2011 No 10 at the same legislation.govt.nz URL; the current title (in the SG3 XML) is Financial Markets Supervisors Act 2011, so the SG4 name is a former title.",
+      "alias_node": {
+        "layer": "SG4",
+        "has_xml": "True",
+        "resolved": "True",
+        "year": "2011",
+        "number": "10",
+        "doc_type": "act"
+      }
+    },
+    {
+      "alias": "Schedule 1 of the Immigration Regulations 1999",
+      "canonical": "Immigration Regulations 1999 (SR 1999/284)",
+      "kind": "rename",
+      "evidence": "Resolved to SR 1999/284 (revoked 2010-11-29); the XML title is 'Immigration Regulations 1999'. No parent node exists, so the node is renamed, not merged.",
+      "alias_node": {
+        "layer": "SG2",
+        "has_xml": "True",
+        "resolved": "True",
+        "year": "1999",
+        "number": "284",
+        "doc_type": "secondary-legislation"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2125 @@
+[
+  {
+    "act": "Financial Markets Authority Act 2011",
+    "combined_score": 273,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Financial Advisers Act 2008 (2008 No 91)"
+    ]
+  },
+  {
+    "act": "Income Tax Act 2004",
+    "combined_score": 260,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Education Act 1989 (1989 No 80)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Financial Markets (Repeals and Amendments) Act 2013",
+    "combined_score": 195,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Financial Advisers Act 2008 (2008 No 91)"
+    ]
+  },
+  {
+    "act": "Child Support (Pass On) Acts Amendment Act 2023",
+    "combined_score": 126,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Education and Training (Early Childhood Education Reform) Amendment Act 2025",
+    "combined_score": 122,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+      "Education (Playgroups) Regulations 2008 (SR 2008/205)"
+    ]
+  },
+  {
+    "act": "Families Package (Income Tax and Benefits) Act 2017",
+    "combined_score": 115,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Land Transfer Act 2017",
+    "combined_score": 111,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)",
+      "Public Works Act 1981 (1981 No 35)",
+      "Education Act 1989 (1989 No 80)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Criminal Procedure Act 2011",
+    "combined_score": 98,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Public Works Act 1981 (1981 No 35)",
+      "Education Act 1989 (1989 No 80)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Financial Advisers Act 2008 (2008 No 91)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Education (Hostels) Regulations 2005 (SR 2005/332)",
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020",
+    "combined_score": 82,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Tribunals Powers and Procedures Legislation Act 2018",
+    "combined_score": 72,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Injury Prevention, Rehabilitation, and Compensation Act 2001",
+    "combined_score": 64,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Education and Training (System Reform) Amendment Act 2026",
+    "combined_score": 60,
+    "linked_from": [
+      "Education (Hostels) Regulations 2005 (SR 2005/332)"
+    ]
+  },
+  {
+    "act": "KiwiSaver Act 2006",
+    "combined_score": 58,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ]
+  },
+  {
+    "act": "Worker Protection (Migrant and Other Employees) Act 2023",
+    "combined_score": 58,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Social Assistance Legislation (Accommodation Supplement and Income-related Rent) Amendment Act 2025",
+    "combined_score": 55,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "COVID-19 Response (Taxation and Other Regulatory Urgent Measures) Act 2020",
+    "combined_score": 54,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Education Council Amendment Rules 2018",
+    "combined_score": 53,
+    "linked_from": [
+      "Teaching Council Rules 2016 (LI 2016/122)"
+    ]
+  },
+  {
+    "act": "Government Roading Powers Act 1989",
+    "combined_score": 52,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Education and Training Amendment Act 2024",
+    "combined_score": 51,
+    "linked_from": [
+      "Children\u2019s Act 2014 (2014 No 40)",
+      "Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999 (SR 1999/202)",
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "Public Trust Act 2001",
+    "combined_score": 48,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Public Works Act 1981 (1981 No 35)",
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Pae Ora (Healthy Futures) Act 2022",
+    "combined_score": 47,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Children\u2019s Act 2014 (2014 No 40)",
+      "Social Security Act 2018 (2018 No 32)",
+      "Privacy Act 2020 (2020 No 31)",
+      "Student Allowances Regulations 1998 (SR 1998/277)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Data and Statistics Act 2022",
+    "combined_score": 43,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Public Works Act 1981 (1981 No 35)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)",
+      "Legislation Act 2019 (2019 No 58)",
+      "Privacy Act 2020 (2020 No 31)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Survey Amendment Act 1996",
+    "combined_score": 43,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)",
+      "Public Works Act 1981 (1981 No 35)",
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Domestic Violence\u2014Victims' Protection Act 2018",
+    "combined_score": 43,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Local Government Act 2002",
+    "combined_score": 41,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Public Works Act 1981 (1981 No 35)",
+      "Education Act 1989 (1989 No 80)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "New Zealand Superannuation and Veteran\u2019s Pension Legislation Amendment Act 2020",
+    "combined_score": 40,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Veterans' Support Act 2014",
+    "combined_score": 40,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)",
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Family Violence Act 2018",
+    "combined_score": 39,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "District Court Act 2016",
+    "combined_score": 38,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Public Works Act 1981 (1981 No 35)",
+      "Education Act 1989 (1989 No 80)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Financial Advisers Act 2008 (2008 No 91)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Child Support Act 1991",
+    "combined_score": 37,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Financial Reporting (Amendments to Other Enactments) Act 2013",
+    "combined_score": 36,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Income Tax Act 1994",
+    "combined_score": 35,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Children's Amendment Act 2018",
+    "combined_score": 35,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Children\u2019s Act 2014 (2014 No 40)"
+    ]
+  },
+  {
+    "act": "Resource Management (Natural and Built Environment and Spatial Planning Repeal and Interim Fast-track Consenting) Act 2023",
+    "combined_score": 32,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Legislation Act 2019 (2019 No 58)",
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "Relationships (Statutory References) Act 2005",
+    "combined_score": 32,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "New Zealand Superannuation and Retirement Income Act 2001",
+    "combined_score": 32,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Resource Management Act 1991",
+    "combined_score": 31,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Statutes Amendment Act 2025",
+    "combined_score": 31,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Climate Change Response (Emissions Trading Reform) Amendment Act 2020",
+    "combined_score": 31,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Resource Management Amendment Act 1996",
+    "combined_score": 29,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Judicature Amendment Act 2004",
+    "combined_score": 28,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017",
+    "combined_score": 28,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Children\u2019s Act 2014 (2014 No 40)",
+      "Education (Hostels) Regulations 2005 (SR 2005/332)"
+    ]
+  },
+  {
+    "act": "Intelligence and Security Act 2017",
+    "combined_score": 28,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Contract and Commercial Law Act 2017",
+    "combined_score": 27,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Te Kawerau \u0101 Maki Claims Settlement Act 2015 (2015 No 75)",
+      "Social Security Act 2018 (2018 No 32)",
+      "Education (School Risk Management Scheme) Regulations 2003 (SR 2003/39)"
+    ]
+  },
+  {
+    "act": "Social Security Act 1964",
+    "combined_score": 25,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ]
+  },
+  {
+    "act": "Goods and Services Tax Act 1985",
+    "combined_score": 24,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Housing Restructuring and Tenancy Matters Act 1992",
+    "combined_score": 22,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Defence Act 1990",
+    "combined_score": 21,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Financial Market Infrastructures Act 2021",
+    "combined_score": 21,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Parliament (Repeals and Amendments) Act 2025",
+    "combined_score": 20,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Legislation Act 2019 (2019 No 58)",
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Customs and Excise Act 2018",
+    "combined_score": 20,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Children\u2019s Act 2014 (2014 No 40)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Health Entitlement Cards Regulations 1993",
+    "combined_score": 20,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Senior Courts Act 2016",
+    "combined_score": 19,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Public Finance (Mixed Ownership Model) Amendment Act 2012",
+    "combined_score": 19,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Healthy Futures (Pae Ora) Amendment Act 2026",
+    "combined_score": 19,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Children\u2019s Act 2014 (2014 No 40)",
+      "Social Security Act 2018 (2018 No 32)",
+      "Student Allowances Regulations 1998 (SR 1998/277)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Pae Ora (Disestablishment of M\u0101ori Health Authority) Amendment Act 2024",
+    "combined_score": 19,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Children\u2019s Act 2014 (2014 No 40)",
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Statutes Amendment Act 2019",
+    "combined_score": 18,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "New Zealand Superannuation and Retirement Income Amendment Act 2019",
+    "combined_score": 18,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Education and Training Amendment Act 2022",
+    "combined_score": 18,
+    "linked_from": [
+      "Children\u2019s Act 2014 (2014 No 40)",
+      "Student Allowances Regulations 1998 (SR 1998/277)",
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+      "International Student Contract Dispute Resolution Scheme Rules 2016 (LI 2016/42)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Resource Legislation Amendment Act 2017",
+    "combined_score": 17,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+    "combined_score": 17,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Statutes Amendment Act 2022",
+    "combined_score": 17,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Legislation Act 2019 (2019 No 58)",
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Cadastral Survey Act 2002",
+    "combined_score": 16,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ]
+  },
+  {
+    "act": "Civil Aviation Act 2023",
+    "combined_score": 16,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Legislation Act 2019 (2019 No 58)"
+    ]
+  },
+  {
+    "act": "Incorporated Societies Act 2022",
+    "combined_score": 15,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Fair Pay Agreements Act Repeal Act 2023",
+    "combined_score": 15,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Compensation for Live Organ Donors Act 2016",
+    "combined_score": 15,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Customs and Excise Act 1996",
+    "combined_score": 15,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Accident Compensation Act 2001",
+    "combined_score": 14,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Dairy Industry Restructuring Act 2001",
+    "combined_score": 14,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Corrections Act 2004",
+    "combined_score": 13,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Social Security Act 2018 (2018 No 32)",
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Public Finance Act 1989",
+    "combined_score": 13,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Public Works Act 1981 (1981 No 35)",
+      "Education Act 1989 (1989 No 80)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Policing Act 2008",
+    "combined_score": 13,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Public Works Act 1981 (1981 No 35)",
+      "Education Act 1989 (1989 No 80)",
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Crown Forest Assets Act 1989",
+    "combined_score": 13,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ]
+  },
+  {
+    "act": "Criminal Procedure (Consequential Amendments) Regulations 2013",
+    "combined_score": 13,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Education Act 1989 (1989 No 80)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ]
+  },
+  {
+    "act": "Reserve Bank of New Zealand Act 2021",
+    "combined_score": 13,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)",
+      "Legislation Act 2019 (2019 No 58)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Trusts Act 2019",
+    "combined_score": 13,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Financial Advisers Act 2008 (2008 No 91)",
+      "Te Kawerau \u0101 Maki Claims Settlement Act 2015 (2015 No 75)"
+    ]
+  },
+  {
+    "act": "Social Assistance Legislation (Budget 2019 Welfare Package) Amendment Act 2019",
+    "combined_score": 13,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Local Government (Water Services) (Repeals and Amendments) Act 2025",
+    "combined_score": 12,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "K\u0101inga Ora\u2013Homes and Communities Act 2019",
+    "combined_score": 12,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Social Security Act 2018 (2018 No 32)",
+      "Student Allowances Regulations 1998 (SR 1998/277)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Legislation Act 2012",
+    "combined_score": 12,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Financial Advisers Act 2008 (2008 No 91)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Privacy Act 1993",
+    "combined_score": 12,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Regulatory Systems (Primary Industries) Amendment Act 2026",
+    "combined_score": 12,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Legislation Act 2019 (2019 No 58)"
+    ]
+  },
+  {
+    "act": "Employment Services and Income Support (Integrated Administration) Act 1998",
+    "combined_score": 11,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Equal Pay Amendment Act 2020",
+    "combined_score": 11,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Equal Pay Amendment Act 2025",
+    "combined_score": 11,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Disability Support Services Act 2026",
+    "combined_score": 11,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Allowances Regulations 1998 (SR 1998/277)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Westpac New Zealand Act 2006",
+    "combined_score": 11,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Companies Amendment Act 2013",
+    "combined_score": 10,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Public Works Act 1981 (1981 No 35)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Te Ture Whenua Maori Act 1993",
+    "combined_score": 10,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Treaty of Waitangi Act 1975 (1975 No 114)",
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Energy Companies Act 1992",
+    "combined_score": 10,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Infrastructure Funding and Financing Act 2020",
+    "combined_score": 10,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Land Transport Management Amendment Act 2008",
+    "combined_score": 10,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Stamp Duty Abolition Act 1999",
+    "combined_score": 10,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Education Act 1989 (1989 No 80)",
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "New Zealand Superannuation and Retirement Income (Controlling Interests) Amendment Act 2024",
+    "combined_score": 10,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Estate and Gift Duties Act 1968",
+    "combined_score": 10,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Niue Act 1966",
+    "combined_score": 9,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Department of Justice (Restructuring) Act 1995",
+    "combined_score": 9,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "National Provident Fund Restructuring Act 1990",
+    "combined_score": 9,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Parental Leave and Employment Protection Amendment Act 2016",
+    "combined_score": 9,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Racing Industry Act 2020",
+    "combined_score": 9,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Regulatory Systems (Workforce) Amendment Act 2019",
+    "combined_score": 9,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "COVID-19 Response (Further Management Measures) Legislation Act (No 2) 2020",
+    "combined_score": 9,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Extradition Act 1999",
+    "combined_score": 9,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Health Practitioners Competence Assurance Act 2003",
+    "combined_score": 8,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Insolvency Act 2006",
+    "combined_score": 8,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Education (Hostels) Regulations 2005 (SR 2005/332)"
+    ]
+  },
+  {
+    "act": "Financial Reporting Amendment Act 2014",
+    "combined_score": 8,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Financial Advisers Act 2008 (2008 No 91)"
+    ]
+  },
+  {
+    "act": "Social Security (Benefit Categories and Work Focus) Amendment Act 2013",
+    "combined_score": 8,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "State-Owned Enterprises Amendment Act 2004",
+    "combined_score": 8,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Screen Industry Workers Act 2022",
+    "combined_score": 8,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Disabled Persons Community Welfare Act 1975",
+    "combined_score": 8,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Oversight of Oranga Tamariki System Legislation Amendment Act 2025",
+    "combined_score": 8,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Children\u2019s Act 2014 (2014 No 40)",
+      "Education (Hostels) Regulations 2005 (SR 2005/332)"
+    ]
+  },
+  {
+    "act": "Wool Industry Restructuring Act 2003",
+    "combined_score": 8,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Citizenship Act 1977",
+    "combined_score": 8,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Summary Proceedings Act 1957",
+    "combined_score": 8,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "State Sector Amendment Act (No\u00a02) 1989",
+    "combined_score": 7,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "University of Canterbury Act 1961 (1961 No 49)",
+      "Lincoln University Act 1961 (1961 No 52)",
+      "Massey University Act 1963 (1963 No 7)",
+      "University of Waikato Act 1963 (1963 No 8)"
+    ]
+  },
+  {
+    "act": "Constitution Act 1986",
+    "combined_score": 7,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "University of Canterbury Act 1961 (1961 No 49)",
+      "University of Auckland Act 1961 (1961 No 50)",
+      "Victoria University of Wellington Act 1961 (1961 No 51)",
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ]
+  },
+  {
+    "act": "Tokelau Amendment Act 1967",
+    "combined_score": 7,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Universities Act 1961",
+    "combined_score": 7,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Public Bodies Contracts Act 1959 (1959 No 98)"
+    ]
+  },
+  {
+    "act": "Accident Compensation Amendment Act 2010",
+    "combined_score": 7,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Foreign Affairs Amendment Act 1993",
+    "combined_score": 7,
+    "linked_from": [
+      "University of Canterbury Act 1961 (1961 No 49)",
+      "University of Auckland Act 1961 (1961 No 50)",
+      "Victoria University of Wellington Act 1961 (1961 No 51)",
+      "Lincoln University Act 1961 (1961 No 52)",
+      "Massey University Act 1963 (1963 No 7)",
+      "University of Waikato Act 1963 (1963 No 8)",
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education (Name Change for NZIST) Order 2020",
+    "combined_score": 7,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Financial Advisers Act 2008 (2008 No 91)",
+      "International Student Contract Dispute Resolution Scheme Rules 2016 (LI 2016/42)"
+    ]
+  },
+  {
+    "act": "Te Ture m\u014d te Hararei T\u016bmatanui o te K\u0101hui o Matariki 2022",
+    "combined_score": 7,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Te Kawerau \u0101 Maki Claims Settlement Act 2015 (2015 No 75)",
+      "Social Security Act 2018 (2018 No 32)",
+      "Legislation Act 2019 (2019 No 58)",
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Town and Country Planning Amendment Act 1983",
+    "combined_score": 7,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008",
+    "combined_score": 7,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "COVID-19 Response (Urgent Management Measures) Legislation Act 2020",
+    "combined_score": 7,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Accident Insurance Act 1998",
+    "combined_score": 7,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Holidays Act 2003",
+    "combined_score": 7,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Statutes Amendment Act 2016",
+    "combined_score": 7,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Children\u2019s Act 2014 (2014 No 40)"
+    ]
+  },
+  {
+    "act": "Fisheries Act 1996",
+    "combined_score": 7,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "State-Owned Enterprises Amendment Act 2012",
+    "combined_score": 7,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Charities Act 2005",
+    "combined_score": 7,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Births, Deaths, Marriages, and Relationships Registration Act 1995",
+    "combined_score": 7,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Tokelau Amendment Act 1976",
+    "combined_score": 6,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Public Finance Amendment Act 1992",
+    "combined_score": 6,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Standards and Accreditation Act 2015",
+    "combined_score": 6,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Remuneration Authority (Members of Parliament) Amendment Act 2002",
+    "combined_score": 6,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)",
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Marine and Coastal Area (Takutai Moana) Act 2011",
+    "combined_score": 6,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013",
+    "combined_score": 6,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Education Act 1989 (1989 No 80)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Local Government (Rating) Act 2002",
+    "combined_score": 6,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Statutes Repeal Act 2017",
+    "combined_score": 6,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "COVID-19 Response (Further Management Measures) Legislation Act (No\u00a02) 2020",
+    "combined_score": 6,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Electricity Industry Reform Act 1998",
+    "combined_score": 6,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Stamp and Cheque Duties Act 1971",
+    "combined_score": 6,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Veterans' Support Regulations 2014",
+    "combined_score": 6,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Legislation Act (Sub-delegated Secondary Legislation) Regulations 2021",
+    "combined_score": 6,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+      "Education (Playgroups) Regulations 2008 (SR 2008/205)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Education and Training Amendment Act 2025",
+    "combined_score": 6,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+      "Teaching Council of Aotearoa New Zealand Election Rules 2018 (LI 2018/234)"
+    ]
+  },
+  {
+    "act": "Crown Research Institutes Act 1992",
+    "combined_score": 5,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Public Audit Act 2001",
+    "combined_score": 5,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Education and Training (Vocational Education and Training System) Amendment Act 2025",
+    "combined_score": 5,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Conservation Act 1987",
+    "combined_score": 5,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Irrigation Schemes Act 1990",
+    "combined_score": 5,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Legislation (Confirmable Instruments) Amendment Act 2015",
+    "combined_score": 5,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Regulatory Systems (Immigration and Workforce) Amendment Act 2025",
+    "combined_score": 5,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Care and Support Workers (Pay Equity) Settlement Act 2017",
+    "combined_score": 5,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Fire and Emergency New Zealand Act 2017",
+    "combined_score": 5,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Education (Hostels) Regulations 2005 (SR 2005/332)",
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "Natural Hazards Insurance Act 2023",
+    "combined_score": 5,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Electoral Act 1993",
+    "combined_score": 5,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Legal Services Act 2000",
+    "combined_score": 5,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Securities Act 1978",
+    "combined_score": 5,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Social Assistance (Living Alone Payments) Amendment Act 2013",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Sentencing Act 2002",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Remuneration Authority Legislation Act 2022",
+    "combined_score": 5,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "International Crimes and International Criminal Court Act 2000",
+    "combined_score": 5,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Overseas Investment Act 2005",
+    "combined_score": 5,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Pitcairn Trials Act 2002",
+    "combined_score": 5,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Corrections Regulations 2005",
+    "combined_score": 5,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Vulnerable Children (Specified Organisations and Regulated Services) Regulations 2016",
+    "combined_score": 5,
+    "linked_from": [
+      "Children\u2019s Act 2014 (2014 No 40)"
+    ]
+  },
+  {
+    "act": "Vulnerable Children (Regulated Services) Regulations 2018",
+    "combined_score": 5,
+    "linked_from": [
+      "Children\u2019s Act 2014 (2014 No 40)"
+    ]
+  },
+  {
+    "act": "Births, Deaths, Marriages, and Relationships Registration Act 2021",
+    "combined_score": 5,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "State Sector Act 1988 (RS Vol 33, p 715)",
+    "combined_score": 4,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Education Act 1989 (1989 No 80)",
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "New Zealand Railways Corporation Act 1981",
+    "combined_score": 4,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Family Proceedings Act 1980",
+    "combined_score": 4,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "State Sector Amendment Act 2003",
+    "combined_score": 4,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Treaty of Waitangi Act 1975 (1975 No 114)",
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Human Rights Amendment Act 2001",
+    "combined_score": 4,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Treaty of Waitangi Act 1975 (1975 No 114)",
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Health Sector (Transfers) Act 1993",
+    "combined_score": 4,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Local Government Act 1974",
+    "combined_score": 4,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Arts Council of New Zealand Toi Aotearoa Act 1994",
+    "combined_score": 4,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Research, Science, and Technology Act 2010",
+    "combined_score": 4,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "New Zealand Railways Corporation Restructuring Act 1990",
+    "combined_score": 4,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)",
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Te Awa Tupua (Whanganui River Claims Settlement) Act 2017",
+    "combined_score": 4,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Interest on Money Claims Act 2016",
+    "combined_score": 4,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Railway Safety and Corridor Management Act 1992",
+    "combined_score": 4,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Building Act 2004",
+    "combined_score": 4,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Ministries of Agriculture and Forestry (Restructuring) Act 1997",
+    "combined_score": 4,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Lawyers and Conveyancers Act 2006",
+    "combined_score": 4,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Security Information in Proceedings (Repeals and Amendments) Act 2022",
+    "combined_score": 4,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Judicial Review Procedure Act 2016",
+    "combined_score": 4,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Supreme Court Act 2003",
+    "combined_score": 4,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Companies Act 1993",
+    "combined_score": 4,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Legislation Act 2019 (2019 No 58)"
+    ]
+  },
+  {
+    "act": "Human Rights Act 1993",
+    "combined_score": 4,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Te Ture Whakatupua m\u014d Te K\u0101hui Tupua 2025/Taranaki Maunga Collective Redress Act 2025",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Land Transport Amendment Act 2017",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Land Transport (Clean Vehicles) Amendment Act 2022",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Home Ownership Savings Act 1974",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Kiwifruit Industry Restructuring Act 1999",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "National Provident Fund Restructuring Amendment Act 1997",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Rates Rebate Act 1973",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Unit Trusts Act 1960",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "War Pensions Act 1954",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Tower Corporation Act 1990",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Electronic Interactions Reform Act 2017",
+    "combined_score": 4,
+    "linked_from": [
+      "Financial Advisers Act 2008 (2008 No 91)"
+    ]
+  },
+  {
+    "act": "Land Transport Rule 32006/1: Frontal Impact 2001",
+    "combined_score": 4,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Vulnerable Children Amendment Act 2017",
+    "combined_score": 4,
+    "linked_from": [
+      "Children\u2019s Act 2014 (2014 No 40)"
+    ]
+  },
+  {
+    "act": "Family Benefits (Home Ownership) Act 1964",
+    "combined_score": 4,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Residential Tenancies Act 1986",
+    "combined_score": 4,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Social Housing Appeals Regulations 2014",
+    "combined_score": 4,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Financial Reporting Amendment Act 2011",
+    "combined_score": 3,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Milk Act 1967",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)"
+    ]
+  },
+  {
+    "act": "Sport and Recreation New Zealand Act 2002",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Social Welfare (Transitional Provisions) Act 1990",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Pork Industry Board Act 1982",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)"
+    ]
+  },
+  {
+    "act": "Electricity Act 1992",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Public Works Act 1981 (1981 No 35)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Counties Act 1956 (1956 No 64) (1957 Reprint, Vol 3, p 79)",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Public Bodies Contracts Act 1959 (1959 No 98)"
+    ]
+  },
+  {
+    "act": "Harbours Act 1950 (1950 No 34) (RS Vol 2, p 551)",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "State-Owned Enterprises Amendment Act 1992",
+    "combined_score": 3,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ]
+  },
+  {
+    "act": "Patents Act 2013",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Transit New Zealand Amendment Act 1995",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Limitation Act 2010",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)",
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Survey Amendment Act (No\u00a03) 1989",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Department of Child, Youth and Family Services Act 1999",
+    "combined_score": 3,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Social Security (Youth Support and Work Focus) Amendment Act 2012",
+    "combined_score": 3,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Official Information Act 1982",
+    "combined_score": 3,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Search and Surveillance Act 2012",
+    "combined_score": 3,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Education and Training Amendment Act 2023",
+    "combined_score": 3,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Protected Disclosures (Protection of Whistleblowers) Act 2022",
+    "combined_score": 3,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Regulatory Systems (Workplace Relations) Amendment Act 2017",
+    "combined_score": 3,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Support Workers (Pay Equity) Settlements Amendment Act 2020",
+    "combined_score": 3,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016",
+    "combined_score": 3,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "COVID-19 Response (Vaccinations) Legislation Act 2021",
+    "combined_score": 3,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Civil Aviation Act 1990",
+    "combined_score": 3,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Minimum Wage Act 1983",
+    "combined_score": 3,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "State-Owned Enterprises Act 1986",
+    "combined_score": 3,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "New Zealand Public Health and Disability Amendment Act 2012",
+    "combined_score": 3,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Electricity Industry Act 2010",
+    "combined_score": 3,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Legal Services Act 2011",
+    "combined_score": 3,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Integrity Sport and Recreation Act 2023",
+    "combined_score": 3,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Children\u2019s Act 2014 (2014 No 40)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance Act 2003",
+    "combined_score": 3,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ]
+  },
+  {
+    "act": "Governor-General Act 2010",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Members of Parliament (Remuneration and Services) Act 2013",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Partnership Law Act 2019",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Local Government (Auckland Council) (Transport Governance) Amendment Act 2026",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Finance Act 1987",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Hop Industry Restructuring Act 2003",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Maori Trust Boards Act 1955",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Perpetuities Act 1964",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "State Insurance Act 1990",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Selwyn Plantation Board Empowering Act 1992",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Financial Reporting Order 1994",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Parole Act 2002",
+    "combined_score": 3,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Children and Young People's Commission Act 2022",
+    "combined_score": 3,
+    "linked_from": [
+      "Children\u2019s Act 2014 (2014 No 40)",
+      "Education (Hostels) Regulations 2005 (SR 2005/332)"
+    ]
+  },
+  {
+    "act": "Privacy (Information Sharing Agreement between Inland Revenue and Ministry of Social Development) Order 2017",
+    "combined_score": 3,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Land Transport (NZTA) Legislation Amendment Act 2020",
+    "combined_score": 3,
+    "linked_from": [
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Emergency Management Act 2026",
+    "combined_score": 3,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  }
+]

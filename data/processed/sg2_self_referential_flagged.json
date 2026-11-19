@@ -1,0 +1,2345 @@
+[
+  {
+    "act": "Education Amendment Act 1990",
+    "combined_score": 546,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "University of Canterbury Act 1961 (1961 No 49)",
+      "University of Auckland Act 1961 (1961 No 50)",
+      "Victoria University of Wellington Act 1961 (1961 No 51)",
+      "Lincoln University Act 1961 (1961 No 52)",
+      "Massey University Act 1963 (1963 No 7)",
+      "University of Waikato Act 1963 (1963 No 8)",
+      "University of Waikato Act 1963 (1963 No 8)",
+      "Treaty of Waitangi Act 1975 (1975 No 114)",
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 2001",
+    "combined_score": 475,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Secondary Legislation Act 2021",
+    "combined_score": 376,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Public Works Act 1981 (1981 No 35)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Children\u2019s Act 2014 (2014 No 40)",
+      "Te Kawerau \u0101 Maki Claims Settlement Act 2015 (2015 No 75)",
+      "Social Security Act 2018 (2018 No 32)",
+      "Legislation Act 2019 (2019 No 58)",
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Education (Update) Amendment Act 2017",
+    "combined_score": 342,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Education (Vocational Education and Training Reform) Amendment Act 2020",
+    "combined_score": 333,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Financial Advisers Act 2008 (2008 No 91)",
+      "Legislation Act 2019 (2019 No 58)",
+      "Student Allowances Regulations 1998 (SR 1998/277)",
+      "International Student Contract Dispute Resolution Scheme Rules 2016 (LI 2016/42)"
+    ]
+  },
+  {
+    "act": "Tax Administration Amendment Act (No\u00a02) 1996",
+    "combined_score": 279,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Education (Teaching Council of Aotearoa New Zealand) Amendment Act 2018",
+    "combined_score": 266,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Education (Registration of Early Childhood Services Teachers) Regulations 2004 (SR 2004/236)",
+      "Teaching Council Rules 2016 (LI 2016/122)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2011",
+    "combined_score": 249,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Act 2025",
+    "combined_score": 246,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Financial Advisers Amendment Act 2010",
+    "combined_score": 237,
+    "linked_from": [
+      "Financial Advisers Act 2008 (2008 No 91)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2015",
+    "combined_score": 225,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Immigration Amendment Act 2015",
+    "combined_score": 214,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 2005",
+    "combined_score": 189,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Crown Entities Amendment Act 2013",
+    "combined_score": 161,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Student Loan Scheme Amendment Act 2013",
+    "combined_score": 144,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ]
+  },
+  {
+    "act": "Immigration (Fiscal Sustainability and System Integrity) Amendment Act 2025",
+    "combined_score": 126,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Public Works Amendment Act 1988",
+    "combined_score": 118,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Social Security (Modernisation) Amendment Act 2026",
+    "combined_score": 114,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Education Standards Act 2001",
+    "combined_score": 113,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2016",
+    "combined_score": 113,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2018",
+    "combined_score": 112,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act (No\u00a02) 2004",
+    "combined_score": 109,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Teaching Council Amendment Rules 2023",
+    "combined_score": 106,
+    "linked_from": [
+      "Teaching Council Rules 2016 (LI 2016/122)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1976",
+    "combined_score": 103,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2014",
+    "combined_score": 99,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Education (Tertiary Reforms) Amendment Act 2007",
+    "combined_score": 94,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2018",
+    "combined_score": 93,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2006",
+    "combined_score": 92,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Education (Registration of Early Childhood Services Teachers) Regulations 2004 (SR 2004/236)"
+    ]
+  },
+  {
+    "act": "Social Security (Financial Assistance for Caregivers) Amendment Act 2021",
+    "combined_score": 88,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1995",
+    "combined_score": 84,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Education (Tertiary Reform) Amendment Act 2002",
+    "combined_score": 79,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2010",
+    "combined_score": 79,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1985",
+    "combined_score": 74,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Education (Tertiary Education and Other Matters) Amendment Act 2018",
+    "combined_score": 73,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Social Security (Rates of Benefits and Allowances) Order 2026",
+    "combined_score": 71,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No\u00a03) 2010",
+    "combined_score": 70,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No\u00a02) 1998",
+    "combined_score": 69,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1989",
+    "combined_score": 68,
+    "linked_from": [
+      "University of Canterbury Act 1961 (1961 No 49)",
+      "University of Auckland Act 1961 (1961 No 50)",
+      "Victoria University of Wellington Act 1961 (1961 No 51)",
+      "Lincoln University Act 1961 (1961 No 52)",
+      "Massey University Act 1963 (1963 No 7)",
+      "University of Waikato Act 1963 (1963 No 8)",
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1986",
+    "combined_score": 65,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1989",
+    "combined_score": 64,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Student Loan Scheme Amendment Act 2012",
+    "combined_score": 60,
+    "linked_from": [
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ]
+  },
+  {
+    "act": "Education Legislation Act 2016",
+    "combined_score": 57,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2010",
+    "combined_score": 57,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No\u00a04) 1991",
+    "combined_score": 53,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2000",
+    "combined_score": 52,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Tax Administration Amendment Act 1995",
+    "combined_score": 51,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1990",
+    "combined_score": 48,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Student Loan Scheme Act 1992",
+    "combined_score": 48,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2009",
+    "combined_score": 47,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "Public Works Amendment Act (No 2) 1987",
+    "combined_score": 46,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1988",
+    "combined_score": 41,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2026",
+    "combined_score": 40,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Financial Advisers Amendment Act 2011",
+    "combined_score": 38,
+    "linked_from": [
+      "Financial Advisers Act 2008 (2008 No 91)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2013",
+    "combined_score": 37,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Immigration Amendment Act 2013",
+    "combined_score": 36,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Public Works (Critical Infrastructure) Amendment Act 2025",
+    "combined_score": 35,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Education (Pastoral Care) Amendment Act 2019",
+    "combined_score": 32,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act (No\u00a02) 2016",
+    "combined_score": 32,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Social Security (Accident\u00a0Compensation and Calculation of Weekly Income) Amendment\u00a0Act 2026",
+    "combined_score": 32,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No\u00a02) 1992",
+    "combined_score": 31,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1987",
+    "combined_score": 31,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1999",
+    "combined_score": 30,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1959",
+    "combined_score": 29,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1980",
+    "combined_score": 28,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2006",
+    "combined_score": 28,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi Amendment Act 2008",
+    "combined_score": 27,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ]
+  },
+  {
+    "act": "Legislation Amendment Act 2026",
+    "combined_score": 27,
+    "linked_from": [
+      "Legislation Act 2019 (2019 No 58)"
+    ]
+  },
+  {
+    "act": "Social Security (Accommodation Supplement) Amendment Act 2022",
+    "combined_score": 26,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2019",
+    "combined_score": 24,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Public Works Amendment Act 1983",
+    "combined_score": 22,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Social Security (Subsequent Child Policy Removal) Amendment Act 2021",
+    "combined_score": 22,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations (No\u00a02) 2023",
+    "combined_score": 22,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "Employment Relations (Pay Deductions for Partial Strikes) Amendment Act 2025",
+    "combined_score": 21,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2004",
+    "combined_score": 21,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2015",
+    "combined_score": 20,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2026",
+    "combined_score": 20,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No\u00a02) 1985",
+    "combined_score": 19,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1993",
+    "combined_score": 19,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2011",
+    "combined_score": 19,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1992",
+    "combined_score": 18,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi (State Enterprises) Act 1988",
+    "combined_score": 17,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No\u00a02) 1991",
+    "combined_score": 17,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Employment Relations (Extended Time for Personal Grievance for Sexual Harassment) Amendment Act 2023",
+    "combined_score": 17,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a03) 2006",
+    "combined_score": 17,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Education (School Trustee Elections) Amendment Regulations 2020",
+    "combined_score": 17,
+    "linked_from": [
+      "Education (School Trustee Elections) Regulations 2000 (SR 2000/195)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1991",
+    "combined_score": 16,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1992",
+    "combined_score": 16,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Privacy Amendment Act 2025",
+    "combined_score": 16,
+    "linked_from": [
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1962",
+    "combined_score": 15,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Education (Specified Institutions) Order 2015",
+    "combined_score": 15,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Immigration (Mass Arrivals) Amendment Act 2024",
+    "combined_score": 15,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2021",
+    "combined_score": 15,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "Employment Relations (Flexible Working Arrangements) Amendment Act 2007",
+    "combined_score": 14,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Student Allowances (Budget 2013 Initiatives) Amendment Regulations 2013",
+    "combined_score": 14,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations (No\u00a03) 2025",
+    "combined_score": 14,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No\u00a02) 1990",
+    "combined_score": 13,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi Amendment Act 1988",
+    "combined_score": 13,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a03) 2005",
+    "combined_score": 13,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2016",
+    "combined_score": 13,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2012",
+    "combined_score": 13,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2011",
+    "combined_score": 12,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1960",
+    "combined_score": 11,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Massey University Amendment Act 1966",
+    "combined_score": 11,
+    "linked_from": [
+      "Massey University Act 1963 (1963 No 7)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1998",
+    "combined_score": 11,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Income Tax (Calculation of Interest on Fringe Benefit Tax) Regulations 1993",
+    "combined_score": 11,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Student Loan Scheme Amendment Act 2014",
+    "combined_score": 11,
+    "linked_from": [
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ]
+  },
+  {
+    "act": "Student Loan Scheme (Budget Measures) Amendment Act 2012",
+    "combined_score": 11,
+    "linked_from": [
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ]
+  },
+  {
+    "act": "Social Security (Benefits Adjustment) and Income Tax (Minimum Family Tax Credit) Amendment Act 2024",
+    "combined_score": 11,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2008",
+    "combined_score": 11,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2010",
+    "combined_score": 11,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Social Security (Temporary Additional Support\u2014Severe Weather Events TAA Programme) Amendment Regulations 2023",
+    "combined_score": 11,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (COVID-19\u2014Temporary Additional Support and Expiry and Regrant of Benefits) Amendment Regulations 2020",
+    "combined_score": 11,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014Ex\u00a0Gratia and Compensation Payments) Amendment Regulations 2019",
+    "combined_score": 11,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act 2008",
+    "combined_score": 10,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Immigration Advisers Licensing Act 2007",
+    "combined_score": 10,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Social Security (Emergency Housing and Transitional Housing) Amendment Regulations 2020",
+    "combined_score": 10,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Youth Money Management) Amendment Regulations 2025",
+    "combined_score": 10,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2026",
+    "combined_score": 10,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Temporary Additional Support\u2014North\u00a0Island Weather Events TAA Programme) Amendment Regulations 2023",
+    "combined_score": 10,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 2009",
+    "combined_score": 9,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Education (School Donations) Amendment Act 2019",
+    "combined_score": 9,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Employment Relations (Triangular Employment) Amendment Act 2019",
+    "combined_score": 9,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2015",
+    "combined_score": 9,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "State Sector and Crown Entities Reform Act 2018",
+    "combined_score": 9,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Immigration (International Visitor Conservation and Tourism Levy) Amendment Act 2019",
+    "combined_score": 9,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Social Security (Definitions of Income Test 1, Income Test 2, Income Test 3, and Income Test 4) Order 2021",
+    "combined_score": 9,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Student Allowances (Christchurch Mosques Attack) Amendment Regulations 2020",
+    "combined_score": 9,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations 2026",
+    "combined_score": 9,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations (No\u00a02) 2021",
+    "combined_score": 9,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1967",
+    "combined_score": 8,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Education (Disestablishment of Early Childhood Development Board) Amendment Act 2004",
+    "combined_score": 8,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Social Security (Winter Energy Payment) Amendment Act 2019",
+    "combined_score": 8,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Student Allowances (State-supported Care Exemptions) Amendment Regulations 2019",
+    "combined_score": 8,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Education (Hostels) Amendment Regulations 2009",
+    "combined_score": 8,
+    "linked_from": [
+      "Education (Hostels) Regulations 2005 (SR 2005/332)"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations (No\u00a02) 2024",
+    "combined_score": 8,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations (No\u00a02) 2021",
+    "combined_score": 8,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Additional General Provisions Child Support Payments) Amendment Regulations 2023",
+    "combined_score": 8,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014Refunds of Specified Debt Repayments) Amendment Regulations 2019",
+    "combined_score": 8,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014Severe Weather Events) Amendment Regulations 2023",
+    "combined_score": 8,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1969",
+    "combined_score": 7,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1963",
+    "combined_score": 7,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Education (Te Aho Matua) Amendment Act 1999",
+    "combined_score": 7,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education (Polytechnics) Amendment Act 2009",
+    "combined_score": 7,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Employment Relations (Employee Remuneration Disclosure) Amendment Act 2025",
+    "combined_score": 7,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Income Tax Amendment Act 2015",
+    "combined_score": 7,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Immigration (COVID-19 Response) Amendment Act 2020",
+    "combined_score": 7,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Social Security (Mandatory Reviews) Amendment Act 2025",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2023",
+    "combined_score": 7,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No 2) 2025",
+    "combined_score": 7,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Social Security (Emergency Housing) Amendment Regulations 2024",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Childcare Assistance\u2014Cohort Entry Policy) Amendment Regulations 2019",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2019",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014Christchurch Mosques Attack Support Payments) Amendment Regulations 2019",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014MSD Lump Sum Payments) Amendment Regulations 2019",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Income and Assets Exemption) Amendment Regulations 2021",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014Cost of Living Payment) Amendment Regulations 2022",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014FamilyBoost) Amendment Regulations 2024",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1964",
+    "combined_score": 6,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1978",
+    "combined_score": 6,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1972",
+    "combined_score": 6,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Public Bodies Contracts Amendment Act 1974",
+    "combined_score": 6,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)"
+    ]
+  },
+  {
+    "act": "Education (National Education and Learning Priorities) Amendment Act 2018",
+    "combined_score": 6,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education (Freedom of Association) Amendment Act 2011",
+    "combined_score": 6,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Employment Relations (Secret Ballot for Strikes) Amendment Act 2012",
+    "combined_score": 6,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Social Security (Temporary Additional Support) Regulations 2005",
+    "combined_score": 6,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Financial Advisers Amendment Act 2009",
+    "combined_score": 6,
+    "linked_from": [
+      "Financial Advisers Act 2008 (2008 No 91)"
+    ]
+  },
+  {
+    "act": "Legislation Act (Amendments to Legislation) Regulations 2021",
+    "combined_score": 6,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Legislation Act 2019 (2019 No 58)",
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Student Allowances (Income Exemptions\u2014Severe Weather Events) Amendment Regulations 2023",
+    "combined_score": 6,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2022",
+    "combined_score": 6,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Teaching Council Amendment Rules 2021",
+    "combined_score": 6,
+    "linked_from": [
+      "Teaching Council Rules 2016 (LI 2016/122)"
+    ]
+  },
+  {
+    "act": "Social Security (Temporary Additional Support\u2014Severe Weather Events TAA Programme) Amendment Regulations 2024",
+    "combined_score": 6,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 2003",
+    "combined_score": 5,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No\u00a02) 2003",
+    "combined_score": 5,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No 3) 2005",
+    "combined_score": 5,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi Amendment Act 2006",
+    "combined_score": 5,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi Amendment Act 1998",
+    "combined_score": 5,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi Amendment Act 1985",
+    "combined_score": 5,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi Amendment Act 2003",
+    "combined_score": 5,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ]
+  },
+  {
+    "act": "Education (National Standards) Amendment Act 2008",
+    "combined_score": 5,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No\u00a02) 2010",
+    "combined_score": 5,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2008",
+    "combined_score": 5,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2018",
+    "combined_score": 5,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a04) 2006",
+    "combined_score": 5,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2024",
+    "combined_score": 5,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "Social Security (COVID-19\u2014Childcare Assistance) Amendment Regulations 2020",
+    "combined_score": 5,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (COVID-19 Recovery\u2014Exemption from Stand Down, and Expiry and Regrant of Benefits) Amendment Regulations 2020",
+    "combined_score": 5,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions) Amendment Regulations 2018",
+    "combined_score": 5,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1957",
+    "combined_score": 4,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1994",
+    "combined_score": 4,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2007",
+    "combined_score": 4,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Tax Administration Amendment Act (No\u00a03) 1995",
+    "combined_score": 4,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Employment Relations (Trial Periods) Amendment Act 2023",
+    "combined_score": 4,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Income Tax (Tax Credit) Order 2025",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Income Tax (FamilyBoost) Amendment Act 2025",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014Lake Alice Compensation or Ex Gratia Payments) Amendment Regulations 2025",
+    "combined_score": 4,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014Christchurch Mosques Attack Support Payments) Amendment Regulations 2020",
+    "combined_score": 4,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014K\u0101inga Ora Energy Subsidy) Amendment Regulations 2023",
+    "combined_score": 4,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No 2) 1990",
+    "combined_score": 3,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Public Bodies Contracts Amendment Act 1975",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No 2) 1974",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Public Works Amendment Act 1982",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Tax Administration Amendment Act 2015",
+    "combined_score": 3,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Tax Administration Amendment Act 2005",
+    "combined_score": 3,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2004",
+    "combined_score": 3,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Employment Relations (Code of Good Faith for Public Health Sector) Order 2006",
+    "combined_score": 3,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Crown Entities Amendment Act 2010",
+    "combined_score": 3,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Immigration Amendment Act 2011",
+    "combined_score": 3,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Social Security (COVID-19 Income Relief Payment to be Income) Amendment Act 2020",
+    "combined_score": 3,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Privacy Act (Schedule 2) Order 2022",
+    "combined_score": 3,
+    "linked_from": [
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2021",
+    "combined_score": 3,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances (Income Exemptions\u2014Cost of Living Payment) Amendment Regulations 2022",
+    "combined_score": 3,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances (Income Exemptions\u2014FamilyBoost) Amendment Regulations 2024",
+    "combined_score": 3,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances (Income Exemptions\u2014K\u0101inga Ora Energy Subsidy) Amendment Regulations 2023",
+    "combined_score": 3,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Education (Hostels) Amendment Regulations 2018",
+    "combined_score": 3,
+    "linked_from": [
+      "Education (Hostels) Regulations 2005 (SR 2005/332)"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2019",
+    "combined_score": 3,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2023",
+    "combined_score": 3,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "International Student Contract Dispute Resolution Scheme Amendment Rules 2017",
+    "combined_score": 3,
+    "linked_from": [
+      "International Student Contract Dispute Resolution Scheme Rules 2016 (LI 2016/42)"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations (No\u00a02) 2022",
+    "combined_score": 3,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Childcare Subsidy) Amendment Regulations 2024",
+    "combined_score": 3,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security (Exemption from Stand Down\u2014Coronavirus COVID-19) Amendment Regulations 2020",
+    "combined_score": 3,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations (No\u00a02) 2025",
+    "combined_score": 3,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1961",
+    "combined_score": 2,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1973",
+    "combined_score": 2,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No\u00a02) 2005",
+    "combined_score": 2,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1979",
+    "combined_score": 2,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1970",
+    "combined_score": 2,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1974",
+    "combined_score": 2,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi Amendment Act 1993",
+    "combined_score": 2,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ]
+  },
+  {
+    "act": "Public Works Amendment Act 1991",
+    "combined_score": 2,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Public Works Amendment Act 1987",
+    "combined_score": 2,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act No (4) 1991",
+    "combined_score": 2,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No\u00a02) 1993",
+    "combined_score": 2,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education (Tertiary Students Association Voluntary Membership) Amendment Act 1998",
+    "combined_score": 2,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education (Specified Institutions) Order 2000",
+    "combined_score": 2,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1967",
+    "combined_score": 2,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1968",
+    "combined_score": 2,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1975",
+    "combined_score": 2,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Tax Administration Amendment Act 1996",
+    "combined_score": 2,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Tax Administration (Research and Development Tax Credit Deadlines for Taxpayers Affected by Weather Events) Order 2023",
+    "combined_score": 2,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Tax Administration (Extension of Application Deadline for Research and Development Tax Credits) Order 2025",
+    "combined_score": 2,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Tax Administration Act (No\u00a03) 1995",
+    "combined_score": 2,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2007",
+    "combined_score": 2,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Income Tax (Crown Regional Holdings Limited) Order 2021",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Cooperative Dairy Companies Income Tax Regulations 1955",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Cooperative Milk Marketing Companies Income Tax Regulations 1960",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Cooperative Pig Marketing Companies Income Tax Regulations 1964",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Income Tax (Refund of Excess Tax) Order 2003",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Income Tax (Social Assistance Suspensory Loans) Order 1995",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Financial Advisers Act Commencement Order 2010",
+    "combined_score": 2,
+    "linked_from": [
+      "Financial Advisers Act 2008 (2008 No 91)"
+    ]
+  },
+  {
+    "act": "Immigration Act 2009 Amendment Act 2010",
+    "combined_score": 2,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Student Loan Scheme (Repayment Percentage) Regulations 2012",
+    "combined_score": 2,
+    "linked_from": [
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations 2018",
+    "combined_score": 2,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2005",
+    "combined_score": 2,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2007",
+    "combined_score": 2,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2002",
+    "combined_score": 2,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2020",
+    "combined_score": 2,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "Social Security (Residential Requirement\u2014Christchurch Response Visa) Amendment Regulations 2019",
+    "combined_score": 2,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2020",
+    "combined_score": 2,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2021",
+    "combined_score": 2,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No\u00a02) 1991",
+    "combined_score": 1,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1997",
+    "combined_score": 1,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No 2) 1985",
+    "combined_score": 1,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1969 Amendment Act 2010",
+    "combined_score": 1,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No\u00a03) 2005",
+    "combined_score": 1,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund (Increased Amount in Respect of Adjustments) Order 2004",
+    "combined_score": 1,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ]
+  },
+  {
+    "act": "Public Bodies Contracts Order 1971",
+    "combined_score": 1,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)"
+    ]
+  },
+  {
+    "act": "University of Auckland Amendment Act 1977",
+    "combined_score": 1,
+    "linked_from": [
+      "University of Auckland Act 1961 (1961 No 50)"
+    ]
+  },
+  {
+    "act": "University of Waikato Amendment Act 1977",
+    "combined_score": 1,
+    "linked_from": [
+      "University of Waikato Act 1963 (1963 No 8)"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi (Fisheries Claims) Settlement Act 1992",
+    "combined_score": 1,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ]
+  },
+  {
+    "act": "Public Works Amendment Act (No\u00a03) 1987",
+    "combined_score": 1,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ]
+  },
+  {
+    "act": "Education (Extension of Application Period) Order 2018",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education (Student Allowances Indexation\u2014Budget Measures) Amendment Act 2012",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Lands Act 1949",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Act 1964 (1964 No 135) (Reprinted 1975, Vol 3, p 1699)",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1972 (1972 No 34) (Reprinted 1975, Vol 3, p 1886)",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1976",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1977",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1978",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1979",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No 2) 1982",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1983",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No 2) 1987",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ]
+  },
+  {
+    "act": "Tax Administration (COVID-19 Response Variations) Order 2022",
+    "combined_score": 1,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Tax Administration Amendment Act (No\u00a02) 1995",
+    "combined_score": 1,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "of the Tax Administration Amendment Act 1995",
+    "combined_score": 1,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ]
+  },
+  {
+    "act": "Employment Relations (Extending Part 6A Protections to Security Officers) Order 2021",
+    "combined_score": 1,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ]
+  },
+  {
+    "act": "Crown Entities (New Zealand Institute for Advanced Technology Limited) Order 2026",
+    "combined_score": 1,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Crown Entities (Auckland Light Rail Limited) Order 2022",
+    "combined_score": 1,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Crown Entities (Crown Irrigation Investments Limited) Order 2013",
+    "combined_score": 1,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Crown Entities (New Zealand Fast Forward Fund Limited) Order 2009",
+    "combined_score": 1,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)"
+    ]
+  },
+  {
+    "act": "Income Tax (Maximum Pooling Value) Order 2015",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Income Tax (New Zealand Green Investment Finance Limited) Order 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Income Tax (Ng\u0101puhi Investment Fund Limited) Order 2020",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Income Tax (SafetyNet Critical Communications Limited) Order 2026",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Income Tax Act (Exempt Unit Trusts) Order 1990",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Income Tax (Adverse Event Income Equalisation Scheme Rate of Interest) Regulations 1995",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Income Tax (Cook Islands Development Projects) Order 1986",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Income Tax (Depreciation Determinations) Regulations 1993",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ]
+  },
+  {
+    "act": "Financial Advisers Act Commencement Order 2008",
+    "combined_score": 1,
+    "linked_from": [
+      "Financial Advisers Act 2008 (2008 No 91)"
+    ]
+  },
+  {
+    "act": "Immigration Act 2009 Commencement Order 2010",
+    "combined_score": 1,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Immigration Act 2009 Commencement Order (No\u00a02) 2010",
+    "combined_score": 1,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Immigration Act 2009 Commencement Order 2011",
+    "combined_score": 1,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ]
+  },
+  {
+    "act": "Social Security (Rates of Benefits and Allowances) Order (No 2) 2022",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Social Security (Childcare Assistance) Regulations 2004",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Social Security (Debt Recovery Suspension) Regulations 2007",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ]
+  },
+  {
+    "act": "Legislation Act 2019 Commencement Order 2021",
+    "combined_score": 1,
+    "linked_from": [
+      "Legislation Act 2019 (2019 No 58)"
+    ]
+  },
+  {
+    "act": "Privacy (Information Sharing Agreement Facilitating Services for Veterans and Other Claimants) Order 2024",
+    "combined_score": 1,
+    "linked_from": [
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Privacy (Information Sharing Agreement between Inland Revenue and Ministry of Social Development) Amendment Order 2023",
+    "combined_score": 1,
+    "linked_from": [
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Privacy (Information Sharing Agreement Facilitating Access to Information about Deaths) Order 2023",
+    "combined_score": 1,
+    "linked_from": [
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Privacy (Information Sharing Agreement between Inland Revenue and Ministry of Social Development) Amendment Order 2021",
+    "combined_score": 1,
+    "linked_from": [
+      "Privacy Act 2020 (2020 No 31)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2006",
+    "combined_score": 1,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations 2024",
+    "combined_score": 1,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2003",
+    "combined_score": 1,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2014",
+    "combined_score": 1,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances (Increase for 2018) Amendment Regulations 2017",
+    "combined_score": 1,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Student Allowances (Budget 2017\u2014Accommodation Benefit) Amendment Regulations 2017",
+    "combined_score": 1,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ]
+  },
+  {
+    "act": "Education (Board Elections) Regulations 2022",
+    "combined_score": 1,
+    "linked_from": [
+      "Education (School Trustee Elections) Regulations 2000 (SR 2000/195)"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations (No\u00a02) 2009",
+    "combined_score": 1,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ]
+  },
+  {
+    "act": "Education (Playgroups) Amendment Regulations 2009",
+    "combined_score": 1,
+    "linked_from": [
+      "Education (Playgroups) Regulations 2008 (SR 2008/205)"
+    ]
+  },
+  {
+    "act": "Social Security (Family Violence) Amendment Regulations 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2022",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2023",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2024",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2025",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ]
+  },
+  {
+    "act": "Education (2022 School Staffing) Order 2021",
+    "combined_score": 1,
+    "linked_from": [
+      "Education (2020 School Staffing) Order 2019 (LI 2019/180)"
+    ]
+  }
+]

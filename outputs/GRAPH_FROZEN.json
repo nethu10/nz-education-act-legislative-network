@@ -1,0 +1,42 @@
+{
+ "frozen_on": "2026-10-14",
+ "decision": "graph frozen after audit_fix_12, body-gap audit and SLM spot-check; Stage 8 corpus option C (run full, no_artefact, substantive_only; substantive_only is the Leiden headline, full is the sensitivity check)",
+ "corpora": {
+  "full": {
+   "dir": "outputs/graph_typed",
+   "nodes": 2475,
+   "amendment_edges": 14805,
+   "citation_edges": 24183,
+   "collapsed_edges": 30515,
+   "sha256": {
+    "nodes.json": "961bd3ff390e08a655d1fb78486936e41ad59092a051ce5761f041ea73ac8af6",
+    "edges.json": "0f40006113d965140fddd0c0a401a696a2d03c106eb1c47606af9ee063b7f650",
+    "edges_collapsed.json": "d423e385fe2cbdaa971599d2537cdcd9ad4c58ae5ef647f6c143295177cb667f"
+   }
+  },
+  "no_artefact": {
+   "dir": "outputs/graph_typed_no_artefact",
+   "nodes": 2475,
+   "amendment_edges": 14805,
+   "citation_edges": 22952,
+   "collapsed_edges": 29286,
+   "sha256": {
+    "nodes.json": "073d3325256473a2a36c37d6ee6f35f9f056f64b11e6c2f88a4f7578a0016f87",
+    "edges.json": "0af6fc8354e65ebc16a4cf3bbd0167a371de7aab3265c08703dcf3440a070e2f",
+    "edges_collapsed.json": "0dd92727a313f12d7d45792ad34a5dea40eb6779b95b9edab3a8d32839f6e6ba"
+   }
+  },
+  "substantive_only": {
+   "dir": "outputs/graph_typed_substantive_only",
+   "nodes": 2475,
+   "amendment_edges": 14805,
+   "citation_edges": 22399,
+   "collapsed_edges": 28733,
+   "sha256": {
+    "nodes.json": "27d8a6dd4831225e0567c0a276234560e1d56a3befe32039d74d65c24788e1ae",
+    "edges.json": "4b168a981dcfae57515c11d4e59f8fb6618911b585b59dcfc67d0060b528daf2",
+    "edges_collapsed.json": "ba2780fcbc4911f299f75957ce7ac1dfbe92bb7e85eab9f99d177cbd660b1b56"
+   }
+  }
+ }
+}

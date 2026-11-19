@@ -1,0 +1,156 @@
+"""
+sg2_step4_finalize_candidates_v4.py
+
+v3 -> v4: no changes to exclusion logic (v3 confirmed there were no
+citation-suffix duplicates to merge, so that safeguard stays in but had
+nothing to do). Two additions:
+  1. Saves the full excluded list (with per-Act exclusion_reasons) to
+     sg2_excluded_candidates.json, and prints a sample of the invalid_name
+     exclusions so a real Act wrongly caught by the name-sanity filter
+     would be visible immediately, not just trusted as a count.
+  2. Score distribution now prints the marginal count at each threshold
+     step (not just cumulative), to make the natural break visible.
+"""
+import json
+import re
+from pathlib import Path
+from collections import Counter
+
+CANDIDATES_PATH = Path("data/processed/sg2_amendment_candidates.json")
+OUTPUT_PATH = Path("data/processed/sg2_cleaned_candidates.json")
+SELF_REF_REVIEW_PATH = Path("data/processed/sg2_self_referential_flagged.json")
+EXCLUDED_PATH = Path("data/processed/sg2_excluded_candidates.json")
+
+with open(CANDIDATES_PATH) as f:
+    candidates = json.load(f)
+
+SEED = "Education and Training Act 2020"
+
+CITE_SUFFIX_RE = re.compile(r"\s*\((?:\d{4}\s+No\s+\d+|(?:SR|LI)\s+\d{4}/\d+)\)\s*$")
+
+def normalize_name(name):
+    if not name:
+        return name
+    return CITE_SUFFIX_RE.sub("", name).strip()
+
+merged = {}
+for c in candidates:
+    raw_name = c.get("act") or c.get("candidate") or c.get("name")
+    norm_name = normalize_name(raw_name)
+    if norm_name not in merged:
+        merged[norm_name] = {"act": norm_name, "combined_score": 0, "linked_from": []}
+    merged[norm_name]["combined_score"] += c.get("combined_score", 0)
+    merged[norm_name]["linked_from"].extend(c.get("linked_from", []))
+
+candidates = list(merged.values())
+print(f"Raw records merged into {len(candidates)} distinct Acts")
+print()
+
+STOPWORDS = {"amendment", "act", "no", "of", "the", "and"}
+YEAR_RE = re.compile(r"\b(18|19|20)\d{2}\b")
+PAREN_RE = re.compile(r"\([^)]*\)")
+
+def base_words(name):
+    name = PAREN_RE.sub("", name or "")
+    name = YEAR_RE.sub("", name)
+    words = {w.lower() for w in re.findall(r"[A-Za-z']+", name)}
+    return words - STOPWORDS
+
+def is_self_referential(candidate_name, source_names):
+    cand_words = base_words(candidate_name)
+    if not cand_words:
+        return False
+    for src in source_names:
+        src_words = base_words(src)
+        if not src_words:
+            continue
+        if cand_words <= src_words or src_words <= cand_words:
+            return True
+    return False
+
+OMNIBUS_TAX_PATTERN = re.compile(r"^Taxation\s*\(", re.IGNORECASE)
+
+BULK_EVENT_ACTS = {
+    "Secondary Legislation Act 2021",
+    "Public Service Act 2020",
+    "Employment Relations (Pay Deductions) Act 2025",
+}
+
+YEAR_ANYWHERE_RE = re.compile(r"(18|19|20)\d{2}")
+LEGIS_KEYWORD_RE = re.compile(r"\b(Act|Rules?|Regulations?|Order|Notice|Bylaw|Bill)\b", re.IGNORECASE)
+
+def looks_like_real_title(name):
+    if not name:
+        return False
+    if not YEAR_ANYWHERE_RE.search(name):
+        return False
+    if not LEGIS_KEYWORD_RE.search(name):
+        return False
+    return True
+
+kept, excluded, self_ref_flagged = [], [], []
+exclusion_reasons = Counter()
+
+for c in candidates:
+    name = c["act"]
+    sources = c.get("linked_from", [])
+    reasons = []
+
+    if name == SEED:
+        reasons.append("seed")
+    if not looks_like_real_title(name):
+        reasons.append("invalid_name")
+    if OMNIBUS_TAX_PATTERN.match(name or ""):
+        reasons.append("omnibus_taxation")
+    if name in BULK_EVENT_ACTS:
+        reasons.append("bulk_event")
+    if is_self_referential(name, sources):
+        reasons.append("self_referential")
+        self_ref_flagged.append({"act": name, "combined_score": c.get("combined_score"), "linked_from": sources})
+
+    if reasons:
+        c["exclusion_reasons"] = reasons
+        excluded.append(c)
+        for r in reasons:
+            exclusion_reasons[r] += 1
+    else:
+        kept.append(c)
+
+kept.sort(key=lambda c: -c.get("combined_score", 0))
+
+print(f"Merged candidate pool:   {len(candidates)}")
+print(f"Excluded (total):        {len(excluded)}")
+for reason, n in exclusion_reasons.most_common():
+    print(f"  - {reason}: {n}")
+print(f"Cleaned SG2 candidates:  {len(kept)}")
+print()
+
+print("Sample of invalid_name exclusions (should all look like junk, not real Acts):")
+invalid_examples = [c for c in excluded if "invalid_name" in c["exclusion_reasons"]][:20]
+for c in invalid_examples:
+    print(f"  {c['act']!r}  (score {c.get('combined_score')})")
+print()
+
+print("Score distribution of cleaned candidates (with marginal counts):")
+thresholds = [30, 20, 15, 10, 8, 6, 5, 4, 3, 2, 1]
+counts = [sum(1 for c in kept if c.get("combined_score", 0) >= t) for t in thresholds]
+prev = 0
+for t, n in zip(thresholds, counts):
+    print(f"  score >= {t:>3}: {n:>4} Acts   (+{n - prev} vs next threshold up)")
+    prev = n
+
+print()
+print("Top 40 cleaned candidates:")
+for c in kept[:40]:
+    print(f"  {c['act']}  (score {c.get('combined_score')}, {len(c.get('linked_from', []))} links)")
+
+with open(OUTPUT_PATH, "w") as f:
+    json.dump(kept, f, indent=2)
+with open(SELF_REF_REVIEW_PATH, "w") as f:
+    json.dump(self_ref_flagged, f, indent=2)
+with open(EXCLUDED_PATH, "w") as f:
+    json.dump(excluded, f, indent=2)
+
+print(f"\nSaved cleaned candidates -> {OUTPUT_PATH}")
+print(f"Saved self-referential flags -> {SELF_REF_REVIEW_PATH}")
+print(f"Saved full excluded list -> {EXCLUDED_PATH}")

@@ -1,0 +1,5684 @@
+[
+  {
+    "act": "Financial Services Legislation Amendment Act 2019",
+    "combined_score": 661,
+    "linked_from": [
+      "Anti-Money Laundering and Countering Financing of Terrorism Act 2009",
+      "Schedule 1 of the Financial Markets Conduct Act 2013",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "Schedule 5 of the Financial Markets Conduct Act 2013"
+    ]
+  },
+  {
+    "act": "Food Safety Law Reform Act 2018",
+    "combined_score": 625,
+    "linked_from": [
+      "Food Act 2014",
+      "Animal Products Act 1999",
+      "Wine Act 2003",
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)"
+    ]
+  },
+  {
+    "act": "Smokefree Environments and Regulated Products (Vaping) Amendment Act 2020",
+    "combined_score": 555,
+    "linked_from": [
+      "Trade Marks Act 2002",
+      "Designs Act 1953",
+      "Psychoactive Substances Act 2013",
+      "Smoke-free Environments Act 1990",
+      "Smokefree Environments and Regulated Products Act 1990",
+      "Medicines Regulations 1984",
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)",
+      "Civil Aviation (Offences) Regulations 2006"
+    ]
+  },
+  {
+    "act": "Māori Trustee Amendment Act 2009",
+    "combined_score": 510,
+    "linked_from": [
+      "Mining Tenures Registration Act 1962",
+      "Trustee Act 1956",
+      "Trustee Act 1956",
+      "Maori Affairs Restructuring Act 1989",
+      "Maori Affairs Restructuring Act 1989",
+      "Family Court Rules 2002",
+      "Housing Corporation Act 1974",
+      "Maori Reserved Land Act 1955",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Māori Trustee Act 1953",
+      "Personal and Property Rights Act 1988",
+      "Maori Vested Lands Administration Act 1954",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)"
+    ]
+  },
+  {
+    "act": "Armed Forces Discipline Amendment Act (No 2) 2007",
+    "combined_score": 441,
+    "linked_from": [
+      "Armed Forces Discipline Act 1971",
+      "Visiting Forces Act 2004",
+      "Electronic Transactions Act 2002",
+      "Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004"
+    ]
+  },
+  {
+    "act": "Heritage New Zealand Pouhere Taonga Act 2014",
+    "combined_score": 413,
+    "linked_from": [
+      "Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012",
+      "Natural and Built Environment Act 2023",
+      "Burial and Cremation Act 1964",
+      "Protected Objects Act 1975",
+      "Ngāi Tahu Claims Settlement Act 1998",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Environment Act 1986",
+      "Historic Places Act 1993",
+      "Hauraki Gulf Marine Park Act 2000",
+      "Fast-track Approvals Act 2024",
+      "Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010",
+      "Crown Pastoral Land Act 1998",
+      "Ngāti Awa Claims Settlement Act 2005",
+      "Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010",
+      "Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009",
+      "Raukawa Claims Settlement Act 2014",
+      "Ngāti Whare Claims Settlement Act 2012",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Canterbury Earthquake Recovery Act 2011",
+      "Ngati Toa Rangatira Claims Settlement Act 2014",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Ngāti Whātua Ōrākei Claims Settlement Act 2012",
+      "Ngāti Manuhiri Claims Settlement Act 2012",
+      "Tauranga District Council (Route K Toll) Empowering Act 2000",
+      "Ngāti Pāhauwera Treaty Claims Settlement Act 2012",
+      "Ngāti Whātua o Kaipara Claims Settlement Act 2013",
+      "Ngaa Rauru Kiitahi Claims Settlement Act 2005",
+      "Ngati Porou Claims Settlement Act 2012",
+      "Ngati Ruanui Claims Settlement Act 2003",
+      "Ngati Tama Claims Settlement Act 2003",
+      "Fiordland (Te Moana o Atawhenua) Marine Management Act 2005",
+      "Ngai Tāmanuhiri Claims Settlement Act 2012",
+      "Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014",
+      "Ngāti Kōata, Ngāti Rārua, Ngāti Tama ki Te Tau Ihu, and Te Ātiawa o Te Waka-a-Māui Claims Settlement Act 2014",
+      "Ngāti Mākino Claims Settlement Act 2012",
+      "Ngāti Manawa Claims Settlement Act 2012",
+      "Rongowhakaata Claims Settlement Act 2012",
+      "Te Roroa Claims Settlement Act 2008",
+      "Te Arawa Lakes Settlement Act 2006",
+      "Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008",
+      "Maraeroa A and B Blocks Claims Settlement Act 2012",
+      "Maungaharuru-Tangitū Hapū Claims Settlement Act 2014",
+      "Ngāti Apa (North Island) Claims Settlement Act 2010",
+      "Ngāti Mutunga Claims Settlement Act 2006",
+      "Ngāti Rangiteaorere Claims Settlement Act 2014",
+      "Ngāti Rangiwewehi Claims Settlement Act 2014",
+      "Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005",
+      "Pouakani Claims Settlement Act 2000",
+      "Tapuika Claims Settlement Act 2014",
+      "Te Uri o Hau Claims Settlement Act 2002",
+      "Waitaha Claims Settlement Act 2013"
+    ]
+  },
+  {
+    "act": "Ministry of Maori Development Act 1991",
+    "combined_score": 357,
+    "linked_from": [
+      "Maori Affairs Restructuring Act 1989",
+      "Maori Community Development Act 1962",
+      "Maori Housing Act 1935",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Maori Housing Amendment Act 1938"
+    ]
+  },
+  {
+    "act": "WorkSafe New Zealand Act 2013",
+    "combined_score": 315,
+    "linked_from": [
+      "Gas Act 1992",
+      "Railways Act 2005",
+      "Electricity (Safety) Regulations 2010",
+      "Health and Safety in Employment Regulations 1995",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Health and Safety in Employment (Pressure Equipment, Cranes, Passenger Ropeways) Regulations 1999",
+      "Gas (Safety and Measurement) Regulations 2010",
+      "Health and Safety in Employment (Pipelines) Regulations 1999",
+      "Energy (Fuels, Levies, and References) Act 1989",
+      "Machinery Act 1950",
+      "Ministry of Energy (Abolition) Act 1989",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Electricity (Hazards from Trees) Regulations 2003"
+    ]
+  },
+  {
+    "act": "Climate Change Response Amendment Act 2011",
+    "combined_score": 291,
+    "linked_from": [
+      "Climate Change Response Act 2002"
+    ]
+  },
+  {
+    "act": "Anti-Money Laundering and Countering Financing of Terrorism (Supervisor, Levy, and Other Matters) Amendment Act 2026",
+    "combined_score": 262,
+    "linked_from": [
+      "Anti-Money Laundering and Countering Financing of Terrorism Act 2009",
+      "Schedule 1 of the Financial Markets Authority Act 2011"
+    ]
+  },
+  {
+    "act": "Courts Matters Act 2018",
+    "combined_score": 235,
+    "linked_from": [
+      "Criminal Procedure (Mentally Impaired Persons) Act 2003",
+      "Criminal Investigations (Bodily Samples) Act 1995",
+      "Juries Act 1981",
+      "Criminal Disclosure Act 2008",
+      "Courts Security Act 1999",
+      "Victims' Orders Against Violent Offenders Act 2014",
+      "Children Act 2004",
+      "Personal and Property Rights Act 1988",
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)",
+      "Courts (Remote Participation) Act 2010"
+    ]
+  },
+  {
+    "act": "Regulatory Systems (Commercial Matters) Amendment Act 2017",
+    "combined_score": 232,
+    "linked_from": [
+      "Gas Act 1992",
+      "Fair Trading Act 1986",
+      "Building Societies Act 1965",
+      "Postal Services Act 1998",
+      "Construction Contracts Act 2002",
+      "Energy Efficiency and Conservation Act 2000",
+      "Schedule 1 of the Financial Markets Conduct Act 2013",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "Schedule 5 of the Financial Markets Conduct Act 2013"
+    ]
+  },
+  {
+    "act": "District Courts Amendment Act 1979",
+    "combined_score": 226,
+    "linked_from": [
+      "Misuse of Drugs Act 1975",
+      "Armed Forces Discipline Act 1971",
+      "Burial and Cremation Act 1964",
+      "Industrial and Provident Societies Act 1908",
+      "Transport Act 1962",
+      "Oaths and Declarations Act 1957",
+      "Marine Mammals Protection Act 1978",
+      "Costs in Criminal Cases Act 1967",
+      "Property Law Act 1952",
+      "Forest and Rural Fires Act 1977",
+      "Real Estate Agents Act 1976",
+      "Litter Act 1979",
+      "Soil Conservation and Rivers Control Act 1941",
+      "Minors' Contracts Act 1969",
+      "Land Drainage Act 1908",
+      "Maori Community Development Act 1962",
+      "Machinery Act 1950",
+      "Impounding Act 1955",
+      "Maori Reserved Land Act 1955",
+      "Wellington Regional Water Board Act 1972",
+      "Alcoholism and Drug Addiction Act 1966",
+      "Land Valuation Proceedings Act 1948",
+      "Partnership Act 1908",
+      "Patriotic and Canteen Funds Act 1947",
+      "Wellington Regional Water Board Act 1972 (1972 No 3 (L))",
+      "River Boards Act 1908",
+      "Hutt Valley Drainage Act 1967",
+      "Inferior Courts Procedure Act 1909",
+      "Valuers Act 1948",
+      "Layby Sales Act 1971",
+      "Engineering Associates Act 1961",
+      "Radiation Protection Act 1965",
+      "Judicature Amendment Act 1972",
+      "Hutt Valley Drainage Act 1967 (1967 No 3 (L))",
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)",
+      "Cook Islands Act 1915",
+      "Maori Vested Lands Administration Act 1954",
+      "Christchurch District Drainage Act 1951",
+      "Government Superannuation Fund Act 1956 (1956 No 47) (RS Vol 21, p 209)",
+      "Auctioneers Act 1928",
+      "Unit Titles Act 1972",
+      "Patents Regulations 1954"
+    ]
+  },
+  {
+    "act": "Protected Objects Amendment Act 2006",
+    "combined_score": 217,
+    "linked_from": [
+      "Protected Objects Act 1975",
+      "Postal Services Act 1998",
+      "Trans-Tasman Mutual Recognition Act 1997",
+      "Historic Places Act 1993",
+      "Ngāti Awa Claims Settlement Act 2005",
+      "Ngaa Rauru Kiitahi Claims Settlement Act 2005",
+      "Ngati Ruanui Claims Settlement Act 2003",
+      "Ngati Tama Claims Settlement Act 2003",
+      "Archives, Culture, and Heritage Reform Act 2000",
+      "Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005",
+      "Te Uri o Hau Claims Settlement Act 2002"
+    ]
+  },
+  {
+    "act": "Resource Management Amendment Act 2005",
+    "combined_score": 211,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021",
+    "combined_score": 209,
+    "linked_from": [
+      "Climate Change Response Act 2002",
+      "Insurance (Prudential Supervision) Act 2010",
+      "Schedule 1 of the Financial Markets Conduct Act 2013",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "Schedule 5 of the Financial Markets Conduct Act 2013"
+    ]
+  },
+  {
+    "act": "Reserve Bank of New Zealand Amendment Act 2003",
+    "combined_score": 202,
+    "linked_from": [
+      "Reserve Bank of New Zealand Act 1989",
+      "Corporations (Investigation and Management) Act 1989",
+      "Private Savings Banks (Transfer of Undertakings) Act 1992"
+    ]
+  },
+  {
+    "act": "Financial Markets (Conduct of Institutions) Amendment Act 2022",
+    "combined_score": 183,
+    "linked_from": [
+      "Schedule 1 of the Financial Markets Conduct Act 2013",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "Schedule 5 of the Financial Markets Conduct Act 2013"
+    ]
+  },
+  {
+    "act": "Regulatory Systems (Economic Development) Amendment Act 2025",
+    "combined_score": 177,
+    "linked_from": [
+      "Building Societies Act 1965",
+      "Auditor Regulation Act 2011",
+      "Industrial and Provident Societies Act 1908",
+      "Trade Marks Act 2002",
+      "Auctioneers Act 2013",
+      "Financial Markets Conduct Regulations 2014",
+      "Weights and Measures Act 1987",
+      "Heavy Engineering Research Levy Act 1978",
+      "New Zealand Institute of Chartered Accountants Act 1996",
+      "Schedule 1 of the Financial Markets Conduct Act 2013",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "Electricity Industry (Enforcement) Regulations 2010",
+      "Schedule 5 of the Financial Markets Conduct Act 2013"
+    ]
+  },
+  {
+    "act": "Crown Entities Amendment Act 2013",
+    "combined_score": 167,
+    "linked_from": [
+      "Gambling Act 2003",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Housing Corporation Act 1974",
+      "Radio New Zealand Act 1995",
+      "New Zealand Tourism Board Act 1991",
+      "New Zealand Antarctic Institute Act 1996",
+      "Government Superannuation Fund Act 1956 (1956 No 47) (RS Vol 21, p 209)"
+    ]
+  },
+  {
+    "act": "Climate Change Response Act 2002 (2002 No 40)",
+    "combined_score": 156,
+    "linked_from": [
+      "Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021",
+      "Natural and Built Environment Act 2023",
+      "Environment Act 1986",
+      "Schedule 7 of the Local Government Act 2002",
+      "Climate Change Response Amendment Act 2011"
+    ]
+  },
+  {
+    "act": "Fair Trading Amendment Act 2013",
+    "combined_score": 154,
+    "linked_from": [
+      "Fair Trading Act 1986",
+      "Private Security Personnel and Private Investigators Act 2010",
+      "Electronic Transactions Act 2002",
+      "Layby Sales Act 1971",
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)"
+    ]
+  },
+  {
+    "act": "Rating Powers Act 1988",
+    "combined_score": 152,
+    "linked_from": [
+      "Transit New Zealand Act 1989",
+      "Rating Valuations Act 1998",
+      "Soil Conservation and Rivers Control Act 1941",
+      "Land Drainage Act 1908",
+      "Ratings Valuations Act 1998",
+      "Children's Health Camps Board Dissolution Act 1999",
+      "River Boards Act 1908",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)",
+      "Christchurch District Drainage Act 1951"
+    ]
+  },
+  {
+    "act": "Public Service Amendment Act 2026",
+    "combined_score": 151,
+    "linked_from": [
+      "Crown Pastoral Land Act 1998",
+      "Child Poverty Reduction Act 2018",
+      "Security Information in Proceedings Act 2022",
+      "Schedule 8 of the Public Service Act 2020"
+    ]
+  },
+  {
+    "act": "Self-contained Motor Vehicles Legislation Act 2023",
+    "combined_score": 150,
+    "linked_from": [
+      "Freedom Camping Act 2011",
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)"
+    ]
+  },
+  {
+    "act": "Criminal Proceeds (Recovery) Amendment Act 2023",
+    "combined_score": 144,
+    "linked_from": [
+      "Criminal Proceeds (Recovery) Act 2009"
+    ]
+  },
+  {
+    "act": "Trade (Anti-dumping and Countervailing Duties) Amendment Act 2017",
+    "combined_score": 144,
+    "linked_from": [
+      "Trans-Tasman Mutual Recognition Act 1997",
+      "Trade (Safeguard Measures) Act 2014",
+      "Trade (Anti-dumping and Countervailing Duties) Act 1988"
+    ]
+  },
+  {
+    "act": "Counter-Terrorism Legislation Act 2021",
+    "combined_score": 142,
+    "linked_from": [
+      "Criminal Proceeds (Recovery) Act 2009",
+      "Terrorism Suppression Act 2002",
+      "Criminal Investigations (Bodily Samples) Act 1995"
+    ]
+  },
+  {
+    "act": "Māori Purposes Act 2017",
+    "combined_score": 140,
+    "linked_from": [
+      "Te Rarawa Claims Settlement Act 2015",
+      "Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003",
+      "Māori Purposes (Wi Pere Trust) Act 1991"
+    ]
+  },
+  {
+    "act": "Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013",
+    "combined_score": 133,
+    "linked_from": [
+      "Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012"
+    ]
+  },
+  {
+    "act": "COVID-19 Public Health Response (Extension of Act and Reduction of Powers) Amendment Act 2022",
+    "combined_score": 133,
+    "linked_from": [
+      "COVID-19 Public Health Response Act 2020"
+    ]
+  },
+  {
+    "act": "Sale and Supply of Alcohol Act 2012",
+    "combined_score": 128,
+    "linked_from": [
+      "Gambling Act 2003",
+      "Armed Forces Discipline Act 1971",
+      "Natural and Built Environment Act 2023",
+      "Food Act 2014",
+      "Sale of Liquor Act 1989",
+      "Private Security Personnel and Private Investigators Act 2010",
+      "Racing Act 2003",
+      "Smoke-free Environments Act 1990",
+      "Liquor Act 1989",
+      "Auctioneers Act 2013",
+      "Maori Community Development Act 1962",
+      "Referenda (Postal Voting) Act 2000",
+      "Alcoholism and Drug Addiction Act 1966",
+      "Smokefree Environments and Regulated Products Act 1990",
+      "Auctioneers Act 1928",
+      "Hotel Association of New Zealand Act 1969"
+    ]
+  },
+  {
+    "act": "Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019",
+    "combined_score": 127,
+    "linked_from": [
+      "Financial Services Legislation Amendment Act 2019",
+      "Insolvency Practitioners Regulation (Amendments) Act 2019",
+      "Reserve Bank of New Zealand Act 1989",
+      "Corporations (Investigation and Management) Act 1989",
+      "Fair Trading Act 1986",
+      "Receiverships Act 1993",
+      "Schedule 1 of the Financial Markets Conduct Act 2013",
+      "Schedule 5 of the Financial Markets Conduct Act 2013"
+    ]
+  },
+  {
+    "act": "Oranga Tamariki Legislation Act 2019",
+    "combined_score": 126,
+    "linked_from": [
+      "Criminal Investigations (Bodily Samples) Act 1995",
+      "Children's Commissioner Act 2003",
+      "Returning Offenders (Management and Information) Act 2015",
+      "Victims' Orders Against Violent Offenders Act 2014"
+    ]
+  },
+  {
+    "act": "Regulatory Systems (Internal Affairs) Amendment Act 2026",
+    "combined_score": 112,
+    "linked_from": [
+      "Gambling Act 2003",
+      "Dog Control Act 1996",
+      "Marriage Act 1955",
+      "Human Assisted Reproductive Technology Act 2004",
+      "Local Government (Auckland Council) Act 2009",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Land Drainage Act 1908",
+      "Freedom Camping Act 2011",
+      "Impounding Act 1955",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "River Boards Act 1908",
+      "Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)",
+      "Electronic Identity Verification Regulations 2013"
+    ]
+  },
+  {
+    "act": "Energy (Fuels, Levies, and References) Amendment Act 2008",
+    "combined_score": 109,
+    "linked_from": [
+      "Petroleum Demand Restraint Act 1981",
+      "Road User Charges Act 1977",
+      "Energy (Fuels, Levies, and References) Act 1989",
+      "Ministry of Energy (Abolition) Act 1989",
+      "Schedule 1 of the Resource Management Act 1991",
+      "International Energy Agreement Act 1976"
+    ]
+  },
+  {
+    "act": "Insurance (Prudential Supervision) Act 2010",
+    "combined_score": 107,
+    "linked_from": [
+      "Insolvency Practitioners Regulation (Amendments) Act 2019",
+      "Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021",
+      "Reserve Bank of New Zealand Act 1989",
+      "Corporations (Investigation and Management) Act 1989",
+      "Anti-Money Laundering and Countering Financing of Terrorism Act 2009",
+      "Financial Reporting Act 1993",
+      "Life Insurance Act 1908",
+      "Financial Transactions Reporting Act 1996",
+      "Reserve Bank of New Zealand (Covered Bonds) Amendment Act 2013",
+      "Deposit Takers Act 2023",
+      "Insolvency (Cross-border) Act 2006",
+      "Securities Regulations 2009",
+      "Insurance Companies (Ratings and Inspections) Act 1994",
+      "Insurance Companies' Deposits Act 1953",
+      "Mutual Insurance Act 1955"
+    ]
+  },
+  {
+    "act": "Maori Purposes Act 1947",
+    "combined_score": 105,
+    "linked_from": [
+      "Soil Conservation and Rivers Control Act 1941",
+      "Land Drainage Act 1908",
+      "Maori Reserved Land Act 1955",
+      "Maori Housing Act 1935",
+      "Māori Trustee Act 1953",
+      "Crown Grants Act 1908",
+      "Maori Housing Amendment Act 1938",
+      "Maori Purposes Act 1931"
+    ]
+  },
+  {
+    "act": "Building Act 1991",
+    "combined_score": 104,
+    "linked_from": [
+      "Sale of Liquor Act 1989",
+      "Burial and Cremation Act 1964",
+      "Agricultural Compounds and Veterinary Medicines Act 1997",
+      "Fire Service Act 1975",
+      "Liquor Act 1989",
+      "Historic Places Act 1993",
+      "Schedule 7 of the Local Government Act 2002",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Plumbers, Gasfitters, and Drainlayers Act 1976",
+      "Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)",
+      "Fencing of Swimming Pools Act 1987",
+      "Radiation Protection Act 1965",
+      "Unit Titles Act 1972"
+    ]
+  },
+  {
+    "act": "Transport Services Licensing Act 1989 (1989 No 74)",
+    "combined_score": 102,
+    "linked_from": [
+      "Transport Act 1962",
+      "Railways Act 2005",
+      "Transport (Vehicle and Driver Registration and Licensing) Act 1986",
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Regulatory Systems (Transport) Amendment Act 2026",
+    "combined_score": 100,
+    "linked_from": [
+      "Transit New Zealand Act 1989",
+      "Railways Act 2005",
+      "Child Protection (Child Sex Offender Government Agency Registration) Act 2016",
+      "Auckland Airport Act 1987",
+      "Wellington Airport Act 1990",
+      "Land Transport (Motor Vehicle Registration and Licensing) Regulations 2011"
+    ]
+  },
+  {
+    "act": "Coroners Amendment Act 2023",
+    "combined_score": 99,
+    "linked_from": [
+      "Misuse of Drugs Act 1975",
+      "Coroners Act 2006",
+      "Medicines Act 1981",
+      "National Civil Defence Emergency Management Plan Order 2015",
+      "Burial and Cremation Act 1964",
+      "Human Tissue Act 2008",
+      "Oaths and Declarations Act 1957",
+      "Traffic Regulations 1976",
+      "Visiting Forces Act 2004",
+      "Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004",
+      "Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016",
+      "Births, Deaths, and Marriages Registration Act 1995",
+      "New Zealand Sign Language Act 2006",
+      "Cremation Regulations 1973",
+      "Inferior Courts Procedure Act 1909",
+      "Health and Safety at Work (Mining Operations and Quarrying Operations) Regulations 2016"
+    ]
+  },
+  {
+    "act": "Housing Corporation Amendment Act 2001",
+    "combined_score": 97,
+    "linked_from": [
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Schedule 7 of the Local Government Act 2002",
+      "Housing Corporation Act 1974",
+      "Housing Restructuring (Income-Related Rents) Amendment Act 2000",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Insurance Companies' Deposits Act 1953",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)"
+    ]
+  },
+  {
+    "act": "Company Law Reform (Transitional Provisions) Act 1994",
+    "combined_score": 85,
+    "linked_from": [
+      "Reserve Bank of New Zealand Act 1989",
+      "Corporations (Investigation and Management) Act 1989",
+      "Fair Trading Act 1986",
+      "Building Societies Act 1965",
+      "Law Practitioners Act 1982",
+      "Maori Fisheries Act 2004",
+      "Sale of Liquor Act 1989",
+      "Industrial and Provident Societies Act 1908",
+      "Airport Authorities Act 1966",
+      "Consumer Guarantees Act 1993",
+      "Property Law Act 1952",
+      "Flags, Emblems, and Names Protection Act 1981",
+      "Real Estate Agents Act 1976",
+      "Smoke-free Environments Act 1990",
+      "Liquor Act 1989",
+      "Schedule 7 of the Local Government Act 2002",
+      "Southland Electricity Act 1993",
+      "Port Companies Act 1988",
+      "Citizens Initiated Referenda Act 1993",
+      "Trade Unions Act 1908",
+      "Smokefree Environments and Regulated Products Act 1990",
+      "Partnership Act 1908",
+      "Securities Transfer Act 1991",
+      "Securities Act (Contributory Mortgage) Regulations 1988",
+      "Rural Intermediate Credit Act 1927",
+      "Layby Sales Act 1971",
+      "Wheat Industry Research Levies Act 1989",
+      "Auckland Airport Act 1987",
+      "Insurance Companies' Deposits Act 1953",
+      "Telecommunications (Residual Provisions) Act 1987",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)",
+      "Mutual Insurance Act 1955"
+    ]
+  },
+  {
+    "act": "Land Transport Act 1993",
+    "combined_score": 85,
+    "linked_from": [
+      "Transit New Zealand Act 1989",
+      "Transport Act 1962",
+      "Traffic Regulations 1976",
+      "Transport Services Licensing Act 1989",
+      "Heavy Motor Vehicle Regulations 1974",
+      "Transport (Vehicle and Driver Registration and Licensing) Act 1986",
+      "Road User Charges Act 1977",
+      "Road User Charges Regulations 1978",
+      "Transport Services Licensing Regulations 1989",
+      "Goods Service Vehicle (Constructional) Regulations 1936"
+    ]
+  },
+  {
+    "act": "Food Act 2014",
+    "combined_score": 81,
+    "linked_from": [
+      "Sale and Supply of Alcohol Act 2012",
+      "Natural and Built Environment Act 2023",
+      "Coroners Act 2006",
+      "Animal Products Act 1999",
+      "Agricultural Compounds and Veterinary Medicines Act 1997",
+      "Wine Act 2003",
+      "Psychoactive Substances Act 2013",
+      "Schedule 7 of the Local Government Act 2002",
+      "Food Act 1981",
+      "Alcohol Act 2012",
+      "Weights and Measures Regulations 1999"
+    ]
+  },
+  {
+    "act": "Gambling Act 2003 (2003 No 51)",
+    "combined_score": 81,
+    "linked_from": [
+      "Sale and Supply of Alcohol Act 2012",
+      "Building Societies Act 1965",
+      "Crown Entities Amendment Act 2013",
+      "Flags, Emblems, and Names Protection Act 1981",
+      "Trans-Tasman Mutual Recognition Act 1997",
+      "Financial Transactions Reporting Act 1996",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Racing Act 2003",
+      "Smoke-free Environments Act 1990",
+      "Alcohol Act 2012",
+      "Deposit Takers Act 2023",
+      "Smokefree Environments and Regulated Products Act 1990",
+      "Gaming Duties Act 1971",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Finance Act (No 2) 1990",
+      "New Zealand Institute of Chartered Accountants Amendment Act 2010",
+      "Boxing and Wrestling Act 1981",
+      "New Zealand Toi Aotearoa Act 2014"
+    ]
+  },
+  {
+    "act": "Maritime Crimes Amendment Act 2017",
+    "combined_score": 78,
+    "linked_from": [
+      "Terrorism Suppression Act 2002",
+      "Maritime Security Act 2004",
+      "Maritime Crimes Act 1999"
+    ]
+  },
+  {
+    "act": "Rating Valuations Act 1998",
+    "combined_score": 77,
+    "linked_from": [
+      "Unit Titles Act 2010",
+      "Natural and Built Environment Act 2023",
+      "Maori Affairs Restructuring Act 1989",
+      "Schedule 7 of the Local Government Act 2002",
+      "Maori Reserved Land Act 1955",
+      "Land Valuation Proceedings Act 1948",
+      "Land Valuation Proceedings Act 1948",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Valuers Act 1948",
+      "Securities Act (Contributory Mortgage) Regulations 1988",
+      "Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)",
+      "Maori Vested Lands Administration Act 1954",
+      "Otago Regional Council (Kuriwao Endowment Lands) Act 1994 (1994 No 4 (L))"
+    ]
+  },
+  {
+    "act": "Family Court (Family Court Associates) Legislation Act 2023",
+    "combined_score": 76,
+    "linked_from": [
+      "Family Court Act 1980",
+      "Status of Children Act 1969",
+      "Marriage Act 1955",
+      "Oaths and Declarations Act 1957",
+      "Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004",
+      "Children Act 2004",
+      "Personal and Property Rights Act 1988"
+    ]
+  },
+  {
+    "act": "Trustee Amendment Act 1988",
+    "combined_score": 73,
+    "linked_from": [
+      "Building Societies Act 1965",
+      "Rating Valuations Act 1998",
+      "Trustee Act 1956",
+      "Soil Conservation and Rivers Control Act 1941",
+      "Queen Elizabeth the Second National Trust Act 1977",
+      "Historic Places Act 1993",
+      "Trustee Companies Act 1967",
+      "Housing Corporation Act 1974",
+      "Pork Industry Board Act 1997",
+      "Ratings Valuations Act 1998",
+      "New Zealand Railways Staff Welfare Society Dissolution Act 1999",
+      "Patriotic and Canteen Funds Act 1947",
+      "Taranaki Scholarships Trust Board Act 1957",
+      "Health Research Council Act 1990",
+      "Music Teachers Act 1981",
+      "Industry Training and Apprenticeships Act 1992",
+      "Museum of New Zealand Te Papa Tongarewa Act 1992",
+      "Auckland Harbour Bridge Authority Dissolution Act 1983",
+      "Sport, Fitness, and Leisure Act 1987"
+    ]
+  },
+  {
+    "act": "Maori Affairs Restructuring Act 1989",
+    "combined_score": 71,
+    "linked_from": [
+      "Māori Trustee Amendment Act 2009",
+      "Rating Valuations Act 1998",
+      "Maori Community Development Act 1962",
+      "Ratings Valuations Act 1998",
+      "Ministry of Maori Development Act 1991",
+      "Maori Housing Act 1935",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Māori Trustee Act 1953",
+      "Maori Housing Amendment Act 1938"
+    ]
+  },
+  {
+    "act": "Social Security (Rates of Benefits and Allowances) Order 2026",
+    "combined_score": 71,
+    "linked_from": [
+      "Schedule 1 of the Social Security Act 2018"
+    ]
+  },
+  {
+    "act": "Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35)",
+    "combined_score": 68,
+    "linked_from": [
+      "Financial Services Legislation Amendment Act 2019",
+      "Criminal Proceeds (Recovery) Act 2009",
+      "Terrorism Suppression Act 2002",
+      "Insurance (Prudential Supervision) Act 2010",
+      "Financial Transactions Reporting Act 1996",
+      "Deposit Takers Act 2023",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "New Zealand Institute of Chartered Accountants Amendment Act 2010"
+    ]
+  },
+  {
+    "act": "Regulatory Systems (Tribunals) Amendment Act 2026",
+    "combined_score": 64,
+    "linked_from": [
+      "Unit Titles Act 2010",
+      "Disputes Tribunals Act 1988",
+      "Private Security Personnel and Private Investigators Act 2010",
+      "Disputes Tribunal Act 1988"
+    ]
+  },
+  {
+    "act": "Regulatory Systems (Economic Development) Amendment Act 2019",
+    "combined_score": 63,
+    "linked_from": [
+      "Fair Trading Act 1986",
+      "Building Societies Act 1965",
+      "Limited Partnerships Act 2008",
+      "Trade Marks Act 2002",
+      "Plant Variety Rights Act 1987",
+      "Waitakere Ranges Heritage Area Act 2008 (2008 No 1 (L))",
+      "Weights and Measures Act 1987",
+      "Continental Shelf Act 1964",
+      "Personal and Property Rights Act 1988",
+      "Trade Marks Regulations 2003"
+    ]
+  },
+  {
+    "act": "Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018",
+    "combined_score": 61,
+    "linked_from": [
+      "Budapest Convention and Related Matters Legislation Amendment Act 2025",
+      "Tariff Act 1988",
+      "Trade Marks Act 2002"
+    ]
+  },
+  {
+    "act": "Unit Titles Act 2010",
+    "combined_score": 60,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Rating Valuations Act 1998",
+      "Retirement Villages Act 2003",
+      "Weathertight Homes Resolution Services Act 2006",
+      "Property Law Act 1952",
+      "Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002",
+      "Ratings Valuations Act 1998",
+      "Public Trust Act Commencement Order 2002",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)",
+      "Unit Titles Act 1972"
+    ]
+  },
+  {
+    "act": "Criminal Procedure (Mentally Impaired Persons) Act 2003",
+    "combined_score": 58,
+    "linked_from": [
+      "Criminal Justice Act 1985",
+      "Armed Forces Discipline Act 1971",
+      "Coroners Act 2006",
+      "Criminal Investigations (Bodily Samples) Act 1995",
+      "Juries Act 1981",
+      "Court Martial Appeals Act 1953"
+    ]
+  },
+  {
+    "act": "Railways Act 2005",
+    "combined_score": 56,
+    "linked_from": [
+      "Gas Act 1992",
+      "WorkSafe New Zealand Act 2013",
+      "Natural and Built Environment Act 2023",
+      "Transport Act 1962",
+      "Traffic Regulations 1976",
+      "Transport Services Licensing Act 1989",
+      "Land Transport (Road User) Rule 2004",
+      "Hazardous Substances (Classes 1 to 5 Controls) Regulations 2001",
+      "Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)"
+    ]
+  },
+  {
+    "act": "Natural and Built Environment Act 2023",
+    "combined_score": 55,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Maori Commercial Aquaculture Claims Settlement Act 2004",
+      "Schedule 7 of the Local Government Act 2002",
+      "Hauraki Gulf Marine Park Act 2000",
+      "Christ Church Cathedral Reinstatement Order 2020",
+      "Chatham Islands Council Act 1995",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Whakarewarewa and Roto-a-Tamaheke Vesting Act 2009",
+      "Tauranga District Council (Route K Toll) Empowering Act 2000",
+      "Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)"
+    ]
+  },
+  {
+    "act": "Animal Products Act 1999 (1999 No 93)",
+    "combined_score": 55,
+    "linked_from": [
+      "Animal Welfare Act 1999",
+      "Food Act 2014",
+      "National Animal Identification and Tracing Act 2012"
+    ]
+  },
+  {
+    "act": "Transport (Vehicle and Driver Registration and Licensing) Act 1986",
+    "combined_score": 55,
+    "linked_from": [
+      "Transport Act 1962",
+      "Road User Charges Act 1977"
+    ]
+  },
+  {
+    "act": "Abortion Legislation Act 2020",
+    "combined_score": 55,
+    "linked_from": [
+      "Contraception, Sterilisation, and Abortion Act 1977",
+      "Medicines Regulations 1984"
+    ]
+  },
+  {
+    "act": "Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72)",
+    "combined_score": 54,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Natural and Built Environment Act 2023",
+      "Environment Act 1986",
+      "Radiation Safety Act 2016",
+      "Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016",
+      "Continental Shelf Act 1964",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025",
+      "Health and Safety at Work (Mining Operations and Quarrying Operations) Regulations 2016"
+    ]
+  },
+  {
+    "act": "Referenda (Postal Voting) Act 2000",
+    "combined_score": 51,
+    "linked_from": [
+      "Sale and Supply of Alcohol Act 2012",
+      "Alcohol Act 2012",
+      "Citizens Initiated Referenda Act 1993"
+    ]
+  },
+  {
+    "act": "Insolvency Practitioners Regulation (Amendments) Act 2019",
+    "combined_score": 48,
+    "linked_from": [
+      "Receiverships Act 1993",
+      "Insurance (Prudential Supervision) Act 2010",
+      "Companies Act 1993 Liquidation Regulations 1994"
+    ]
+  },
+  {
+    "act": "Archives, Culture, and Heritage Reform Act 2000 (2000 No 32)",
+    "combined_score": 47,
+    "linked_from": [
+      "Protected Objects Act 1975",
+      "Historic Places Act 1993",
+      "Patriotic and Canteen Funds Act 1947",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Museum of New Zealand Te Papa Tongarewa Act 1992",
+      "New Zealand Symphony Orchestra Act 2004",
+      "New Zealand Toi Aotearoa Act 2014"
+    ]
+  },
+  {
+    "act": "Financial Reporting Amendment Act 1997",
+    "combined_score": 46,
+    "linked_from": [
+      "Gas Act 1992",
+      "Reserve Bank of New Zealand Act 1989",
+      "Building Societies Act 1965",
+      "Housing Act 1955",
+      "Financial Reporting Act 1993",
+      "Industrial and Provident Societies Act 1908",
+      "Soil Conservation and Rivers Control Act 1941",
+      "Heavy Engineering Research Levy Act 1978",
+      "Valuers Act 1948",
+      "Plumbers, Gasfitters, and Drainlayers Act 1976",
+      "Securities Act (Contributory Mortgage) Regulations 1988",
+      "Insurance Companies (Ratings and Inspections) Act 1994",
+      "Wheat Industry Research Levies Act 1989",
+      "Public Service Investment Society Management Act (No 2) 1979",
+      "Unit Titles Act 1972"
+    ]
+  },
+  {
+    "act": "Protection of Personal and Property Rights Amendment Act 2007",
+    "combined_score": 45,
+    "linked_from": [
+      "Personal and Property Rights Act 1988"
+    ]
+  },
+  {
+    "act": "Agricultural Compounds and Veterinary Medicines Amendment Act 2016",
+    "combined_score": 44,
+    "linked_from": [
+      "Medicines Act 1981",
+      "Agricultural Compounds and Veterinary Medicines Act 1997"
+    ]
+  },
+  {
+    "act": "Minors (Court Consent to Relationships) Legislation Act 2018",
+    "combined_score": 42,
+    "linked_from": [
+      "Civil Union Act 2004",
+      "Family Court Act 1980",
+      "Marriage Act 1955",
+      "Family Court Rules 2002",
+      "Children Act 2004"
+    ]
+  },
+  {
+    "act": "European Union Free Trade Agreement Legislation Amendment Act 2024",
+    "combined_score": 41,
+    "linked_from": [
+      "Tariff Act 1988",
+      "Trade Marks Act 2002",
+      "Trans-Tasman Mutual Recognition Act 1997",
+      "Major Events Management Act 2007",
+      "Trade (Safeguard Measures) Act 2014",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Overseas Investment Regulations 2005",
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)"
+    ]
+  },
+  {
+    "act": "Corporations (Investigation and Management) Act 1989 (1989 No 11)",
+    "combined_score": 40,
+    "linked_from": [
+      "Contempt of Court Act 2019",
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Insurance (Prudential Supervision) Act 2010",
+      "Reserve Bank of New Zealand (Covered Bonds) Amendment Act 2013",
+      "Justice (Restructuring) Act 1995",
+      "Deposit Takers Act 2023",
+      "Court Act 2019",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019"
+    ]
+  },
+  {
+    "act": "Local Government (Water Services Preliminary Arrangements) Act 2024",
+    "combined_score": 38,
+    "linked_from": [
+      "Receiverships Act 1993",
+      "National Civil Defence Emergency Management Plan Order 2015",
+      "Local Government (Auckland Council) Act 2009",
+      "Schedule 7 of the Local Government Act 2002",
+      "Schedule 2 of the Legislation Act 2019",
+      "Part 3 and section 114 of the Legislation Act 2019",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Schedule 1 of the Legislation Act 2019"
+    ]
+  },
+  {
+    "act": "Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002",
+    "combined_score": 37,
+    "linked_from": [
+      "Unit Titles Act 2010",
+      "Property Law Act 1952",
+      "Forestry Rights Registration Act 1983",
+      "Domestic Actions Act 1975",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Farm Ownership Savings Act 1974",
+      "Otago Regional Council (Kuriwao Endowment Lands) Act 1994 (1994 No 4 (L))",
+      "Auckland Harbour Bridge Authority Dissolution Act 1983",
+      "Land Transfer Amendment Act 1963"
+    ]
+  },
+  {
+    "act": "Disputes Tribunal Amendment Act 2025",
+    "combined_score": 37,
+    "linked_from": [
+      "Disputes Tribunals Act 1988",
+      "Fair Trading Act 1986",
+      "Retirement Villages Act 2003",
+      "Consumer Guarantees Act 1993",
+      "Fencing Act 1978",
+      "Disputes Tribunal Act 1988"
+    ]
+  },
+  {
+    "act": "Rights for Victims of Insane Offenders Act 2021",
+    "combined_score": 37,
+    "linked_from": [
+      "Criminal Procedure (Mentally Impaired Persons) Act 2003",
+      "Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003"
+    ]
+  },
+  {
+    "act": "Te Urewera Act 2014",
+    "combined_score": 35,
+    "linked_from": [
+      "Dog Control Act 1996",
+      "Fencing Act 1978",
+      "Litter Act 1979",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Ngāti Manawa Claims Settlement Act 2012"
+    ]
+  },
+  {
+    "act": "Environment (Disestablishment of Ministry for the Environment) Amendment Act 2026",
+    "combined_score": 35,
+    "linked_from": [
+      "Waste Minimisation Act 2008",
+      "Environment Act 1986",
+      "Fast-track Approvals Act 2024",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Schedule 8 of the Public Service Act 2020",
+      "Fiordland (Te Moana o Atawhenua) Marine Management Act 2005"
+    ]
+  },
+  {
+    "act": "Ngāti Manawa Claims Settlement Act 2012",
+    "combined_score": 32,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Te Urewera Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Reserve Bank of New Zealand (Covered Bonds) Amendment Act 2013",
+    "combined_score": 31,
+    "linked_from": [
+      "Reserve Bank of New Zealand Act 1989",
+      "Corporations (Investigation and Management) Act 1989",
+      "Insurance (Prudential Supervision) Act 2010"
+    ]
+  },
+  {
+    "act": "Limited Partnerships Act 2008",
+    "combined_score": 31,
+    "linked_from": [
+      "Financial Reporting Act 1993",
+      "Partnership Act 1908",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "Insurance Companies (Ratings and Inspections) Act 1994",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)"
+    ]
+  },
+  {
+    "act": "Armed Forces Discipline Act 1971",
+    "combined_score": 30,
+    "linked_from": [
+      "Criminal Procedure (Mentally Impaired Persons) Act 2003",
+      "Sale and Supply of Alcohol Act 2012",
+      "Coroners Act 2006",
+      "Summary Offences Act 1981",
+      "Alcohol Act 2012",
+      "Visiting Forces Act 2004",
+      "Court Martial Appeals Act 1953",
+      "Geneva Conventions Act 1958"
+    ]
+  },
+  {
+    "act": "Criminal Proceeds (Recovery) Act 2009",
+    "combined_score": 30,
+    "linked_from": [
+      "Terrorism Suppression Act 2002",
+      "Anti-Money Laundering and Countering Financing of Terrorism Act 2009",
+      "Financial Transactions Reporting Act 1996",
+      "Counter-Terrorism Legislation Act 2021",
+      "Proceeds of Crime Act 1991",
+      "International War Crimes Tribunals Act 1995"
+    ]
+  },
+  {
+    "act": "Legislation Act (Amendments to Legislation) Regulations 2021",
+    "combined_score": 29,
+    "linked_from": [
+      "Gas Act 1992",
+      "Reserve Bank of New Zealand Act 1989",
+      "Misuse of Drugs Act 1975",
+      "Climate Change Response Act 2002",
+      "Arms Act 1983",
+      "Anti-Money Laundering and Countering Financing of Terrorism Act 2009",
+      "Animal Products Act 1999",
+      "Human Tissue Act 2008",
+      "Airport Authorities Act 1966",
+      "Postal Services Act 1998",
+      "Wine Act 2003",
+      "Radiation Safety Act 2016",
+      "Schedule 2 of the Legislation Act 2019",
+      "COVID-19 Public Health Response Act 2020",
+      "Part 3 and section 114 of the Legislation Act 2019",
+      "Schedule 1 of the Legislation Act 2019",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019",
+      "Schedule 1 of the Social Security Act 2018"
+    ]
+  },
+  {
+    "act": "Gas Act 1992 (1992 No 124)",
+    "combined_score": 29,
+    "linked_from": [
+      "WorkSafe New Zealand Act 2013",
+      "Natural and Built Environment Act 2023",
+      "Railways Act 2005",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Environment Act 1986",
+      "Schedule 7 of the Local Government Act 2002",
+      "Plumbers, Gasfitters, and Drainlayers Act 1976",
+      "Consumer Guarantees Amendment Act 2013"
+    ]
+  },
+  {
+    "act": "District Courts Amendment Act 2002",
+    "combined_score": 28,
+    "linked_from": [
+      "Gas Act 1992",
+      "Animal Welfare Act 1999",
+      "Animal Products Act 1999",
+      "Domestic Violence Act 1995",
+      "Family Protection Act 1955",
+      "Law Reform (Testamentary Promises) Act 1949",
+      "Harassment Act 1997",
+      "District Courts Act 1947",
+      "Admiralty Act 1973",
+      "Personal and Property Rights Act 1988"
+    ]
+  },
+  {
+    "act": "Consumer Guarantees Amendment Act 2013",
+    "combined_score": 28,
+    "linked_from": [
+      "Gas Act 1992",
+      "Consumer Guarantees Act 1993"
+    ]
+  },
+  {
+    "act": "Statutes Amendment Act 2018",
+    "combined_score": 28,
+    "linked_from": [
+      "Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012",
+      "Fair Trading Act 1986",
+      "Coroners Act 2006",
+      "Animal Welfare Act 1999",
+      "Anti-Money Laundering and Countering Financing of Terrorism Act 2009",
+      "Domestic Violence Act 1995",
+      "Auctioneers Act 2013",
+      "Housing Corporation Act 1974",
+      "Te Rarawa Claims Settlement Act 2015",
+      "Children Act 2004",
+      "Justices of the Peace Act 1957",
+      "Personal and Property Rights Act 1988",
+      "Government Superannuation Fund Act 1956 (1956 No 47) (RS Vol 21, p 209)"
+    ]
+  },
+  {
+    "act": "Imports and Exports (Restrictions) Amendment Act 2011",
+    "combined_score": 28,
+    "linked_from": [
+      "Imports and Exports (Restrictions) Act 1988"
+    ]
+  },
+  {
+    "act": "Contracts of Insurance (Repeals and Amendments) Act 2024",
+    "combined_score": 27,
+    "linked_from": [
+      "Fair Trading Act 1986",
+      "Schedule 1 of the Financial Markets Conduct Act 2013",
+      "Schedule 5 of the Financial Markets Conduct Act 2013"
+    ]
+  },
+  {
+    "act": "United Kingdom Free Trade Agreement Legislation Act 2022",
+    "combined_score": 26,
+    "linked_from": [
+      "Tariff Act 1988",
+      "Overseas Investment Regulations 2005"
+    ]
+  },
+  {
+    "act": "Resource Management (Auckland Housing) Amendment Act 2026",
+    "combined_score": 26,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Regulatory Systems (Transport) Amendment Act 2021",
+    "combined_score": 25,
+    "linked_from": [
+      "Transit New Zealand Act 1989",
+      "Ship Registration Act 1992",
+      "Railways Act 2005",
+      "Maritime Security Act 2004",
+      "Submarine Cables and Pipelines Protection Act 1996",
+      "Port Companies Act 1988"
+    ]
+  },
+  {
+    "act": "Visiting Forces Act 2004 (2004 No 59)",
+    "combined_score": 25,
+    "linked_from": [
+      "Armed Forces Discipline Act 1971",
+      "Arms Act 1983",
+      "Coroners Act 2006",
+      "Births, Deaths, and Marriages Registration Act 1995",
+      "Coroners Amendment Act 2023"
+    ]
+  },
+  {
+    "act": "Maori Reserved Land Act 1955",
+    "combined_score": 25,
+    "linked_from": [
+      "Māori Trustee Amendment Act 2009",
+      "Maori Purposes Act 1931",
+      "Maori Purposes Act 1947"
+    ]
+  },
+  {
+    "act": "Waitakere Ranges Heritage Area Act 2008 (2008 No 1 (L))",
+    "combined_score": 24,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Civil Union Act 2004 (2004 No 102)",
+    "combined_score": 24,
+    "linked_from": [
+      "Family Court Act 1980",
+      "Family Court Rules 2002",
+      "Births, Deaths, and Marriages Registration Act 1995",
+      "Domestic Violence (Public Registers) Regulations 1998",
+      "Children Act 2004",
+      "Children Act 2004"
+    ]
+  },
+  {
+    "act": "District Courts Amendment Act 1998",
+    "combined_score": 24,
+    "linked_from": [
+      "Sale of Liquor Act 1989",
+      "Transport Act 1962",
+      "Soil Conservation and Rivers Control Act 1941",
+      "Liquor Act 1989",
+      "Transport (Vehicle and Driver Registration and Licensing) Act 1986",
+      "Schedule 7 of the Local Government Act 2002",
+      "Juries Act 1981",
+      "Land Drainage Act 1908",
+      "Statistics Act 1975",
+      "River Boards Act 1908",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Inferior Courts Procedure Act 1909",
+      "Fencing of Swimming Pools Act 1987",
+      "Bylaws Act 1910"
+    ]
+  },
+  {
+    "act": "Trade Marks Act 2002",
+    "combined_score": 23,
+    "linked_from": [
+      "Disputes Tribunals Act 1988",
+      "Fair Trading Act 1986",
+      "European Union Free Trade Agreement Legislation Amendment Act 2024",
+      "Disputes Tribunal Act 1988",
+      "Flags, Emblems, and Names Protection Act 1981",
+      "Smoke-free Environments Act 1990",
+      "New Zealand Business Number Act 2016",
+      "Smokefree Environments and Regulated Products (Vaping) Amendment Act 2020",
+      "Smokefree Environments and Regulated Products Act 1990",
+      "Standards Act 1988"
+    ]
+  },
+  {
+    "act": "Coroners Act 2006 (2006 No 38)",
+    "combined_score": 23,
+    "linked_from": [
+      "Children, Young Persons, and Their Families Amendment Act 1994",
+      "Armed Forces Discipline Act 1971",
+      "Food Act 2014",
+      "Contempt of Court Act 2019",
+      "Human Tissue Act 2008",
+      "Visiting Forces Act 2004",
+      "Substance Addiction (Compulsory Assessment and Treatment) Act 2017",
+      "Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004",
+      "End of Life Choice Act 2019",
+      "Births, Deaths, and Marriages Registration Act 1995",
+      "Court Act 2019",
+      "Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019"
+    ]
+  },
+  {
+    "act": "Maori Commercial Aquaculture Claims Settlement Act 2004",
+    "combined_score": 23,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Foreshore and Seabed Act 2004"
+    ]
+  },
+  {
+    "act": "Christ Church Cathedral Reinstatement Order 2020 (LI 2020/226)",
+    "combined_score": 23,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Wildlife Amendment Act 1993",
+    "combined_score": 23,
+    "linked_from": [
+      "Wildlife Act 1953",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Financial Reporting Act 1993 (1993 No 106)",
+    "combined_score": 22,
+    "linked_from": [
+      "Industrial and Provident Societies Act 1908",
+      "Insurance (Prudential Supervision) Act 2010",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Schedule 7 of the Local Government Act 2002",
+      "Justice (Restructuring) Act 1995",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "New Zealand Institute of Chartered Accountants Amendment Act 2010"
+    ]
+  },
+  {
+    "act": "Parliamentary Privilege Act 2014",
+    "combined_score": 22,
+    "linked_from": [
+      "Defamation Act 1992",
+      "Schedule 1 of the Defamation Act 1992",
+      "Canterbury Earthquake Recovery Act 2011",
+      "Imperial Laws Application Act 1988",
+      "Intelligence and Security Committee Act 1996",
+      "Intelligence and Security Act 1996"
+    ]
+  },
+  {
+    "act": "Counter-Terrorism Acts (Designations and Control Orders) Amendment Act 2023",
+    "combined_score": 21,
+    "linked_from": [
+      "Terrorism Suppression Act 2002",
+      "Security Information in Proceedings Act 2022"
+    ]
+  },
+  {
+    "act": "Trans-Tasman Proceedings Act 2010",
+    "combined_score": 21,
+    "linked_from": [
+      "Reciprocal Enforcement of Judgments Act 1934"
+    ]
+  },
+  {
+    "act": "Survey Act 1986",
+    "combined_score": 21,
+    "linked_from": [
+      "Crown Grants Act 1908",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)",
+      "Unit Titles Act 1972"
+    ]
+  },
+  {
+    "act": "Births, Deaths, and Marriages Registration Act 1995 (1995 No 16)",
+    "combined_score": 20,
+    "linked_from": [
+      "Civil Union Act 2004",
+      "Coroners Act 2006",
+      "Human Tissue Act 2008",
+      "Visiting Forces Act 2004",
+      "Justice (Restructuring) Act 1995",
+      "Adult Adoption Information Act 1985",
+      "Children Act 2004",
+      "Child, Youth and Family Services Act 1999"
+    ]
+  },
+  {
+    "act": "Racing Act 2003 (2003 No 3)",
+    "combined_score": 20,
+    "linked_from": [
+      "Sale and Supply of Alcohol Act 2012",
+      "Flags, Emblems, and Names Protection Act 1981",
+      "Alcohol Act 2012",
+      "Gaming Duties Act 1971",
+      "New Zealand Institute of Chartered Accountants Amendment Act 2010"
+    ]
+  },
+  {
+    "act": "Offshore Renewable Energy Act 2026",
+    "combined_score": 20,
+    "linked_from": [
+      "Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012",
+      "Fast-track Approvals Act 2024",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Local Government (Auckland Council) Act 2009 (2009 No 32)",
+    "combined_score": 20,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Land Transport Management Amendment Act 2013"
+    ]
+  },
+  {
+    "act": "Reserve Bank of New Zealand Act 1989 (1989 No 157)",
+    "combined_score": 20,
+    "linked_from": [
+      "Anti-Money Laundering and Countering Financing of Terrorism Act 2009",
+      "Contempt of Court Act 2019",
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Court Act 2019",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "Securities Act (Contributory Mortgage) Regulations 1988",
+      "Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019"
+    ]
+  },
+  {
+    "act": "Energy Innovation (Electric Vehicles and Other Matters) Amendment Act 2017",
+    "combined_score": 20,
+    "linked_from": [
+      "Energy (Fuels, Levies, and References) Act 1989",
+      "Ministry of Energy (Abolition) Act 1989"
+    ]
+  },
+  {
+    "act": "Ngāi Tahu Claims Settlement Act 1998",
+    "combined_score": 19,
+    "linked_from": [
+      "Unit Titles Act 2010",
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Historic Places Act 1993",
+      "New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Te Runanga o Ngai Tahu Act 1996",
+      "Lake Wanaka Preservation Act 1973"
+    ]
+  },
+  {
+    "act": "Budapest Convention and Related Matters Legislation Amendment Act 2025",
+    "combined_score": 19,
+    "linked_from": [
+      "Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018",
+      "Deposit Takers Act 2023",
+      "Telecommunications (Interception Capability and Security) Act 2013"
+    ]
+  },
+  {
+    "act": "Maori Fisheries Act 2004",
+    "combined_score": 19,
+    "linked_from": [
+      "Treaty of Waitangi (Fisheries Claims) Settlement Act 1992",
+      "New Zealand Institute of Chartered Accountants Amendment Act 2010",
+      "Agriculture and Fisheries (Restructuring) Act 1995"
+    ]
+  },
+  {
+    "act": "Housing Corporation Act 1974",
+    "combined_score": 18,
+    "linked_from": [
+      "Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013",
+      "Sale of Liquor Act 1989",
+      "Crown Entities Amendment Act 2013",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Liquor Act 1989",
+      "Schedule 7 of the Local Government Act 2002",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Farm Ownership Savings Act 1974"
+    ]
+  },
+  {
+    "act": "Building Societies Act 1965 (1965 No 22)",
+    "combined_score": 18,
+    "linked_from": [
+      "Gambling Act 2003",
+      "Age of Majority Act 1970",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "New Zealand Institute of Chartered Accountants Amendment Act 2010"
+    ]
+  },
+  {
+    "act": "Reserve Bank of New Zealand (Monetary Policy) Amendment Act 2018",
+    "combined_score": 18,
+    "linked_from": [
+      "Reserve Bank of New Zealand Act 1989"
+    ]
+  },
+  {
+    "act": "Tariff Amendment Act 2009",
+    "combined_score": 18,
+    "linked_from": [
+      "Tariff Act 1988"
+    ]
+  },
+  {
+    "act": "Smoke-free Environments Act 1990 (1990 No 108)",
+    "combined_score": 17,
+    "linked_from": [
+      "Gambling Act 2003",
+      "Sale and Supply of Alcohol Act 2012",
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Schedule 7 of the Local Government Act 2002",
+      "Alcohol Act 2012",
+      "Public Transport Management Act 2008"
+    ]
+  },
+  {
+    "act": "Reserve Bank of New Zealand Amendment Act 1995",
+    "combined_score": 17,
+    "linked_from": [
+      "Reserve Bank of New Zealand Act 1989",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)"
+    ]
+  },
+  {
+    "act": "Reserve Bank of New Zealand Amendment Act 1999",
+    "combined_score": 17,
+    "linked_from": [
+      "Reserve Bank of New Zealand Act 1989"
+    ]
+  },
+  {
+    "act": "Chartered Professional Engineers of New Zealand Act 2002",
+    "combined_score": 17,
+    "linked_from": [
+      "Transit New Zealand Act 1989",
+      "Fire Service Act 1975",
+      "Health and Safety in Employment Regulations 1995",
+      "Heavy Motor Vehicle Regulations 1974",
+      "Soil Conservation and Rivers Control Act 1941",
+      "Health and Safety in Employment (Pressure Equipment, Cranes, Passenger Ropeways) Regulations 1999",
+      "Deposit Takers Act 2023",
+      "Wellington Regional Water Board Act 1972",
+      "Wellington Regional Water Board Act 1972 (1972 No 3 (L))",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Hutt Valley Drainage Act 1967",
+      "Hutt Valley Drainage Act 1967 (1967 No 3 (L))",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)"
+    ]
+  },
+  {
+    "act": "Building (Forms) Regulations 2004",
+    "combined_score": 17,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Building Regulations 1992"
+    ]
+  },
+  {
+    "act": "Three Strikes Legislation Repeal Act 2022",
+    "combined_score": 17,
+    "linked_from": [
+      "Arms Act 1983",
+      "Criminal Procedure (Transfer of Information) Regulations 2013",
+      "Victims' Orders Against Violent Offenders Act 2014"
+    ]
+  },
+  {
+    "act": "Arbitration Act 1996",
+    "combined_score": 17,
+    "linked_from": [
+      "Building Societies Act 1965",
+      "Airport Authorities Act 1966",
+      "Maori Affairs Restructuring Act 1989",
+      "Limitation Act 1950",
+      "Maori Reserved Land Act 1955",
+      "Reciprocal Enforcement of Judgments Act 1934",
+      "Land Valuation Proceedings Act 1948",
+      "Contracts of Insurance (Repeals and Amendments) Act 2024",
+      "Hutt Valley Drainage Act 1967",
+      "Contractual Remedies Act 1979",
+      "Hutt Valley Drainage Act 1967 (1967 No 3 (L))",
+      "Otago Regional Council (Kuriwao Endowment Lands) Act 1994 (1994 No 4 (L))",
+      "Contractual Mistakes Act 1977"
+    ]
+  },
+  {
+    "act": "Wine Act 2003",
+    "combined_score": 17,
+    "linked_from": [
+      "Food Act 2014",
+      "Food Act 1981"
+    ]
+  },
+  {
+    "act": "Transit New Zealand Act 1989 (1989 No 75)",
+    "combined_score": 17,
+    "linked_from": [
+      "Arbitration Act 1996",
+      "Transport Act 1962",
+      "Chartered Professional Engineers of New Zealand Act 2002",
+      "Environment Act 1986",
+      "Schedule 7 of the Local Government Act 2002",
+      "Finance Act 1989",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Financial Markets Conduct Regulations 2014 (LI 2014/326)",
+    "combined_score": 16,
+    "linked_from": [
+      "Regulatory Systems (Economic Development) Amendment Act 2025",
+      "Deposit Takers Act 2023"
+    ]
+  },
+  {
+    "act": "Crown Pastoral Land Act 1998 (1998 No 65)",
+    "combined_score": 16,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Natural and Built Environment Act 2023",
+      "Walking Access Act 2008"
+    ]
+  },
+  {
+    "act": "Hauraki Gulf Marine Park Act 2000 (2000 No 1)",
+    "combined_score": 16,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Natural and Built Environment Act 2023",
+      "Environment Act 1986",
+      "Foreshore and Seabed Act 2004",
+      "Schedule 7 of the Local Government Act 2002",
+      "Walking Access Act 2008",
+      "Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025"
+    ]
+  },
+  {
+    "act": "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+    "combined_score": 16,
+    "linked_from": [
+      "Transit New Zealand Act 1989",
+      "Dog Control Act 1996",
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Defamation Act 1992",
+      "Historic Places Act 1993",
+      "Southland Electricity Act 1993",
+      "Justice (Restructuring) Act 1995",
+      "Foreign Affairs Act 1988",
+      "Schedule 1 of the Defamation Act 1992",
+      "Ministry of Maori Development Act 1991",
+      "Radio New Zealand Act 1995",
+      "New Zealand Tourism Board Act 1991",
+      "New Zealand Antarctic Institute Act 1996",
+      "Agriculture and Fisheries (Restructuring) Act 1995"
+    ]
+  },
+  {
+    "act": "Court Martial Act 2007",
+    "combined_score": 16,
+    "linked_from": [
+      "Armed Forces Discipline Act 1971",
+      "Oaths and Declarations Act 1957",
+      "Defamation Act 1992",
+      "Crimes of Torture Act 1989",
+      "Electronic Transactions Act 2002",
+      "Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004",
+      "Geneva Conventions Act 1958",
+      "Schedule 1 of the Defamation Act 1992",
+      "Electoral Regulations 1996"
+    ]
+  },
+  {
+    "act": "Public Finance Act 1977",
+    "combined_score": 16,
+    "linked_from": [
+      "Wildlife Act 1953",
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Transport Act 1962",
+      "Trustee Act 1956",
+      "Soil Conservation and Rivers Control Act 1941",
+      "Land Drainage Act 1908",
+      "Tourist and Health Resorts Control Act 1908",
+      "Maori Housing Act 1935",
+      "River Boards Act 1908",
+      "Hutt Valley Drainage Act 1967",
+      "Bills of Exchange Act 1908",
+      "Plumbers, Gasfitters, and Drainlayers Act 1976",
+      "Hutt Valley Drainage Act 1967 (1967 No 3 (L))",
+      "Insurance Companies' Deposits Act 1953",
+      "Maori Land Amendment and Maori Land Claims Adjustment Act 1926"
+    ]
+  },
+  {
+    "act": "Family Violence (Amendments) Act 2018",
+    "combined_score": 16,
+    "linked_from": [
+      "Aviation Crimes Act 1972",
+      "Births, Deaths, and Marriages Registration Act 1995",
+      "Maritime Crimes Act 1999",
+      "Children Act 2004"
+    ]
+  },
+  {
+    "act": "Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014",
+    "combined_score": 16,
+    "linked_from": [
+      "Hauraki Gulf Marine Park Act 2000",
+      "Ngāti Whātua Ōrākei Claims Settlement Act 2012",
+      "Tauranga District Council (Route K Toll) Empowering Act 2000",
+      "Ngāti Whātua o Kaipara Claims Settlement Act 2013"
+    ]
+  },
+  {
+    "act": "District Courts Rules 2014 (LI 2014/179)",
+    "combined_score": 16,
+    "linked_from": [
+      "Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016",
+      "Health and Safety at Work (Mining Operations and Quarrying Operations) Regulations 2016"
+    ]
+  },
+  {
+    "act": "Weathertight Homes Resolution Services Act 2006",
+    "combined_score": 15,
+    "linked_from": [
+      "Unit Titles Act 2010",
+      "Construction Contracts Act 2002"
+    ]
+  },
+  {
+    "act": "Companies Amendment Act 2006",
+    "combined_score": 15,
+    "linked_from": [
+      "Reserve Bank of New Zealand Act 1989",
+      "Corporations (Investigation and Management) Act 1989",
+      "Receiverships Act 1993",
+      "Property Law Act 1952"
+    ]
+  },
+  {
+    "act": "Family Courts Amendment Act 2000",
+    "combined_score": 15,
+    "linked_from": [
+      "Family Court Act 1980",
+      "Domestic Violence Act 1995",
+      "Marriage Act 1955",
+      "Domestic Actions Act 1975",
+      "Personal and Property Rights Act 1988"
+    ]
+  },
+  {
+    "act": "Radiation Safety Act 2016",
+    "combined_score": 15,
+    "linked_from": [
+      "Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012",
+      "Terrorism Suppression Act 2002",
+      "Medicines Act 1981",
+      "Fire Service Act 1975",
+      "Trans-Tasman Mutual Recognition Act 1997",
+      "Environment Act 1986",
+      "Radiation Protection Act 1965",
+      "Carriage of Goods Act 1979",
+      "Accident Compensation (Liability to Pay or Contribute to Cost of Treatment) Regulations 2003"
+    ]
+  },
+  {
+    "act": "Waste Minimisation Act 2008 (2008 No 89)",
+    "combined_score": 15,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Environment (Disestablishment of Ministry for the Environment) Amendment Act 2026",
+      "Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)",
+      "Ministry for the Environment) Amendment Act 2026"
+    ]
+  },
+  {
+    "act": "Age of Majority Act 1970",
+    "combined_score": 15,
+    "linked_from": [
+      "Building Societies Act 1965",
+      "Marriage Act 1955",
+      "Industrial and Provident Societies Act 1908",
+      "Trustee Act 1956",
+      "Fencing Act 1978",
+      "Property Law Act 1952",
+      "Maori Community Development Act 1962",
+      "Births, Deaths, and Marriages Registration Act 1995",
+      "Trade Unions Act 1908",
+      "Maori Housing Act 1935",
+      "Maori Housing Amendment Act 1938"
+    ]
+  },
+  {
+    "act": "Regulations (Disallowance) Act 1989",
+    "combined_score": 15,
+    "linked_from": [
+      "Wildlife Act 1953",
+      "Forests Act 1949",
+      "Housing Act 1955",
+      "Patents Act 1953",
+      "Industrial and Provident Societies Act 1908",
+      "Agricultural Compounds and Veterinary Medicines Act 1997",
+      "Soil Conservation and Rivers Control Act 1941",
+      "Impounding Act 1955",
+      "Land Valuation Proceedings Act 1948",
+      "Valuers Act 1948",
+      "Engineering Associates Act 1961",
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)",
+      "Maori Vested Lands Administration Act 1954",
+      "Mutual Insurance Act 1955",
+      "Auctioneers Act 1928"
+    ]
+  },
+  {
+    "act": "Animal Welfare Act 1999",
+    "combined_score": 15,
+    "linked_from": [
+      "Dog Control Act 1996",
+      "Animal Products Act 1999",
+      "Marine Mammals Protection Act 1978",
+      "Wild Animal Control Act 1977",
+      "Schedule 7 of the Local Government Act 2002",
+      "Game Animal Council Act 2013",
+      "Impounding Act 1955",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Arms Act 1983",
+    "combined_score": 15,
+    "linked_from": [
+      "Postal Services Act 1998",
+      "Wild Animal Control Act 1977",
+      "Visiting Forces Act 2004",
+      "Trespass Act 1980",
+      "Gangs Act 2024",
+      "Arms Regulations 1992"
+    ]
+  },
+  {
+    "act": "Financial Transactions Reporting Act 1996 (1996 No 9)",
+    "combined_score": 14,
+    "linked_from": [
+      "Gambling Act 2003",
+      "Anti-Money Laundering and Countering Financing of Terrorism Act 2009",
+      "Insurance (Prudential Supervision) Act 2010",
+      "Private Security Personnel and Private Investigators Act 2010",
+      "Racing Act 2003"
+    ]
+  },
+  {
+    "act": "Raukawa Claims Settlement Act 2014",
+    "combined_score": 14,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Hotel Association of New Zealand Act 1969 (1969 No 139)",
+    "combined_score": 14,
+    "linked_from": [
+      "Sale and Supply of Alcohol Act 2012",
+      "Alcohol Act 2012"
+    ]
+  },
+  {
+    "act": "Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025",
+    "combined_score": 14,
+    "linked_from": [
+      "Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012",
+      "Environment Act 1986",
+      "Hauraki Gulf Marine Park Act 2000",
+      "Land Transport (Road User) Rule 2004",
+      "Tauranga District Council (Route K Toll) Empowering Act 2000",
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)"
+    ]
+  },
+  {
+    "act": "Terrorism Suppression Act 2002 (2002 No 34)",
+    "combined_score": 14,
+    "linked_from": [
+      "Anti-Money Laundering and Countering Financing of Terrorism Act 2009",
+      "Financial Transactions Reporting Act 1996",
+      "Deposit Takers Act 2023",
+      "Proceeds of Crime Act 1991",
+      "Maritime Crimes Amendment Act 2017"
+    ]
+  },
+  {
+    "act": "Radiocommunications Act 1989",
+    "combined_score": 14,
+    "linked_from": [
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Telecommunications (Residual Provisions) Act 1987"
+    ]
+  },
+  {
+    "act": "Marriage (Definition of Marriage) Amendment Act 2013",
+    "combined_score": 14,
+    "linked_from": [
+      "Status of Children Act 1969",
+      "Marriage Act 1955",
+      "Births, Deaths, and Marriages Registration Act 1995",
+      "Maori Vested Lands Administration Act 1954",
+      "Land Act Regulations 1949"
+    ]
+  },
+  {
+    "act": "Receiverships Act 1993 (1993 No 122)",
+    "combined_score": 14,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002",
+      "Deposit Takers Act 2023",
+      "Local Government (Water Services Preliminary Arrangements) Act 2024",
+      "New Zealand Institute of Chartered Accountants Amendment Act 2010"
+    ]
+  },
+  {
+    "act": "International Energy Agreement Act 1976 (1976 No 155)",
+    "combined_score": 14,
+    "linked_from": [
+      "Energy (Fuels, Levies, and References) Act 1989",
+      "Ministry of Energy (Abolition) Act 1989",
+      "Energy (Fuels, Levies, and References) Amendment Act 2008"
+    ]
+  },
+  {
+    "act": "Energy (Fuels, Levies, and References) Act 1989",
+    "combined_score": 13,
+    "linked_from": [
+      "WorkSafe New Zealand Act 2013",
+      "Petroleum Demand Restraint Act 1981",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Atomic Energy Act 1945",
+      "International Energy Agreement Act 1976"
+    ]
+  },
+  {
+    "act": "Postal Services Act 1998",
+    "combined_score": 13,
+    "linked_from": [
+      "Misuse of Drugs Act 1975",
+      "Arms Act 1983",
+      "Law Practitioners Act 1982",
+      "Trade in Endangered Species Act 1989",
+      "Carriage of Goods Act 1979"
+    ]
+  },
+  {
+    "act": "Psychoactive Substances Act 2013",
+    "combined_score": 13,
+    "linked_from": [
+      "Misuse of Drugs Act 1975",
+      "Food Act 2014",
+      "Smokefree Environments and Regulated Products (Vaping) Amendment Act 2020",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)"
+    ]
+  },
+  {
+    "act": "Land Transport Management Amendment Act 2013",
+    "combined_score": 13,
+    "linked_from": [
+      "Transit New Zealand Act 1989",
+      "Local Government (Auckland Council) Act 2009",
+      "Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010",
+      "Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010",
+      "Canterbury Earthquake Recovery Act 2011",
+      "War Pensions Regulations 1956",
+      "Rugby World Cup 2011 (Empowering) Act 2010"
+    ]
+  },
+  {
+    "act": "Property (Relationships) Amendment Act 2001",
+    "combined_score": 13,
+    "linked_from": [
+      "Family Court Act 1980",
+      "Estate Duty Repeal Act 1999",
+      "Domestic Violence Act 1995",
+      "Personal and Property Rights Act 1988",
+      "Government Superannuation Fund Act 1956 (1956 No 47) (RS Vol 21, p 209)"
+    ]
+  },
+  {
+    "act": "Auctioneers Act 2013",
+    "combined_score": 13,
+    "linked_from": [
+      "Sale and Supply of Alcohol Act 2012",
+      "Protected Objects Act 1975",
+      "Secondhand Dealers and Pawnbrokers Act 2004",
+      "Trustee Companies Act 1967",
+      "Alcohol Act 2012",
+      "Unclaimed Money Act 1971",
+      "Impounding Act 1955",
+      "Wellington Regional Water Board Act 1972",
+      "Wellington Regional Water Board Act 1972 (1972 No 3 (L))",
+      "Auctioneers Act 1928"
+    ]
+  },
+  {
+    "act": "Aquaculture Reform (Repeals and Transitional Provisions) Act 2004",
+    "combined_score": 13,
+    "linked_from": [
+      "Fisheries Act 1983",
+      "Natural and Built Environment Act 2023",
+      "Rock Oyster Farming Regulations 1964"
+    ]
+  },
+  {
+    "act": "Environment Act 1986 (1986 No 127)",
+    "combined_score": 12,
+    "linked_from": [
+      "Gas Act 1992",
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Transit New Zealand Act 1989",
+      "Natural and Built Environment Act 2023",
+      "Antarctica (Environmental Protection) Act 1994",
+      "Radiation Safety Act 2016",
+      "Schedule 7 of the Local Government Act 2002",
+      "Fast-track Approvals Act 2024",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025"
+    ]
+  },
+  {
+    "act": "Burial and Cremation Act 1964 (1964 No 75)",
+    "combined_score": 12,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Natural and Built Environment Act 2023",
+      "Coroners Act 2006",
+      "Schedule 7 of the Local Government Act 2002",
+      "End of Life Choice Act 2019",
+      "Deposit Takers Act 2023",
+      "Coroners Amendment Act 2023"
+    ]
+  },
+  {
+    "act": "Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014",
+    "combined_score": 12,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Te Arawa Lakes Settlement Act 2006",
+    "combined_score": 12,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Radiocommunications Act 1989",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Maori Purposes Act 1931",
+      "Fisheries (Kaimoana Customary Fishing) Regulations 1998"
+    ]
+  },
+  {
+    "act": "Private Security Personnel and Private Investigators Act 2010",
+    "combined_score": 12,
+    "linked_from": [
+      "Sale and Supply of Alcohol Act 2012",
+      "Dog Control Act 1996",
+      "Financial Transactions Reporting Act 1996",
+      "Alcohol Act 2012",
+      "Land Transport (Road User) Rule 2004",
+      "Fair Trading Amendment Act 2013",
+      "Domestic Violence (Public Registers) Regulations 1998",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "COVID-19 Response (Management Measures) Legislation Act 2021",
+    "combined_score": 12,
+    "linked_from": [
+      "Climate Change Response Act 2002",
+      "Coroners Act 2006",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Fencing Act 1978",
+    "combined_score": 12,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Wildlife Act 1953",
+      "Trustee Act 1956",
+      "Te Urewera Act 2014",
+      "Schedule 7 of the Local Government Act 2002",
+      "Maori Reserved Land Act 1955",
+      "Disputes Tribunal Amendment Act 2025",
+      "Children Act 2004",
+      "Age of Majority Act 1970",
+      "Maori Vested Lands Administration Act 1954"
+    ]
+  },
+  {
+    "act": "Summit Road (Canterbury) Protection Act 2001 (2001 No 3 (L))",
+    "combined_score": 12,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Medicines Act 1981 (1981 No 118)",
+    "combined_score": 12,
+    "linked_from": [
+      "Fair Trading Act 1986",
+      "Agricultural Compounds and Veterinary Medicines Act 1997",
+      "Radiation Safety Act 2016",
+      "Substance Addiction (Compulsory Assessment and Treatment) Act 2017",
+      "Coroners Amendment Act 2023",
+      "Agricultural Compounds and Veterinary Medicines Amendment Act 2016",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Schedule 1 of the Social Security Act 2018"
+    ]
+  },
+  {
+    "act": "Dog Control Act 1996",
+    "combined_score": 12,
+    "linked_from": [
+      "Animal Welfare Act 1999",
+      "Private Security Personnel and Private Investigators Act 2010",
+      "Te Urewera Act 2014",
+      "Schedule 7 of the Local Government Act 2002",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)"
+    ]
+  },
+  {
+    "act": "New Zealand Institute of Chartered Accountants Amendment Act 2010",
+    "combined_score": 12,
+    "linked_from": [
+      "Maori Fisheries Act 2004",
+      "Trustee Act 1956",
+      "Climate Change (Unique Emissions Factors) Regulations 2009",
+      "New Zealand Institute of Chartered Accountants Act 1996",
+      "Securities Transfer Act 1991",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)"
+    ]
+  },
+  {
+    "act": "Consular Privileges and Immunities Act 1971",
+    "combined_score": 12,
+    "linked_from": [
+      "Diplomatic Privileges and Immunities Act 1968"
+    ]
+  },
+  {
+    "act": "Family Court Act 1980 (1980 No 161)",
+    "combined_score": 11,
+    "linked_from": [
+      "Civil Union Act 2004",
+      "Contempt of Court Act 2019",
+      "Domestic Violence Act 1995",
+      "Marriage Act 1955",
+      "Wills Act 2007",
+      "Domestic Actions Act 1975",
+      "Court Act 2019",
+      "Children Act 2004",
+      "Children Act 2004",
+      "Personal and Property Rights Act 1988",
+      "Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019"
+    ]
+  },
+  {
+    "act": "Infrastructure (Amendments Relating to Utilities Access) Act 2010",
+    "combined_score": 11,
+    "linked_from": [
+      "Gas Act 1992",
+      "Transit New Zealand Act 1989",
+      "Railways Act 2005",
+      "Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)"
+    ]
+  },
+  {
+    "act": "Contempt of Court Act 2019",
+    "combined_score": 11,
+    "linked_from": [
+      "Reserve Bank of New Zealand Act 1989",
+      "Family Court Act 1980",
+      "Corporations (Investigation and Management) Act 1989",
+      "Coroners Act 2006",
+      "Harassment Act 1997",
+      "Juries Act 1981",
+      "Criminal Disclosure Act 2008",
+      "Courts Security Act 1999",
+      "Victims' Orders Against Violent Offenders Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008",
+    "combined_score": 11,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Tourist and Health Resorts Control Act 1908",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "National War Memorial Park (Pukeahu) Empowering Act 2012 (2012 No 76)",
+    "combined_score": 11,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Ngāti Kōata, Ngāti Rārua, Ngāti Tama ki Te Tau Ihu, and Te Ātiawa o Te Waka-a-Māui Claims Settlement Act 2014",
+    "combined_score": 11,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Alcoholism and Drug Addiction Act 1966 (1966 No 97)",
+    "combined_score": 11,
+    "linked_from": [
+      "Sale and Supply of Alcohol Act 2012",
+      "Alcohol Act 2012",
+      "Substance Addiction (Compulsory Assessment and Treatment) Act 2017"
+    ]
+  },
+  {
+    "act": "Maori Community Development Act 1962 (1962 No 133)",
+    "combined_score": 11,
+    "linked_from": [
+      "Sale and Supply of Alcohol Act 2012",
+      "Māori Trustee Amendment Act 2009",
+      "Alcohol Act 2012",
+      "Maori Purposes Act 1947",
+      "New Zealand Institute of Chartered Accountants Amendment Act 2010"
+    ]
+  },
+  {
+    "act": "Abolition of the Death Penalty Act 1989",
+    "combined_score": 11,
+    "linked_from": [
+      "Armed Forces Discipline Act 1971"
+    ]
+  },
+  {
+    "act": "Ministry of Economic Development Act 2000",
+    "combined_score": 11,
+    "linked_from": [
+      "Tariff Act 1988",
+      "Radiocommunications Act 1989",
+      "Imports and Exports (Restrictions) Act 1988",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Weights and Measures Regulations 1999"
+    ]
+  },
+  {
+    "act": "Judicature (Timeliness) Legislation Amendment Act 2025",
+    "combined_score": 11,
+    "linked_from": [
+      "Coroners Act 2006"
+    ]
+  },
+  {
+    "act": "Enhancing Identity Verification and Border Processes Legislation Act 2017",
+    "combined_score": 11,
+    "linked_from": [
+      "Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003",
+      "Births, Deaths, and Marriages Registration Act 1995"
+    ]
+  },
+  {
+    "act": "New Zealand Tourism Board Act 1991",
+    "combined_score": 11,
+    "linked_from": [
+      "Crown Entities Amendment Act 2013",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Tourist and Health Resorts Control Act 1908",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "New Zealand Maori Arts and Crafts Institute Act 1963"
+    ]
+  },
+  {
+    "act": "National Civil Defence Emergency Management Plan Order 2015 (LI 2015/140)",
+    "combined_score": 11,
+    "linked_from": [
+      "Coroners Amendment Act 2023",
+      "Local Government (Water Services Preliminary Arrangements) Act 2024"
+    ]
+  },
+  {
+    "act": "Fair Trading Act 1986 (1986 No 121)",
+    "combined_score": 10,
+    "linked_from": [
+      "Disputes Tribunals Act 1988",
+      "Medicines Act 1981",
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Agricultural Compounds and Veterinary Medicines Act 1997",
+      "Trade Marks Act 2002",
+      "Disputes Tribunal Act 1988",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Disputes Tribunal Amendment Act 2025",
+      "Schedule 1 of the Financial Markets Authority Act 2011"
+    ]
+  },
+  {
+    "act": "Ngāti Apa (North Island) Claims Settlement Act 2010",
+    "combined_score": 10,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Awa Claims Settlement Act 2005",
+    "combined_score": 10,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Mākino Claims Settlement Act 2012",
+    "combined_score": 10,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Manuhiri Claims Settlement Act 2012",
+    "combined_score": 10,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Pāhauwera Treaty Claims Settlement Act 2012",
+    "combined_score": 10,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005",
+    "combined_score": 10,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Maritime Powers Act 2022",
+    "combined_score": 10,
+    "linked_from": [
+      "Arms Act 1983",
+      "Maritime Crimes Act 1999"
+    ]
+  },
+  {
+    "act": "Criminal Activity Intervention Legislation Act 2023",
+    "combined_score": 10,
+    "linked_from": [
+      "Arms Act 1983",
+      "Anti-Money Laundering and Countering Financing of Terrorism Act 2009",
+      "Criminal Investigations (Bodily Samples) Act 1995"
+    ]
+  },
+  {
+    "act": "Disputes Tribunals Act 1988",
+    "combined_score": 10,
+    "linked_from": [
+      "Fair Trading Act 1986",
+      "Oaths and Declarations Act 1957",
+      "Trade Marks Act 2002",
+      "Fencing Act 1978",
+      "Minors' Contracts Act 1969",
+      "Justice (Restructuring) Act 1995",
+      "Contractual Remedies Act 1979",
+      "Inferior Courts Procedure Act 1909",
+      "Maori Language Act 1987"
+    ]
+  },
+  {
+    "act": "Historic Places Act 1993 (1993 No 38)",
+    "combined_score": 10,
+    "linked_from": [
+      "Rating Valuations Act 1998",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Schedule 7 of the Local Government Act 2002",
+      "Ratings Valuations Act 1998",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Archives, Culture, and Heritage Reform Act 2000"
+    ]
+  },
+  {
+    "act": "Ministry of Energy Act 1977",
+    "combined_score": 10,
+    "linked_from": [
+      "Mining Tenures Registration Act 1962",
+      "Continental Shelf Act 1964",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Atomic Energy Act 1945"
+    ]
+  },
+  {
+    "act": "Employment Contracts Act 1991",
+    "combined_score": 10,
+    "linked_from": [
+      "Fire Service Act 1975",
+      "Acts and Regulations Publication Act 1989",
+      "Trade Unions Act 1908",
+      "Judicature Amendment Act 1972",
+      "Clerk of the House of Representatives Act 1988"
+    ]
+  },
+  {
+    "act": "Securities Regulations 2009",
+    "combined_score": 10,
+    "linked_from": [
+      "Insurance (Prudential Supervision) Act 2010",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "Securities (Mutual Recognition of Securities Offerings—Australia) Regulations 2008",
+      "Securities (Fees) Regulations 1998"
+    ]
+  },
+  {
+    "act": "Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016",
+    "combined_score": 10,
+    "linked_from": [
+      "District Court Rules 2014",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Criminal Procedure Rules 2012",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Maori Language Act 1987"
+    ]
+  },
+  {
+    "act": "Petroleum Demand Restraint Act 1981 (1981 No 12)",
+    "combined_score": 10,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002",
+      "Energy (Fuels, Levies, and References) Act 1989",
+      "Ministry of Energy (Abolition) Act 1989",
+      "Energy (Fuels, Levies, and References) Amendment Act 2008"
+    ]
+  },
+  {
+    "act": "Maori Purposes Act 1931",
+    "combined_score": 10,
+    "linked_from": [
+      "Maori Reserved Land Act 1955",
+      "Maori Land Amendment and Maori Land Claims Adjustment Act 1926"
+    ]
+  },
+  {
+    "act": "Companies Act 1993 Liquidation Regulations 1994 (SR 1994/130)",
+    "combined_score": 9,
+    "linked_from": [
+      "Insolvency Practitioners Regulation (Amendments) Act 2019",
+      "Deposit Takers Act 2023"
+    ]
+  },
+  {
+    "act": "Overseas Investment Amendment Act 2018",
+    "combined_score": 9,
+    "linked_from": [
+      "Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018",
+      "Overseas Investment Regulations 2005"
+    ]
+  },
+  {
+    "act": "Reserve Bank of New Zealand Amendment Act 2009",
+    "combined_score": 9,
+    "linked_from": [
+      "Reserve Bank of New Zealand Act 1989",
+      "Corporations (Investigation and Management) Act 1989",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)"
+    ]
+  },
+  {
+    "act": "Maritime Powers Extension Act 2018",
+    "combined_score": 9,
+    "linked_from": [
+      "Misuse of Drugs Act 1975"
+    ]
+  },
+  {
+    "act": "Fiordland (Te Moana o Atawhenua) Marine Management Act 2005 (2005 No 36)",
+    "combined_score": 9,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Natural and Built Environment Act 2023",
+      "Environment (Disestablishment of Ministry for the Environment) Amendment Act 2026",
+      "Ministry for the Environment) Amendment Act 2026"
+    ]
+  },
+  {
+    "act": "Ngāti Mutunga Claims Settlement Act 2006",
+    "combined_score": 9,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngati Tama Claims Settlement Act 2003",
+    "combined_score": 9,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngati Toa Rangatira Claims Settlement Act 2014",
+    "combined_score": 9,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Whātua Ōrākei Claims Settlement Act 2012",
+    "combined_score": 9,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Hauraki Gulf Marine Park Act 2000",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Tauranga District Council (Route K Toll) Empowering Act 2000"
+    ]
+  },
+  {
+    "act": "Maori Vested Lands Administration Act 1954 (1954 No 60)",
+    "combined_score": 9,
+    "linked_from": [
+      "Māori Trustee Amendment Act 2009",
+      "Marriage (Definition of Marriage) Amendment Act 2013",
+      "Marriage) Amendment Act 2013"
+    ]
+  },
+  {
+    "act": "Estate Duty Repeal Act 1999",
+    "combined_score": 9,
+    "linked_from": [
+      "Law Practitioners Act 1982",
+      "Trustee Act 1956",
+      "Designs Act 1953",
+      "Law Reform (Testamentary Promises) Act 1949",
+      "Queen Elizabeth the Second National Trust Act 1977",
+      "Trustee Companies Act 1967",
+      "New Zealand Institute of Chartered Accountants Act 1996",
+      "New Zealand Council for Educational Research Act 1972",
+      "Sport, Fitness, and Leisure Act 1987"
+    ]
+  },
+  {
+    "act": "Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87)",
+    "combined_score": 9,
+    "linked_from": [
+      "Animal Welfare Act 1999",
+      "Food Act 2014",
+      "Medicines Act 1981",
+      "Animal Products (Ancillary and Transitional Provisions) Act 1999"
+    ]
+  },
+  {
+    "act": "Reciprocal Enforcement of Judgments Act 1934 (1934 No 11)",
+    "combined_score": 9,
+    "linked_from": [
+      "Trans-Tasman Proceedings Act 2010"
+    ]
+  },
+  {
+    "act": "Misuse of Drugs Act 1975 (1975 No 116)",
+    "combined_score": 9,
+    "linked_from": [
+      "Anti-Money Laundering and Countering Financing of Terrorism Act 2009",
+      "Aviation Crimes Act 1972",
+      "Psychoactive Substances Act 2013",
+      "Substance Addiction (Compulsory Assessment and Treatment) Act 2017",
+      "Coroners Amendment Act 2023"
+    ]
+  },
+  {
+    "act": "National Animal Identification and Tracing Act 2012",
+    "combined_score": 9,
+    "linked_from": [
+      "Animal Products Act 1999",
+      "Wild Animal Control Act 1977",
+      "Telecommunications (Interception Capability and Security) Act 2013",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Status of Children Act 1969 (1969 No 18)",
+    "combined_score": 9,
+    "linked_from": [
+      "Family Protection Act 1955",
+      "Marriage (Definition of Marriage) Amendment Act 2013",
+      "Births, Deaths, and Marriages Registration Act 1995",
+      "Deaths by Accidents Compensation Act 1952",
+      "Marriage) Amendment Act 2013"
+    ]
+  },
+  {
+    "act": "Deaths by Accidents Compensation Act 1952",
+    "combined_score": 9,
+    "linked_from": [
+      "Limitation Act 1950",
+      "Law Reform Act 1936",
+      "Contributory Negligence Act 1947"
+    ]
+  },
+  {
+    "act": "Cremation Regulations 1973 (SR 1973/154)",
+    "combined_score": 9,
+    "linked_from": [
+      "End of Life Choice Act 2019",
+      "Coroners Amendment Act 2023"
+    ]
+  },
+  {
+    "act": "Securities (Mutual Recognition of Securities Offerings—Australia) Regulations 2008 (SR 2008/153)",
+    "combined_score": 9,
+    "linked_from": [
+      "Securities Regulations 2009",
+      "Schedule 1 of the Financial Markets Authority Act 2011"
+    ]
+  },
+  {
+    "act": "Senior Courts (Access to Court Documents) Rules 2017",
+    "combined_score": 9,
+    "linked_from": [
+      "Criminal Procedure Rules 2012"
+    ]
+  },
+  {
+    "act": "Support Workers (Pay Equity) Settlements Amendment Act 2022",
+    "combined_score": 9,
+    "linked_from": [
+      "Support Workers (Pay Equity) Settlements Act 2017 (previously named the Care and Support Workers (Pay Equity) Settlement Act 2017)"
+    ]
+  },
+  {
+    "act": "Auditor Regulation Act 2011",
+    "combined_score": 8,
+    "linked_from": [
+      "Regulatory Systems (Economic Development) Amendment Act 2025",
+      "Securities Regulations 2009",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)"
+    ]
+  },
+  {
+    "act": "Flags, Emblems, and Names Protection Act 1981 (1981 No 47)",
+    "combined_score": 8,
+    "linked_from": [
+      "Gambling Act 2003",
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Ship Registration Act 1992",
+      "Trade Marks Act 2002",
+      "Racing Act 2003",
+      "Children's Health Camps Board Dissolution Act 1999",
+      "New Zealand Act 2002",
+      "New Zealand Antarctic Institute Act 1996"
+    ]
+  },
+  {
+    "act": "Trans-Tasman Mutual Recognition Act 1997 (1997 No 60)",
+    "combined_score": 8,
+    "linked_from": [
+      "Gambling Act 2003",
+      "Law Practitioners Act 1982",
+      "European Union Free Trade Agreement Legislation Amendment Act 2024",
+      "Radiation Safety Act 2016",
+      "Public Transport Management Act 2008",
+      "Trade (Anti-dumping and Countervailing Duties) Amendment Act 2017"
+    ]
+  },
+  {
+    "act": "Reserve Bank of New Zealand Amendment Act 1993",
+    "combined_score": 8,
+    "linked_from": [
+      "Reserve Bank of New Zealand Act 1989"
+    ]
+  },
+  {
+    "act": "Machinery Act 1950 (1950 No 52)",
+    "combined_score": 8,
+    "linked_from": [
+      "WorkSafe New Zealand Act 2013",
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Electricity (Safety) Regulations 2010",
+    "combined_score": 8,
+    "linked_from": [
+      "WorkSafe New Zealand Act 2013",
+      "Electricity (Hazards from Trees) Regulations 2003"
+    ]
+  },
+  {
+    "act": "Substance Addiction (Compulsory Assessment and Treatment) Act 2017",
+    "combined_score": 8,
+    "linked_from": [
+      "Misuse of Drugs Act 1975",
+      "Coroners Act 2006",
+      "Medicines Act 1981",
+      "Summary Offences Act 1981",
+      "Crimes of Torture Act 1989",
+      "Alcoholism and Drug Addiction Act 1966",
+      "Health (Retention of Health Information) Regulations 1996"
+    ]
+  },
+  {
+    "act": "Maraeroa A and B Blocks Claims Settlement Act 2012",
+    "combined_score": 8,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngaa Rauru Kiitahi Claims Settlement Act 2005",
+    "combined_score": 8,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngai Tāmanuhiri Claims Settlement Act 2012",
+    "combined_score": 8,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngati Porou Claims Settlement Act 2012",
+    "combined_score": 8,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngati Ruanui Claims Settlement Act 2003",
+    "combined_score": 8,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Whātua o Kaipara Claims Settlement Act 2013",
+    "combined_score": 8,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Te Uri o Hau Claims Settlement Act 2002",
+    "combined_score": 8,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Waitaha Claims Settlement Act 2013",
+    "combined_score": 8,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Chatham Islands Council Act 1995",
+    "combined_score": 8,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Schedule 7 of the Local Government Act 2002",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Trustee Act 1956 (1956 No 61)",
+    "combined_score": 8,
+    "linked_from": [
+      "Māori Trustee Amendment Act 2009",
+      "Property Law Act 1952",
+      "Limitation Act 1950",
+      "New Zealand Institute of Chartered Accountants Amendment Act 2010"
+    ]
+  },
+  {
+    "act": "End of Life Choice Act 2019",
+    "combined_score": 8,
+    "linked_from": [
+      "Coroners Act 2006",
+      "Burial and Cremation Act 1964",
+      "Cremation Regulations 1973",
+      "Personal and Property Rights Act 1988"
+    ]
+  },
+  {
+    "act": "District Courts Act 1947",
+    "combined_score": 8,
+    "linked_from": [
+      "Coroners Act 2006",
+      "River Boards Act 1908",
+      "Auctioneers Act 1928"
+    ]
+  },
+  {
+    "act": "Radio New Zealand Act 1995",
+    "combined_score": 8,
+    "linked_from": [
+      "Radiocommunications Act 1989",
+      "Crown Entities Amendment Act 2013",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Life Insurance Act 1908 (1908 No 105)",
+    "combined_score": 8,
+    "linked_from": [
+      "Insurance (Prudential Supervision) Act 2010",
+      "Wills Act 2007",
+      "Schedule 7 of the Local Government Act 2002",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "Ministry of Economic Development Act 2000"
+    ]
+  },
+  {
+    "act": "Wild Animal Control Act 1977 (1977 No 111)",
+    "combined_score": 8,
+    "linked_from": [
+      "National Animal Identification and Tracing Act 2012",
+      "Schedule 7 of the Local Government Act 2002",
+      "Justice (Restructuring) Act 1995",
+      "Game Animal Council Act 2013"
+    ]
+  },
+  {
+    "act": "Walking Access Act 2008",
+    "combined_score": 8,
+    "linked_from": [
+      "Litter Act 1979",
+      "Hauraki Gulf Marine Park Act 2000",
+      "Crown Pastoral Land Act 1998",
+      "Summit Road (Canterbury) Protection Act 2001 (2001 No 3 (L))",
+      "Children, Young Persons, and Their Families Amendment Act 2001",
+      "Summit Road (Canterbury) Protection Act 2001",
+      "Tauranga District Council (Route K Toll) Empowering Act 2000"
+    ]
+  },
+  {
+    "act": "Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006",
+    "combined_score": 8,
+    "linked_from": [
+      "Housing Corporation Amendment Act 2001",
+      "Housing Corporation Act 1974",
+      "Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000"
+    ]
+  },
+  {
+    "act": "Criminal Procedure Rules 2012 (SR 2012/415)",
+    "combined_score": 8,
+    "linked_from": [
+      "Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016",
+      "Health and Safety at Work (Mining Operations and Quarrying Operations) Regulations 2016"
+    ]
+  },
+  {
+    "act": "KiwiSaver Regulations 2006 (SR 2006/358)",
+    "combined_score": 8,
+    "linked_from": [
+      "Schedule 1 of the Financial Markets Authority Act 2011"
+    ]
+  },
+  {
+    "act": "Property Law Act 1952 (1952 No 51)",
+    "combined_score": 7,
+    "linked_from": [
+      "Unit Titles Act 2010",
+      "Trustee Act 1956",
+      "Schedule 7 of the Local Government Act 2002",
+      "Law Reform Act 1936",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Criminal Justice Act 1985 (1985 No 120)",
+    "combined_score": 7,
+    "linked_from": [
+      "Criminal Procedure (Mentally Impaired Persons) Act 2003",
+      "Misuse of Drugs Act 1975",
+      "Juries Act 1981",
+      "Justice (Restructuring) Act 1995",
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)",
+      "Child, Youth and Family Services Act 1999"
+    ]
+  },
+  {
+    "act": "Fast-track Approvals Act 2024 (2024 No 56)",
+    "combined_score": 7,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Environment Act 1986",
+      "Ngāti Rangi Claims Settlement Act 2019",
+      "Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010",
+      "Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010",
+      "Environment (Disestablishment of Ministry for the Environment) Amendment Act 2026",
+      "Ministry for the Environment) Amendment Act 2026"
+    ]
+  },
+  {
+    "act": "Maungaharuru-Tangitū Hapū Claims Settlement Act 2014",
+    "combined_score": 7,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Rangiwewehi Claims Settlement Act 2014",
+    "combined_score": 7,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Whare Claims Settlement Act 2012",
+    "combined_score": 7,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009",
+    "combined_score": 7,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Pouakani Claims Settlement Act 2000",
+    "combined_score": 7,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Protected Objects Act 1975 (1975 No 41)",
+    "combined_score": 7,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Wildlife Act 1953",
+      "Auctioneers Act 2013"
+    ]
+  },
+  {
+    "act": "Tapuika Claims Settlement Act 2014",
+    "combined_score": 7,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Te Roroa Claims Settlement Act 2008",
+    "combined_score": 7,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Wills Act 2007",
+    "combined_score": 7,
+    "linked_from": [
+      "Family Court Act 1980",
+      "Life Insurance Act 1908",
+      "Trustee Companies Act 1967",
+      "Imperial Laws Application Act 1988",
+      "Māori Trustee Act 1953",
+      "Personal and Property Rights Act 1988"
+    ]
+  },
+  {
+    "act": "Costs in Criminal Cases Act 1967",
+    "combined_score": 7,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)"
+    ]
+  },
+  {
+    "act": "Forests Act 1949",
+    "combined_score": 7,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Tourist and Health Resorts Control Act 1908"
+    ]
+  },
+  {
+    "act": "Northland Regional Council and Far North District Council Vesting and Empowering Act 1992 (1992 No 2 (L))",
+    "combined_score": 7,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Fisheries (Aquaculture Compensation Methodology) Regulations 2012 (SR 2012/335)",
+    "combined_score": 7,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Forest and Rural Fires Act 1977",
+    "combined_score": 7,
+    "linked_from": [
+      "Wildlife Act 1953",
+      "Fire Service Act 1975",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Foreshore and Seabed Act 2004",
+      "Schedule 7 of the Local Government Act 2002",
+      "Maori Reserved Land Act 1955",
+      "Maori Vested Lands Administration Act 1954"
+    ]
+  },
+  {
+    "act": "Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)",
+    "combined_score": 7,
+    "linked_from": [
+      "Rating Valuations Act 1998",
+      "Dog Control Act 1996",
+      "Animal Welfare Act 1999",
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Ratings Valuations Act 1998",
+      "Animal Products (Ancillary and Transitional Provisions) Act 1999",
+      "Child, Youth and Family Services Act 1999"
+    ]
+  },
+  {
+    "act": "Human Tissue Act 2008 (2008 No 28)",
+    "combined_score": 7,
+    "linked_from": [
+      "Coroners Act 2006",
+      "Human Assisted Reproductive Technology Act 2004",
+      "Births, Deaths, and Marriages Registration Act 1995",
+      "Coroners Amendment Act 2023"
+    ]
+  },
+  {
+    "act": "Sale of Liquor Act 1989",
+    "combined_score": 7,
+    "linked_from": [
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Summary Offences Act 1981",
+      "Schedule 7 of the Local Government Act 2002",
+      "Maori Community Development Act 1962",
+      "Justice (Restructuring) Act 1995",
+      "Children Act 2004",
+      "Auctioneers Act 1928"
+    ]
+  },
+  {
+    "act": "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)",
+    "combined_score": 7,
+    "linked_from": [
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Defamation Act 1992",
+      "Justice (Restructuring) Act 1995",
+      "Schedule 1 of the Defamation Act 1992",
+      "Private Savings Banks (Transfer of Undertakings) Act 1992"
+    ]
+  },
+  {
+    "act": "Sexual Violence Legislation Act 2021",
+    "combined_score": 7,
+    "linked_from": [
+      "Rights for Victims of Insane Offenders Act 2021"
+    ]
+  },
+  {
+    "act": "Secondhand Dealers and Pawnbrokers Act 2004",
+    "combined_score": 7,
+    "linked_from": [
+      "Protected Objects Act 1975",
+      "Auctioneers Act 2013",
+      "Auctioneers Act 1928"
+    ]
+  },
+  {
+    "act": "Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19)",
+    "combined_score": 7,
+    "linked_from": [
+      "Protected Objects Act 1975",
+      "Flags, Emblems, and Names Protection Act 1981",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Schedule 7 of the Local Government Act 2002",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Archives, Culture, and Heritage Reform Act 2000"
+    ]
+  },
+  {
+    "act": "Finance Act (No 2) 1988",
+    "combined_score": 7,
+    "linked_from": [
+      "Airport Authorities Act 1966",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Auckland Airport Act 1987"
+    ]
+  },
+  {
+    "act": "Limitation Act 1950",
+    "combined_score": 7,
+    "linked_from": [
+      "Trustee Act 1956",
+      "Soil Conservation and Rivers Control Act 1941",
+      "Land Drainage Act 1908",
+      "Law Reform Act 1936"
+    ]
+  },
+  {
+    "act": "Securities (Fees) Regulations 1998 (SR 1998/461)",
+    "combined_score": 7,
+    "linked_from": [
+      "Securities Regulations 2009",
+      "Schedule 1 of the Financial Markets Authority Act 2011"
+    ]
+  },
+  {
+    "act": "Family Court (Supporting Children in Court) Legislation Act 2021",
+    "combined_score": 7,
+    "linked_from": [
+      "Children Act 2004"
+    ]
+  },
+  {
+    "act": "School Trustees Act 1989",
+    "combined_score": 7,
+    "linked_from": [
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Private Schools Conditional Integration Act 1975"
+    ]
+  },
+  {
+    "act": "Fishing Vessel Ownership Savings Act 1977 (1977 No 62)",
+    "combined_score": 7,
+    "linked_from": [
+      "Farm Ownership Savings Act 1974",
+      "Private Savings Banks (Transfer of Undertakings) Act 1992"
+    ]
+  },
+  {
+    "act": "Deposit Takers Act 2023",
+    "combined_score": 6,
+    "linked_from": [
+      "Budapest Convention and Related Matters Legislation Amendment Act 2025",
+      "Insurance (Prudential Supervision) Act 2010",
+      "Financial Markets Conduct Regulations 2014",
+      "Schedule 1 of the Financial Markets Conduct Act 2013",
+      "Schedule 5 of the Financial Markets Conduct Act 2013"
+    ]
+  },
+  {
+    "act": "Fire Service Act 1975 (1975 No 42)",
+    "combined_score": 6,
+    "linked_from": [
+      "Unit Titles Act 2010",
+      "Chartered Professional Engineers of New Zealand Act 2002",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Radiation Safety Act 2016",
+      "Schedule 7 of the Local Government Act 2002",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Retirement Villages Act 2003",
+    "combined_score": 6,
+    "linked_from": [
+      "Unit Titles Act 2010",
+      "Financial Reporting Act 1993",
+      "Disputes Tribunal Amendment Act 2025",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)"
+    ]
+  },
+  {
+    "act": "Ngāti Rangiteaorere Claims Settlement Act 2014",
+    "combined_score": 6,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Rongowhakaata Claims Settlement Act 2012",
+    "combined_score": 6,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Victims of Family Violence (Strengthening Legal Protections) Legislation Act 2025",
+    "combined_score": 6,
+    "linked_from": [
+      "Family Court Act 1980",
+      "Children Act 2004"
+    ]
+  },
+  {
+    "act": "Building Regulations 1992 (SR 1992/150)",
+    "combined_score": 6,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Land Transfer Regulations 2018 (LI 2018/193)",
+    "combined_score": 6,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Coal Mines Act 1979 (1979 No 21)",
+    "combined_score": 6,
+    "linked_from": [
+      "Wildlife Act 1953",
+      "Marine Reserves Act 1971",
+      "Energy (Fuels, Levies, and References) Act 1989",
+      "Ministry of Energy (Abolition) Act 1989"
+    ]
+  },
+  {
+    "act": "Statutes Amendment Act 1947",
+    "combined_score": 6,
+    "linked_from": [
+      "Forests Act 1949",
+      "Housing Act 1955",
+      "Marriage Act 1955",
+      "Family Protection Act 1955",
+      "Schedule 7 of the Local Government Act 2002",
+      "Partnership Act 1908"
+    ]
+  },
+  {
+    "act": "Organic Products and Production Act 2023",
+    "combined_score": 6,
+    "linked_from": [
+      "Food Act 2014",
+      "Animal Products Act 1999",
+      "Schedule 2 of the Legislation Act 2019",
+      "Part 3 and section 114 of the Legislation Act 2019",
+      "Schedule 1 of the Legislation Act 2019",
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)"
+    ]
+  },
+  {
+    "act": "Human Assisted Reproductive Technology Act 2004",
+    "combined_score": 6,
+    "linked_from": [
+      "Medicines Act 1981"
+    ]
+  },
+  {
+    "act": "Criminal Disclosure Act 2008 (2008 No 38)",
+    "combined_score": 6,
+    "linked_from": [
+      "Contempt of Court Act 2019",
+      "Court Act 2019",
+      "Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019"
+    ]
+  },
+  {
+    "act": "Securities Transfer Act 1991 (1991 No 119)",
+    "combined_score": 6,
+    "linked_from": [
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Schedule 7 of the Local Government Act 2002",
+      "Justice (Restructuring) Act 1995",
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "New Zealand Institute of Chartered Accountants Amendment Act 2010"
+    ]
+  },
+  {
+    "act": "Co-operative Companies Act 1996",
+    "combined_score": 6,
+    "linked_from": [
+      "Industrial and Provident Societies Act 1908",
+      "Taxation Review Authorities Act 1994",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)"
+    ]
+  },
+  {
+    "act": "Animal Products (Ancillary and Transitional Provisions) Act 1999",
+    "combined_score": 6,
+    "linked_from": [
+      "Agricultural Compounds and Veterinary Medicines Act 1997",
+      "Schedule 7 of the Local Government Act 2002",
+      "Food Act 1981",
+      "Pork Industry Board Act 1997",
+      "Fisheries (Recordkeeping) Regulations 1990"
+    ]
+  },
+  {
+    "act": "Antarctica (Environmental Protection) Act 1994",
+    "combined_score": 6,
+    "linked_from": [
+      "Marine Mammals Protection Act 1978",
+      "Environment Act 1986",
+      "Antarctica Act 1960",
+      "Antarctic Marine Living Resources Act 1981"
+    ]
+  },
+  {
+    "act": "New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008",
+    "combined_score": 6,
+    "linked_from": [
+      "Ngāi Tahu Claims Settlement Act 1998",
+      "Marine Reserves Act 1971",
+      "Schedule 7 of the Local Government Act 2002",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Harmful Digital Communications Act 2015",
+    "combined_score": 6,
+    "linked_from": [
+      "Harassment Act 1997",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Oversight of Oranga Tamariki System Act 2022",
+    "combined_score": 6,
+    "linked_from": [
+      "Family Court Rules 2002",
+      "Oranga Tamariki (Residential Care) Regulations 1996",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Financial Markets Supervisors Act 2011 (2011 No 10)",
+    "combined_score": 6,
+    "linked_from": [
+      "Deposit Takers Act 2023"
+    ]
+  },
+  {
+    "act": "Maori Reserved Land Amendment Act 1997",
+    "combined_score": 6,
+    "linked_from": [
+      "Maori Reserved Land Act 1955"
+    ]
+  },
+  {
+    "act": "Futures Industry (Client Funds) Regulations 1990 (SR 1990/227)",
+    "combined_score": 6,
+    "linked_from": [
+      "Schedule 1 of the Financial Markets Authority Act 2011"
+    ]
+  },
+  {
+    "act": "Superannuation Schemes (Fees) Regulations 1992 (SR 1992/284)",
+    "combined_score": 6,
+    "linked_from": [
+      "Schedule 1 of the Financial Markets Authority Act 2011"
+    ]
+  },
+  {
+    "act": "Trade Marks Regulations 2003 (SR 2003/187)",
+    "combined_score": 5,
+    "linked_from": [
+      "Regulatory Systems (Economic Development) Amendment Act 2019"
+    ]
+  },
+  {
+    "act": "Commerce Amendment Act 2008",
+    "combined_score": 5,
+    "linked_from": [
+      "Gas Act 1992",
+      "Airport Authorities Act 1966"
+    ]
+  },
+  {
+    "act": "Juries Act 1981 (1981 No 23)",
+    "combined_score": 5,
+    "linked_from": [
+      "Criminal Procedure (Mentally Impaired Persons) Act 2003",
+      "Contempt of Court Act 2019",
+      "Justice (Restructuring) Act 1995",
+      "Court Act 2019",
+      "Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019"
+    ]
+  },
+  {
+    "act": "Reserve Bank of New Zealand Amendment Act 2006",
+    "combined_score": 5,
+    "linked_from": [
+      "Reserve Bank of New Zealand Act 1989"
+    ]
+  },
+  {
+    "act": "Health and Safety in Employment (Pipelines) Regulations 1999 (SR 1999/350)",
+    "combined_score": 5,
+    "linked_from": [
+      "WorkSafe New Zealand Act 2013"
+    ]
+  },
+  {
+    "act": "Domestic Actions Act 1975",
+    "combined_score": 5,
+    "linked_from": [
+      "Family Court Act 1980",
+      "Minors' Contracts Act 1969",
+      "Law Reform Act 1936",
+      "Illegal Contracts Act 1970"
+    ]
+  },
+  {
+    "act": "Criminal Justice Amendment Act 1993",
+    "combined_score": 5,
+    "linked_from": [
+      "Criminal Justice Act 1985"
+    ]
+  },
+  {
+    "act": "Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010",
+    "combined_score": 5,
+    "linked_from": [
+      "Criminal Justice Act 1985",
+      "Criminal Investigations (Bodily Samples) Act 1995",
+      "District Courts Amendment Act 1998"
+    ]
+  },
+  {
+    "act": "Overseas Investment Regulations 2005 (SR 2005/220)",
+    "combined_score": 5,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Insurance (Prudential Supervision) Act 2010",
+      "Deposit Takers Act 2023",
+      "Contracts of Insurance (Repeals and Amendments) Act 2024"
+    ]
+  },
+  {
+    "act": "Summary Offences Act 1981",
+    "combined_score": 5,
+    "linked_from": [
+      "Sale of Liquor Act 1989",
+      "Liquor Act 1989",
+      "Substance Addiction (Compulsory Assessment and Treatment) Act 2017",
+      "Impounding Act 1955",
+      "Auctioneers Act 1928"
+    ]
+  },
+  {
+    "act": "Consumer Guarantees Act 1993",
+    "combined_score": 5,
+    "linked_from": [
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Disputes Tribunal Amendment Act 2025",
+      "Contractual Remedies Act 1979"
+    ]
+  },
+  {
+    "act": "Law Practitioners Act 1982 (1982 No 123)",
+    "combined_score": 5,
+    "linked_from": [
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Postal Services Act 1998",
+      "Unclaimed Money Act 1971",
+      "Justice (Restructuring) Act 1995"
+    ]
+  },
+  {
+    "act": "Road User Charges Act 1977 (1977 No 124)",
+    "combined_score": 5,
+    "linked_from": [
+      "Transport Act 1962",
+      "Energy (Fuels, Levies, and References) Amendment Act 2008"
+    ]
+  },
+  {
+    "act": "Transport Act 1962",
+    "combined_score": 5,
+    "linked_from": [
+      "Railways Act 2005",
+      "Transport (Vehicle and Driver Registration and Licensing) Act 1986",
+      "Schedule 7 of the Local Government Act 2002",
+      "Insurance Companies' Deposits Act 1953"
+    ]
+  },
+  {
+    "act": "Traffic Regulations 1976",
+    "combined_score": 5,
+    "linked_from": [
+      "Railways Act 2005",
+      "Heavy Motor Vehicle Regulations 1974",
+      "Justice (Restructuring) Act 1995",
+      "Coroners Amendment Act 2023",
+      "Goods Service Vehicle (Constructional) Regulations 1936"
+    ]
+  },
+  {
+    "act": "Insolvency (Cross-border) Act 2006 (2006 No 57)",
+    "combined_score": 5,
+    "linked_from": [
+      "Insurance (Prudential Supervision) Act 2010",
+      "Deposit Takers Act 2023"
+    ]
+  },
+  {
+    "act": "Children’s Health Camps Board Dissolution Act 1999",
+    "combined_score": 5,
+    "linked_from": [
+      "Flags, Emblems, and Names Protection Act 1981",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Health (Retention of Health Information) Regulations 1996"
+    ]
+  },
+  {
+    "act": "Public Transport Management Act 2008",
+    "combined_score": 5,
+    "linked_from": [
+      "Trans-Tasman Mutual Recognition Act 1997",
+      "Transport Services Licensing Act 1989",
+      "Smoke-free Environments Act 1990",
+      "Foreshore and Seabed Act 2004",
+      "Smokefree Environments and Regulated Products Act 1990"
+    ]
+  },
+  {
+    "act": "New Zealand Trade and Enterprise Act 2003",
+    "combined_score": 5,
+    "linked_from": [
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Foreign Affairs Act 1988",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Public Bodies Leases Act 1969",
+    "combined_score": 5,
+    "linked_from": [
+      "Soil Conservation and Rivers Control Act 1941",
+      "Schedule 7 of the Local Government Act 2002",
+      "Education Lands Act 1949",
+      "Maori Reserved Land Act 1955",
+      "Taranaki Scholarships Trust Board Act 1957"
+    ]
+  },
+  {
+    "act": "Marine Reserves Act 1971 (1971 No 15)",
+    "combined_score": 5,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002",
+      "New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008",
+      "Territorial Sea , Contiguous Zone, and Exclusive Economic Zone Act 1977",
+      "Territorial Sea and Exclusive Economic Zone Act 1977"
+    ]
+  },
+  {
+    "act": "Ngāi Tai ki Tāmaki Claims Settlement Act 2018",
+    "combined_score": 5,
+    "linked_from": [
+      "Hauraki Gulf Marine Park Act 2000",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Tauranga District Council (Route K Toll) Empowering Act 2000"
+    ]
+  },
+  {
+    "act": "Family Court (Supporting Families in Court) Legislation Act 2020",
+    "combined_score": 5,
+    "linked_from": [
+      "Children Act 2004"
+    ]
+  },
+  {
+    "act": "Parliamentary Service Act 2000",
+    "combined_score": 5,
+    "linked_from": [
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Clerk of the House of Representatives Act 1988"
+    ]
+  },
+  {
+    "act": "Financial Reporting (Fees and Forms) Regulations 2007 (SR 2007/109)",
+    "combined_score": 5,
+    "linked_from": [
+      "Schedule 1 of the Financial Markets Authority Act 2011"
+    ]
+  },
+  {
+    "act": "Securities Markets (Fees) Regulations 2003 (SR 2003/383)",
+    "combined_score": 5,
+    "linked_from": [
+      "Schedule 1 of the Financial Markets Authority Act 2011"
+    ]
+  },
+  {
+    "act": "Gas (Safety and Measurement) Regulations 2010 (SR 2010/76)",
+    "combined_score": 4,
+    "linked_from": [
+      "WorkSafe New Zealand Act 2013"
+    ]
+  },
+  {
+    "act": "Health and Safety in Employment Regulations 1995 (SR 1995/167)",
+    "combined_score": 4,
+    "linked_from": [
+      "WorkSafe New Zealand Act 2013",
+      "Chartered Professional Engineers of New Zealand Act 2002"
+    ]
+  },
+  {
+    "act": "Canterbury Earthquake Recovery Act 2011 (2011 No 12)",
+    "combined_score": 4,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Land Transport Management Amendment Act 2013"
+    ]
+  },
+  {
+    "act": "Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010",
+    "combined_score": 4,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Fast-track Approvals Act 2024",
+      "Land Transport Management Amendment Act 2013",
+      "Fisheries (Kaimoana Customary Fishing) Regulations 1998"
+    ]
+  },
+  {
+    "act": "Auctioneers Act 1928 (1928 No 29)",
+    "combined_score": 4,
+    "linked_from": [
+      "Sale and Supply of Alcohol Act 2012",
+      "Secondhand Dealers and Pawnbrokers Act 2004",
+      "Schedule 7 of the Local Government Act 2002",
+      "Alcohol Act 2012"
+    ]
+  },
+  {
+    "act": "Energy Efficiency and Conservation Act 2000",
+    "combined_score": 4,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Housing Act 1955 (1955 No 51)",
+    "combined_score": 4,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Housing Assets Transfer Act 1993",
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Soil Conservation and Rivers Control Act 1941 (1941 No 12)",
+    "combined_score": 4,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Chartered Professional Engineers of New Zealand Act 2002",
+      "Schedule 7 of the Local Government Act 2002",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Health and Safety at Work (Asbestos) Regulations 2016 (LI 2016/15)",
+    "combined_score": 4,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Cluster Munitions Prohibition Act 2009",
+    "combined_score": 4,
+    "linked_from": [
+      "Arms Act 1983"
+    ]
+  },
+  {
+    "act": "Mining Act 1971",
+    "combined_score": 4,
+    "linked_from": [
+      "Wildlife Act 1953",
+      "Soil Conservation and Rivers Control Act 1941",
+      "Age of Majority Act 1970",
+      "Atomic Energy Act 1945"
+    ]
+  },
+  {
+    "act": "Private Savings Banks (Transfer of Undertakings) Act 1992",
+    "combined_score": 4,
+    "linked_from": [
+      "Law Practitioners Act 1982",
+      "Unclaimed Money Act 1971",
+      "Fishing Vessel Ownership Savings Act 1977",
+      "Farm Ownership Savings Act 1974"
+    ]
+  },
+  {
+    "act": "Securities Act (Contributory Mortgage) Regulations 1988 (SR 1988/143)",
+    "combined_score": 4,
+    "linked_from": [
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Schedule 1 of the Financial Markets Authority Act 2011"
+    ]
+  },
+  {
+    "act": "New Zealand Business Number Act 2016",
+    "combined_score": 4,
+    "linked_from": [
+      "Trade Marks Act 2002",
+      "Designs Act 1953"
+    ]
+  },
+  {
+    "act": "Fisheries Act 1983",
+    "combined_score": 4,
+    "linked_from": [
+      "Marine Mammals Protection Act 1978",
+      "Territorial Sea , Contiguous Zone, and Exclusive Economic Zone Act 1977",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Territorial Sea and Exclusive Economic Zone Act 1977"
+    ]
+  },
+  {
+    "act": "Major Events Management Act 2007",
+    "combined_score": 4,
+    "linked_from": [
+      "European Union Free Trade Agreement Legislation Amendment Act 2024",
+      "Flags, Emblems, and Names Protection Act 1981"
+    ]
+  },
+  {
+    "act": "Land Transport (Certification and Other Fees) Regulations 1999",
+    "combined_score": 4,
+    "linked_from": [
+      "Traffic Regulations 1976"
+    ]
+  },
+  {
+    "act": "New Zealand Antarctic Institute Act 1996",
+    "combined_score": 4,
+    "linked_from": [
+      "Crown Entities Amendment Act 2013",
+      "Flags, Emblems, and Names Protection Act 1981",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Ship Registration Act 1992",
+    "combined_score": 4,
+    "linked_from": [
+      "Flags, Emblems, and Names Protection Act 1981",
+      "Imperial Laws Application Act 1988"
+    ]
+  },
+  {
+    "act": "Wellington Regional Water Board Act 1972 (1972 No 3 (L))",
+    "combined_score": 4,
+    "linked_from": [
+      "Chartered Professional Engineers of New Zealand Act 2002",
+      "Schedule 7 of the Local Government Act 2002",
+      "Auctioneers Act 2013",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Education (Update) Amendment Act 2017",
+    "combined_score": 4,
+    "linked_from": [
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Private Schools Conditional Integration Act 1975",
+      "Government Superannuation Fund Act 1956 (1956 No 47) (RS Vol 21, p 209)"
+    ]
+  },
+  {
+    "act": "Maori Housing Amendment Act 1938",
+    "combined_score": 4,
+    "linked_from": [
+      "Housing Assets Transfer Act 1993",
+      "Maori Housing Act 1935"
+    ]
+  },
+  {
+    "act": "Marine Mammals Protection Act 1978",
+    "combined_score": 4,
+    "linked_from": [
+      "Antarctica (Environmental Protection) Act 1994",
+      "Schedule 7 of the Local Government Act 2002",
+      "Territorial Sea , Contiguous Zone, and Exclusive Economic Zone Act 1977",
+      "Territorial Sea and Exclusive Economic Zone Act 1977"
+    ]
+  },
+  {
+    "act": "Litter Act 1979 (1979 No 41)",
+    "combined_score": 4,
+    "linked_from": [
+      "Te Urewera Act 2014",
+      "Schedule 7 of the Local Government Act 2002",
+      "Walking Access Act 2008"
+    ]
+  },
+  {
+    "act": "Maori Trustee Act 1953",
+    "combined_score": 4,
+    "linked_from": [
+      "Wills Act 2007",
+      "Maori Purposes Act 1931",
+      "Maori Purposes Act 1947"
+    ]
+  },
+  {
+    "act": "Trustee Companies Act 1967 (1967 No 35)",
+    "combined_score": 4,
+    "linked_from": [
+      "Wills Act 2007",
+      "Schedule 7 of the Local Government Act 2002",
+      "Auctioneers Act 2013"
+    ]
+  },
+  {
+    "act": "Marine Farming Act 1971 (1971 No 29)",
+    "combined_score": 4,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002",
+      "Territorial Sea , Contiguous Zone, and Exclusive Economic Zone Act 1977",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Territorial Sea and Exclusive Economic Zone Act 1977"
+    ]
+  },
+  {
+    "act": "Defamation Act 1992",
+    "combined_score": 4,
+    "linked_from": [
+      "Independent Police Conduct Authority Act 1988",
+      "Limitation Act 1950",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "State Services Conditions of Employment Amendment Act 1987",
+    "combined_score": 4,
+    "linked_from": [
+      "Unclaimed Money Act 1971"
+    ]
+  },
+  {
+    "act": "Construction Contracts Act 2002 (2002 No 46)",
+    "combined_score": 4,
+    "linked_from": [
+      "Deposit Takers Act 2023"
+    ]
+  },
+  {
+    "act": "Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003",
+    "combined_score": 4,
+    "linked_from": [
+      "Deposit Takers Act 2023",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 (2004 No 38)",
+    "combined_score": 4,
+    "linked_from": [
+      "Coroners Amendment Act 2023"
+    ]
+  },
+  {
+    "act": "Education (Change of Name of Education Entities) Order 2000",
+    "combined_score": 4,
+    "linked_from": [
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Ratings Valuations Act 1998",
+    "combined_score": 4,
+    "linked_from": [
+      "Unit Titles Act 1972"
+    ]
+  },
+  {
+    "act": "Domestic Violence (Public Registers) Regulations 1998 (SR 1998/342)",
+    "combined_score": 3,
+    "linked_from": [
+      "Civil Union Act 2004",
+      "Insolvency Practitioners Regulation Act 2019",
+      "Private Security Personnel and Private Investigators Act 2010"
+    ]
+  },
+  {
+    "act": "Maori Language Act 1987 (1987 No 176)",
+    "combined_score": 3,
+    "linked_from": [
+      "Disputes Tribunals Act 1988",
+      "Disputes Tribunal Act 1988",
+      "Schedule 5 of the Crown Entities Act 2004"
+    ]
+  },
+  {
+    "act": "Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010 (2010 No 119)",
+    "combined_score": 3,
+    "linked_from": [
+      "Heritage New Zealand Pouhere Taonga Act 2014",
+      "Fast-track Approvals Act 2024",
+      "Land Transport Management Amendment Act 2013"
+    ]
+  },
+  {
+    "act": "Finance Act 1989",
+    "combined_score": 3,
+    "linked_from": [
+      "Transit New Zealand Act 1989",
+      "Finance Act (No 2) 1988"
+    ]
+  },
+  {
+    "act": "Land Drainage Act 1908 (1908 No 96)",
+    "combined_score": 3,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Schedule 7 of the Local Government Act 2002",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "River Boards Act 1908 (1908 No 165)",
+    "combined_score": 3,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Whakarewarewa and Roto-a-Tamaheke Vesting Act 2009 (2009 No 50)",
+    "combined_score": 3,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Fisheries (Kaimoana Customary Fishing) Regulations 1998 (SR 1998/434)",
+    "combined_score": 3,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010",
+      "Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019"
+    ]
+  },
+  {
+    "act": "Freshwater Fish Farming Regulations 1983 (SR 1983/278)",
+    "combined_score": 3,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Anti-Personnel Mines Prohibition Act 1998",
+    "combined_score": 3,
+    "linked_from": [
+      "Arms Act 1983"
+    ]
+  },
+  {
+    "act": "Maori Housing Act 1935",
+    "combined_score": 3,
+    "linked_from": [
+      "Māori Trustee Amendment Act 2009",
+      "Housing Assets Transfer Act 1993"
+    ]
+  },
+  {
+    "act": "Credit Contracts Legislation Amendment Act 2019",
+    "combined_score": 3,
+    "linked_from": [
+      "Fair Trading Act 1986"
+    ]
+  },
+  {
+    "act": "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)",
+    "combined_score": 3,
+    "linked_from": [
+      "Dog Control Act 1996",
+      "Animal Welfare Act 1999",
+      "Postal Services Act 1998"
+    ]
+  },
+  {
+    "act": "Health Research Council Act 1990 (1990 No 68)",
+    "combined_score": 3,
+    "linked_from": [
+      "Medicines Act 1981",
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Courts Security Act 1999 (1999 No 115)",
+    "combined_score": 3,
+    "linked_from": [
+      "Contempt of Court Act 2019",
+      "Court Act 2019",
+      "Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019"
+    ]
+  },
+  {
+    "act": "Harassment Act 1997 (1997 No 92)",
+    "combined_score": 3,
+    "linked_from": [
+      "Contempt of Court Act 2019",
+      "Court Act 2019",
+      "Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019"
+    ]
+  },
+  {
+    "act": "Victims’ Orders Against Violent Offenders Act 2014 (2014 No 45)",
+    "combined_score": 3,
+    "linked_from": [
+      "Contempt of Court Act 2019",
+      "Court Act 2019",
+      "Part 2 and sections 25 and 26(1) and (2) of the Contempt of Court Act 2019"
+    ]
+  },
+  {
+    "act": "Rugby World Cup 2011 (Empowering) Act 2010 (2010 No 123)",
+    "combined_score": 3,
+    "linked_from": [
+      "Sale of Liquor Act 1989",
+      "Liquor Act 1989",
+      "Land Transport Management Amendment Act 2013"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Act 1956 (1956 No 47) (RS Vol 21, p 209)",
+    "combined_score": 3,
+    "linked_from": [
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Justice (Restructuring) Act 1995",
+      "Foreign Affairs Act 1988"
+    ]
+  },
+  {
+    "act": "Public Revenues Amendment Act 1963",
+    "combined_score": 3,
+    "linked_from": [
+      "Industrial and Provident Societies Act 1908",
+      "Trustee Act 1956",
+      "Maori Housing Amendment Act 1938"
+    ]
+  },
+  {
+    "act": "New Zealand Bill of Rights (Declarations of Inconsistency) Amendment Act 2022",
+    "combined_score": 3,
+    "linked_from": [
+      "New Zealand Bill of Rights Act 1990"
+    ]
+  },
+  {
+    "act": "Land Transport (Road User) Rule 2004 (SR 2004/427)",
+    "combined_score": 3,
+    "linked_from": [
+      "Railways Act 2005",
+      "Private Security Personnel and Private Investigators Act 2010",
+      "Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025"
+    ]
+  },
+  {
+    "act": "Standards Act 1988 (1988 No 5)",
+    "combined_score": 3,
+    "linked_from": [
+      "Trade Marks Act 2002",
+      "Flags, Emblems, and Names Protection Act 1981",
+      "Schedule 5 of the Crown Entities Act 2004"
+    ]
+  },
+  {
+    "act": "Rural Banking and Finance Corporation of New Zealand Act 1989",
+    "combined_score": 3,
+    "linked_from": [
+      "Flags, Emblems, and Names Protection Act 1981",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)"
+    ]
+  },
+  {
+    "act": "Trade (Safeguard Measures) Act 2014 (2014 No 66)",
+    "combined_score": 3,
+    "linked_from": [
+      "Trans-Tasman Mutual Recognition Act 1997",
+      "Trade (Anti-dumping and Countervailing Duties) Amendment Act 2017"
+    ]
+  },
+  {
+    "act": "New Zealand Symphony Orchestra Act 2004",
+    "combined_score": 3,
+    "linked_from": [
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Accident Compensation (Liability to Pay or Contribute to Cost of Treatment) Regulations 2003 (SR 2003/388)",
+    "combined_score": 3,
+    "linked_from": [
+      "Radiation Safety Act 2016"
+    ]
+  },
+  {
+    "act": "Oaths and Declarations Act 1957",
+    "combined_score": 3,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002",
+      "Coroners Amendment Act 2023",
+      "Land Valuation Proceedings Act 1948"
+    ]
+  },
+  {
+    "act": "Plumbers, Gasfitters, and Drainlayers Act 1976 (1976 No 69)",
+    "combined_score": 3,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002",
+      "Energy (Fuels, Levies, and References) Act 1989",
+      "Ministry of Energy (Abolition) Act 1989"
+    ]
+  },
+  {
+    "act": "Unclaimed Money Act 1971 (1971 No 28)",
+    "combined_score": 3,
+    "linked_from": [
+      "Auctioneers Act 2013",
+      "Māori Trustee Act 1953",
+      "New Zealand Institute of Chartered Accountants Amendment Act 2010"
+    ]
+  },
+  {
+    "act": "Designs Act 1953 (1953 No 65)",
+    "combined_score": 3,
+    "linked_from": [
+      "New Zealand Business Number Act 2016",
+      "Smokefree Environments and Regulated Products (Vaping) Amendment Act 2020"
+    ]
+  },
+  {
+    "act": "Ngāti Hei Claims Settlement Act 2026",
+    "combined_score": 3,
+    "linked_from": [
+      "Hauraki Gulf Marine Park Act 2000",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Tauranga District Council (Route K Toll) Empowering Act 2000"
+    ]
+  },
+  {
+    "act": "Ngāti Pāoa Claims Settlement Act 2025",
+    "combined_score": 3,
+    "linked_from": [
+      "Hauraki Gulf Marine Park Act 2000",
+      "Schedule 1 of the Resource Management Act 1991",
+      "Tauranga District Council (Route K Toll) Empowering Act 2000"
+    ]
+  },
+  {
+    "act": "Māori Purposes Act 2022",
+    "combined_score": 3,
+    "linked_from": [
+      "Maori Community Development Act 1962"
+    ]
+  },
+  {
+    "act": "Foreshore and Seabed Act 2004",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Transport Management Act 2008",
+      "Territorial Sea , Contiguous Zone, and Exclusive Economic Zone Act 1977",
+      "Territorial Sea and Exclusive Economic Zone Act 1977"
+    ]
+  },
+  {
+    "act": "Foreign Affairs Act 1988",
+    "combined_score": 3,
+    "linked_from": [
+      "Civil List Act 1979",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987"
+    ]
+  },
+  {
+    "act": "Responding to Abuse in Care Legislation Amendment Act 2025",
+    "combined_score": 3,
+    "linked_from": [
+      "Oranga Tamariki (Residential Care) Regulations 1996"
+    ]
+  },
+  {
+    "act": "Pork Industry Board Act 1997 (1997 No 106)",
+    "combined_score": 3,
+    "linked_from": [
+      "Deposit Takers Act 2023",
+      "Animal Products (Ancillary and Transitional Provisions) Act 1999"
+    ]
+  },
+  {
+    "act": "Registered Architects Act 2005",
+    "combined_score": 3,
+    "linked_from": [
+      "Deposit Takers Act 2023",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)"
+    ]
+  },
+  {
+    "act": "Education Standards Act 2001",
+    "combined_score": 3,
+    "linked_from": [
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)",
+      "Education (Change of Name of Education Entities) Order 2000"
+    ]
+  },
+  {
+    "act": "Medical Practitioners Act 1995",
+    "combined_score": 3,
+    "linked_from": [
+      "Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)"
+    ]
+  },
+  {
+    "act": "Family Courts Rules 2002 (SR 2002/261)",
+    "combined_score": 2,
+    "linked_from": [
+      "Civil Union Act 2004",
+      "Children's Commissioner Act 2003"
+    ]
+  },
+  {
+    "act": "Ministry of Energy (Abolition) Act 1989 (1989 No 140)",
+    "combined_score": 2,
+    "linked_from": [
+      "Gas Act 1992",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Finance Act (No 2) 1990 (1990 No 73)",
+    "combined_score": 2,
+    "linked_from": [
+      "Gambling Act 2003",
+      "Justice (Restructuring) Act 1995"
+    ]
+  },
+  {
+    "act": "Gaming Duties Act 1971 (1971 No 34)",
+    "combined_score": 2,
+    "linked_from": [
+      "Gambling Act 2003",
+      "Racing Act 2003"
+    ]
+  },
+  {
+    "act": "Electricity (Hazards from Trees) Regulations 2003 (SR 2003/375)",
+    "combined_score": 2,
+    "linked_from": [
+      "WorkSafe New Zealand Act 2013",
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi (Fisheries Claims) Settlement Act 1992 (1992 No 121)",
+    "combined_score": 2,
+    "linked_from": [
+      "Fisheries Act 1983",
+      "Maori Fisheries Act 2004"
+    ]
+  },
+  {
+    "act": "Airport Authorities Act 1966 (1966 No 51)",
+    "combined_score": 2,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Housing Assets Transfer Act 1993 (1993 No 50)",
+    "combined_score": 2,
+    "linked_from": [
+      "Natural and Built Environment Act 2023",
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Lake Wanaka Preservation Act 1973 (1973 No 107)",
+    "combined_score": 2,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Fisheries (Commercial Fishing) Regulations 2001 (SR 2001/253)",
+    "combined_score": 2,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Lawyers and Conveyancers Act (Conveyancers: Registration and Practice) Regulations 2008 (SR 2008/189)",
+    "combined_score": 2,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Mining Tenures Registration Act 1962 (1962 No 48)",
+    "combined_score": 2,
+    "linked_from": [
+      "Māori Trustee Amendment Act 2009",
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Otago Regional Council (Kuriwao Endowment Lands) Act 1994 (1994 No 4 (L))",
+    "combined_score": 2,
+    "linked_from": [
+      "Rating Valuations Act 1998",
+      "Ratings Valuations Act 1998"
+    ]
+  },
+  {
+    "act": "Weights and Measures Regulations 1999 (SR 1999/373)",
+    "combined_score": 2,
+    "linked_from": [
+      "Food Act 2014",
+      "Ministry of Economic Development Act 2000"
+    ]
+  },
+  {
+    "act": "Auckland Airport Act 1987 (1987 No 195)",
+    "combined_score": 2,
+    "linked_from": [
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Port Companies Act 1988 (1988 No 91)",
+    "combined_score": 2,
+    "linked_from": [
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Southland Electricity Act 1993",
+    "combined_score": 2,
+    "linked_from": [
+      "Company Law Reform (Transitional Provisions) Act 1994",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Imperial Laws Application Act 1988",
+    "combined_score": 2,
+    "linked_from": [
+      "Ship Registration Act 1992",
+      "Bill of Rights 1688"
+    ]
+  },
+  {
+    "act": "Contractual Remedies Act 1979",
+    "combined_score": 2,
+    "linked_from": [
+      "Arbitration Act 1996",
+      "Real Estate Agents Act 1976"
+    ]
+  },
+  {
+    "act": "Electronic Transactions Act 2002 (2002 No 35)",
+    "combined_score": 2,
+    "linked_from": [
+      "Human Tissue Act 2008",
+      "Fair Trading Amendment Act 2013"
+    ]
+  },
+  {
+    "act": "Carriage of Goods Act 1979 (1979 No 43)",
+    "combined_score": 2,
+    "linked_from": [
+      "Postal Services Act 1998",
+      "Radiation Safety Act 2016"
+    ]
+  },
+  {
+    "act": "Game Animal Council Act 2013",
+    "combined_score": 2,
+    "linked_from": [
+      "Wild Animal Control Act 1977",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Trespass Act 1980",
+    "combined_score": 2,
+    "linked_from": [
+      "Wild Animal Control Act 1977"
+    ]
+  },
+  {
+    "act": "Land Act Regulations 1949 (SR 1949/37)",
+    "combined_score": 2,
+    "linked_from": [
+      "Marriage (Definition of Marriage) Amendment Act 2013",
+      "Marriage) Amendment Act 2013"
+    ]
+  },
+  {
+    "act": "Fencing of Swimming Pools Act 1987 (1987 No 178)",
+    "combined_score": 2,
+    "linked_from": [
+      "Fencing Act 1978",
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Succession (Homicide) Act 2007",
+    "combined_score": 2,
+    "linked_from": [
+      "Law Reform (Testamentary Promises) Act 1949",
+      "Proceeds of Crime Act 1991"
+    ]
+  },
+  {
+    "act": "Heavy Motor Vehicle Regulations 1974",
+    "combined_score": 2,
+    "linked_from": [
+      "Chartered Professional Engineers of New Zealand Act 2002",
+      "Goods Service Vehicle (Constructional) Regulations 1936"
+    ]
+  },
+  {
+    "act": "New Zealand Infrastructure Commission/Te Waihanga Act 2019",
+    "combined_score": 2,
+    "linked_from": [
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Mental Health and Wellbeing Commission Act 2020",
+    "combined_score": 2,
+    "linked_from": [
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Sports Anti-Doping Act 2006",
+    "combined_score": 2,
+    "linked_from": [
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Children's Commissioner Act 2003",
+    "combined_score": 2,
+    "linked_from": [
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Social Workers Registration Act 2003",
+    "combined_score": 2,
+    "linked_from": [
+      "Schedule 5 of the Crown Entities Act 2004",
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Wildlife Act 1953 (1953 No 31)",
+    "combined_score": 2,
+    "linked_from": [
+      "Soil Conservation and Rivers Control Act 1941",
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Accident Rehabilitation and Compensation Insurance Act 1992 (1992 No 13)",
+    "combined_score": 2,
+    "linked_from": [
+      "Transport (Vehicle and Driver Registration and Licensing) Act 1986",
+      "Justice (Restructuring) Act 1995"
+    ]
+  },
+  {
+    "act": "Injury Prevention, Rehabilitation, and Compensation Amendment Act 2003",
+    "combined_score": 2,
+    "linked_from": [
+      "District Courts Amendment Act 2002"
+    ]
+  },
+  {
+    "act": "Food Act 1981 (1981 No 45)",
+    "combined_score": 2,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002",
+      "Animal Products (Ancillary and Transitional Provisions) Act 1999"
+    ]
+  },
+  {
+    "act": "Impounding Act 1955 (1955 No 108)",
+    "combined_score": 2,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002",
+      "Auctioneers Act 2013"
+    ]
+  },
+  {
+    "act": "Mutual Insurance Act 1955",
+    "combined_score": 2,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002",
+      "Insurance Companies' Deposits Act 1953"
+    ]
+  },
+  {
+    "act": "Patriotic and Canteen Funds Act 1947 (1947 No 63)",
+    "combined_score": 2,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002",
+      "Archives, Culture, and Heritage Reform Act 2000"
+    ]
+  },
+  {
+    "act": "Unit Titles Act 1972 (1972 No 15)",
+    "combined_score": 2,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013",
+    "combined_score": 2,
+    "linked_from": [
+      "Housing Corporation Act 1974"
+    ]
+  },
+  {
+    "act": "Family Violence Regulations 2019",
+    "combined_score": 2,
+    "linked_from": [
+      "Domestic Violence (General) Regulations 1996",
+      "Domestic Violence (Public Registers) Regulations 1998"
+    ]
+  },
+  {
+    "act": "Electronic Courts and Tribunals Act 2016",
+    "combined_score": 2,
+    "linked_from": [
+      "Electronic Transactions Act 2002",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Rangi Claims Settlement Act 2019",
+    "combined_score": 2,
+    "linked_from": [
+      "Fast-track Approvals Act 2024",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Commodity Levies Act 1990 (1990 No 127)",
+    "combined_score": 2,
+    "linked_from": [
+      "Justice (Restructuring) Act 1995",
+      "New Zealand Institute of Chartered Accountants Amendment Act 2010"
+    ]
+  },
+  {
+    "act": "Medicines Regulations 1984 (SR 1984/143)",
+    "combined_score": 2,
+    "linked_from": [
+      "Abortion Legislation Act 2020",
+      "Smokefree Environments and Regulated Products (Vaping) Amendment Act 2020"
+    ]
+  },
+  {
+    "act": "Primary Products Marketing Act 1953 (1953 No 10)",
+    "combined_score": 2,
+    "linked_from": [
+      "Deposit Takers Act 2023"
+    ]
+  },
+  {
+    "act": "Electronic Identity Verification Regulations 2013 (SR 2013/9)",
+    "combined_score": 2,
+    "linked_from": [
+      "Deposit Takers Act 2023"
+    ]
+  },
+  {
+    "act": "Adoption (Intercountry) Act 1997 (1997 No 109)",
+    "combined_score": 2,
+    "linked_from": [
+      "Births, Deaths, and Marriages Registration Act 1995",
+      "Child, Youth and Family Services Act 1999"
+    ]
+  },
+  {
+    "act": "Identity Information Confirmation Act 2012",
+    "combined_score": 2,
+    "linked_from": [
+      "Births, Deaths, and Marriages Registration Act 1995"
+    ]
+  },
+  {
+    "act": "Adult Adoption Information Act 1985 (1985 No 127)",
+    "combined_score": 2,
+    "linked_from": [
+      "Births, Deaths, and Marriages Registration Act 1995",
+      "Child, Youth and Family Services Act 1999"
+    ]
+  },
+  {
+    "act": "New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987 (1987 No 86)",
+    "combined_score": 2,
+    "linked_from": [
+      "Diplomatic Privileges and Immunities Act 1968",
+      "Foreign Affairs Act 1988"
+    ]
+  },
+  {
+    "act": "Inferior Courts Procedure Act 1909 (1909 No 13)",
+    "combined_score": 2,
+    "linked_from": [
+      "Coroners Amendment Act 2023"
+    ]
+  },
+  {
+    "act": "Inspector-General of Intelligence and Security Act 1996",
+    "combined_score": 2,
+    "linked_from": [
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Inspector-General of Defence Act 2023",
+    "combined_score": 2,
+    "linked_from": [
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Auckland Harbour Bridge Authority Dissolution Act 1983",
+    "combined_score": 2,
+    "linked_from": [
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Income Tax Act 1976 (1976 No 65)",
+    "combined_score": 2,
+    "linked_from": [
+      "Age of Majority Act 1970",
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Labour Department Act Repeal Act 1989",
+    "combined_score": 2,
+    "linked_from": [
+      "Industry Training and Apprenticeships Act 1992",
+      "Plumbers, Gasfitters, and Drainlayers Act 1976"
+    ]
+  },
+  {
+    "act": "Continental Shelf Act 1964 (1964 No 28)",
+    "combined_score": 2,
+    "linked_from": [
+      "Territorial Sea , Contiguous Zone, and Exclusive Economic Zone Act 1977",
+      "Territorial Sea and Exclusive Economic Zone Act 1977"
+    ]
+  },
+  {
+    "act": "Industrial and Provident Societies Act 1908 (1908 No 81)",
+    "combined_score": 2,
+    "linked_from": [
+      "Schedule 1 of the Financial Markets Authority Act 2011",
+      "New Zealand Institute of Chartered Accountants Amendment Act 2010"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund (Ceasing Contributions) Regulations 1995 (SR 1995/172)",
+    "combined_score": 2,
+    "linked_from": [
+      "Schedule 1 of the Financial Markets Authority Act 2011"
+    ]
+  },
+  {
+    "act": "Veterans' Affairs Act 1999",
+    "combined_score": 2,
+    "linked_from": [
+      "War Pensions Regulations 1956"
+    ]
+  },
+  {
+    "act": "Civil Defence Act 1983 (1983 No 46)",
+    "combined_score": 2,
+    "linked_from": [
+      "Education (Change of Name of Education Entities) Order 2000",
+      "Child, Youth and Family Services Act 1999"
+    ]
+  },
+  {
+    "act": "Vulnerable Children Act 2014 (2014 No 40)",
+    "combined_score": 1,
+    "linked_from": [
+      "Children, Young Persons, and Their Families (Advocacy, Workforce, and Age Settings) Amendment Act 2016"
+    ]
+  },
+  {
+    "act": "Gambling (Problem Gambling Levy) Regulations 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Gambling Act 2003"
+    ]
+  },
+  {
+    "act": "Boxing and Wrestling Act 1981 (1981 No 28)",
+    "combined_score": 1,
+    "linked_from": [
+      "Gambling Act 2003"
+    ]
+  },
+  {
+    "act": "Christchurch-Lyttelton Road Tunnel Authority Dissolution Act 1978 (1978 No 51)",
+    "combined_score": 1,
+    "linked_from": [
+      "Transit New Zealand Act 1989"
+    ]
+  },
+  {
+    "act": "Geneva Conventions Act 1958 (1958 No 19)",
+    "combined_score": 1,
+    "linked_from": [
+      "Armed Forces Discipline Act 1971"
+    ]
+  },
+  {
+    "act": "Canterbury Property Boundaries and Related Matters Act 2016 (2016 No 40)",
+    "combined_score": 1,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Environmental Reporting Act 2015 (2015 No 87)",
+    "combined_score": 1,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Forestry Rights Registration Act 1983 (1983 No 42)",
+    "combined_score": 1,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Sharemilking Agreements Act 1937 (1937 No 37)",
+    "combined_score": 1,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Taumata Arowai–the Water Services Regulator Act 2020 (2020 No 52)",
+    "combined_score": 1,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Building (Accreditation of Building Consent Authorities) Regulations 2006 (SR 2006/399)",
+    "combined_score": 1,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Fisheries (South Island Customary Fishing) Regulations 1999 (SR 1999/342)",
+    "combined_score": 1,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Freshwater Fisheries Regulations 1983 (SR 1983/277)",
+    "combined_score": 1,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Health and Safety at Work (Hazardous Substances) Regulations 2017 (LI 2017/131)",
+    "combined_score": 1,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Residential Tenancies (Smoke Alarms and Insulation) Regulations 2016 (LI 2016/128)",
+    "combined_score": 1,
+    "linked_from": [
+      "Natural and Built Environment Act 2023"
+    ]
+  },
+  {
+    "act": "Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121)",
+    "combined_score": 1,
+    "linked_from": [
+      "Coroners Act 2006"
+    ]
+  },
+  {
+    "act": "Food Regulations 2015",
+    "combined_score": 1,
+    "linked_from": [
+      "Food Act 2014"
+    ]
+  },
+  {
+    "act": "Overseas Investment (Urgent Measures) Amendment Act 2020",
+    "combined_score": 1,
+    "linked_from": [
+      "Anti-Money Laundering and Countering Financing of Terrorism Act 2009"
+    ]
+  },
+  {
+    "act": "Citizens Initiated Referenda Act 1993 (1993 No 101)",
+    "combined_score": 1,
+    "linked_from": [
+      "Company Law Reform (Transitional Provisions) Act 1994"
+    ]
+  },
+  {
+    "act": "Real Estate Agents Act 1976 (1976 No 9)",
+    "combined_score": 1,
+    "linked_from": [
+      "Company Law Reform (Transitional Provisions) Act 1994"
+    ]
+  },
+  {
+    "act": "Wheat Industry Research Levies Act 1989 (1989 No 64)",
+    "combined_score": 1,
+    "linked_from": [
+      "Company Law Reform (Transitional Provisions) Act 1994"
+    ]
+  },
+  {
+    "act": "Contractual Mistakes Act 1977 (1977 No 54)",
+    "combined_score": 1,
+    "linked_from": [
+      "Arbitration Act 1996"
+    ]
+  },
+  {
+    "act": "Clerk of the House of Representatives Act 1988 (1988 No 126)",
+    "combined_score": 1,
+    "linked_from": [
+      "Parliamentary Service Act 2000"
+    ]
+  },
+  {
+    "act": "Hazardous Substances (Classes 1 to 5 Controls) Regulations 2001 (SR 2001/116)",
+    "combined_score": 1,
+    "linked_from": [
+      "Railways Act 2005"
+    ]
+  },
+  {
+    "act": "Trade in Endangered Species Act 1989 (1989 No 18)",
+    "combined_score": 1,
+    "linked_from": [
+      "Postal Services Act 1998"
+    ]
+  },
+  {
+    "act": "Territorial Sea and Exclusive Economic Zone Act 1977 (1977 No 28)",
+    "combined_score": 1,
+    "linked_from": [
+      "Marine Mammals Protection Act 1978"
+    ]
+  },
+  {
+    "act": "Government Communications Security Bureau Act 2003",
+    "combined_score": 1,
+    "linked_from": [
+      "Radiocommunications Act 1989"
+    ]
+  },
+  {
+    "act": "Disputes Tribunal Act 1988",
+    "combined_score": 1,
+    "linked_from": [
+      "Fencing Act 1978"
+    ]
+  },
+  {
+    "act": "Cultural Property (Protection in Armed Conflict) Act 2012",
+    "combined_score": 1,
+    "linked_from": [
+      "Flags, Emblems, and Names Protection Act 1981"
+    ]
+  },
+  {
+    "act": "Patents Act 1953 (1953 No 64)",
+    "combined_score": 1,
+    "linked_from": [
+      "Flags, Emblems, and Names Protection Act 1981"
+    ]
+  },
+  {
+    "act": "Hutt Valley Drainage Act 1967 (1967 No 3 (L))",
+    "combined_score": 1,
+    "linked_from": [
+      "Chartered Professional Engineers of New Zealand Act 2002"
+    ]
+  },
+  {
+    "act": "District Courts Amendment Act 2011",
+    "combined_score": 1,
+    "linked_from": [
+      "District Courts Act 1947"
+    ]
+  },
+  {
+    "act": "Criminal Cases Review Commission Act 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 5 of the Crown Entities Act 2004"
+    ]
+  },
+  {
+    "act": "Testing Laboratory Registration Act 1972 (1972 No 36)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 5 of the Crown Entities Act 2004"
+    ]
+  },
+  {
+    "act": "Taxation Review Authorities Act 1994 (1994 No 165)",
+    "combined_score": 1,
+    "linked_from": [
+      "Co-operative Companies Act 1996"
+    ]
+  },
+  {
+    "act": "Antarctic Marine Living Resources Act 1981 (1981 No 53)",
+    "combined_score": 1,
+    "linked_from": [
+      "Antarctica (Environmental Protection) Act 1994"
+    ]
+  },
+  {
+    "act": "Bylaws Act 1910 (1910 No 28)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Forestry Encouragement Act 1962 (1962 No 20)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Harbour Boards Dry Land Endowment Revesting Act 1991 (1991 No 104)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Insurance Companies’ Deposits Act 1953 (1953 No 50)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Land Transfer Amendment Act 1963 (1963 No 61)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "New Zealand Maori Arts and Crafts Institute Act 1963 (1963 No 51)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Pacific Islands Polynesian Education Foundation Act 1972 (1972 No 138)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Protected Disclosures Act 2000 (2000 No 7)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Queen Elizabeth the Second National Trust Act 1977 (1977 No 102)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Statistics Act 1975 (1975 No 1)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Wellington Airport Act 1990 (1990 No 56)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Winston Churchill Memorial Trust Act 1965 (1965 No 39)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "Higher Salaries Commission Amendment Act 1989 (1989 No 35)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 7 of the Local Government Act 2002"
+    ]
+  },
+  {
+    "act": "COVID-19 Public Health Response Act 2020",
+    "combined_score": 1,
+    "linked_from": [
+      "COVID-19 Public Health Response (Extension of Act and Reduction of Powers) Amendment Act 2022"
+    ]
+  },
+  {
+    "act": "Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010",
+    "combined_score": 1,
+    "linked_from": [
+      "Housing Corporation Act 1974"
+    ]
+  },
+  {
+    "act": "Housing Restructuring and Tenancy Matters (Social Housing Reform) Amendment Act 2015",
+    "combined_score": 1,
+    "linked_from": [
+      "Housing Corporation Act 1974"
+    ]
+  },
+  {
+    "act": "Crimes of Torture Act 1989 (1989 No 106)",
+    "combined_score": 1,
+    "linked_from": [
+      "Substance Addiction (Compulsory Assessment and Treatment) Act 2017"
+    ]
+  },
+  {
+    "act": "Health (Retention of Health Information) Regulations 1996 (SR 1996/343)",
+    "combined_score": 1,
+    "linked_from": [
+      "Substance Addiction (Compulsory Assessment and Treatment) Act 2017"
+    ]
+  },
+  {
+    "act": "Insurance Companies (Ratings and Inspections) Act 1994 (1994 No 117)",
+    "combined_score": 1,
+    "linked_from": [
+      "Justice (Restructuring) Act 1995"
+    ]
+  },
+  {
+    "act": "Public Service Investment Society Management Act (No 2) 1979 (1979 No 9)",
+    "combined_score": 1,
+    "linked_from": [
+      "Justice (Restructuring) Act 1995"
+    ]
+  },
+  {
+    "act": "Arms Regulations 1992 (SR 1992/346)",
+    "combined_score": 1,
+    "linked_from": [
+      "Justice (Restructuring) Act 1995"
+    ]
+  },
+  {
+    "act": "Criminal Investigations (Bodily Samples) Act 1995 (1995 No 55)",
+    "combined_score": 1,
+    "linked_from": [
+      "Counter-Terrorism Legislation Act 2021"
+    ]
+  },
+  {
+    "act": "Insurance Intermediaries Act 1994 (1994 No 41)",
+    "combined_score": 1,
+    "linked_from": [
+      "Deposit Takers Act 2023"
+    ]
+  },
+  {
+    "act": "Civil Aviation (Offences) Regulations 2006 (SR 2006/168)",
+    "combined_score": 1,
+    "linked_from": [
+      "Smokefree Environments and Regulated Products (Vaping) Amendment Act 2020"
+    ]
+  },
+  {
+    "act": "Law Reform Act 1936 (1936 No 31)",
+    "combined_score": 1,
+    "linked_from": [
+      "Deaths by Accidents Compensation Act 1952"
+    ]
+  },
+  {
+    "act": "Chemical Weapons (Prohibition) Act 1996",
+    "combined_score": 1,
+    "linked_from": [
+      "Diplomatic Privileges and Immunities Act 1968"
+    ]
+  },
+  {
+    "act": "International War Crimes Tribunals Act 1995",
+    "combined_score": 1,
+    "linked_from": [
+      "Diplomatic Privileges and Immunities Act 1968"
+    ]
+  },
+  {
+    "act": "New Zealand Sign Language Act 2006 (2006 No 18)",
+    "combined_score": 1,
+    "linked_from": [
+      "Coroners Amendment Act 2023"
+    ]
+  },
+  {
+    "act": "Trade Unions Act 1908 (1908 No 196)",
+    "combined_score": 1,
+    "linked_from": [
+      "Contracts of Insurance (Repeals and Amendments) Act 2024"
+    ]
+  },
+  {
+    "act": "Land Transport (Certification and Other Fees) Regulations 2014",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Certification and Other Fees) Regulations 1999"
+    ]
+  },
+  {
+    "act": "Civil List Act 1979 (1979 No 33)",
+    "combined_score": 1,
+    "linked_from": [
+      "Foreign Affairs Act 1988"
+    ]
+  },
+  {
+    "act": "Children, Young Persons, and Their Families (Vulnerable Children) Amendment Act 2014",
+    "combined_score": 1,
+    "linked_from": [
+      "Children Act 2004"
+    ]
+  },
+  {
+    "act": "Domestic Violence Act 1995 (1995 No 86)",
+    "combined_score": 1,
+    "linked_from": [
+      "Children Act 2004"
+    ]
+  },
+  {
+    "act": "Marriage Act 1955 (1955 No 92)",
+    "combined_score": 1,
+    "linked_from": [
+      "Children Act 2004"
+    ]
+  },
+  {
+    "act": "Minors’ Contracts Act 1969 (1969 No 41)",
+    "combined_score": 1,
+    "linked_from": [
+      "Children Act 2004"
+    ]
+  },
+  {
+    "act": "Independent Police Conduct Authority Act 1988",
+    "combined_score": 1,
+    "linked_from": [
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Acts and Regulations Publication Act 1989",
+    "combined_score": 1,
+    "linked_from": [
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Accident Compensation Act 1982",
+    "combined_score": 1,
+    "linked_from": [
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Finance Act 1994",
+    "combined_score": 1,
+    "linked_from": [
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Sport, Fitness, and Leisure Act 1987",
+    "combined_score": 1,
+    "linked_from": [
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "New Zealand Horticulture Export Authority Act 1987",
+    "combined_score": 1,
+    "linked_from": [
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Finance Act 1990",
+    "combined_score": 1,
+    "linked_from": [
+      "Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)"
+    ]
+  },
+  {
+    "act": "Land Transport (Motor Vehicle Registration and Licensing) Regulations 2011",
+    "combined_score": 1,
+    "linked_from": [
+      "Transport (Vehicle Registration and Licensing) Regulations 1994"
+    ]
+  },
+  {
+    "act": "Guardianship Amendment Act 1998",
+    "combined_score": 1,
+    "linked_from": [
+      "Age of Majority Act 1970"
+    ]
+  },
+  {
+    "act": "Greater Christchurch Regeneration Act 2016",
+    "combined_score": 1,
+    "linked_from": [
+      "Canterbury Earthquake Recovery Act 2011"
+    ]
+  },
+  {
+    "act": "Heretaunga Tamatea Claims Settlement Act 2018",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Hineuru Claims Settlement Act 2016",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Iwi and Hapū of Te Rohe o Te Wairoa Claims Settlement Act 2018",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "NgāiTakoto Claims Settlement Act 2015",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāruahine Claims Settlement Act 2016",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Hauā Claims Settlement Act 2014",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Koroki Kahukura Claims Settlement Act 2014",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Kuri Claims Settlement Act 2015",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Pūkenga Claims Settlement Act 2017",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Rāhiri Tumutumu Claims Settlement Act 2026",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Tara Tokanui Claims Settlement Act 2026",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngāti Tūwharetoa Claims Settlement Act 2018",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Ngatikahu ki Whangaroa Claims Settlement Act 2017",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Rangitāne o Manawatu Claims Settlement Act 2016",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Rangitāne Tū Mai Rā (Wairarapa Tamaki nui-ā-Rua) Claims Settlement Act 2017",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Taranaki Iwi Claims Settlement Act 2016",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Te Atiawa Claims Settlement Act 2016",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Te Aupouri Claims Settlement Act 2015",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Te Rarawa Claims Settlement Act 2015",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Resource Management Act 1991"
+    ]
+  },
+  {
+    "act": "Gangs Act 2024",
+    "combined_score": 1,
+    "linked_from": [
+      "Prohibition of Gang Insignia in Government Premises Act 2013"
+    ]
+  },
+  {
+    "act": "Judicature Amendment Act 1972 (1972 No 130)",
+    "combined_score": 1,
+    "linked_from": [
+      "Personal and Property Rights Act 1988"
+    ]
+  },
+  {
+    "act": "War Pensions Regulations 1956 (SR 1956/7)",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport Management Amendment Act 2013"
+    ]
+  },
+  {
+    "act": "Insolvency Practitioners Regulation Act 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Family Violence Regulations 2019"
+    ]
+  },
+  {
+    "act": "Farm Ownership Savings Act 1974 (1974 No 55)",
+    "combined_score": 1,
+    "linked_from": [
+      "Fishing Vessel Ownership Savings Act 1977"
+    ]
+  },
+  {
+    "act": "New Zealand Institute of Chartered Accountants Act 1996",
+    "combined_score": 1,
+    "linked_from": [
+      "War Pensions Regulations 1956"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2016",
+    "combined_score": 1,
+    "linked_from": [
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)"
+    ]
+  },
+  {
+    "act": "Administration of Community Sentences and Orders Act 2013",
+    "combined_score": 1,
+    "linked_from": [
+      "Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)"
+    ]
+  },
+  {
+    "act": "Fisheries (Recordkeeping) Regulations 1990 (SR 1990/219)",
+    "combined_score": 1,
+    "linked_from": [
+      "Animal Products (Ancillary and Transitional Provisions) Act 1999"
+    ]
+  },
+  {
+    "act": "Maori Land Amendment and Maori Land Claims Adjustment Act 1926 (1926 No 64)",
+    "combined_score": 1,
+    "linked_from": [
+      "Maori Purposes Act 1931"
+    ]
+  },
+  {
+    "act": "Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Fisheries (Kaimoana Customary Fishing) Regulations 1998"
+    ]
+  },
+  {
+    "act": "Maritime Security Act 2004 (2004 No 16)",
+    "combined_score": 1,
+    "linked_from": [
+      "Maritime Crimes Amendment Act 2017"
+    ]
+  },
+  {
+    "act": "Ozone Layer Protection Act 1996 (1996 No 40)",
+    "combined_score": 1,
+    "linked_from": [
+      "Ministry of Economic Development Act 2000"
+    ]
+  },
+  {
+    "act": "Tariff Act 1988 (1988 No 155)",
+    "combined_score": 1,
+    "linked_from": [
+      "Ministry of Economic Development Act 2000"
+    ]
+  },
+  {
+    "act": "Climate Change (Unique Emissions Factors) Regulations 2009 (SR 2009/286)",
+    "combined_score": 1,
+    "linked_from": [
+      "New Zealand Institute of Chartered Accountants Amendment Act 2010"
+    ]
+  },
+  {
+    "act": "Health and Safety at Work (Mining Operations and Quarrying Operations) Regulations 2016",
+    "combined_score": 1,
+    "linked_from": [
+      "Mines Rescue (Levy) Regulations 2014"
+    ]
+  },
+  {
+    "act": "Higher Salaries Commission Amendment Act 1988",
+    "combined_score": 1,
+    "linked_from": [
+      "Maori Language Act 1987"
+    ]
+  },
+  {
+    "act": "High Court Fees Regulations 2013 (SR 2013/226)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Social Security Act 2018"
+    ]
+  },
+  {
+    "act": "Social Welfare (Reciprocity with the United Kingdom) Order 1990 (SR 1990/85)",
+    "combined_score": 1,
+    "linked_from": [
+      "Schedule 1 of the Social Security Act 2018"
+    ]
+  }
+]

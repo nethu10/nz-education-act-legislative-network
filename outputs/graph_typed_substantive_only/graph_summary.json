@@ -1,0 +1,14 @@
+{
+  "nodes": 2475,
+  "multi_edges": 37204,
+  "amendment_edges": 14805,
+  "citation_edges": 22399,
+  "collapsed_edges": 28733,
+  "citation_edges_dropped_entirely": 1784,
+  "citation_edges_reduced": 458,
+  "citation_weight_removed": 8362,
+  "citation_weight_total": 62838,
+  "isolated_nodes": 0,
+  "weakly_connected_components": 1,
+  "largest_component": 2475
+}

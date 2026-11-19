@@ -1,0 +1,37 @@
+{
+  "nodes": 2475,
+  "nodes_by_layer": {
+    "SG0": 1,
+    "SG1": 37,
+    "SG2": 419,
+    "SG3": 845,
+    "SG4": 1126,
+    "SG5": 47
+  },
+  "nodes_without_xml": 46,
+  "nodes_unresolved": 1,
+  "multi_edges": 38988,
+  "amendment_edges": 14805,
+  "citation_edges": 24183,
+  "amendment_operations_total": 142890,
+  "citation_weight_total": 71200,
+  "collapsed_edges": 30515,
+  "isolated_nodes": 0,
+  "weakly_connected_components": 1,
+  "largest_component": 2475,
+  "component_sizes_top10": [
+    2475
+  ],
+  "edges_by_layer": {
+    "SG1": 299,
+    "SG2": 11496,
+    "SG3": 18433,
+    "SG4": 8396,
+    "SG5": 364
+  },
+  "audit_fix_12": {
+    "nodes_merged_or_renamed": 7,
+    "self_loops_dropped": 3,
+    "edge_collisions_resolved": 979
+  }
+}

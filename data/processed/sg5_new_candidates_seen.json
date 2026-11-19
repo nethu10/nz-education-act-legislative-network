@@ -1,0 +1,921 @@
+[
+  {
+    "act": "Local Electoral Amendment Regulations 2003",
+    "combined_score": 72,
+    "linked_from": [
+      "Local Electoral Regulations 2001 (SR 2001/145)"
+    ]
+  },
+  {
+    "act": "Local Electoral Amendment Regulations 2002",
+    "combined_score": 47,
+    "linked_from": [
+      "Local Electoral Regulations 2001 (SR 2001/145)"
+    ]
+  },
+  {
+    "act": "Climate Change (Other Removal Activities) Amendment Regulations 2010",
+    "combined_score": 39,
+    "linked_from": [
+      "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)"
+    ]
+  },
+  {
+    "act": "Climate Change (Other Removal Activities) Amendment Regulations 2017",
+    "combined_score": 28,
+    "linked_from": [
+      "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)"
+    ]
+  },
+  {
+    "act": "Biosecurity (National Bovine Tuberculosis Pest Management Plan) Amendment Order 2013",
+    "combined_score": 26,
+    "linked_from": [
+      "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Order 1998 (SR 1998/179)"
+    ]
+  },
+  {
+    "act": "Biosecurity (American Foulbrood—Beekeeper Levy) Amendment Order 2020",
+    "combined_score": 26,
+    "linked_from": [
+      "Biosecurity (American Foulbrood—Apiary and Beekeeper Levy) Order 2003 (SR 2003/283)"
+    ]
+  },
+  {
+    "act": "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Amendment Order 2004",
+    "combined_score": 24,
+    "linked_from": [
+      "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Order 1998 (SR 1998/179)"
+    ]
+  },
+  {
+    "act": "Biosecurity (Bovine Tuberculosis—Cattle Levy) Amendment Order 2013",
+    "combined_score": 24,
+    "linked_from": [
+      "Biosecurity (Bovine Tuberculosis—Cattle Levy) Order 1998 (SR 1998/457)"
+    ]
+  },
+  {
+    "act": "Biosecurity (National American Foulbrood Pest Management Plan) Amendment Order 2013",
+    "combined_score": 23,
+    "linked_from": [
+      "Biosecurity (National American Foulbrood Pest Management Strategy) Order 1998 (SR 1998/260)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance Amendment Regulations 2020",
+    "combined_score": 23,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Biosecurity (National Bovine Tuberculosis Pest Management Plan) Amendment Order 2016",
+    "combined_score": 19,
+    "linked_from": [
+      "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Order 1998 (SR 1998/179)"
+    ]
+  },
+  {
+    "act": "Land Transport (Driver Licensing and Driver Testing Fees) Amendment Regulations (No 2) 2010",
+    "combined_score": 18,
+    "linked_from": [
+      "Land Transport (Driver Licensing and Driver Testing Fees) Regulations 1999 (SR 1999/93)"
+    ]
+  },
+  {
+    "act": "Local Electoral Amendment Act 2013",
+    "combined_score": 17,
+    "linked_from": [
+      "Local Electoral Regulations 2001 (SR 2001/145)"
+    ]
+  },
+  {
+    "act": "Biosecurity (Bovine Tuberculosis—Otago Land Levy) Amendment Order 2013",
+    "combined_score": 17,
+    "linked_from": [
+      "Biosecurity (Bovine Tuberculosis—Otago Land Levy) Order 1998 (SR 1998/442)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations (No 2) 2011",
+    "combined_score": 16,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Local Government (Rating) Amendment Act 2004",
+    "combined_score": 16,
+    "linked_from": [
+      "Local Electoral Regulations 2001 (SR 2001/145)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance Amendment Regulations (No 2) 2024",
+    "combined_score": 15,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Biosecurity (Bovine Tuberculosis—Otago Land Levy) Amendment Order 2004",
+    "combined_score": 15,
+    "linked_from": [
+      "Biosecurity (Bovine Tuberculosis—Otago Land Levy) Order 1998 (SR 1998/442)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2004",
+    "combined_score": 14,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations (No 2) 2005",
+    "combined_score": 14,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Infringement and Reminder Notices) Amendment Regulations 2006",
+    "combined_score": 13,
+    "linked_from": [
+      "Land Transport (Infringement and Reminder Notices) Regulations 1998 (SR 1998/447)"
+    ]
+  },
+  {
+    "act": "Land Transport (Driver Licensing and Driver Testing Fees) Amendment Regulations 2010",
+    "combined_score": 13,
+    "linked_from": [
+      "Land Transport (Driver Licensing and Driver Testing Fees) Regulations 1999 (SR 1999/93)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance Amendment Regulations 2015",
+    "combined_score": 12,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Auckland Regional Amenities Funding Amendment Act 2020",
+    "combined_score": 11,
+    "linked_from": [
+      "Auckland Regional Amenities Funding Act 2008"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations (No 2) 2007",
+    "combined_score": 11,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "National Animal Identification and Tracing (Obligations and Exemptions) Amendment Regulations 2012",
+    "combined_score": 11,
+    "linked_from": [
+      "National Animal Identification and Tracing (Obligations and Exemptions) Regulations 2012 (SR 2012/116)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance Amendment Regulations 2004",
+    "combined_score": 11,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Land Transport (Drug Driving) Amendment Act 2025",
+    "combined_score": 10,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Hazardous Substances (Fireworks) Amendment Regulations 2007",
+    "combined_score": 10,
+    "linked_from": [
+      "Hazardous Substances (Fireworks) Regulations 2001 (SR 2001/121)"
+    ]
+  },
+  {
+    "act": "Local Electoral Amendment Act 2004",
+    "combined_score": 10,
+    "linked_from": [
+      "Local Electoral Regulations 2001 (SR 2001/145)"
+    ]
+  },
+  {
+    "act": "Land Transport (Driver Licensing and Driver Testing Fees) Amendment Regulations 2017",
+    "combined_score": 9,
+    "linked_from": [
+      "Land Transport (Driver Licensing and Driver Testing Fees) Regulations 1999 (SR 1999/93)"
+    ]
+  },
+  {
+    "act": "Climate Change (General Exemptions) Amendment Order 2012",
+    "combined_score": 9,
+    "linked_from": [
+      "Climate Change (General Exemptions) Order 2009 (SR 2009/370)"
+    ]
+  },
+  {
+    "act": "Climate Change (Other Removal Activities) Amendment Regulations 2011",
+    "combined_score": 8,
+    "linked_from": [
+      "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)"
+    ]
+  },
+  {
+    "act": "Climate Change (Emissions Trading Scheme) Amendment Regulations 2018",
+    "combined_score": 8,
+    "linked_from": [
+      "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)"
+    ]
+  },
+  {
+    "act": "Land Transport (Driver Licensing and Driver Testing Fees) Amendment Regulations 1999",
+    "combined_score": 8,
+    "linked_from": [
+      "Land Transport (Driver Licensing and Driver Testing Fees) Regulations 1999 (SR 1999/93)"
+    ]
+  },
+  {
+    "act": "Climate Change (General Exemptions) Amendment Order 2025",
+    "combined_score": 8,
+    "linked_from": [
+      "Climate Change (General Exemptions) Order 2009 (SR 2009/370)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance (Exemptions, Annual Returns, and Other Matters) Amendment Regulations 2021",
+    "combined_score": 8,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Biosecurity (American Foulbrood—Beekeeper Levy) Amendment Order (No 2) 2020",
+    "combined_score": 8,
+    "linked_from": [
+      "Biosecurity (American Foulbrood—Apiary and Beekeeper Levy) Order 2003 (SR 2003/283)"
+    ]
+  },
+  {
+    "act": "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Amendment Order 2011",
+    "combined_score": 7,
+    "linked_from": [
+      "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Order 1998 (SR 1998/179)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2024",
+    "combined_score": 7,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2012",
+    "combined_score": 7,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Driver Licensing and Driver Testing Fees) Amendment Regulations 2012",
+    "combined_score": 7,
+    "linked_from": [
+      "Land Transport (Driver Licensing and Driver Testing Fees) Regulations 1999 (SR 1999/93)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance (Buy Now, Pay Later) Amendment Regulations 2023",
+    "combined_score": 7,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance Amendment Regulations 2026",
+    "combined_score": 7,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2008",
+    "combined_score": 6,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Infringement and Reminder Notices) Amendment Regulations 2011",
+    "combined_score": 6,
+    "linked_from": [
+      "Land Transport (Infringement and Reminder Notices) Regulations 1998 (SR 1998/447)"
+    ]
+  },
+  {
+    "act": "Hazardous Substances (Fireworks) Amendment Regulations 2004",
+    "combined_score": 6,
+    "linked_from": [
+      "Hazardous Substances (Fireworks) Regulations 2001 (SR 2001/121)"
+    ]
+  },
+  {
+    "act": "Climate Change (General Exemptions) Amendment Order 2018",
+    "combined_score": 6,
+    "linked_from": [
+      "Climate Change (General Exemptions) Order 2009 (SR 2009/370)"
+    ]
+  },
+  {
+    "act": "Local Electoral Amendment Regulations 2023",
+    "combined_score": 6,
+    "linked_from": [
+      "Local Electoral Regulations 2001 (SR 2001/145)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2015",
+    "combined_score": 5,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2011",
+    "combined_score": 5,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations (No 2) 2009",
+    "combined_score": 5,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations (No 2) 2016",
+    "combined_score": 5,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations (No 2) 2013",
+    "combined_score": 5,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Auckland War Memorial Museum Maintenance Act 1928",
+    "combined_score": 5,
+    "linked_from": [
+      "Auckland City and Auckland Museum Empowering Act 1924"
+    ]
+  },
+  {
+    "act": "Climate Change (Other Removal Activities) Amendment Regulations 2012",
+    "combined_score": 5,
+    "linked_from": [
+      "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)"
+    ]
+  },
+  {
+    "act": "Climate Change (General Exemptions) Amendment Order (No 2) 2013",
+    "combined_score": 5,
+    "linked_from": [
+      "Climate Change (General Exemptions) Order 2009 (SR 2009/370)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance (Lender Inquiries into Suitability and Affordability) Amendment Regulations 2020",
+    "combined_score": 5,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Biosecurity (National Bovine Tuberculosis Pest Management Plan) Amendment Order 2026",
+    "combined_score": 4,
+    "linked_from": [
+      "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Order 1998 (SR 1998/179)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2019",
+    "combined_score": 4,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Infringement and Reminder Notices) Amendment Regulations 2008",
+    "combined_score": 4,
+    "linked_from": [
+      "Land Transport (Infringement and Reminder Notices) Regulations 1998 (SR 1998/447)"
+    ]
+  },
+  {
+    "act": "Land Transport (Infringement and Reminder Notices) Amendment Regulations 2007",
+    "combined_score": 4,
+    "linked_from": [
+      "Land Transport (Infringement and Reminder Notices) Regulations 1998 (SR 1998/447)"
+    ]
+  },
+  {
+    "act": "Injury Prevention, Rehabilitation, and Compensation (Motor Vehicles Levies) Amendment Regulations 2008",
+    "combined_score": 4,
+    "linked_from": [
+      "Injury Prevention, Rehabilitation, and Compensation (Motor Vehicles Levies) Regulations 2008 (SR 2008/105)"
+    ]
+  },
+  {
+    "act": "Climate Change (General Exemptions) Amendment Order 2010",
+    "combined_score": 4,
+    "linked_from": [
+      "Climate Change (General Exemptions) Order 2009 (SR 2009/370)"
+    ]
+  },
+  {
+    "act": "Climate Change (General Exemptions) Amendment Order (No 2) 2012",
+    "combined_score": 4,
+    "linked_from": [
+      "Climate Change (General Exemptions) Order 2009 (SR 2009/370)"
+    ]
+  },
+  {
+    "act": "Local Electoral Amendment Regulations 2001",
+    "combined_score": 4,
+    "linked_from": [
+      "Local Electoral Regulations 2001 (SR 2001/145)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance Amendment Regulations 2024",
+    "combined_score": 4,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance Amendment Regulations (No 2) 2015",
+    "combined_score": 4,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations (No 2) 2008",
+    "combined_score": 3,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2010",
+    "combined_score": 3,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2026",
+    "combined_score": 3,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2005",
+    "combined_score": 3,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "National Animal Identification and Tracing (Obligations and Exemptions) Amendment Regulations 2016",
+    "combined_score": 3,
+    "linked_from": [
+      "National Animal Identification and Tracing (Obligations and Exemptions) Regulations 2012 (SR 2012/116)"
+    ]
+  },
+  {
+    "act": "National Animal Identification and Tracing (Levies) Amendment Regulations 2016",
+    "combined_score": 3,
+    "linked_from": [
+      "National Animal Identification and Tracing (Levies) Regulations 2012 (SR 2012/115)"
+    ]
+  },
+  {
+    "act": "Land Transport (Driver Licensing and Driver Testing Fees) Amendment Regulations 2013",
+    "combined_score": 3,
+    "linked_from": [
+      "Land Transport (Driver Licensing and Driver Testing Fees) Regulations 1999 (SR 1999/93)"
+    ]
+  },
+  {
+    "act": "Hazardous Substances (Fireworks) Amendment Regulations 2008",
+    "combined_score": 3,
+    "linked_from": [
+      "Hazardous Substances (Fireworks) Regulations 2001 (SR 2001/121)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance (Exemption for Emergency Relief) Amendment Regulations (No 2) 2023",
+    "combined_score": 3,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations (No 2) 2002",
+    "combined_score": 2,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Drug Driving) Amendment Act 2022",
+    "combined_score": 2,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2017",
+    "combined_score": 2,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport Amendment Act (No 2) 2014",
+    "combined_score": 2,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2009",
+    "combined_score": 2,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2007",
+    "combined_score": 2,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Driver Licensing and Driver Testing Fees) Amendment Regulations 2011",
+    "combined_score": 2,
+    "linked_from": [
+      "Land Transport (Driver Licensing and Driver Testing Fees) Regulations 1999 (SR 1999/93)"
+    ]
+  },
+  {
+    "act": "Hazardous Substances (Fireworks) Amendment Regulations 2003",
+    "combined_score": 2,
+    "linked_from": [
+      "Hazardous Substances (Fireworks) Regulations 2001 (SR 2001/121)"
+    ]
+  },
+  {
+    "act": "Climate Change (General Exemptions) Amendment Order 2013",
+    "combined_score": 2,
+    "linked_from": [
+      "Climate Change (General Exemptions) Order 2009 (SR 2009/370)"
+    ]
+  },
+  {
+    "act": "Climate Change (General Exemptions) Amendment Order 2019",
+    "combined_score": 2,
+    "linked_from": [
+      "Climate Change (General Exemptions) Order 2009 (SR 2009/370)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance Amendment Regulations 2016",
+    "combined_score": 2,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance Amendment Regulations 2019",
+    "combined_score": 2,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance (Buy Now, Pay Later Exemptions) Amendment Regulations 2024",
+    "combined_score": 2,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Biosecurity (Bovine Tuberculosis—Cattle and Deer Levy) Order 2016",
+    "combined_score": 2,
+    "linked_from": [
+      "Biosecurity (Bovine Tuberculosis—Cattle Levy) Order 1998 (SR 1998/457)",
+      "Biosecurity (Bovine Tuberculosis—Otago Land Levy) Order 1998 (SR 1998/442)"
+    ]
+  },
+  {
+    "act": "Subordinate Legislation (Confirmation and Validation) Act 1999",
+    "combined_score": 2,
+    "linked_from": [
+      "Biosecurity (Bovine Tuberculosis—Cattle Levy) Order 1998 (SR 1998/457)",
+      "Biosecurity (Bovine Tuberculosis—Otago Land Levy) Order 1998 (SR 1998/442)"
+    ]
+  },
+  {
+    "act": "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Amendment Order (No 2) 2011",
+    "combined_score": 1,
+    "linked_from": [
+      "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Order 1998 (SR 1998/179)"
+    ]
+  },
+  {
+    "act": "Biosecurity (National American Foulbrood Pest Management Strategy) Amendment Order 2003",
+    "combined_score": 1,
+    "linked_from": [
+      "Biosecurity (National American Foulbrood Pest Management Strategy) Order 1998 (SR 1998/260)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2000",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2021",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations (No 2) 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations (No 3) 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2016",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations 2013",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations (No 3) 2011",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations (No 3) 2007",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Offences and Penalties) Amendment Regulations (No 2) 2012",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Land Transport (Road Safety Enforcement) Amendment Act 2001",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)"
+    ]
+  },
+  {
+    "act": "Local Government (Rating) Amendment Act 2006",
+    "combined_score": 1,
+    "linked_from": [
+      "Auckland War Memorial Museum Act 1996"
+    ]
+  },
+  {
+    "act": "Land Transport (Infringement and Reminder Notices) Regulations 2012",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Infringement and Reminder Notices) Regulations 1998 (SR 1998/447)"
+    ]
+  },
+  {
+    "act": "Land Transport (Infringement and Reminder Notices) Amendment Regulations 2009",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Infringement and Reminder Notices) Regulations 1998 (SR 1998/447)"
+    ]
+  },
+  {
+    "act": "Injury Prevention, Rehabilitation, and Compensation (Motor Vehicles Levies) Regulations 2009",
+    "combined_score": 1,
+    "linked_from": [
+      "Injury Prevention, Rehabilitation, and Compensation (Motor Vehicles Levies) Regulations 2008 (SR 2008/105)"
+    ]
+  },
+  {
+    "act": "Municipal Corporations Act 1933",
+    "combined_score": 1,
+    "linked_from": [
+      "Auckland City and Auckland Museum Empowering Act 1924"
+    ]
+  },
+  {
+    "act": "Public Works Act 1928",
+    "combined_score": 1,
+    "linked_from": [
+      "Auckland City and Auckland Museum Empowering Act 1924"
+    ]
+  },
+  {
+    "act": "Climate Change (Other Removal Activities) Amendment Regulations 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)"
+    ]
+  },
+  {
+    "act": "Climate Change (Other Removal Activities) Amendment Regulations 2024",
+    "combined_score": 1,
+    "linked_from": [
+      "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)"
+    ]
+  },
+  {
+    "act": "National Animal Identification and Tracing (Obligations and Exemptions) Amendment Regulations 2013",
+    "combined_score": 1,
+    "linked_from": [
+      "National Animal Identification and Tracing (Obligations and Exemptions) Regulations 2012 (SR 2012/116)"
+    ]
+  },
+  {
+    "act": "National Animal Identification and Tracing Amendment Act 2018",
+    "combined_score": 1,
+    "linked_from": [
+      "National Animal Identification and Tracing (Obligations and Exemptions) Regulations 2012 (SR 2012/116)"
+    ]
+  },
+  {
+    "act": "National Animal Identification and Tracing (Obligations and Exemptions) Amendment Regulations 2015 (LI 2015/131).",
+    "combined_score": 1,
+    "linked_from": [
+      "National Animal Identification and Tracing (Obligations and Exemptions) Regulations 2012 (SR 2012/116)"
+    ]
+  },
+  {
+    "act": "Local Elections and Polls Amendment Act 1941",
+    "combined_score": 1,
+    "linked_from": [
+      "Auckland City Empowering Act 1932–33 (1932–33 No 8 (L))"
+    ]
+  },
+  {
+    "act": "Local Legislation Act 1955",
+    "combined_score": 1,
+    "linked_from": [
+      "Auckland City Empowering Act 1932–33 (1932–33 No 8 (L))"
+    ]
+  },
+  {
+    "act": "Subordinate Legislation (Confirmation and Validation) Act 2012",
+    "combined_score": 1,
+    "linked_from": [
+      "National Animal Identification and Tracing (Levies) Regulations 2012 (SR 2012/115)"
+    ]
+  },
+  {
+    "act": "Land Transport (Regulatory Fees) Regulations 2023",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Driver Licensing and Driver Testing Fees) Regulations 1999 (SR 1999/93)"
+    ]
+  },
+  {
+    "act": "Land Transport (Driver Licensing and Driver Testing Fees) Amendment Regulations (No 2) 2012",
+    "combined_score": 1,
+    "linked_from": [
+      "Land Transport (Driver Licensing and Driver Testing Fees) Regulations 1999 (SR 1999/93)"
+    ]
+  },
+  {
+    "act": "Climate Change (General Exemptions) Amendment Order (No 2) 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Climate Change (General Exemptions) Order 2009 (SR 2009/370)"
+    ]
+  },
+  {
+    "act": "Climate Change (General Exemptions) Amendment Order 2021",
+    "combined_score": 1,
+    "linked_from": [
+      "Climate Change (General Exemptions) Order 2009 (SR 2009/370)"
+    ]
+  },
+  {
+    "act": "Local Electoral Amendment Regulations 2010",
+    "combined_score": 1,
+    "linked_from": [
+      "Local Electoral Regulations 2001 (SR 2001/145)"
+    ]
+  },
+  {
+    "act": "Local Electoral Matters Act 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Local Electoral Regulations 2001 (SR 2001/145)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance (Residential Earthquake-prone Building Financial Assistance Scheme) Amendment Regulations 2020",
+    "combined_score": 1,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Credit Contracts and Consumer Finance (Exemption for Emergency Relief) Amendment Regulations 2023",
+    "combined_score": 1,
+    "linked_from": [
+      "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)"
+    ]
+  },
+  {
+    "act": "Court of Appeal (List Election Petitions) Amendment Rules 2010",
+    "combined_score": 1,
+    "linked_from": [
+      "Court of Appeal (List Election Petitions) Rules 1998 (SR 1998/326)"
+    ]
+  },
+  {
+    "act": "Court of Appeal (List Election Petitions) Amendment Rules 2012",
+    "combined_score": 1,
+    "linked_from": [
+      "Court of Appeal (List Election Petitions) Rules 1998 (SR 1998/326)"
+    ]
+  },
+  {
+    "act": "Subordinate Legislation (Confirmation and Validation) Act 2004",
+    "combined_score": 1,
+    "linked_from": [
+      "Biosecurity (American Foulbrood—Apiary and Beekeeper Levy) Order 2003 (SR 2003/283)"
+    ]
+  },
+  {
+    "act": "Biosecurity (Bovine Tuberculosis—Cattle Levy) Amendment Order 2004",
+    "combined_score": 1,
+    "linked_from": [
+      "Biosecurity (Bovine Tuberculosis—Cattle Levy) Order 1998 (SR 1998/457)"
+    ]
+  },
+  {
+    "act": "Biosecurity (Bovine Tuberculosis—Cattle Levy) Amendment Order 2001",
+    "combined_score": 1,
+    "linked_from": [
+      "Biosecurity (Bovine Tuberculosis—Cattle Levy) Order 1998 (SR 1998/457)"
+    ]
+  }
+]

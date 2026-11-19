@@ -1,0 +1,716 @@
+{
+ "1|A": {
+  "label": "Environment and natural resources",
+  "description": "Laws governing land use, conservation, fisheries, and resource management.",
+  "domain": "Environment and natural resources",
+  "confidence": "high",
+  "mixed": false
+ },
+ "1|B": {
+  "label": "Maori affairs and environment",
+  "description": "Laws related to Maori rights, fisheries, aquaculture, and natural resources.",
+  "domain": "Maori affairs",
+  "confidence": "high",
+  "mixed": false
+ },
+ "1|C": {
+  "label": "Environment and natural resources",
+  "description": "Laws governing land use, conservation, fisheries, and resource management.",
+  "domain": "Environment and natural resources",
+  "confidence": "high",
+  "mixed": false
+ },
+ "2|A": {
+  "label": "Justice and policing",
+  "description": "Laws related to criminal justice, law enforcement, and border control.",
+  "domain": "Justice and policing",
+  "confidence": "high",
+  "mixed": false
+ },
+ "2|B": {
+  "label": "Justice and policing",
+  "description": "Laws related to criminal justice, drug offenses, and border control.",
+  "domain": "Justice and policing",
+  "confidence": "high",
+  "mixed": false
+ },
+ "2|C": {
+  "label": "Justice and policing",
+  "description": "Laws related to criminal justice, law enforcement, and corrections.",
+  "domain": "Justice and policing",
+  "confidence": "high",
+  "mixed": false
+ },
+ "3|A": {
+  "label": "Justice and policing",
+  "description": "Laws related to family courts, district courts, and child protection.",
+  "domain": "Justice and policing",
+  "confidence": "high",
+  "mixed": false
+ },
+ "3|B": {
+  "label": "Justice and policing",
+  "description": "Laws related to family courts, domestic violence, and district courts.",
+  "domain": "Justice and policing",
+  "confidence": "high",
+  "mixed": false
+ },
+ "3|C": {
+  "label": "Justice and policing",
+  "description": "Laws related to family courts, district courts, and family violence.",
+  "domain": "Justice and policing",
+  "confidence": "high",
+  "mixed": false
+ },
+ "4|A": {
+  "label": "Business and finance",
+  "description": "Regulates financial markets, companies, and related services.",
+  "domain": "Business and finance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "4|B": {
+  "label": "Business and finance",
+  "description": "Regulates financial markets and related entities.",
+  "domain": "Business and finance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "4|C": {
+  "label": "Business and finance",
+  "description": "Regulates financial markets, companies, and related activities.",
+  "domain": "Business and finance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "5|A": {
+  "label": "Public administration and governance",
+  "description": "Laws governing public entities and services.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "5|B": {
+  "label": "Public administration and governance",
+  "description": "Laws related to government operations and oversight.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "5|C": {
+  "label": "Public administration and governance",
+  "description": "Laws governing public service, finance, records, and ombudsmen.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "6|A": {
+  "label": "Public administration and governance",
+  "description": "Laws governing local government operations and infrastructure.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "6|B": {
+  "label": "Public administration and governance",
+  "description": "Laws related to local government and infrastructure management.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "6|C": {
+  "label": "Public administration and governance",
+  "description": "Laws governing local government operations and services.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "7|A": {
+  "label": "Social policy and welfare",
+  "description": "Laws related to social security, employment, housing, and health services.",
+  "domain": "Social policy and welfare",
+  "confidence": "high",
+  "mixed": false
+ },
+ "7|B": {
+  "label": "Social policy and welfare",
+  "description": "Laws related to social housing, employment, and social security.",
+  "domain": "Social policy and welfare",
+  "confidence": "high",
+  "mixed": false
+ },
+ "7|C": {
+  "label": "Social policy and welfare",
+  "description": "Laws related to social security, employment, housing, and health services.",
+  "domain": "Social policy and welfare",
+  "confidence": "high",
+  "mixed": false
+ },
+ "8|A": {
+  "label": "Transport and infrastructure",
+  "description": "Regulates land, maritime, and rail transport systems.",
+  "domain": "Transport and infrastructure",
+  "confidence": "high",
+  "mixed": false
+ },
+ "8|B": {
+  "label": "Transport and infrastructure",
+  "description": "Regulations and acts governing land transport systems.",
+  "domain": "Transport and infrastructure",
+  "confidence": "high",
+  "mixed": false
+ },
+ "8|C": {
+  "label": "Transport and infrastructure",
+  "description": "Regulates land and maritime transport systems and related services.",
+  "domain": "Transport and infrastructure",
+  "confidence": "high",
+  "mixed": false
+ },
+ "9|A": {
+  "label": "Health and safety",
+  "description": "Laws regulating food safety, animal welfare, and biosecurity.",
+  "domain": "Health and safety",
+  "confidence": "high",
+  "mixed": false
+ },
+ "9|B": {
+  "label": "Health and safety",
+  "description": "Laws related to biosecurity, animal welfare, food safety, and hazardous substances.",
+  "domain": "Health and safety",
+  "confidence": "high",
+  "mixed": false
+ },
+ "9|C": {
+  "label": "Health and safety",
+  "description": "Laws related to food safety, animal welfare, and biosecurity.",
+  "domain": "Health and safety",
+  "confidence": "high",
+  "mixed": false
+ },
+ "10|A": {
+  "label": "Education",
+  "description": "Laws governing education and training systems.",
+  "domain": "Education",
+  "confidence": "high",
+  "mixed": false
+ },
+ "10|B": {
+  "label": "Education",
+  "description": "Laws and regulations governing education systems and institutions.",
+  "domain": "Education",
+  "confidence": "high",
+  "mixed": false
+ },
+ "10|C": {
+  "label": "Education",
+  "description": "Laws governing education and training systems.",
+  "domain": "Education",
+  "confidence": "high",
+  "mixed": false
+ },
+ "11|A": {
+  "label": "Health and safety",
+  "description": "Regulations for workplace and public safety.",
+  "domain": "Health and safety",
+  "confidence": "high",
+  "mixed": false
+ },
+ "11|B": {
+  "label": "Health and safety",
+  "description": "Regulations and acts ensuring workplace safety.",
+  "domain": "Health and safety",
+  "confidence": "high",
+  "mixed": false
+ },
+ "11|C": {
+  "label": "Energy and safety",
+  "description": "Laws regulating electricity, gas, and workplace health and safety.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "12|A": {
+  "label": "Tax and revenue",
+  "description": "Laws related to taxation and income management.",
+  "domain": "Tax and revenue",
+  "confidence": "high",
+  "mixed": false
+ },
+ "12|B": {
+  "label": "Tax and revenue",
+  "description": "Laws related to taxation and financial regulations.",
+  "domain": "Tax and revenue",
+  "confidence": "high",
+  "mixed": false
+ },
+ "12|C": {
+  "label": "Tax and revenue",
+  "description": "Laws related to taxation and income management.",
+  "domain": "Tax and revenue",
+  "confidence": "high",
+  "mixed": false
+ },
+ "13|A": {
+  "label": "Environment and natural resources",
+  "description": "These laws regulate fishing activities and related food safety.",
+  "domain": "Environment and natural resources",
+  "confidence": "high",
+  "mixed": false
+ },
+ "13|B": {
+  "label": "Environment and natural resources",
+  "description": "These laws regulate fishing activities and related practices.",
+  "domain": "Environment and natural resources",
+  "confidence": "high",
+  "mixed": false
+ },
+ "13|C": {
+  "label": "Environment and natural resources",
+  "description": "These laws regulate fishing activities and related practices.",
+  "domain": "Environment and natural resources",
+  "confidence": "high",
+  "mixed": false
+ },
+ "14|A": {
+  "label": "Climate change and environment",
+  "description": "Laws related to climate change response and environmental protection.",
+  "domain": "Environment and natural resources",
+  "confidence": "high",
+  "mixed": false
+ },
+ "14|B": {
+  "label": "Climate change and environment",
+  "description": "Laws related to addressing climate change and protecting the ozone layer.",
+  "domain": "Environment and natural resources",
+  "confidence": "high",
+  "mixed": false
+ },
+ "14|C": {
+  "label": "Climate change and environment",
+  "description": "Laws related to climate change response and environmental protection.",
+  "domain": "Environment and natural resources",
+  "confidence": "high",
+  "mixed": false
+ },
+ "15|A": {
+  "label": "International and trade",
+  "description": "Laws related to international trade agreements and foreign investment.",
+  "domain": "International and trade",
+  "confidence": "high",
+  "mixed": false
+ },
+ "15|B": {
+  "label": "International and trade",
+  "description": "Laws related to international trade agreements and regulations.",
+  "domain": "International and trade",
+  "confidence": "high",
+  "mixed": false
+ },
+ "15|C": {
+  "label": "International and trade",
+  "description": "Laws related to international trade agreements and foreign investment.",
+  "domain": "International and trade",
+  "confidence": "high",
+  "mixed": false
+ },
+ "16|A": {
+  "label": "Maori affairs",
+  "description": "Laws related to Māori land and community development.",
+  "domain": "Maori affairs",
+  "confidence": "high",
+  "mixed": false
+ },
+ "16|B": {
+  "label": "Maori affairs",
+  "description": "Laws related to Māori land and purposes.",
+  "domain": "Maori affairs",
+  "confidence": "high",
+  "mixed": false
+ },
+ "16|C": {
+  "label": "Maori affairs",
+  "description": "Laws related to Māori land and community development.",
+  "domain": "Social policy and welfare",
+  "confidence": "high",
+  "mixed": false
+ },
+ "17|A": {
+  "label": "Social policy and welfare",
+  "description": "These laws regulate the Government Superannuation Fund for public servants.",
+  "domain": "Social policy and welfare",
+  "confidence": "high",
+  "mixed": false
+ },
+ "17|B": {
+  "label": "Social policy and welfare",
+  "description": "These laws regulate the Government Superannuation Fund for public servants.",
+  "domain": "Social policy and welfare",
+  "confidence": "high",
+  "mixed": false
+ },
+ "17|C": {
+  "label": "Social policy and welfare",
+  "description": "These laws regulate the Government Superannuation Fund for public servants.",
+  "domain": "Social policy and welfare",
+  "confidence": "high",
+  "mixed": false
+ },
+ "18|A": {
+  "label": "Defence and security",
+  "description": "Laws related to military discipline, court martial procedures, and defense regulations.",
+  "domain": "Defence and security",
+  "confidence": "high",
+  "mixed": false
+ },
+ "18|B": {
+  "label": "Defence and security",
+  "description": "Laws related to military discipline and justice.",
+  "domain": "Defence and security",
+  "confidence": "high",
+  "mixed": false
+ },
+ "18|C": {
+  "label": "Defence and security",
+  "description": "Laws related to military discipline, courts martial, and burials.",
+  "domain": "Defence and security",
+  "confidence": "high",
+  "mixed": false
+ },
+ "19|A": {
+  "label": "Business and finance",
+  "description": "Regulates professionals and businesses involved in real estate, legal services, and construction.",
+  "domain": "Business and finance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "19|B": {
+  "label": "Construction and real estate",
+  "description": "Laws regulating construction contracts, building regulations, and real estate agents.",
+  "domain": "Business and finance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "19|C": {
+  "label": "Business and finance",
+  "description": "Regulates professionals and businesses involved in real estate, construction, and legal services.",
+  "domain": "Business and finance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "20|A": {
+  "label": "Electoral and jury systems",
+  "description": "Laws governing elections, referenda, juries, and public health responses.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "20|B": {
+  "label": "Electoral and public health",
+  "description": "Laws related to elections and public health responses.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "20|C": {
+  "label": "Electoral and jury systems",
+  "description": "Laws governing elections and juries in New Zealand.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "21|A": {
+  "label": "Defence and security",
+  "description": "Regulates arms and firearms in New Zealand.",
+  "domain": "Defence and security",
+  "confidence": "high",
+  "mixed": false
+ },
+ "21|B": {
+  "label": "Defence and security",
+  "description": "Regulates arms and firearms in New Zealand.",
+  "domain": "Defence and security",
+  "confidence": "high",
+  "mixed": false
+ },
+ "21|C": {
+  "label": "Defence and security",
+  "description": "Regulates arms and firearms in New Zealand.",
+  "domain": "Defence and security",
+  "confidence": "high",
+  "mixed": false
+ },
+ "22|A": {
+  "label": "Cook Islands governance",
+  "description": "These acts amend provisions related to the Cook Islands.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "22|B": {
+  "label": "Cook Islands governance",
+  "description": "These acts amend provisions related to the Cook Islands.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "22|C": {
+  "label": "Cook Islands governance",
+  "description": "These acts amend provisions related to the Cook Islands.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "23|A": {
+  "label": "Communications and technology",
+  "description": "Regulates radio communications and related security measures.",
+  "domain": "Communications and technology",
+  "confidence": "high",
+  "mixed": false
+ },
+ "23|B": {
+  "label": "Communications and technology",
+  "description": "Regulates radio communications and related security measures.",
+  "domain": "Communications and technology",
+  "confidence": "high",
+  "mixed": false
+ },
+ "23|C": {
+  "label": "Communications and technology",
+  "description": "Regulates radio communications and related security measures.",
+  "domain": "Communications and technology",
+  "confidence": "high",
+  "mixed": false
+ },
+ "24|A": {
+  "label": "Health and safety",
+  "description": "Laws regulating smoke-free environments and products.",
+  "domain": "Health and safety",
+  "confidence": "high",
+  "mixed": false
+ },
+ "24|B": {
+  "label": "Health and safety",
+  "description": "Laws regulating smoke-free environments and products.",
+  "domain": "Health and safety",
+  "confidence": "high",
+  "mixed": false
+ },
+ "24|C": {
+  "label": "Health and safety",
+  "description": "Laws regulating smoke-free environments and products.",
+  "domain": "Health and safety",
+  "confidence": "high",
+  "mixed": false
+ },
+ "25|A": {
+  "label": "Weights and measures regulation",
+  "description": "Laws and regulations governing weights and measures standards.",
+  "domain": "Other or mixed",
+  "confidence": "high",
+  "mixed": true
+ },
+ "25|B": {
+  "label": "Weights and measures regulation",
+  "description": "Laws and regulations governing weights and measures standards.",
+  "domain": "Other or mixed",
+  "confidence": "high",
+  "mixed": true
+ },
+ "25|C": {
+  "label": "Weights and measures regulation",
+  "description": "Laws and regulations governing weights and measures standards.",
+  "domain": "Other or mixed",
+  "confidence": "high",
+  "mixed": true
+ },
+ "26|A": {
+  "label": "Social policy and welfare",
+  "description": "These laws provide regulations for war pensions.",
+  "domain": "Social policy and welfare",
+  "confidence": "high",
+  "mixed": false
+ },
+ "26|B": {
+  "label": "Social policy and welfare",
+  "description": "These laws provide regulations for war pensions.",
+  "domain": "Social policy and welfare",
+  "confidence": "high",
+  "mixed": false
+ },
+ "26|C": {
+  "label": "Social policy and welfare",
+  "description": "These laws provide regulations for war pensions.",
+  "domain": "Social policy and welfare",
+  "confidence": "high",
+  "mixed": false
+ },
+ "27|A": {
+  "label": "Criminal justice and policing",
+  "description": "These laws aim to prevent money laundering and terrorism financing.",
+  "domain": "Justice and policing",
+  "confidence": "high",
+  "mixed": false
+ },
+ "27|B": {
+  "label": "Criminal justice and policing",
+  "description": "These laws aim to prevent money laundering and terrorism financing.",
+  "domain": "Justice and policing",
+  "confidence": "high",
+  "mixed": false
+ },
+ "27|C": {
+  "label": "Criminal justice and policing",
+  "description": "These laws aim to prevent money laundering and terrorism financing.",
+  "domain": "Justice and policing",
+  "confidence": "high",
+  "mixed": false
+ },
+ "28|A": {
+  "label": "Energy efficiency",
+  "description": "Regulations governing energy efficiency standards and practices.",
+  "domain": "Environment and natural resources",
+  "confidence": "high",
+  "mixed": false
+ },
+ "28|B": {
+  "label": "Energy efficiency",
+  "description": "Regulations governing energy efficiency standards and practices.",
+  "domain": "Environment and natural resources",
+  "confidence": "high",
+  "mixed": false
+ },
+ "28|C": {
+  "label": "Energy efficiency",
+  "description": "Regulations governing energy efficiency standards and practices.",
+  "domain": "Environment and natural resources",
+  "confidence": "high",
+  "mixed": false
+ },
+ "29|A": {
+  "label": "Justice and policing",
+  "description": "These laws amend rules for the Court of Appeal.",
+  "domain": "Justice and policing",
+  "confidence": "high",
+  "mixed": false
+ },
+ "29|B": {
+  "label": "Justice and policing",
+  "description": "These laws amend rules for the Court of Appeal.",
+  "domain": "Justice and policing",
+  "confidence": "high",
+  "mixed": false
+ },
+ "29|C": {
+  "label": "Justice and policing",
+  "description": "These laws amend rules for the Court of Appeal.",
+  "domain": "Justice and policing",
+  "confidence": "high",
+  "mixed": false
+ },
+ "30|A": {
+  "label": "Child protection",
+  "description": "Laws related to protecting children from harm and abuse.",
+  "domain": "Social policy and welfare",
+  "confidence": "high",
+  "mixed": false
+ },
+ "30|B": {
+  "label": "Child protection",
+  "description": "Laws related to protecting children from harm and abuse.",
+  "domain": "Social policy and welfare",
+  "confidence": "high",
+  "mixed": false
+ },
+ "30|C": {
+  "label": "Child protection",
+  "description": "Laws related to protecting children from harm and abuse.",
+  "domain": "Social policy and welfare",
+  "confidence": "high",
+  "mixed": false
+ },
+ "31|A": {
+  "label": "Public administration and governance",
+  "description": "Amendments to canteen funds management.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "31|B": {
+  "label": "Public administration and governance",
+  "description": "Amendments to canteen funds management.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "31|C": {
+  "label": "Public administration and governance",
+  "description": "Amendments to canteen funds management.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "32|A": {
+  "label": "Public administration and governance",
+  "description": "Regulations governing the management of gas resources.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "32|B": {
+  "label": "Public administration and governance",
+  "description": "Regulations governing the management of gas resources.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "32|C": {
+  "label": "Public administration and governance",
+  "description": "Regulations governing the management of gas resources.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "33|A": {
+  "label": "Public administration and governance",
+  "description": "These acts relate to the regeneration of Christchurch after natural disasters.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "33|B": {
+  "label": "Public administration and governance",
+  "description": "These acts relate to the regeneration of Christchurch after natural disasters.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "33|C": {
+  "label": "Public administration and governance",
+  "description": "These acts relate to the regeneration of Christchurch after natural disasters.",
+  "domain": "Public administration and governance",
+  "confidence": "high",
+  "mixed": false
+ },
+ "34|A": {
+  "label": "Māori affairs",
+  "description": "These acts relate to Māori purposes and interests.",
+  "domain": "Maori affairs",
+  "confidence": "high",
+  "mixed": false
+ },
+ "34|B": {
+  "label": "Māori affairs",
+  "description": "These acts relate to Māori purposes and interests.",
+  "domain": "Maori affairs",
+  "confidence": "high",
+  "mixed": false
+ },
+ "34|C": {
+  "label": "Māori affairs",
+  "description": "These acts relate to Māori purposes and interests.",
+  "domain": "Maori affairs",
+  "confidence": "high",
+  "mixed": false
+ }
+}

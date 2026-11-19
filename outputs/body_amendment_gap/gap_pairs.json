@@ -1,0 +1,1853 @@
+[
+ {
+  "source": "Children’s Act 2014 (2014 No 40)",
+  "target": "Crown Organisations (Criminal Liability) Act 2002",
+  "examples": [
+   "This section amends the Crown Organisations (Criminal Liability) Act 2002."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Children’s Act 2014 (2014 No 40)",
+  "target": "Sentencing Act 2002",
+  "examples": [
+   "This section amends the Sentencing Act 2002."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Children’s Act 2014 (2014 No 40)",
+  "target": "Criminal Records (Clean Slate) Act 2004",
+  "examples": [
+   "This section amends the Criminal Records (Clean Slate) Act 2004."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Financial Advisers Act 2008 (2008 No 91)",
+  "target": "KiwiSaver Act 2006",
+  "examples": [
+   "This section amends the KiwiSaver Act 2006."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Financial Advisers Act 2008 (2008 No 91)",
+  "target": "Securities Act 1978",
+  "examples": [
+   "This section amends the Securities Act 1978."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Income Tax Act 2007 (2007 No 97)",
+  "target": "COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020",
+  "examples": [
+   "section DB 65, as in force before its repeal by section 4 of the COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Legislation Act 2019 (2019 No 58)",
+  "target": "Legislation (Repeals and Amendments) Act 2019",
+  "examples": [
+   "Section 73 (as inserted by Schedule 2 of the Legislation (Repeals and Amendments) Act 2019) does not apply to any secondary legislation that is made before that section comes into force."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Tax Administration Act 1994 (1994 No 166)",
+  "target": "Income Tax Act 2007 (2007 No 97)",
+  "examples": [
+   "This section provides a power to amend, by Order in Council, the list of sales of bloodstock yearlings in schedule 18B of the Income Tax Act 2007 that meet the definition of a premier yearling sale in"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act (No 2) 2020",
+  "target": "Local Government Act 2002",
+  "examples": [
+   "This schedule amends the Local Government Act 2002."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act (No 2) 2020",
+  "target": "Crown Research Institutes Act 1992",
+  "examples": [
+   "This Part amends the Crown Research Institutes Act 1992."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act (No 2) 2020",
+  "target": "Crown Entities Act 2004 (2004 No 115)",
+  "examples": [
+   "This Part amends the Crown Entities Act 2004."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act (No 2) 2020",
+  "target": "Public Finance Act 1989",
+  "examples": [
+   "This Part amends the Public Finance Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act (No 2) 2020",
+  "target": "State-Owned Enterprises Act 1986",
+  "examples": [
+   "This Part amends the State-Owned Enterprises Act 1986."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Biosecurity Act 1993",
+  "examples": [
+   "This Part amends the Biosecurity Act 1993."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "National Animal Identification and Tracing Act 2012",
+  "examples": [
+   "This Part amends the National Animal Identification and Tracing Act 2012."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Contract and Commercial Law Act 2017",
+  "examples": [
+   "This Part amends the Contract and Commercial Law Act 2017."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Credit Contracts and Consumer Finance Act 2003",
+  "examples": [
+   "This Part amends the Credit Contracts and Consumer Finance Act 2003."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Charitable Trusts Act 1957",
+  "examples": [
+   "This clause amends the Charitable Trusts Act 1957."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Friendly Societies and Credit Unions Act 1982",
+  "examples": [
+   "This clause amends the Friendly Societies and Credit Unions Act 1982."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Incorporated Societies Act 1908",
+  "examples": [
+   "This clause amends the Incorporated Societies Act 1908."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Industrial and Provident Societies Act 1908",
+  "examples": [
+   "This clause amends the Industrial and Provident Societies Act 1908."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Limited Partnerships Act 2008",
+  "examples": [
+   "This clause amends the Limited Partnerships Act 2008."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Partnership Law Act 2019",
+  "examples": [
+   "This clause amends the Partnership Law Act 2019."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Corrections Act 2004",
+  "examples": [
+   "This schedule amends the Corrections Act 2004."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Coroners Act 2006",
+  "examples": [
+   "This Part amends the Coroners Act 2006."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Courts (Remote Participation) Act 2010",
+  "examples": [
+   "This Part amends the Courts (Remote Participation) Act 2010."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Food Act 2014",
+  "examples": [
+   "This schedule amends the Food Act 2014."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Unit Titles Act 2010",
+  "examples": [
+   "This schedule amends the Unit Titles Act 2010."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Fire and Emergency New Zealand Act 2017",
+  "examples": [
+   "This Part amends the Fire and Emergency New Zealand Act 2017."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Gambling Act 2003",
+  "examples": [
+   "This Part amends the Gambling Act 2003."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Rating Valuations Act 1998",
+  "examples": [
+   "This Schedule amends the Rating Valuations Act 1998."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Freedom Camping Act 2011",
+  "examples": [
+   "This Part amends the Freedom Camping Act 2011."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Local Electoral Act 2001",
+  "examples": [
+   "This Part amends the Local Electoral Act 2001."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Local Government Act 2002",
+  "examples": [
+   "This Part amends the Local Government Act 2002."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Local Government Official Information and Meetings Act 1987",
+  "examples": [
+   "This Part amends the Local Government Official Information and Meetings Act 1987."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Local Government (Rating) Act 2002",
+  "examples": [
+   "This Part amends the Local Government (Rating) Act 2002."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Waste Minimisation Act 2008",
+  "examples": [
+   "This Part amends the Waste Minimisation Act 2008."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Arms Act 1983",
+  "examples": [
+   "This schedule amends the Arms Act 1983."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Further Management Measures) Legislation Act 2020",
+  "target": "Parental Leave and Employment Protection Act 1987",
+  "examples": [
+   "This schedule amends the Parental Leave and Employment Protection Act 1987."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Taxation and Other Regulatory Urgent Measures) Act 2020",
+  "target": "Public Finance Act 1989",
+  "examples": [
+   "Section 37 amends the Public Finance Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Taxation and Other Regulatory Urgent Measures) Act 2020",
+  "target": "Crown Entities Act 2004 (2004 No 115)",
+  "examples": [
+   "Sections 39 and 40 amend the Crown Entities Act 2004."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Taxation and Other Regulatory Urgent Measures) Act 2020",
+  "target": "State-Owned Enterprises Act 1986",
+  "examples": [
+   "Section 42 amends the State-Owned Enterprises Act 1986."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Urgent Management Measures) Legislation Act 2020",
+  "target": "Epidemic Preparedness Act 2006",
+  "examples": [
+   "This Part amends the Epidemic Preparedness Act 2006."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Urgent Management Measures) Legislation Act 2020",
+  "target": "Local Government Act 2002",
+  "examples": [
+   "This Part amends the Local Government Act 2002."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Urgent Management Measures) Legislation Act 2020",
+  "target": "Local Government Official Information and Meetings Act 1987",
+  "examples": [
+   "This Part amends the Local Government Official Information and Meetings Act 1987."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Urgent Management Measures) Legislation Act 2020",
+  "target": "Residential Tenancies Act 1986",
+  "examples": [
+   "This Part amends the Residential Tenancies Act 1986."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Children's Amendment Act 2018",
+  "target": "Vulnerable Children Act 2014",
+  "examples": [
+   "This Act amends the Vulnerable Children Act 2014 (the principal Act)."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017",
+  "target": "Children, Young Persons, and Their Families Act 1989",
+  "examples": [
+   "This Part amends the Children, Young Persons, and Their Families Act 1989 (the principal Act)."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008",
+  "target": "New Zealand Act 1989",
+  "examples": [
+   "This section amends the Reserve Bank of New Zealand Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Education Amendment Act 2011",
+  "target": "Government Superannuation Fund Act 1956 (1956 No 47)",
+  "examples": [
+   "This section amends the Government Superannuation Fund Act 1956."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Education Amendment Act 2015",
+  "target": "Privacy Act 1993",
+  "examples": [
+   "This section amends the Privacy Act 1993."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Education Amendment Act 2015",
+  "target": "State Sector Act 1988",
+  "examples": [
+   "This section amends the State Sector Act 1988."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Education Amendment Act 2015",
+  "target": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+  "examples": [
+   "This section amends the Education (Early Childhood Services) Regulations 2008."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Education Amendment Act 2015",
+  "target": "Education (Registration of Early Childhood Services Teachers) Regulations 2004 (SR 2004/236)",
+  "examples": [
+   "This section amends the Education (Registration of Early Childhood Services Teachers) Regulations 2004."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Education and Training (System Reform) Amendment Act 2026",
+  "target": "Crown Entities Act 2004 (2004 No 115)",
+  "examples": [
+   "Section 74 amends the Crown Entities Act 2004."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Education and Training (System Reform) Amendment Act 2026",
+  "target": "Ombudsmen Act 1975",
+  "examples": [
+   "Section 76 amends the Ombudsmen Act 1975."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Emergency Management Act 2026",
+  "target": "Civil Defence Emergency Management Act 2002",
+  "examples": [
+   "Part 6 is about amendments to other legislation and the repeal of the Civil Defence Emergency Management Act 2002."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Intelligence and Security Act 2017",
+  "target": "Tax Administration Act 1994 (1994 No 166)",
+  "examples": [
+   "Section 334 amends the Tax Administration Act 1994."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Land Transport (Clean Vehicles) Amendment Act 2022",
+  "target": "Land Transport (Motor Vehicle Registration and Licensing) Regulations 2011",
+  "examples": [
+   "Section 29 amends the Land Transport (Motor Vehicle Registration and Licensing) Regulations 2011."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Legislation Act (Sub-delegated Secondary Legislation) Regulations 2021",
+  "target": "Legislation Act 2019 (2019 No 58)",
+  "examples": [
+   "These regulations amend various top-tier SL to insert those statements and to make consequential amendments, including to align existing provisions for making, commencing, and publishing instruments w"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Parliament (Repeals and Amendments) Act 2025",
+  "target": "Citizens Initiated Referenda Act 1993",
+  "examples": [
+   "This Part amends the Citizens Initiated Referenda Act 1993."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Policing Act 2008",
+  "target": "District Courts Act 1947",
+  "examples": [
+   "This section amends the District Courts Act 1947."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Policing Act 2008",
+  "target": "State Sector Act 1988",
+  "examples": [
+   "This section amends the State Sector Act 1988."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Privacy Act 1993",
+  "target": "Acts and Regulations Publication Act 1989",
+  "examples": [
+   "Section 129B takes effect on the repeal of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Privacy Act 1993",
+  "target": "Regulations (Disallowance) Act 1989",
+  "examples": [
+   "Section 129B takes effect on the repeal of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Resource Management Act 1991",
+  "target": "Aquaculture Reform (Repeals and Transitional Provisions) Act 2004",
+  "examples": [
+   "This section applies subject to section 12 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.",
+   "This section applies subject to section 12 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Search and Surveillance Act 2012",
+  "target": "Children, Young Persons, and Their Families Act 1989",
+  "examples": [
+   "Sections 207 to 209 amend the Children, Young Persons, and Their Families Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Search and Surveillance Act 2012",
+  "target": "Immigration Act 2009 (2009 No 51)",
+  "examples": [
+   "This section amends the Immigration Act 2009."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Search and Surveillance Act 2012",
+  "target": "Credit Contracts and Consumer Finance Act 2003",
+  "examples": [
+   "This section amends the Credit Contracts and Consumer Finance Act 2003."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Search and Surveillance Act 2012",
+  "target": "District Courts Act 1947",
+  "examples": [
+   "Section 329 amends the District Courts Act 1947."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Social Assistance Legislation (Budget 2019 Welfare Package) Amendment Act 2019",
+  "target": "Child Support Act 1991",
+  "examples": [
+   "This section amends the Child Support Act 1991.",
+   "This subpart amends the Child Support Act 1991 (the principal Act)."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016",
+  "target": "Social Security (Exemptions under Section 105) Regulations 1998",
+  "examples": [
+   "Sections 46 and 47 amend the Social Security (Exemptions under Section 105) Regulations 1998."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Statutes Amendment Act 2019",
+  "target": "New Zealand Superannuation and Retirement Income Act 2001",
+  "examples": [
+   "This Part amends the New Zealand Superannuation and Retirement Income Act 2001 (the principal Act)."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Statutes Amendment Act 2022",
+  "target": "Equal Pay Act 1972",
+  "examples": [
+   "Section 34 amends the Equal Pay Act 1972."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Statutes Amendment Act 2025",
+  "target": "Employment Relations Act 2000 (2000 No 24)",
+  "examples": [
+   "This Part amends the Employment Relations Act 2000."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Te Ture Whakatupua mō Te Kāhui Tupua 2025/Taranaki Maunga Collective Redress Act 2025",
+  "target": "Maori Trust Boards Act 1955",
+  "examples": [
+   "This section amends the Maori Trust Boards Act 1955."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Vulnerable Children (Regulated Services) Regulations 2018",
+  "target": "Vulnerable Children Act 2014",
+  "examples": [
+   "These regulations amend Schedule 1 of the Vulnerable Children Act 2014 (the Act). Section 33 of the Act provides that the Governor-General may, by Order in Council, make regulations amending Schedule ",
+   "These regulations amend Schedule 1 of the Vulnerable Children Act 2014 (the Act). Section 33 of the Act provides that the Governor-General may, by Order in Council, make regulations amending Schedule "
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Vulnerable Children Amendment Act 2017",
+  "target": "Vulnerable Children Act 2014",
+  "examples": [
+   "This Act amends the Vulnerable Children Act 2014 (the principal Act)."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010",
+  "target": "Local Government Act 2002",
+  "examples": [
+   "This section amends the Local Government Act 2002."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Management Measures) Legislation Act 2021",
+  "target": "Gambling Act 2003",
+  "examples": [
+   "This Part amends the Gambling Act 2003."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Management Measures) Legislation Act 2021",
+  "target": "Contract and Commercial Law Act 2017",
+  "examples": [
+   "This Part amends the Contract and Commercial Law Act 2017."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "COVID-19 Response (Management Measures) Legislation Act 2021",
+  "target": "Credit Contracts and Consumer Finance Act 2003",
+  "examples": [
+   "This Part amends the Credit Contracts and Consumer Finance Act 2003."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Children, Young Persons, and Their Families (Advocacy, Workforce, and Age Settings) Amendment Act 2016",
+  "target": "Children, Young Persons, and Their Families Act 1989",
+  "examples": [
+   "This Act amends the Children, Young Persons, and Their Families Act 1989 (the principal Act)."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Children, Young Persons, and Their Families (Vulnerable Children) Amendment Act 2014",
+  "target": "Children, Young Persons, and Their Families Act 1989",
+  "examples": [
+   "This Act amends the Children, Young Persons, and Their Families Act 1989 (the principal Act)."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010",
+  "target": "Children, Young Persons, and Their Families Act 1989",
+  "examples": [
+   "This Act amends the Children, Young Persons, and Their Families Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Children, Young Persons, and Their Families Amendment Act (No 2) 2011",
+  "target": "Children, Young Persons, and Their Families Act 1989",
+  "examples": [
+   "This Act amends the Children, Young Persons, and Their Families Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Children, Young Persons, and Their Families Amendment Act (No 2) 2013",
+  "target": "Children, Young Persons, and Their Families Act 1989",
+  "examples": [
+   "This Act amends the Children, Young Persons, and Their Families Act 1989 (the principal Act)."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Children, Young Persons, and Their Families Amendment Act 2008",
+  "target": "Children, Young Persons, and Their Families Act 1989",
+  "examples": [
+   "This Act amends the Children, Young Persons, and Their Families Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Children, Young Persons, and Their Families Amendment Act 2012",
+  "target": "Children, Young Persons, and Their Families Act 1989",
+  "examples": [
+   "This Act amends the Children, Young Persons, and Their Families Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Children, Young Persons, and Their Families Amendment Act 2013",
+  "target": "Children, Young Persons, and Their Families Act 1989",
+  "examples": [
+   "This Act amends the Children, Young Persons, and Their Families Act 1989 (the principal Act)."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Children, Young Persons, and Their Families Amendment Act 2014",
+  "target": "Children, Young Persons, and Their Families Act 1989",
+  "examples": [
+   "This Act amends the Children, Young Persons, and Their Families Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018",
+  "target": "Dairy Industry Restructuring Act 2001",
+  "examples": [
+   "This Part amends the Dairy Industry Restructuring Act 2001 (the principal Act)."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Contracts of Insurance (Repeals and Amendments) Act 2024",
+  "target": "Personal Property Securities Act 1999",
+  "examples": [
+   "Sections 28 and 29 amend the Personal Property Securities Act 1999."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Courts (Remote Participation) Act 2010",
+  "target": "Evidence Act 2006",
+  "examples": [
+   "This section amends the Evidence Act 2006."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Criminal Activity Intervention Legislation Act 2023",
+  "target": "Sentencing Act 2002",
+  "examples": [
+   "This subpart amends the Sentencing Act 2002."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Education (Update) Amendment Act 2017",
+  "target": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+  "examples": [
+   "This section amends the Education (Early Childhood Services) Regulations 2008."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Fair Trading Act 1986",
+  "target": "Financial Markets (Repeals and Amendments) Act 2013",
+  "examples": [
+   "This Act is the Financial Markets (Repeals and Amendments) Act 2013."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Financial Markets Supervisors Act 2011",
+  "target": "Financial Markets Authority Act 2011",
+  "examples": [
+   "This section amends the Financial Markets Authority Act 2011.",
+   "This section amends the Financial Markets Authority Act 2011."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Financial Markets Supervisors Act 2011",
+  "target": "KiwiSaver Act 2006",
+  "examples": [
+   "This section amends the KiwiSaver Act 2006.",
+   "This section amends the KiwiSaver Act 2006."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Financial Markets Supervisors Act 2011",
+  "target": "Takeovers Act 1993",
+  "examples": [
+   "This section amends the Takeovers Act 1993.",
+   "This section amends the Takeovers Act 1993."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Financial Markets Supervisors Act 2011",
+  "target": "Financial Markets (Repeals and Amendments) Act 2013",
+  "examples": [
+   "This Act is the Financial Markets (Repeals and Amendments) Act 2013.",
+   "This Act is the Financial Markets (Repeals and Amendments) Act 2013."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Food Safety Law Reform Act 2018",
+  "target": "Health Act 1956",
+  "examples": [
+   "This section amends the Health Act 1956."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Human Tissue Act 2008",
+  "target": "Land Transport Act 1998",
+  "examples": [
+   "This section amends the Land Transport Act 1998."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Human Tissue Act 2008",
+  "target": "Land Transport (Driver Licensing) Rule 1999",
+  "examples": [
+   "This section amends the Land Transport (Driver Licensing) Rule 1999."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Land Transport Management (Time of Use Charging) Amendment Act 2025",
+  "target": "Land Transport Management Act 2003",
+  "examples": [
+   "This Part amends the Land Transport Management Act 2003."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Land Transport Management (Time of Use Charging) Amendment Act 2025",
+  "target": "Land Transport Act 1998",
+  "examples": [
+   "Sections 6 to 9 amend the Land Transport Act 1998."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Land Transport Management (Time of Use Charging) Amendment Act 2025",
+  "target": "Legislation Act 2019 (2019 No 58)",
+  "examples": [
+   "Section 11 amends the Legislation Act 2019."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Local Government (Water Services Preliminary Arrangements) Act 2024",
+  "target": "Water Services Act 2021",
+  "examples": [
+   "Sections 115 and 116 amend the Water Services Act 2021."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Minors (Court Consent to Relationships) Legislation Act 2018",
+  "target": "District Court Rules 2014",
+  "examples": [
+   "Section 38 amends the District Court Rules 2014."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Ngati Toa Rangatira Claims Settlement Act 2014",
+  "target": "Fisheries (South Island Customary Fishing) Regulations 1999",
+  "examples": [
+   "This section amends the Fisheries (South Island Customary Fishing) Regulations 1999."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Organ Donors and Related Matters Act 2019",
+  "target": "Health Sector (Transfers) Act 1993",
+  "examples": [
+   "This section amends the Health Sector (Transfers) Act 1993."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Psychoactive Substances Act 2013",
+  "target": "Children, Young Persons, and Their Families Act 1989",
+  "examples": [
+   "This section amends the Children, Young Persons, and Their Families Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Public Service Amendment Act 2026",
+  "target": "Legislation Act 2019 (2019 No 58)",
+  "examples": [
+   "Section 62 amends the Legislation Act 2019."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Regulatory Systems (Economic Development) Amendment Act 2025",
+  "target": "Fair Trading Act 1986",
+  "examples": [
+   "This Part amends the Fair Trading Act 1986."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Regulatory Systems (Economic Development) Amendment Act 2025",
+  "target": "Financial Markets Conduct (Conduct of Institutions) Amendment Regulations 2023",
+  "examples": [
+   "Section 105 amends the Financial Markets Conduct (Conduct of Institutions) Amendment Regulations 2023."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Regulatory Systems (Occupational Regulation) Amendment Act 2026",
+  "target": "Crown Entities Act 2004 (2004 No 115)",
+  "examples": [
+   "Section 33 amends the Crown Entities Act 2004."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Regulatory Systems (Occupational Regulation) Amendment Act 2026",
+  "target": "Real Estate Agents (Licensing) Regulations 2009",
+  "examples": [
+   "Sections 35 to 37 amend the Real Estate Agents (Licensing) Regulations 2009."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Reserve Bank of New Zealand (Covered Bonds) Amendment Act 2013",
+  "target": "New Zealand Act 1989",
+  "examples": [
+   "This Act amends the Reserve Bank of New Zealand Act 1989 (the principal Act)."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Reserve Bank of New Zealand Amendment Act 2009",
+  "target": "New Zealand Act 1989",
+  "examples": [
+   "This Act amends the Reserve Bank of New Zealand Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Responding to Abuse in Care Legislation Amendment Act 2025",
+  "target": "Children’s Act 2014 (2014 No 40)",
+  "examples": [
+   "This Part amends the Children’s Act 2014."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Sale and Supply of Alcohol Act 2012",
+  "target": "Children, Young Persons, and Their Families Act 1989",
+  "examples": [
+   "This section amends the Children, Young Persons, and Their Families Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Statutes Amendment Act 2018",
+  "target": "District Court Act 2016",
+  "examples": [
+   "This Part amends the District Court Act 2016 (the principal Act)."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Three Strikes Legislation Repeal Act 2022",
+  "target": "Criminal Procedure Act 2011",
+  "examples": [
+   "Section 14 amends the Criminal Procedure Act 2011."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Veterans' Support (Treatment Providers) Amendment Regulations 2025",
+  "target": "Veterans' Support Act 2014",
+  "examples": [
+   "Regulations 4 and 5 of these regulations amend the specified criteria in the principal regulations for a person who is an acupuncturist or a person who is an audiologist to be a treatment provider und"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Amendment Regulations 2014",
+  "target": "Anti-Money Laundering and Countering Financing of Terrorism Act 2009",
+  "examples": [
+   "These regulations, which come into force on 1 December 2014, amend the Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Regulations 2011 to take account of changes made to the "
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Amendment Regulations 2014",
+  "target": "Financial Markets Conduct Act 2013",
+  "examples": [
+   "These regulations, which come into force on 1 December 2014, amend the Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Regulations 2011 to take account of changes made to the "
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Amendment Regulations 2014",
+  "target": "Financial Markets (Repeals and Amendments) Act 2013",
+  "examples": [
+   "These regulations, which come into force on 1 December 2014, amend the Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Regulations 2011 to take account of changes made to the "
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Amendment Regulations 2023",
+  "target": "Anti-Money Laundering and Countering Financing of Terrorism Act 2009",
+  "examples": [
+   "These regulations amend the Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Regulations 2011 (the principal regulations), which exempt certain transactions, products, or servi"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Arms (Prohibited Firearms, Magazines, and Parts) Amendment Regulations (No 2) 2019",
+  "target": "Arms (Prohibited Firearms, Magazines, and Parts) Amendment Act 2019",
+  "examples": [
+   "These regulations, which come into force on 29 November 2019, amend the Arms Regulations 1992 (the principal regulations) to address the following measures that are related to the implementation of th"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Arms (Prohibited Firearms, Magazines, and Parts) Amendment Regulations 2019",
+  "target": "Arms (Prohibited Firearms, Magazines, and Parts) Amendment Act 2019",
+  "examples": [
+   "These regulations amend the Arms Regulations 1992 (the principal regulations) to assist with the implementation of the Arms (Prohibited Firearms, Magazines, and Parts) Amendment Act 2019."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Arms Amendment Regulations 2020",
+  "target": "Arms Act 1983",
+  "examples": [
+   "These regulations, which come into force on 1 February 2021, amend the Arms Regulations 1992 (the principal regulations) for the purposes of assisting with the implementation of legislative changes ma"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Arms Amendment Regulations 2020",
+  "target": "Arms Legislation Act 2020",
+  "examples": [
+   "These regulations, which come into force on 1 February 2021, amend the Arms Regulations 1992 (the principal regulations) for the purposes of assisting with the implementation of legislative changes ma"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Arms Amendment Regulations 2021",
+  "target": "Arms Act 1983",
+  "examples": [
+   "These regulations, which come into force on 1 February 2022, amend the Arms Regulations 1992 (the principal regulations) to support the implementation of the amendments to the Arms Act 1983 made by th"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Arms Amendment Regulations 2021",
+  "target": "Arms Legislation Act 2020",
+  "examples": [
+   "These regulations, which come into force on 1 February 2022, amend the Arms Regulations 1992 (the principal regulations) to support the implementation of the amendments to the Arms Act 1983 made by th"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Arms Legislation Act 2020",
+  "target": "Extradition Act 1999",
+  "examples": [
+   "This subpart amends the Extradition Act 1999."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Arms Legislation Act 2020",
+  "target": "Mutual Assistance in Criminal Matters Act 1992",
+  "examples": [
+   "This subpart amends the Mutual Assistance in Criminal Matters Act 1992."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Climate Change (Agriculture Sector) Amendment Regulations 2012",
+  "target": "Climate Change Response Act 2002",
+  "examples": [
+   "These regulations amend the Climate Change (Agriculture Sector) Regulations 2010. These regulations come into force on the day after the date of their notification in the Gazette, but apply on and fro"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Climate Change (Emissions Trading Scheme and Synthetic Greenhouse Gas Levies) Amendment Regulations 2022",
+  "target": "Climate Change (Liquid Fossil Fuels) Regulations 2008",
+  "examples": [
+   "This Part amends the Climate Change (Liquid Fossil Fuels) Regulations 2008.",
+   "Part 6 (regulations 32 and 33) amends the Climate Change (Liquid Fossil Fuels) Regulations 2008. The amendments update the emissions factors set out in the Schedule of those regulations, which relate "
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Climate Change (Liquid Fossil Fuels) Amendment Regulations 2009",
+  "target": "Climate Change Response Act 2002",
+  "examples": [
+   "These regulations, which come into force on 1 January 2010, amend the Climate Change (Liquid Fossil Fuels) Regulations 2008. Those regulations specify the liquid fossil fuels that are obligation fuels"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85)",
+  "target": "Forests Act 1949",
+  "examples": [
+   "This section amends the Forests Act 1949."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85)",
+  "target": "Summary Proceedings Act 1957",
+  "examples": [
+   "This section amends the Summary Proceedings Act 1957."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Criminal Proceeds (Recovery) Amendment Regulations 2023",
+  "target": "Criminal Proceeds (Recovery) Act 2009",
+  "examples": [
+   "These regulations, which come into force on 27 July 2023, amend the Criminal Proceeds (Recovery) Regulations 2009 (the principal regulations). The amendments align the principal regulations with chang"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Domestic Violence (Public Registers) Amendment Regulations 2018",
+  "target": "Land Transfer Act 2017",
+  "examples": [
+   "These regulations amend the Domestic Violence (Public Registers) Regulations 1998 (the principal regulations). The amendments commence on 12 November 2018, the date on which the Land Transfer Act 2017"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Drug and Substance Checking Legislation Act 2020",
+  "target": "Psychoactive Substances Act 2013",
+  "examples": [
+   "This Part amends the Psychoactive Substances Act 2013."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Education (Early Childhood Centres) Amendment Regulations 2005",
+  "target": "Care of Children Act 2004",
+  "examples": [
+   "These regulations, which come into force on 1 July 2005, amend the Education (Early Childhood Centres) Regulations 1998. The amendments update the definition of Secretary, and align the regulations wi"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Education Legislation Act 2016",
+  "target": "State Sector Act 1988",
+  "examples": [
+   "This subpart amends the State Sector Act 1988 (the principal Act)."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Electoral (Administration) Amendment Act 2011",
+  "target": "Electoral Regulations 1996",
+  "examples": [
+   "This section amends the Electoral Regulations 1996."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Electoral (Administration) Amendment Act 2011",
+  "target": "Broadcasting Act 1989",
+  "examples": [
+   "This section amends the Broadcasting Act 1989."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Electoral (Administration) Amendment Act 2011",
+  "target": "Electoral Referendum Act 2010",
+  "examples": [
+   "This section amends the Electoral Referendum Act 2010."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Electronic Identity Verification Amendment Regulations 2018",
+  "target": "Electronic Identity Verification Act 2012",
+  "examples": [
+   "These regulations, which come into force on 26 October 2018, amend the Electronic Identity Verification Regulations 2013 (the principal regulations) by adding further classes of persons as participati"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Employment Relations Authority (Screen Industry Workers) Amendment Regulations 2022",
+  "target": "Screen Industry Workers Act 2022",
+  "examples": [
+   "These regulations, which come into force on 30 December 2022, amend the Employment Relations Authority Regulations 2000 (the principal regulations) to insert details of the processes for certain appli",
+   "Regulation 7 amends regulation 5 of the principal regulations to insert cross-references to new regulations relating to applications under the Screen Industry Workers Act 2022."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Employment Relations Authority Amendment Regulations 2020",
+  "target": "Employment Relations Act 2000 (2000 No 24)",
+  "examples": [
+   "These regulations, which come into force on 28 June 2020, amend the Employment Relations Authority Regulations 2000 (the principal regulations). The main purpose of these regulations is to amend the p"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Evidence Amendment Regulations 2016",
+  "target": "Evidence Act 2006",
+  "examples": [
+   "These regulations amend the Evidence Regulations 2007 (the principal regulations) and come into force on 9 January 2017. The changes set out in regulations 4, 6 to 19, and 21 are made to align the pri"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Evidence Amendment Regulations 2016",
+  "target": "Armed Forces Discipline Act 1971",
+  "examples": [
+   "These regulations amend the Evidence Regulations 2007 (the principal regulations) and come into force on 9 January 2017. The changes set out in regulations 4, 6 to 19, and 21 are made to align the pri"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Evidence Amendment Regulations 2016",
+  "target": "Court Martial Act 2007",
+  "examples": [
+   "These regulations amend the Evidence Regulations 2007 (the principal regulations) and come into force on 9 January 2017. The changes set out in regulations 4, 6 to 19, and 21 are made to align the pri"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Family Court (Family Violence and Other Matters) Amendment Rules 2019",
+  "target": "Family Violence Act 2018",
+  "examples": [
+   "Part 1 amends the principal rules to reflect the commencement, on 1 July 2019, of the Family Violence Act 2018. Part 1 also amends the principal rules to enable the chief executive of the Ministry of "
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Family Court (Family Violence and Other Matters) Amendment Rules 2019",
+  "target": "District Court Act 2016",
+  "examples": [
+   "Part 2 amends the principal rules to reflect the changes made by the District Court Act 2016. That Act reconstituted the District Courts as a unitary court with a division known as the Family Court. C"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Fisheries (Commercial Fishing) Amendment Regulations (No 2) 2023",
+  "target": "Fisheries Act 1996",
+  "examples": [
+   "These regulations, which come into force on 5 October 2023, amend the Fisheries (Commercial Fishing) Regulations 2001. The main effects of the amendments are to provide for the chief executive to appr"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Fisheries (South Island Customary Fishing) Amendment Regulations 2025",
+  "target": "Fisheries Act 1996",
+  "examples": [
+   "These regulations also amend the principal regulations to provide that the principal regulations prevail over any other secondary legislation made under the Fisheries Act 1996, and not just other regu"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Forests (Log Traders and Forestry Advisers Repeal) Amendment Act 2024",
+  "target": "Legislation Act 2019 (2019 No 58)",
+  "examples": [
+   "This subpart amends the Legislation Act 2019."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Grocery Industry Competition Act 2023",
+  "target": "Legislation Act 2019 (2019 No 58)",
+  "examples": [
+   "section 48(1)﻿(a) of the Legislation Act 2019 applies (power to amend or revoke); but"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Health and Safety at Work (Hazardous Substances) Amendment Regulations 2021",
+  "target": "Health and Safety at Work Act 2015",
+  "examples": [
+   "Regulation 36 amends regulation 13.41 to provide that reduced minimum separation distances may apply to protected places that are on-site. This allows a PCBU to avoid high costs of redesigning the wor",
+   "Regulation 38 amends regulation 13.43 to provide that reduced minimum separation distances may apply to protected places that are on-site. This allows a PCBU to avoid high costs of redesigning the wor"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Health and Safety in Employment (Pipelines) Amendment Regulations 2023",
+  "target": "Health and Safety at Work Act 2015",
+  "examples": [
+   "These regulations, which come into force on 22 June 2023, amend the Health and Safety in Employment (Pipelines) Regulations 1999 (principal regulations). These regulations are made under the Health an",
+   "Regulation 5 amends regulation 8 of the principal regulations by replacing the list of standards set out in current regulation 8(1)﻿(a) to (d) with a reference to a safe work instrument. Safe work ins"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Health and Safety in Employment (Pipelines) Amendment Regulations 2023",
+  "target": "Health and Safety in Employment Act 1992",
+  "examples": [
+   "These regulations, which come into force on 22 June 2023, amend the Health and Safety in Employment (Pipelines) Regulations 1999 (principal regulations). These regulations are made under the Health an"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Insurance Companies' Deposits Amendment Act 2006",
+  "target": "Life Insurance Act 1908",
+  "examples": [
+   "This section amends the Life Insurance Act 1908."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Lawyers and Conveyancers Act (Disciplinary Tribunal) Amendment Regulations 2019",
+  "target": "Lawyers and Conveyancers Act 2006",
+  "examples": [
+   "These regulations, which amend the Lawyers and Conveyancers Act (Disciplinary Tribunal) Regulations 2008, come into force on 29 October 2019. The main purpose of these regulations is to facilitate the"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Lawyers and Conveyancers Act (Disciplinary Tribunal) Amendment Regulations 2019",
+  "target": "Tribunals Powers and Procedures Legislation Act 2018",
+  "examples": [
+   "These regulations, which amend the Lawyers and Conveyancers Act (Disciplinary Tribunal) Regulations 2008, come into force on 29 October 2019. The main purpose of these regulations is to facilitate the"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Medicines (Administration and Supply of Medicines in Approved Immunisation Programmes) Amendment Regulations 2025",
+  "target": "Medicines Act 1981",
+  "examples": [
+   "These regulations amend regulation 44A to allow a medical practitioner or other person to also be authorised to administer or supply a restricted, pharmacy-only, or prescription medicine (such as adre"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Overseas Investment (CPTPP—Brunei Darussalam) Amendment Regulations 2023",
+  "target": "Overseas Investment Act 2005",
+  "examples": [
+   "These regulations amend Part 5 of the Overseas Investment Regulations 2005 (the principal regulations), which provides for alternative monetary thresholds for overseas investments in significant busin"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Overseas Investment (CPTPP—Chile) Amendment Regulations 2023",
+  "target": "Overseas Investment Act 2005",
+  "examples": [
+   "These regulations amend Part 5 of the Overseas Investment Regulations 2005 (the principal regulations), which provides for alternative monetary thresholds for overseas investments in significant busin"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Overseas Investment (CPTPP—United Kingdom) Amendment Regulations 2024",
+  "target": "Overseas Investment Act 2005",
+  "examples": [
+   "These regulations amend Part 5 of the Overseas Investment Regulations 2005, which provides for alternative monetary thresholds for investments in significant business assets by overseas non-government"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Overseas Investment (Fresh or Seawater Areas and Time Frames) Amendment Regulations 2021",
+  "target": "Overseas Investment Act 2005",
+  "examples": [
+   "These regulations, most of which come into force on 24 November 2021, amend the Overseas Investment Regulations 2005 (the principal regulations). Most of the amendments arise from amendments made to t"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Overseas Investment Amendment Regulations (No 2) 2020",
+  "target": "Overseas Investment (Urgent Measures) Amendment Act 2020",
+  "examples": [
+   "These regulations amend the Overseas Investment Regulations 2005 (the OI Regulations) as part of the package of measures that included the enactment of the Overseas Investment (Urgent Measures) Amendm"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Overseas Investment Amendment Regulations (No 2) 2020",
+  "target": "Overseas Investment Act 2005",
+  "examples": [
+   "These regulations amend the Overseas Investment Regulations 2005 (the OI Regulations) as part of the package of measures that included the enactment of the Overseas Investment (Urgent Measures) Amendm"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Overseas Investment Amendment Regulations 2020",
+  "target": "Overseas Investment Act 2005",
+  "examples": [
+   "These regulations amend the Overseas Investment Regulations 2005 (the OI Regulations) as a consequence of the enactment of the Overseas Investment (Urgent Measures) Amendment Act 2020, which amends th"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Overseas Investment Amendment Regulations 2020",
+  "target": "Overseas Investment Amendment Regulations 2018",
+  "examples": [
+   "Regulation 5 amends regulation 37 to correct a drafting error in the exemption for corporate dealings to ensure that any entity within a corporate group that is at least 95% owned by the same overseas"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Overseas Investment Amendment Regulations 2023",
+  "target": "Overseas Investment Act 2005",
+  "examples": [
+   "These regulations, which come into force on 27 July 2023, amend the Overseas Investment Regulations 2005. The amendments arise from amendments made to the Overseas Investment Act 2005 (the Act) by the"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Overseas Investment Amendment Regulations 2023",
+  "target": "Overseas Investment (Urgent Measures) Amendment Act 2020",
+  "examples": [
+   "These regulations, which come into force on 27 July 2023, amend the Overseas Investment Regulations 2005. The amendments arise from amendments made to the Overseas Investment Act 2005 (the Act) by the"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Social Security (Benefits Adjustment) and Income Tax (Minimum Family Tax Credit) Amendment Act 2024",
+  "target": "Income Tax Act 2007 (2007 No 97)",
+  "examples": [
+   "This Part amends the Income Tax Act 2007."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Social Security (Long-term Residential Care—Value of Land) Amendment Regulations 2010",
+  "target": "Rating Valuations Act 1998",
+  "examples": [
+   "These regulations, which come into force on 1 April 2010, amend the Social Security (Long-term Residential Care) Regulations 2005. New regulations 9C to 9E prescribe how the value of a person's land ("
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Transport (Amendments to Schedules of Transport Act 1962) Order 2004",
+  "target": "Land Transport (Road User) Rule 2004",
+  "examples": [
+   "This order amends Schedule 2 and Schedule 2A of the Transport Act 1962. Clause 3(2)(d) comes into force on 1 April 2005. The rest of this order comes into force on 27 February 2005. The amendments rep"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Unit Titles Amendment Regulations 2024",
+  "target": "Unit Titles Act 2010",
+  "examples": [
+   "These regulations, which come into force on 9 May 2024, amend the Unit Titles Regulations 2011 (the principal regulations). The regulations are made largely to take account of amendments made to the U"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "Unit Titles Amendment Regulations 2024",
+  "target": "Unit Titles (Strengthening Body Corporate Governance and Other Matters) Amendment Act 2022",
+  "examples": [
+   "These regulations, which come into force on 9 May 2024, amend the Unit Titles Regulations 2011 (the principal regulations). The regulations are made largely to take account of amendments made to the U"
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ },
+ {
+  "source": "United Arab Emirates Comprehensive Economic Partnership Agreement Legislation Amendment Act 2025",
+  "target": "Tariff Act 1988",
+  "examples": [
+   "This subpart, in accordance with section 9F(1) of the Tariff Act 1988, amends the Tariff."
+  ],
+  "edge_types_present": [
+   "citation"
+  ]
+ }
+]

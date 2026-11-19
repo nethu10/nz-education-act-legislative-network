@@ -1,0 +1,6408 @@
+[
+  {
+    "act": "Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009",
+    "combined_score": 2118,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates for 2016\u201317, Closely Held Companies, and Remedial Matters) Act 2017",
+    "combined_score": 1130,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates for 2017\u201318, Employment and Investment Income, and Remedial Matters) Act 2018",
+    "combined_score": 1068,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates for 2018\u201319, Modernising Tax Administration, and Remedial Matters) Act 2019",
+    "combined_score": 1024,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Financial Advisers Act 2008 (2008 No 91)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates for 2015\u201316, Research and Development, and Remedial Matters) Act 2016",
+    "combined_score": 851,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Business Taxation and Remedial Matters) Act 2007",
+    "combined_score": 745,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates for 2024\u201325, Emergency Response, and Remedial Measures) Act 2025",
+    "combined_score": 695,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates for 2025\u201326, Compliance Simplification, and Remedial Measures) Act 2026",
+    "combined_score": 645,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Tax Administration and Remedial Matters) Act 2011",
+    "combined_score": 551,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1990",
+    "combined_score": 546,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "University of Canterbury Act 1961 (1961 No 49)",
+      "University of Auckland Act 1961 (1961 No 50)",
+      "Victoria University of Wellington Act 1961 (1961 No 51)",
+      "Lincoln University Act 1961 (1961 No 52)",
+      "Massey University Act 1963 (1963 No 7)",
+      "University of Waikato Act 1963 (1963 No 8)",
+      "University of Waikato Act 1963 (1963 No 8)",
+      "Treaty of Waitangi Act 1975 (1975 No 114)",
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (KiwiSaver, Student Loans, and Remedial Matters) Act 2020",
+    "combined_score": 535,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014",
+    "combined_score": 519,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates for 2020\u201321, Feasibility Expenditure, and Remedial Matters) Act 2021",
+    "combined_score": 513,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Social Security Act 2018 (2018 No 32)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (International Investment and Remedial Matters) Act 2012",
+    "combined_score": 504,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates for 2021\u201322, GST, and Remedial Matters) Act 2022",
+    "combined_score": 489,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 2001",
+    "combined_score": 475,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates for 2023\u201324, Multinational Tax, and Remedial Matters) Act 2024",
+    "combined_score": 459,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates for 2022\u201323, Platform Economy, and Remedial Matters) Act 2023",
+    "combined_score": 446,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012",
+    "combined_score": 428,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates, Foreign Superannuation, and Remedial Matters) Act 2014",
+    "combined_score": 407,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Transformation: First Phase Simplification and Other Measures) Act 2016",
+    "combined_score": 402,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Secondary Legislation Act 2021",
+    "combined_score": 376,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Public Works Act 1981 (1981 No 35)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Children\u2019s Act 2014 (2014 No 40)",
+      "Te Kawerau \u0101 Maki Claims Settlement Act 2015 (2015 No 75)",
+      "Social Security Act 2018 (2018 No 32)",
+      "Legislation Act 2019 (2019 No 58)",
+      "Privacy Act 2020 (2020 No 31)"
+    ],
+    "exclusion_reasons": [
+      "bulk_event",
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (GST and Remedial Matters) Act 2010",
+    "combined_score": 369,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Education (Update) Amendment Act 2017",
+    "combined_score": 342,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009",
+    "combined_score": 339,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Education (Vocational Education and Training Reform) Amendment Act 2020",
+    "combined_score": 333,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Financial Advisers Act 2008 (2008 No 91)",
+      "Legislation Act 2019 (2019 No 58)",
+      "Student Allowances Regulations 1998 (SR 1998/277)",
+      "International Student Contract Dispute Resolution Scheme Rules 2016 (LI 2016/42)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013",
+    "combined_score": 321,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010",
+    "combined_score": 304,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Business Tax, Exchange of Information, and Remedial Matters) Act 2017",
+    "combined_score": 296,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Tax Administration Amendment Act (No\u00a02) 1996",
+    "combined_score": 279,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Teaching Council of Aotearoa New Zealand) Amendment Act 2018",
+    "combined_score": 266,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Education (Registration of Early Childhood Services Teachers) Regulations 2004 (SR 2004/236)",
+      "Teaching Council Rules 2016 (LI 2016/122)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2011",
+    "combined_score": 249,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Act 2025",
+    "combined_score": 246,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Financial Advisers Amendment Act 2010",
+    "combined_score": 237,
+    "linked_from": [
+      "Financial Advisers Act 2008 (2008 No 91)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2015",
+    "combined_score": 225,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Neutralising Base Erosion and Profit Shifting) Act 2018",
+    "combined_score": 222,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Immigration Amendment Act 2015",
+    "combined_score": 214,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 2005",
+    "combined_score": 189,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates for 2019\u201320, GST Offshore Supplier Registration, and Remedial Matters) Act 2019",
+    "combined_score": 176,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Crown Entities Amendment Act 2013",
+    "combined_score": 161,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Loan Scheme Amendment Act 2013",
+    "combined_score": 144,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Budget Measures) Act\u00a02010",
+    "combined_score": 134,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Immigration (Fiscal Sustainability and System Integrity) Amendment Act 2025",
+    "combined_score": 126,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Public Works Amendment Act 1988",
+    "combined_score": 118,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Accrual Rules and Other Remedial Matters) Act 1999",
+    "combined_score": 114,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Social Security (Modernisation) Amendment Act 2026",
+    "combined_score": 114,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Standards Act 2001",
+    "combined_score": 113,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2016",
+    "combined_score": 113,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2018",
+    "combined_score": 112,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Residential Land Withholding Tax, GST on Online Services, and Student Loans) Act 2016",
+    "combined_score": 110,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act (No\u00a02) 2004",
+    "combined_score": 109,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Teaching Council Amendment Rules 2023",
+    "combined_score": 106,
+    "linked_from": [
+      "Teaching Council Rules 2016 (LI 2016/122)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1976",
+    "combined_score": 103,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2014",
+    "combined_score": 99,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Research and Development Tax Credits) Act 2019",
+    "combined_score": 95,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Education (Tertiary Reforms) Amendment Act 2007",
+    "combined_score": 94,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2018",
+    "combined_score": 93,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2006",
+    "combined_score": 92,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Education (Registration of Early Childhood Services Teachers) Regulations 2004 (SR 2004/236)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003",
+    "combined_score": 88,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Social Security (Financial Assistance for Caregivers) Amendment Act 2021",
+    "combined_score": 88,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1995",
+    "combined_score": 84,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Budget Measures) Act 2024",
+    "combined_score": 80,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Education (Tertiary Reform) Amendment Act 2002",
+    "combined_score": 79,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2010",
+    "combined_score": 79,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Venture Capital and Miscellaneous Provisions) Act 2004",
+    "combined_score": 77,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1985",
+    "combined_score": 74,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Public Service Act 2020",
+    "combined_score": 74,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Treaty of Waitangi Act 1975 (1975 No 114)",
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Employment Relations Act 2000 (2000 No 24)",
+      "Crown Entities Act 2004 (2004 No 115)",
+      "Income Tax Act 2007 (2007 No 97)",
+      "Financial Advisers Act 2008 (2008 No 91)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Student Loan Scheme Act 2011 (2011 No 62)",
+      "Children\u2019s Act 2014 (2014 No 40)",
+      "Social Security Act 2018 (2018 No 32)",
+      "Legislation Act 2019 (2019 No 58)",
+      "Privacy Act 2020 (2020 No 31)",
+      "Student Allowances Regulations 1998 (SR 1998/277)",
+      "Education (School Risk Management Scheme) Regulations 2003 (SR 2003/39)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "bulk_event"
+    ]
+  },
+  {
+    "act": "Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006",
+    "combined_score": 74,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Education (Tertiary Education and Other Matters) Amendment Act 2018",
+    "combined_score": 73,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001",
+    "combined_score": 71,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Social Security (Rates of Benefits and Allowances) Order 2026",
+    "combined_score": 71,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No\u00a03) 2010",
+    "combined_score": 70,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Budget Measures) Act 2025",
+    "combined_score": 70,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No\u00a02) 1998",
+    "combined_score": 69,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1989",
+    "combined_score": 68,
+    "linked_from": [
+      "University of Canterbury Act 1961 (1961 No 49)",
+      "University of Auckland Act 1961 (1961 No 50)",
+      "Victoria University of Wellington Act 1961 (1961 No 51)",
+      "Lincoln University Act 1961 (1961 No 52)",
+      "Massey University Act 1963 (1963 No 7)",
+      "University of Waikato Act 1963 (1963 No 8)",
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Section 3",
+    "combined_score": 67,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1986",
+    "combined_score": 65,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1989",
+    "combined_score": 64,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Urgent Measures and Annual Rates) Act 2008",
+    "combined_score": 61,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Student Loan Scheme Amendment Act 2012",
+    "combined_score": 60,
+    "linked_from": [
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Legislation Act 2016",
+    "combined_score": 57,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)",
+      "Crown Entities Act 2004 (2004 No 115)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Limited Partnerships) Act 2008",
+    "combined_score": 57,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2010",
+    "combined_score": 57,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No\u00a04) 1991",
+    "combined_score": 53,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Core Provisions) Act 1996",
+    "combined_score": 53,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2000",
+    "combined_score": 52,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Remedial Provisions) Act 1997",
+    "combined_score": 52,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Tax Administration Amendment Act 1995",
+    "combined_score": 51,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1990",
+    "combined_score": 48,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Loan Scheme Act 1992",
+    "combined_score": 48,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2009",
+    "combined_score": 47,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Public Works Amendment Act (No 2) 1987",
+    "combined_score": 46,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002",
+    "combined_score": 46,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1988",
+    "combined_score": 41,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (KiwiSaver) Act 2007",
+    "combined_score": 41,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008",
+    "combined_score": 40,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2026",
+    "combined_score": 40,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003",
+    "combined_score": 38,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Financial Advisers Amendment Act 2011",
+    "combined_score": 38,
+    "linked_from": [
+      "Financial Advisers Act 2008 (2008 No 91)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2013",
+    "combined_score": 37,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Budget Measures) Act 2012",
+    "combined_score": 36,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Business Tax Measures) Act 2009",
+    "combined_score": 36,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Immigration Amendment Act 2013",
+    "combined_score": 36,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Public Works (Critical Infrastructure) Amendment Act 2025",
+    "combined_score": 35,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005",
+    "combined_score": 33,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Income Tax Rate and Other Amendments) Act 2020",
+    "combined_score": 33,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Education (Pastoral Care) Amendment Act 2019",
+    "combined_score": 32,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act (No\u00a02) 2016",
+    "combined_score": 32,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Accident\u00a0Compensation and Calculation of Weekly Income) Amendment\u00a0Act 2026",
+    "combined_score": 32,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No\u00a02) 1992",
+    "combined_score": 31,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1987",
+    "combined_score": 31,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1999",
+    "combined_score": 30,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1959",
+    "combined_score": 29,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1980",
+    "combined_score": 28,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Bright-line Test for Residential Land) Act 2015",
+    "combined_score": 28,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2006",
+    "combined_score": 28,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi Amendment Act 2008",
+    "combined_score": 27,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Legislation Amendment Act 2026",
+    "combined_score": 27,
+    "linked_from": [
+      "Legislation Act 2019 (2019 No 58)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Accommodation Supplement) Amendment Act 2022",
+    "combined_score": 26,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2019",
+    "combined_score": 24,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Simplification and Other Remedial Matters) Act 1998",
+    "combined_score": 24,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Annual Rates and Budget Measures) Act 2011",
+    "combined_score": 24,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Public Works Amendment Act 1983",
+    "combined_score": 22,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Subsequent Child Policy Removal) Amendment Act 2021",
+    "combined_score": 22,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations (No\u00a02) 2023",
+    "combined_score": 22,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (COVID-19 Support Payments and Working for Families Tax Credits) Act 2021",
+    "combined_score": 21,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Employment Relations (Pay Deductions for Partial Strikes) Amendment Act 2025",
+    "combined_score": 21,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2004",
+    "combined_score": 21,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2015",
+    "combined_score": 20,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2026",
+    "combined_score": 20,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No\u00a02) 1985",
+    "combined_score": 19,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1993",
+    "combined_score": 19,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2011",
+    "combined_score": 19,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1992",
+    "combined_score": 18,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Savings Investment and Miscellaneous Provisions) Act 2006",
+    "combined_score": 18,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi (State Enterprises) Act 1988",
+    "combined_score": 17,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No\u00a02) 1991",
+    "combined_score": 17,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Employment Relations (Extended Time for Personal Grievance for Sexual Harassment) Amendment Act 2023",
+    "combined_score": 17,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Section 25",
+    "combined_score": 17,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a03) 2006",
+    "combined_score": 17,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (School Trustee Elections) Amendment Regulations 2020",
+    "combined_score": 17,
+    "linked_from": [
+      "Education (School Trustee Elections) Regulations 2000 (SR 2000/195)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1991",
+    "combined_score": 16,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1992",
+    "combined_score": 16,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (KiwiSaver HomeStart and Remedial Matters) Act 2015",
+    "combined_score": 16,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Privacy Amendment Act 2025",
+    "combined_score": 16,
+    "linked_from": [
+      "Privacy Act 2020 (2020 No 31)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1962",
+    "combined_score": 15,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Specified Institutions) Order 2015",
+    "combined_score": 15,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Immigration (Mass Arrivals) Amendment Act 2024",
+    "combined_score": 15,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2021",
+    "combined_score": 15,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Employment Relations (Flexible Working Arrangements) Amendment Act 2007",
+    "combined_score": 14,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances (Budget 2013 Initiatives) Amendment Regulations 2013",
+    "combined_score": 14,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations (No\u00a03) 2025",
+    "combined_score": 14,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No\u00a02) 1990",
+    "combined_score": 13,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi Amendment Act 1988",
+    "combined_score": 13,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001",
+    "combined_score": 13,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a03) 2005",
+    "combined_score": 13,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2016",
+    "combined_score": 13,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2012",
+    "combined_score": 13,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Canterbury Earthquake Measures) Act 2011",
+    "combined_score": 12,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Budget Measures) Act 2026",
+    "combined_score": 12,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Section 51",
+    "combined_score": 12,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2011",
+    "combined_score": 12,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1960",
+    "combined_score": 11,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Massey University Amendment Act 1966",
+    "combined_score": 11,
+    "linked_from": [
+      "Massey University Act 1963 (1963 No 7)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1998",
+    "combined_score": 11,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Income Tax (Calculation of Interest on Fringe Benefit Tax) Regulations 1993",
+    "combined_score": 11,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Loan Scheme Amendment Act 2014",
+    "combined_score": 11,
+    "linked_from": [
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Loan Scheme (Budget Measures) Amendment Act 2012",
+    "combined_score": 11,
+    "linked_from": [
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Benefits Adjustment) and Income Tax (Minimum Family Tax Credit) Amendment Act 2024",
+    "combined_score": 11,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2008",
+    "combined_score": 11,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2010",
+    "combined_score": 11,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Temporary Additional Support\u2014Severe Weather Events TAA Programme) Amendment Regulations 2023",
+    "combined_score": 11,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (COVID-19\u2014Temporary Additional Support and Expiry and Regrant of Benefits) Amendment Regulations 2020",
+    "combined_score": 11,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014Ex\u00a0Gratia and Compensation Payments) Amendment Regulations 2019",
+    "combined_score": 11,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (GST and Miscellaneous Provisions) Act 2000",
+    "combined_score": 10,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act 2008",
+    "combined_score": 10,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Parental Tax Credit) Act 2014",
+    "combined_score": 10,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Section 22",
+    "combined_score": 10,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 33A",
+    "combined_score": 10,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 90",
+    "combined_score": 10,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Immigration Advisers Licensing Act 2007",
+    "combined_score": 10,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Emergency Housing and Transitional Housing) Amendment Regulations 2020",
+    "combined_score": 10,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Youth Money Management) Amendment Regulations 2025",
+    "combined_score": 10,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2026",
+    "combined_score": 10,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Temporary Additional Support\u2014North\u00a0Island Weather Events TAA Programme) Amendment Regulations 2023",
+    "combined_score": 10,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 2009",
+    "combined_score": 9,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (School Donations) Amendment Act 2019",
+    "combined_score": 9,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Employment Relations (Triangular Employment) Amendment Act 2019",
+    "combined_score": 9,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2015",
+    "combined_score": 9,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "State Sector and Crown Entities Reform Act 2018",
+    "combined_score": 9,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Section 49",
+    "combined_score": 9,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 85G",
+    "combined_score": 9,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 167",
+    "combined_score": 9,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Immigration (International Visitor Conservation and Tourism Levy) Amendment Act 2019",
+    "combined_score": 9,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Definitions of Income Test 1, Income Test 2, Income Test 3, and Income Test 4) Order 2021",
+    "combined_score": 9,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances (Christchurch Mosques Attack) Amendment Regulations 2020",
+    "combined_score": 9,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations 2026",
+    "combined_score": 9,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations (No\u00a02) 2021",
+    "combined_score": 9,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1967",
+    "combined_score": 8,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Disestablishment of Early Childhood Development Board) Amendment Act 2004",
+    "combined_score": 8,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (COVID-19 Resurgence Support Payments and Other Matters) Act 2021",
+    "combined_score": 8,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998",
+    "combined_score": 8,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Remedial Matters) Act 1999",
+    "combined_score": 8,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Remedial Provisions) Act 1996",
+    "combined_score": 8,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Budget Measures) Act 2010",
+    "combined_score": 8,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Section 26",
+    "combined_score": 8,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120C",
+    "combined_score": 8,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Social Security (Winter Energy Payment) Amendment Act 2019",
+    "combined_score": 8,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances (State-supported Care Exemptions) Amendment Regulations 2019",
+    "combined_score": 8,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Hostels) Amendment Regulations 2009",
+    "combined_score": 8,
+    "linked_from": [
+      "Education (Hostels) Regulations 2005 (SR 2005/332)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations (No\u00a02) 2024",
+    "combined_score": 8,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations (No\u00a02) 2021",
+    "combined_score": 8,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Additional General Provisions Child Support Payments) Amendment Regulations 2023",
+    "combined_score": 8,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014Refunds of Specified Debt Repayments) Amendment Regulations 2019",
+    "combined_score": 8,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014Severe Weather Events) Amendment Regulations 2023",
+    "combined_score": 8,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1969",
+    "combined_score": 7,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1963",
+    "combined_score": 7,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Te Aho Matua) Amendment Act 1999",
+    "combined_score": 7,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Polytechnics) Amendment Act 2009",
+    "combined_score": 7,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Cost of Living Payments) Act 2022",
+    "combined_score": 7,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)",
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Employment Relations (Employee Remuneration Disclosure) Amendment Act 2025",
+    "combined_score": 7,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (New Zealand Superannuation and Retirement Income) Act 2015",
+    "combined_score": 7,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Income Tax Amendment Act 2015",
+    "combined_score": 7,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Section 157",
+    "combined_score": 7,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Immigration (COVID-19 Response) Amendment Act 2020",
+    "combined_score": 7,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Mandatory Reviews) Amendment Act 2025",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2023",
+    "combined_score": 7,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No 2) 2025",
+    "combined_score": 7,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Emergency Housing) Amendment Regulations 2024",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Childcare Assistance\u2014Cohort Entry Policy) Amendment Regulations 2019",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2019",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014Christchurch Mosques Attack Support Payments) Amendment Regulations 2019",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014MSD Lump Sum Payments) Amendment Regulations 2019",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Income and Assets Exemption) Amendment Regulations 2021",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014Cost of Living Payment) Amendment Regulations 2022",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014FamilyBoost) Amendment Regulations 2024",
+    "combined_score": 7,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1964",
+    "combined_score": 6,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1978",
+    "combined_score": 6,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1972",
+    "combined_score": 6,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Public Bodies Contracts Amendment Act 1974",
+    "combined_score": 6,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (National Education and Learning Priorities) Amendment Act 2018",
+    "combined_score": 6,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Freedom of Association) Amendment Act 2011",
+    "combined_score": 6,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Employment Relations (Secret Ballot for Strikes) Amendment Act 2012",
+    "combined_score": 6,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Temporary Additional Support) Regulations 2005",
+    "combined_score": 6,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Immigration Act 2009 (2009 No 51)",
+      "Social Security Act 2018 (2018 No 32)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Section 29",
+    "combined_score": 6,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 68",
+    "combined_score": 6,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 70",
+    "combined_score": 6,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 91AAN",
+    "combined_score": 6,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120KE",
+    "combined_score": 6,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 139C",
+    "combined_score": 6,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 168",
+    "combined_score": 6,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 171",
+    "combined_score": 6,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Financial Advisers Amendment Act 2009",
+    "combined_score": 6,
+    "linked_from": [
+      "Financial Advisers Act 2008 (2008 No 91)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Legislation Act (Amendments to Legislation) Regulations 2021",
+    "combined_score": 6,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)",
+      "Legislation Act 2019 (2019 No 58)",
+      "Privacy Act 2020 (2020 No 31)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances (Income Exemptions\u2014Severe Weather Events) Amendment Regulations 2023",
+    "combined_score": 6,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2022",
+    "combined_score": 6,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Teaching Council Amendment Rules 2021",
+    "combined_score": 6,
+    "linked_from": [
+      "Teaching Council Rules 2016 (LI 2016/122)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Temporary Additional Support\u2014Severe Weather Events TAA Programme) Amendment Regulations 2024",
+    "combined_score": 6,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 2003",
+    "combined_score": 5,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No\u00a02) 2003",
+    "combined_score": 5,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No 3) 2005",
+    "combined_score": 5,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi Amendment Act 2006",
+    "combined_score": 5,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi Amendment Act 1998",
+    "combined_score": 5,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi Amendment Act 1985",
+    "combined_score": 5,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi Amendment Act 2003",
+    "combined_score": 5,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (National Standards) Amendment Act 2008",
+    "combined_score": 5,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No\u00a02) 2010",
+    "combined_score": 5,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (FBT, SSCWT and Remedial Matters) Act 2000",
+    "combined_score": 5,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2008",
+    "combined_score": 5,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Thresholds for Community Housing Entities) Regulations 2016",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Section 4A",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 30A",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 43A",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 72",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 100",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120KB",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120O",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120U",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 125",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 143A",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 169",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 181",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 185",
+    "combined_score": 5,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2018",
+    "combined_score": 5,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a04) 2006",
+    "combined_score": 5,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2024",
+    "combined_score": 5,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (COVID-19\u2014Childcare Assistance) Amendment Regulations 2020",
+    "combined_score": 5,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (COVID-19 Recovery\u2014Exemption from Stand Down, and Expiry and Regrant of Benefits) Amendment Regulations 2020",
+    "combined_score": 5,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions) Amendment Regulations 2018",
+    "combined_score": 5,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1957",
+    "combined_score": 4,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1994",
+    "combined_score": 4,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 2007",
+    "combined_score": 4,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Tax Administration Amendment Act (No\u00a03) 1995",
+    "combined_score": 4,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Employment Relations (Trial Periods) Amendment Act 2023",
+    "combined_score": 4,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Income Tax (Tax Credit) Order 2025",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Budget 2021 and Remedial Measures) Act 2021",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Income Tax (FamilyBoost) Amendment Act 2025",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Section 24",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 30",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 30B",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 32B",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 41",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 53",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 66",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 67",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 69B",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 74",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 84",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 90AC",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 91AAG",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 102",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 113C",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120KC",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120OB",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 139A",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 140B",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 141AA",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 141FD",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 142",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 142E",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 170",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 180",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 181B",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 225A",
+    "combined_score": 4,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014Lake Alice Compensation or Ex Gratia Payments) Amendment Regulations 2025",
+    "combined_score": 4,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014Christchurch Mosques Attack Support Payments) Amendment Regulations 2020",
+    "combined_score": 4,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Cash Assets and Income Exemptions\u2014K\u0101inga Ora Energy Subsidy) Amendment Regulations 2023",
+    "combined_score": 4,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No 2) 1990",
+    "combined_score": 3,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Public Bodies Contracts Amendment Act 1975",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No 2) 1974",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)",
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Public Works Amendment Act 1982",
+    "combined_score": 3,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Tax Administration Amendment Act 2015",
+    "combined_score": 3,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Parental Tax Credit) Act 1999",
+    "combined_score": 3,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Superannuitant Surcharge Abolition) Act 1997",
+    "combined_score": 3,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Tax Administration Amendment Act 2005",
+    "combined_score": 3,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2004",
+    "combined_score": 3,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Employment Relations (Code of Good Faith for Public Health Sector) Order 2006",
+    "combined_score": 3,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Crown Entities Amendment Act 2010",
+    "combined_score": 3,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Budget Tax Measures) Act 2009",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Section 54",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 77",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 78",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 91C",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 92",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 98",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 99",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 103A",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 119",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120PA",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120R",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 138E",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 140C",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 143B",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 172",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 173L",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 185D",
+    "combined_score": 3,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Immigration Amendment Act 2011",
+    "combined_score": 3,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (COVID-19 Income Relief Payment to be Income) Amendment Act 2020",
+    "combined_score": 3,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Privacy Act (Schedule 2) Order 2022",
+    "combined_score": 3,
+    "linked_from": [
+      "Privacy Act 2020 (2020 No 31)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2021",
+    "combined_score": 3,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances (Income Exemptions\u2014Cost of Living Payment) Amendment Regulations 2022",
+    "combined_score": 3,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances (Income Exemptions\u2014FamilyBoost) Amendment Regulations 2024",
+    "combined_score": 3,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances (Income Exemptions\u2014K\u0101inga Ora Energy Subsidy) Amendment Regulations 2023",
+    "combined_score": 3,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Hostels) Amendment Regulations 2018",
+    "combined_score": 3,
+    "linked_from": [
+      "Education (Hostels) Regulations 2005 (SR 2005/332)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2019",
+    "combined_score": 3,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2023",
+    "combined_score": 3,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "International Student Contract Dispute Resolution Scheme Amendment Rules 2017",
+    "combined_score": 3,
+    "linked_from": [
+      "International Student Contract Dispute Resolution Scheme Rules 2016 (LI 2016/42)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations (No\u00a02) 2022",
+    "combined_score": 3,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Childcare Subsidy) Amendment Regulations 2024",
+    "combined_score": 3,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Exemption from Stand Down\u2014Coronavirus COVID-19) Amendment Regulations 2020",
+    "combined_score": 3,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations (No\u00a02) 2025",
+    "combined_score": 3,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1961",
+    "combined_score": 2,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1973",
+    "combined_score": 2,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No\u00a02) 2005",
+    "combined_score": 2,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1979",
+    "combined_score": 2,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1970",
+    "combined_score": 2,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1974",
+    "combined_score": 2,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi Amendment Act 1993",
+    "combined_score": 2,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Public Works Amendment Act 1991",
+    "combined_score": 2,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Public Works Amendment Act 1987",
+    "combined_score": 2,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act No (4) 1991",
+    "combined_score": 2,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No\u00a02) 1993",
+    "combined_score": 2,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Tertiary Students Association Voluntary Membership) Amendment Act 1998",
+    "combined_score": 2,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Specified Institutions) Order 2000",
+    "combined_score": 2,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1967",
+    "combined_score": 2,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1968",
+    "combined_score": 2,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1975",
+    "combined_score": 2,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Tax Administration Amendment Act 1996",
+    "combined_score": 2,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Urgent Measures) Act 2005",
+    "combined_score": 2,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Tax Administration (Research and Development Tax Credit Deadlines for Taxpayers Affected by Weather Events) Order 2023",
+    "combined_score": 2,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Remedial Provisions) Act 1998",
+    "combined_score": 2,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Tax Administration (Extension of Application Deadline for Research and Development Tax Credits) Order 2025",
+    "combined_score": 2,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Tax Administration Act (No\u00a03) 1995",
+    "combined_score": 2,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Employment Relations Amendment Act 2007",
+    "combined_score": 2,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Income Tax (Crown Regional Holdings Limited) Order 2021",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Cooperative Dairy Companies Income Tax Regulations 1955",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Cooperative Milk Marketing Companies Income Tax Regulations 1960",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Cooperative Pig Marketing Companies Income Tax Regulations 1964",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Income Tax (Refund of Excess Tax) Order 2003",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Income Tax (Social Assistance Suspensory Loans) Order 1995",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)",
+      "Social Security Act 2018 (2018 No 32)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Abated Interim Payments of Part KD Credit) Regulations 2002",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Australian Wine Equalisation Tax Rebate) Regulations 2006",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Section 32A",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 33",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 36BB",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 39B",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 44C",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 46",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 46A",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 52",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 59",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 64",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 70B",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 73",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 80E",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 81",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 83",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 89C",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 91AAB",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 91AAF",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 93",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 94",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 95",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 101B",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 103",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 104",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 113B",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120KD",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120M",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120V",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 133",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 138M",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 139B",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 141",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 141JB",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 165AA",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 165A",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 173N",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 173Q",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 174AA",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 177C",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 177D",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 181C",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 181D",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 225",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Schedule",
+    "combined_score": 2,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Financial Advisers Act Commencement Order 2010",
+    "combined_score": 2,
+    "linked_from": [
+      "Financial Advisers Act 2008 (2008 No 91)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Immigration Act 2009 Amendment Act 2010",
+    "combined_score": 2,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Loan Scheme (Repayment Percentage) Regulations 2012",
+    "combined_score": 2,
+    "linked_from": [
+      "Student Loan Scheme Act 2011 (2011 No 62)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Abated Interim Payments of subparts MA to MF and MZ Credit) Regulations 2002",
+    "combined_score": 2,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations 2018",
+    "combined_score": 2,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2005",
+    "combined_score": 2,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2007",
+    "combined_score": 2,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2002",
+    "combined_score": 2,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations 2020",
+    "combined_score": 2,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Residential Requirement\u2014Christchurch Response Visa) Amendment Regulations 2019",
+    "combined_score": 2,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2020",
+    "combined_score": 2,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2021",
+    "combined_score": 2,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No\u00a02) 1991",
+    "combined_score": 1,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1997",
+    "combined_score": 1,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No 2) 1985",
+    "combined_score": 1,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act 1969 Amendment Act 2010",
+    "combined_score": 1,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund Amendment Act (No\u00a03) 2005",
+    "combined_score": 1,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Government Superannuation Fund (Increased Amount in Respect of Adjustments) Order 2004",
+    "combined_score": 1,
+    "linked_from": [
+      "Government Superannuation Fund Act 1956 (1956 No 47)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Public Bodies Contracts Order 1971",
+    "combined_score": 1,
+    "linked_from": [
+      "Public Bodies Contracts Act 1959 (1959 No 98)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "University of Auckland Amendment Act 1977",
+    "combined_score": 1,
+    "linked_from": [
+      "University of Auckland Act 1961 (1961 No 50)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "University of Waikato Amendment Act 1977",
+    "combined_score": 1,
+    "linked_from": [
+      "University of Waikato Act 1963 (1963 No 8)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Treaty of Waitangi (Fisheries Claims) Settlement Act 1992",
+    "combined_score": 1,
+    "linked_from": [
+      "Treaty of Waitangi Act 1975 (1975 No 114)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Public Works Amendment Act (No\u00a03) 1987",
+    "combined_score": 1,
+    "linked_from": [
+      "Public Works Act 1981 (1981 No 35)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Extension of Application Period) Order 2018",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Student Allowances Indexation\u2014Budget Measures) Amendment Act 2012",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Lands Act 1949",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Act 1964 (1964 No 135) (Reprinted 1975, Vol 3, p 1699)",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1972 (1972 No 34) (Reprinted 1975, Vol 3, p 1886)",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1976",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1977",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1978",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1979",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No 2) 1982",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act 1983",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education Amendment Act (No 2) 1987",
+    "combined_score": 1,
+    "linked_from": [
+      "Education Act 1989 (1989 No 80)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Tax Administration (COVID-19 Response Variations) Order 2022",
+    "combined_score": 1,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007",
+    "combined_score": 1,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Tax Administration Amendment Act (No\u00a02) 1995",
+    "combined_score": 1,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "of the Tax Administration Amendment Act 1995",
+    "combined_score": 1,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (New Due Date for New and Increased Assessments) Commencement Order 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (New Due Date for New and Increased Assessments) Commencement Order 2018",
+    "combined_score": 1,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Extension of COVID-19 Interest Remission) Order 2022",
+    "combined_score": 1,
+    "linked_from": [
+      "Tax Administration Act 1994 (1994 No 166)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Employment Relations (Extending Part 6A Protections to Security Officers) Order 2021",
+    "combined_score": 1,
+    "linked_from": [
+      "Employment Relations Act 2000 (2000 No 24)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Crown Entities (New Zealand Institute for Advanced Technology Limited) Order 2026",
+    "combined_score": 1,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Crown Entities (Auckland Light Rail Limited) Order 2022",
+    "combined_score": 1,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Crown Entities (Crown Irrigation Investments Limited) Order 2013",
+    "combined_score": 1,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Crown Entities (New Zealand Fast Forward Fund Limited) Order 2009",
+    "combined_score": 1,
+    "linked_from": [
+      "Crown Entities Act 2004 (2004 No 115)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Income Tax (Maximum Pooling Value) Order 2015",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Definitions of Dependent Child) Act 2010",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Income Tax (New Zealand Green Investment Finance Limited) Order 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Income Tax (Ng\u0101puhi Investment Fund Limited) Order 2020",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Income Tax (SafetyNet Critical Communications Limited) Order 2026",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Income Tax Act (Exempt Unit Trusts) Order 1990",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Income Tax (Adverse Event Income Equalisation Scheme Rate of Interest) Regulations 1995",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Income Tax (Cook Islands Development Projects) Order 1986",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Income Tax (Depreciation Determinations) Regulations 1993",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Taxation (Use of Money Interest Rates) Regulations 1998",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Taxation (Use of Money Interest Rates Setting Process) Regulations 1997",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "omnibus_taxation"
+    ]
+  },
+  {
+    "act": "Section 4B",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 14C",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 17",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 22A",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 22B",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New sections 24B to 24P",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 27",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 28",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 30C",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 31",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 32C",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 32D",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New sections 32E to 32N",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 36",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 36A",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 36BC",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 39",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 41A",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 44A",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 44B",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New section 44D",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New sections 46B to 46E",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 47",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 48",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 50",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 56",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 61",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 65",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 68A",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 68B",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 69",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 71",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New sections 78B to 78F",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 79",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 80",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 80C",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 80D",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 80F",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 80H",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New Part 3B",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 85F",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 85I",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 89N",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 90AA",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New sections 90AF and 90AG",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 90A",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 91",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 91AA",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 91AAC",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 91AAD",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 91AAE",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 91AAH",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 91E",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New sections 92AA and 92AB",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New sections 93B and 93C",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 97",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 97B",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 101",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New section 104B",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 108",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120A",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120D",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120EA",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120OD",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New section 120OE",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 120Q",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 130",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 139AA",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 140",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 140CB",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 140D",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 140DB",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 141D",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 141E",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 141EB",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 141FB",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 141JA",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 150A",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 164",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New section 165B",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 166",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New section 166B",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 173M",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 173MB",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 173P",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 173R",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 177A",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 183",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 183A",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 183ABA",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 183H",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 184",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New section 225AA",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "New section 225B",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Section 226",
+    "combined_score": 1,
+    "linked_from": [
+      "Income Tax Act 2007 (2007 No 97)"
+    ],
+    "exclusion_reasons": [
+      "invalid_name"
+    ]
+  },
+  {
+    "act": "Financial Advisers Act Commencement Order 2008",
+    "combined_score": 1,
+    "linked_from": [
+      "Financial Advisers Act 2008 (2008 No 91)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Immigration Act 2009 Commencement Order 2010",
+    "combined_score": 1,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Immigration Act 2009 Commencement Order (No\u00a02) 2010",
+    "combined_score": 1,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Immigration Act 2009 Commencement Order 2011",
+    "combined_score": 1,
+    "linked_from": [
+      "Immigration Act 2009 (2009 No 51)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Rates of Benefits and Allowances) Order (No 2) 2022",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Childcare Assistance) Regulations 2004",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Debt Recovery Suspension) Regulations 2007",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Act 2018 (2018 No 32)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Legislation Act 2019 Commencement Order 2021",
+    "combined_score": 1,
+    "linked_from": [
+      "Legislation Act 2019 (2019 No 58)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Privacy (Information Sharing Agreement Facilitating Services for Veterans and Other Claimants) Order 2024",
+    "combined_score": 1,
+    "linked_from": [
+      "Privacy Act 2020 (2020 No 31)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Privacy (Information Sharing Agreement between Inland Revenue and Ministry of Social Development) Amendment Order 2023",
+    "combined_score": 1,
+    "linked_from": [
+      "Privacy Act 2020 (2020 No 31)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Privacy (Information Sharing Agreement Facilitating Access to Information about Deaths) Order 2023",
+    "combined_score": 1,
+    "linked_from": [
+      "Privacy Act 2020 (2020 No 31)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Privacy (Information Sharing Agreement between Inland Revenue and Ministry of Social Development) Amendment Order 2021",
+    "combined_score": 1,
+    "linked_from": [
+      "Privacy Act 2020 (2020 No 31)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2006",
+    "combined_score": 1,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations 2024",
+    "combined_score": 1,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2003",
+    "combined_score": 1,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances Amendment Regulations (No\u00a02) 2014",
+    "combined_score": 1,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances (Increase for 2018) Amendment Regulations 2017",
+    "combined_score": 1,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Student Allowances (Budget 2017\u2014Accommodation Benefit) Amendment Regulations 2017",
+    "combined_score": 1,
+    "linked_from": [
+      "Student Allowances Regulations 1998 (SR 1998/277)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Board Elections) Regulations 2022",
+    "combined_score": 1,
+    "linked_from": [
+      "Education (School Trustee Elections) Regulations 2000 (SR 2000/195)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Early Childhood Services) Amendment Regulations (No\u00a02) 2009",
+    "combined_score": 1,
+    "linked_from": [
+      "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (Playgroups) Amendment Regulations 2009",
+    "combined_score": 1,
+    "linked_from": [
+      "Education (Playgroups) Regulations 2008 (SR 2008/205)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security (Family Violence) Amendment Regulations 2019",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2022",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2023",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2024",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Social Security Amendment Regulations 2025",
+    "combined_score": 1,
+    "linked_from": [
+      "Social Security Regulations 2018 (LI 2018/202)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  },
+  {
+    "act": "Education (2022 School Staffing) Order 2021",
+    "combined_score": 1,
+    "linked_from": [
+      "Education (2020 School Staffing) Order 2019 (LI 2019/180)"
+    ],
+    "exclusion_reasons": [
+      "self_referential"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "fix": "audit_fix_11",
+  "removed": [
+    {
+      "file": "sg2_final_list.json",
+      "rows_removed": [
+        "Act(s)"
+      ],
+      "rows_before": 421,
+      "rows_after": 420
+    },
+    {
+      "file": "sg2_combined_final_list.json",
+      "rows_removed": [
+        "Act(s)"
+      ],
+      "rows_before": 1322,
+      "rows_after": 1321
+    },
+    {
+      "file": "sg2_act_identifiers.json",
+      "rows_removed": [
+        "Act(s)"
+      ],
+      "rows_before": 421,
+      "rows_after": 420
+    },
+    {
+      "file": "sg4_final_list.json",
+      "rows_removed": [
+        "Schedule 4",
+        "Regulation 14"
+      ],
+      "rows_before": 1130,
+      "rows_after": 1128
+    },
+    {
+      "file": "sg4_combined_final_list.json",
+      "rows_removed": [
+        "Schedule 4",
+        "Regulation 14"
+      ],
+      "rows_before": 4278,
+      "rows_after": 4276
+    },
+    {
+      "file": "sg4_act_identifiers.json",
+      "rows_removed": [
+        "Schedule 4",
+        "Regulation 14"
+      ],
+      "rows_before": 1130,
+      "rows_after": 1128
+    },
+    {
+      "file": "sg4_internal_links.json",
+      "rows_removed": [
+        "Regulation 14"
+      ],
+      "rows_before": 134,
+      "rows_after": 133
+    }
+  ],
+  "raw_xml_moved": [
+    "data/raw/sg2_targets/1890_15.xml",
+    "data/raw/sg4_targets/2026_279.xml",
+    "data/raw/sg4_targets/2022_326.xml"
+  ],
+  "justifications": {
+    "Act(s)": "Placeholder text 'Amendment(s) incorporated in the Act(s)' mis-read as an Act title; resolver matched it to Shipping and Seamen's Acts Amendment Act 1890 (1890 No 15).",
+    "Regulation 14": "In-text structural reference ('regulation 14') mis-read as an instrument title; resolver matched it to SR 2022/326.",
+    "Schedule 4": "In-text structural reference ('Schedule 4') mis-read as an instrument title; resolver matched it to LI 2026/279."
+  }
+}

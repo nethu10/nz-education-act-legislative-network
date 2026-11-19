@@ -1,0 +1,1382 @@
+[
+  {
+    "source": "Tax Administration Act 1994 (1994 No 166)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 508
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "edge_type": "citation",
+    "count": 425
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 164
+  },
+  {
+    "source": "Tax Administration Act 1994 (1994 No 166)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 87
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Crown Entities Act 2004 (2004 No 115)",
+    "edge_type": "citation",
+    "count": 68
+  },
+  {
+    "source": "Education Act 1989 (1989 No 80)",
+    "target": "Crown Entities Act 2004 (2004 No 115)",
+    "edge_type": "citation",
+    "count": 61
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 58
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 57
+  },
+  {
+    "source": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 35
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "edge_type": "citation",
+    "count": 34
+  },
+  {
+    "source": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "edge_type": "citation",
+    "count": 32
+  },
+  {
+    "source": "Tax Administration Act 1994 (1994 No 166)",
+    "target": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "edge_type": "citation",
+    "count": 31
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Employment Relations Act 2000 (2000 No 24)",
+    "edge_type": "citation",
+    "count": 29
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Social Security Act 2018 (2018 No 32)",
+    "edge_type": "citation",
+    "count": 25
+  },
+  {
+    "source": "Education Act 1989 (1989 No 80)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 22
+  },
+  {
+    "source": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 21
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Privacy Act 2020 (2020 No 31)",
+    "edge_type": "citation",
+    "count": 20
+  },
+  {
+    "source": "Social Security Regulations 2018 (LI 2018/202)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 19
+  },
+  {
+    "source": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 19
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 19
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Privacy Act 2020 (2020 No 31)",
+    "edge_type": "citation",
+    "count": 17
+  },
+  {
+    "source": "Public Works Act 1981 (1981 No 35)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 17
+  },
+  {
+    "source": "Education Act 1989 (1989 No 80)",
+    "target": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "edge_type": "citation",
+    "count": 16
+  },
+  {
+    "source": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "target": "Crown Entities Act 2004 (2004 No 115)",
+    "edge_type": "citation",
+    "count": 15
+  },
+  {
+    "source": "Education Act 1989 (1989 No 80)",
+    "target": "Social Security Act 2018 (2018 No 32)",
+    "edge_type": "citation",
+    "count": 15
+  },
+  {
+    "source": "Social Security Regulations 2018 (LI 2018/202)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 14
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 14
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Privacy Act 2020 (2020 No 31)",
+    "edge_type": "citation",
+    "count": 14
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 13
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 13
+  },
+  {
+    "source": "Employment Relations Act 2000 (2000 No 24)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 13
+  },
+  {
+    "source": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "target": "Social Security Act 2018 (2018 No 32)",
+    "edge_type": "citation",
+    "count": 13
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 12
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Children’s Act 2014 (2014 No 40)",
+    "edge_type": "citation",
+    "count": 11
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 11
+  },
+  {
+    "source": "Treaty of Waitangi Act 1975 (1975 No 114)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 11
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Public Works Act 1981 (1981 No 35)",
+    "edge_type": "citation",
+    "count": 10
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "edge_type": "citation",
+    "count": 10
+  },
+  {
+    "source": "Children’s Act 2014 (2014 No 40)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 10
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Social Security Act 2018 (2018 No 32)",
+    "edge_type": "citation",
+    "count": 9
+  },
+  {
+    "source": "Crown Entities Act 2004 (2004 No 115)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 9
+  },
+  {
+    "source": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 9
+  },
+  {
+    "source": "Education Act 1989 (1989 No 80)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 9
+  },
+  {
+    "source": "Education Act 1989 (1989 No 80)",
+    "target": "Employment Relations Act 2000 (2000 No 24)",
+    "edge_type": "citation",
+    "count": 9
+  },
+  {
+    "source": "Education Act 1989 (1989 No 80)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "edge_type": "citation",
+    "count": 9
+  },
+  {
+    "source": "Education Act 1989 (1989 No 80)",
+    "target": "Public Works Act 1981 (1981 No 35)",
+    "edge_type": "citation",
+    "count": 9
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Social Security Regulations 2018 (LI 2018/202)",
+    "edge_type": "citation",
+    "count": 8
+  },
+  {
+    "source": "Employment Relations Act 2000 (2000 No 24)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 8
+  },
+  {
+    "source": "Tax Administration Act 1994 (1994 No 166)",
+    "target": "Privacy Act 2020 (2020 No 31)",
+    "edge_type": "citation",
+    "count": 8
+  },
+  {
+    "source": "Children’s Act 2014 (2014 No 40)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 8
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Crown Entities Act 2004 (2004 No 115)",
+    "edge_type": "citation",
+    "count": 8
+  },
+  {
+    "source": "Crown Entities Act 2004 (2004 No 115)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 7
+  },
+  {
+    "source": "Social Security Regulations 2018 (LI 2018/202)",
+    "target": "Privacy Act 2020 (2020 No 31)",
+    "edge_type": "citation",
+    "count": 7
+  },
+  {
+    "source": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 7
+  },
+  {
+    "source": "Public Bodies Contracts Act 1959 (1959 No 98)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 7
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 6
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Treaty of Waitangi Act 1975 (1975 No 114)",
+    "edge_type": "citation",
+    "count": 6
+  },
+  {
+    "source": "Social Security Regulations 2018 (LI 2018/202)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 6
+  },
+  {
+    "source": "Social Security Regulations 2018 (LI 2018/202)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 6
+  },
+  {
+    "source": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 6
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 6
+  },
+  {
+    "source": "Education Act 1989 (1989 No 80)",
+    "target": "Treaty of Waitangi Act 1975 (1975 No 114)",
+    "edge_type": "citation",
+    "count": 6
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 6
+  },
+  {
+    "source": "Education (Playgroups) Regulations 2008 (SR 2008/205)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 6
+  },
+  {
+    "source": "Te Kawerau ā Maki Claims Settlement Act 2015 (2015 No 75)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 6
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Social Security Act 2018 (2018 No 32)",
+    "edge_type": "citation",
+    "count": 6
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "edge_type": "citation",
+    "count": 5
+  },
+  {
+    "source": "Employment Relations Act 2000 (2000 No 24)",
+    "target": "Privacy Act 2020 (2020 No 31)",
+    "edge_type": "citation",
+    "count": 5
+  },
+  {
+    "source": "Employment Relations Act 2000 (2000 No 24)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 5
+  },
+  {
+    "source": "Tax Administration Act 1994 (1994 No 166)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 5
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Education (School Trustee Elections) Regulations 2000 (SR 2000/195)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Teaching Council Rules 2016 (LI 2016/122)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999 (SR 1999/202)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Employment Relations Act 2000 (2000 No 24)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Education (School Trustee Elections) Regulations 2000 (SR 2000/195)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "target": "Employment Relations Act 2000 (2000 No 24)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Employment Relations Act 2000 (2000 No 24)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Legislation Act 2019 (2019 No 58)",
+    "target": "Employment Relations Act 2000 (2000 No 24)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "target": "Social Security Act 2018 (2018 No 32)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Education (Hostels) Regulations 2005 (SR 2005/332)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Public Bodies Contracts Act 1959 (1959 No 98)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "International Student Contract Dispute Resolution Scheme Rules 2016 (LI 2016/42)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Employment Relations Act 2000 (2000 No 24)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Social Security Act 2018 (2018 No 32)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Teaching Council of Aotearoa New Zealand Election Rules 2018 (LI 2018/234)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 4
+  },
+  {
+    "source": "Crown Entities Act 2004 (2004 No 115)",
+    "target": "Public Bodies Contracts Act 1959 (1959 No 98)",
+    "edge_type": "citation",
+    "count": 3
+  },
+  {
+    "source": "Social Security Regulations 2018 (LI 2018/202)",
+    "target": "Social Security Act 2018 (2018 No 32)",
+    "edge_type": "citation",
+    "count": 3
+  },
+  {
+    "source": "Social Security Regulations 2018 (LI 2018/202)",
+    "target": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "edge_type": "citation",
+    "count": 3
+  },
+  {
+    "source": "Treaty of Waitangi Act 1975 (1975 No 114)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 3
+  },
+  {
+    "source": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 3
+  },
+  {
+    "source": "Education (School Risk Management Scheme) Regulations 2003 (SR 2003/39)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 3
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "edge_type": "citation",
+    "count": 3
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Crown Entities Act 2004 (2004 No 115)",
+    "edge_type": "citation",
+    "count": 3
+  },
+  {
+    "source": "Tax Administration Act 1994 (1994 No 166)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 3
+  },
+  {
+    "source": "Public Works Act 1981 (1981 No 35)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 3
+  },
+  {
+    "source": "Te Kawerau ā Maki Claims Settlement Act 2015 (2015 No 75)",
+    "target": "Treaty of Waitangi Act 1975 (1975 No 114)",
+    "edge_type": "citation",
+    "count": 3
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "edge_type": "citation",
+    "count": 3
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Education (2020 School Staffing) Order 2019 (LI 2019/180)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Education (Hostels) Regulations 2005 (SR 2005/332)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Education (Playgroups) Regulations 2008 (SR 2008/205)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Education (Registration of Early Childhood Services Teachers) Regulations 2004 (SR 2004/236)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Education (School Risk Management Scheme) Regulations 2003 (SR 2003/39)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999 (SR 1999/202)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Education (Surrender, Retention, and Search) Rules 2013 (SR 2013/469)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "International Student Contract Dispute Resolution Scheme Rules 2016 (LI 2016/42)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Teaching Council of Aotearoa New Zealand Election Rules 2018 (LI 2018/234)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Teaching Council Rules 2016 (LI 2016/122)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999 (SR 1999/202)",
+    "target": "Privacy Act 2020 (2020 No 31)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Social Security Regulations 2018 (LI 2018/202)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Social Security Regulations 2018 (LI 2018/202)",
+    "target": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Treaty of Waitangi Act 1975 (1975 No 114)",
+    "target": "Public Works Act 1981 (1981 No 35)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+    "target": "Employment Relations Act 2000 (2000 No 24)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+    "target": "Privacy Act 2020 (2020 No 31)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Employment Relations Act 2000 (2000 No 24)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education (Registration of Early Childhood Services Teachers) Regulations 2004 (SR 2004/236)",
+    "target": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "target": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education Act 1989 (1989 No 80)",
+    "target": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Lincoln University Act 1961 (1961 No 52)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Massey University Act 1963 (1963 No 7)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "University of Auckland Act 1961 (1961 No 50)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "University of Canterbury Act 1961 (1961 No 49)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "University of Waikato Act 1963 (1963 No 8)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Victoria University of Wellington Act 1961 (1961 No 51)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Public Works Act 1981 (1981 No 35)",
+    "target": "Treaty of Waitangi Act 1975 (1975 No 114)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Financial Advisers Act 2008 (2008 No 91)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Te Kawerau ā Maki Claims Settlement Act 2015 (2015 No 75)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "edge_type": "citation",
+    "count": 2
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Financial Advisers Act 2008 (2008 No 91)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Lincoln University Act 1961 (1961 No 52)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Massey University Act 1963 (1963 No 7)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Public Bodies Contracts Act 1959 (1959 No 98)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Te Kawerau ā Maki Claims Settlement Act 2015 (2015 No 75)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "University of Auckland Act 1961 (1961 No 50)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "University of Canterbury Act 1961 (1961 No 49)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "University of Waikato Act 1963 (1963 No 8)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Victoria University of Wellington Act 1961 (1961 No 51)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Social Security Regulations 2018 (LI 2018/202)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Crown Entities Act 2004 (2004 No 115)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Crown Entities Act 2004 (2004 No 115)",
+    "target": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Teaching Council Rules 2016 (LI 2016/122)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Teaching Council Rules 2016 (LI 2016/122)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999 (SR 1999/202)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999 (SR 1999/202)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Social Security Regulations 2018 (LI 2018/202)",
+    "target": "Education (Playgroups) Regulations 2008 (SR 2008/205)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Social Security Regulations 2018 (LI 2018/202)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Social Security Regulations 2018 (LI 2018/202)",
+    "target": "Crown Entities Act 2004 (2004 No 115)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Treaty of Waitangi Act 1975 (1975 No 114)",
+    "target": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+    "target": "Public Works Act 1981 (1981 No 35)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Social Security Act 2018 (2018 No 32)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (Surrender, Retention, and Search) Rules 2013 (SR 2013/469)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (Surrender, Retention, and Search) Rules 2013 (SR 2013/469)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (School Trustee Elections) Regulations 2000 (SR 2000/195)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (School Trustee Elections) Regulations 2000 (SR 2000/195)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Employment Relations Act 2000 (2000 No 24)",
+    "target": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Employment Relations Act 2000 (2000 No 24)",
+    "target": "Crown Entities Act 2004 (2004 No 115)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (Registration of Early Childhood Services Teachers) Regulations 2004 (SR 2004/236)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (School Risk Management Scheme) Regulations 2003 (SR 2003/39)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Privacy Act 2020 (2020 No 31)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Financial Advisers Act 2008 (2008 No 91)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "target": "Crown Entities Act 2004 (2004 No 115)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Legislation Act 2019 (2019 No 58)",
+    "target": "Crown Entities Act 2004 (2004 No 115)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "target": "Privacy Act 2020 (2020 No 31)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "target": "Education (Early Childhood Services) Regulations 2008 (SR 2008/204)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Student Loan Scheme Act 2011 (2011 No 62)",
+    "target": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education Act 1989 (1989 No 80)",
+    "target": "Children’s Act 2014 (2014 No 40)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education Act 1989 (1989 No 80)",
+    "target": "Public Bodies Contracts Act 1959 (1959 No 98)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (Hostels) Regulations 2005 (SR 2005/332)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (Hostels) Regulations 2005 (SR 2005/332)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (Hostels) Regulations 2005 (SR 2005/332)",
+    "target": "Children’s Act 2014 (2014 No 40)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Tax Administration Act 1994 (1994 No 166)",
+    "target": "Employment Relations Act 2000 (2000 No 24)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Tax Administration Act 1994 (1994 No 166)",
+    "target": "Financial Advisers Act 2008 (2008 No 91)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (2020 School Staffing) Order 2019 (LI 2019/180)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (2020 School Staffing) Order 2019 (LI 2019/180)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "International Student Contract Dispute Resolution Scheme Rules 2016 (LI 2016/42)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "International Student Contract Dispute Resolution Scheme Rules 2016 (LI 2016/42)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Children’s Act 2014 (2014 No 40)",
+    "target": "Social Security Act 2018 (2018 No 32)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Children’s Act 2014 (2014 No 40)",
+    "target": "Crown Entities Act 2004 (2004 No 115)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Children’s Act 2014 (2014 No 40)",
+    "target": "Employment Relations Act 2000 (2000 No 24)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Crown Entities Act 2004 (2004 No 115)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Lincoln University Act 1961 (1961 No 52)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Massey University Act 1963 (1963 No 7)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "University of Auckland Act 1961 (1961 No 50)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "University of Canterbury Act 1961 (1961 No 49)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "University of Waikato Act 1963 (1963 No 8)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Victoria University of Wellington Act 1961 (1961 No 51)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009 (2009 No 51)",
+    "target": "Student Allowances Regulations 1998 (SR 1998/277)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Lincoln University Act 1961 (1961 No 52)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Massey University Act 1963 (1963 No 7)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "University of Auckland Act 1961 (1961 No 50)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "University of Canterbury Act 1961 (1961 No 49)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "University of Waikato Act 1963 (1963 No 8)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Victoria University of Wellington Act 1961 (1961 No 51)",
+    "target": "Immigration Act 2009 (2009 No 51)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (Playgroups) Regulations 2008 (SR 2008/205)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Education (Playgroups) Regulations 2008 (SR 2008/205)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Financial Advisers Act 2008 (2008 No 91)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Financial Advisers Act 2008 (2008 No 91)",
+    "target": "Privacy Act 2020 (2020 No 31)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Teaching Council of Aotearoa New Zealand Election Rules 2018 (LI 2018/234)",
+    "target": "Education Act 1989 (1989 No 80)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Teaching Council of Aotearoa New Zealand Election Rules 2018 (LI 2018/234)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Government Superannuation Fund Act 1956 (1956 No 47)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Employment Relations Act 2000 (2000 No 24)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Financial Advisers Act 2008 (2008 No 91)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999 (SR 1999/202)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Social Security Regulations 2018 (LI 2018/202)",
+    "edge_type": "citation",
+    "count": 1
+  },
+  {
+    "source": "Privacy Act 2020 (2020 No 31)",
+    "target": "Education and Training Act 2020",
+    "edge_type": "citation",
+    "count": 1
+  }
+]

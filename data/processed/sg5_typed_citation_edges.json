@@ -1,0 +1,1654 @@
+[
+  {
+    "source": "Court of Appeal (List Election Petitions) Rules 1998 (SR 1998/326)",
+    "target": "Electoral Act 1993",
+    "edge_type": "citation",
+    "count": 13,
+    "scope": "boundary"
+  },
+  {
+    "source": "Health and Safety at Work (Hazardous Substances) Regulations 2017",
+    "target": "Hazardous Substances (Fireworks) Regulations 2001 (SR 2001/121)",
+    "edge_type": "citation",
+    "count": 11,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "target": "Land Transport Act 1998",
+    "edge_type": "citation",
+    "count": 11,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland Regional Amenities Funding Act 2008",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 7,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "target": "Sentencing Act 2002",
+    "edge_type": "citation",
+    "count": 7,
+    "scope": "boundary"
+  },
+  {
+    "source": "Mount Smart Regional Recreation Centre Act 1985",
+    "target": "Reserves Act 1977",
+    "edge_type": "citation",
+    "count": 7,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Financial Service Providers (Registration and Dispute Resolution) Act 2008",
+    "edge_type": "citation",
+    "count": 7,
+    "scope": "boundary"
+  },
+  {
+    "source": "Ngāti Whātua Ōrākei Claims Settlement Act 2012",
+    "target": "Orakei Act 1991 (1991 No 122)",
+    "edge_type": "citation",
+    "count": 6,
+    "scope": "boundary"
+  },
+  {
+    "source": "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 6,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Electoral Regulations 2001 (SR 2001/145)",
+    "target": "Electoral Act 1993",
+    "edge_type": "citation",
+    "count": 6,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2010",
+    "target": "Resource Management Act 1991",
+    "edge_type": "citation",
+    "count": 5,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Order 1998 (SR 1998/179)",
+    "target": "Animal Products Act 1999",
+    "edge_type": "citation",
+    "count": 5,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (National American Foulbrood Pest Management Strategy) Order 1998 (SR 1998/260)",
+    "target": "Legislation Act 2012",
+    "edge_type": "citation",
+    "count": 5,
+    "scope": "boundary"
+  },
+  {
+    "source": "National Animal Identification and Tracing (Obligations and Exemptions) Regulations 2012 (SR 2012/116)",
+    "target": "Legislation Act 2012",
+    "edge_type": "citation",
+    "count": 5,
+    "scope": "boundary"
+  },
+  {
+    "source": "Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Amendment Regulations 2018 (LI 2018/200)",
+    "target": "Legislation Act 2012",
+    "edge_type": "citation",
+    "count": 5,
+    "scope": "boundary"
+  },
+  {
+    "source": "Christchurch International Airport By-laws Approval Order 1989 (SR 1989/405)",
+    "target": "Airport Authorities Act 1966",
+    "edge_type": "citation",
+    "count": 5,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (American Foulbrood—Apiary and Beekeeper Levy) Order 2003 (SR 2003/283)",
+    "target": "Legislation Act 2012",
+    "edge_type": "citation",
+    "count": 5,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (Bovine Tuberculosis—Otago Land Levy) Order 1998 (SR 1998/442)",
+    "target": "Arbitration Act 1996",
+    "edge_type": "citation",
+    "count": 5,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts Legislation Amendment Act 2019",
+    "target": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Order 1998 (SR 1998/179)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "target": "Land Transport (Road User) Rule 2004",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland War Memorial Museum Act 1996",
+    "target": "Legislation Act 2012",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Mount Smart Regional Recreation Centre Act 1985",
+    "target": "Local Government Act 1974",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "National Animal Identification and Tracing (Levies) Regulations 2012 (SR 2012/115)",
+    "target": "Legislation Act 2012",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Driver Licensing and Driver Testing Fees) Regulations 1999 (SR 1999/93)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Driver Licensing and Driver Testing Fees) Regulations 1999 (SR 1999/93)",
+    "target": "Land Transport Act 1998",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Hazardous Substances (Fireworks) Regulations 2001 (SR 2001/121)",
+    "target": "Hazardous Substances and New Organisms Act 1996",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Climate Change (General Exemptions) Order 2009 (SR 2009/370)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Electoral Regulations 2001 (SR 2001/145)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Credit Contracts and Consumer Finance Act 2003",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Local Government (Rating) Act 2002",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (American Foulbrood—Apiary and Beekeeper Levy) Order 2003 (SR 2003/283)",
+    "target": "Arbitration Act 1996",
+    "edge_type": "citation",
+    "count": 4,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Electoral Act 2001",
+    "target": "Local Electoral Regulations 2001 (SR 2001/145)",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014",
+    "target": "Mount Smart Regional Recreation Centre Act 1985",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37)",
+    "target": "Auckland War Memorial Museum Act 1996",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Amendment Act 2026",
+    "target": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Climate Change (Emissions Trading Scheme and Synthetic Greenhouse Gas Levies) Amendment Regulations 2022",
+    "target": "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Order 1998 (SR 1998/179)",
+    "target": "Biosecurity Act 1993",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Fisheries (Reporting) Amendment Regulations 2018",
+    "target": "Fisheries (Reporting) Regulations 2017",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland War Memorial Museum Act 1996",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Museum of Transport and Technology Act 2000",
+    "target": "Charitable Trusts Act 1957",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Museum of Transport and Technology Act 2000",
+    "target": "Incorporated Societies Act 1908",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2020",
+    "target": "Resource Management (Forms, Fees, and Procedure) Regulations 2003 (SR 2003/153)",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Infringement and Reminder Notices) Regulations 1998 (SR 1998/447)",
+    "target": "Land Transport Act 1998",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Orakei Act 1991 (1991 No 122)",
+    "target": "Reserves Act 1977",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Orakei Act 1991 (1991 No 122)",
+    "target": "Resource Management Act 1991",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland International Airport By-laws Approval Order 1989 (SR 1989/369)",
+    "target": "Airport Authorities Act 1966",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Maori Purposes Act 1977",
+    "target": "Maori Purposes Act 1959",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Climate Change (General Exemptions) Order 2009 (SR 2009/370)",
+    "target": "Heritage New Zealand Pouhere Taonga Act 2014",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Climate Change (General Exemptions) Order 2009 (SR 2009/370)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Climate Change (General Exemptions) Order 2009 (SR 2009/370)",
+    "target": "Climate Change (Stationary Energy and Industrial Processes) Regulations 2009",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Electoral Regulations 2001 (SR 2001/145)",
+    "target": "Local Electoral Act 2001",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Financial Markets Conduct Regulations 2014",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Insolvency (Personal Insolvency) Amendment Regulations 2019",
+    "target": "Insolvency Act 2006",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Insolvency (Personal Insolvency) Amendment Regulations 2019",
+    "target": "Insolvency (Personal Insolvency) Regulations 2007 (SR 2007/333)",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (Bovine Tuberculosis—Cattle Levy) Order 1998 (SR 1998/457)",
+    "target": "Animal Products Act 1999",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (Bovine Tuberculosis—Otago Land Levy) Order 1998 (SR 1998/442)",
+    "target": "Rating Valuations Act 1998",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2026",
+    "target": "Resource Management (Forms, Fees, and Procedure) Regulations 2003 (SR 2003/153)",
+    "edge_type": "citation",
+    "count": 3,
+    "scope": "boundary"
+  },
+  {
+    "source": "Senior Courts Act 2016",
+    "target": "Court of Appeal (List Election Petitions) Rules 1998 (SR 1998/326)",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Legislation Act (Sub-delegated Secondary Legislation) Regulations 2021",
+    "target": "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Regulatory Systems (Transport) Amendment Act 2026",
+    "target": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Government (Electoral Legislation and Māori Wards and Māori Constituencies) Amendment Act 2024",
+    "target": "Local Electoral Regulations 2001 (SR 2001/145)",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37)",
+    "target": "Museum of Transport and Technology Act 2000",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37)",
+    "target": "Auckland Regional Amenities Funding Act 2008",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37)",
+    "target": "Local Government (Auckland Transitional Provisions) Amendment Act 2015",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Climate Change Response (Emissions Trading Scheme Agricultural Obligations) Amendment Act 2024",
+    "target": "Climate Change (General Exemptions) Order 2009 (SR 2009/370)",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Electoral (Administration) Amendment Act 2010",
+    "target": "Court of Appeal (List Election Petitions) Rules 1998 (SR 1998/326)",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Electoral (Administration) Amendment Act 2011",
+    "target": "Local Electoral Regulations 2001 (SR 2001/145)",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Road Safety) Amendment Act 2023",
+    "target": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Regulations 2003 (SR 2003/153)",
+    "target": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2017",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Regulations 2003 (SR 2003/153)",
+    "target": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2020",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Fisheries (Reporting) Regulations 2017",
+    "target": "Fisheries (Reporting) Amendment Regulations 2018",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland Regional Amenities Funding Act 2008",
+    "target": "Financial Reporting Act 2013",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland Regional Amenities Funding Act 2008",
+    "target": "Charities Act 2005",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Order 1998 (SR 1998/179)",
+    "target": "Biosecurity (Bovine Tuberculosis—Cattle Levy) Order 1998 (SR 1998/457)",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "sg5_internal"
+  },
+  {
+    "source": "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Order 1998 (SR 1998/179)",
+    "target": "Biosecurity (Bovine Tuberculosis—Otago Land Levy) Order 1998 (SR 1998/442)",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "sg5_internal"
+  },
+  {
+    "source": "Biosecurity (National American Foulbrood Pest Management Strategy) Order 1998 (SR 1998/260)",
+    "target": "Biosecurity Act 1993",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "target": "Heavy Motor Vehicle Regulations 1974",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "target": "Summary Proceedings Act 1957",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland War Memorial Museum Act 1996",
+    "target": "Charitable Trusts Act 1957",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland War Memorial Museum Act 1996",
+    "target": "Mental Health (Compulsory Assessment and Treatment) Act 1992",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Museum of Transport and Technology Act 2000",
+    "target": "Mental Health (Compulsory Assessment and Treatment) Act 1992",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2020",
+    "target": "Resource Management Act 1991",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Infringement and Reminder Notices) Regulations 1998 (SR 1998/447)",
+    "target": "Summary Proceedings Act 1957",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland City and Auckland Museum Empowering Act 1924",
+    "target": "Public Works Act 1981 (1981 No 35)",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Orakei Act 1991 (1991 No 122)",
+    "target": "Maori Trust Boards Act 1955",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland International Airport By-laws Approval Order 1989 (SR 1989/369)",
+    "target": "Land Transport Act 1998",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)",
+    "target": "Climate Change Response Act 2002",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "National Animal Identification and Tracing (Obligations and Exemptions) Regulations 2012 (SR 2012/116)",
+    "target": "National Animal Identification and Tracing Act 2012",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109)",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Amendment Regulations 2018 (LI 2018/200)",
+    "target": "Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Regulations 2011",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "National Animal Identification and Tracing (Levies) Regulations 2012 (SR 2012/115)",
+    "target": "National Animal Identification and Tracing Act 2012",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Climate Change (General Exemptions) Order 2009 (SR 2009/370)",
+    "target": "Climate Change Response Act 2002",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Electoral Regulations 2001 (SR 2001/145)",
+    "target": "Local Government (Auckland Council) Act 2009",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Local Government Act 2002",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Land Transport Act 1998",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Christchurch International Airport By-laws Approval Order 1989 (SR 1989/405)",
+    "target": "Land Transport Act 1998",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (American Foulbrood—Apiary and Beekeeper Levy) Order 2003 (SR 2003/283)",
+    "target": "Biosecurity Act 1993",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (Bovine Tuberculosis—Cattle Levy) Order 1998 (SR 1998/457)",
+    "target": "Biosecurity Act 1993",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (Bovine Tuberculosis—Cattle Levy) Order 1998 (SR 1998/457)",
+    "target": "Arbitration Act 1996",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Foundation for Research, Science, and Technology Amendment Act 1993",
+    "target": "Foundation for Research, Science, and Technology Act 1990",
+    "edge_type": "citation",
+    "count": 2,
+    "scope": "boundary"
+  },
+  {
+    "source": "Education and Training Act 2020",
+    "target": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Museum of Transport and Technology Act 2000",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Auckland War Memorial Museum Act 1996",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Income Tax Act 2007 (2007 No 97)",
+    "target": "Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Tax Administration Act 1994 (1994 No 166)",
+    "target": "Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Teaching Council of Aotearoa New Zealand Election Rules 2018 (LI 2018/234)",
+    "target": "Local Electoral Regulations 2001 (SR 2001/145)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Income Tax Act 2004",
+    "target": "Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transfer Act 2017",
+    "target": "Auckland War Memorial Museum Act 1996",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Criminal Procedure Act 2011",
+    "target": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Customs and Excise Act 2018",
+    "target": "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Civil Aviation Act 2023",
+    "target": "Auckland International Airport By-laws Approval Order 1989 (SR 1989/369)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Civil Aviation Act 2023",
+    "target": "Christchurch International Airport By-laws Approval Order 1989 (SR 1989/405)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Reserve Bank of New Zealand Act 2021",
+    "target": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Act 2003",
+    "target": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport Management Amendment Act 2008",
+    "target": "Land Transport (Driver Licensing and Driver Testing Fees) Regulations 1999 (SR 1999/93)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport Management Amendment Act 2008",
+    "target": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Fees and Travelling Allowances Act 1951",
+    "target": "Orakei Act 1991 (1991 No 122)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Driver Licensing) Rule 1999",
+    "target": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Schedule 9 of the Education and Training Act 2020",
+    "target": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (NZTA) Legislation Amendment Act 2020",
+    "target": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Regulatory Systems (Economic Development) Amendment Act 2019",
+    "target": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Financial Markets Conduct Regulations 2014",
+    "target": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Deposit Takers Act 2023",
+    "target": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Hazardous Substances (Classes 1 to 5 Controls) Regulations 2001",
+    "target": "Hazardous Substances (Fireworks) Regulations 2001 (SR 2001/121)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Regulations 2011",
+    "target": "Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Amendment Regulations 2018 (LI 2018/200)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Transport Services Licensing Regulations 1989",
+    "target": "Land Transport (Driver Licensing and Driver Testing Fees) Regulations 1999 (SR 1999/93)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Motor Vehicle Registration and Licensing) Regulations 2011",
+    "target": "Land Transport (Infringement and Reminder Notices) Regulations 1998 (SR 1998/447)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Motor Vehicle Registration and Licensing) Regulations 2011",
+    "target": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Secondary Legislation Act 2021",
+    "target": "Auckland Regional Amenities Funding Act 2008",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Public Service Act 2020",
+    "target": "Auckland Regional Amenities Funding Act 2008",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Racing Reform Act 2019",
+    "target": "Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Amendment Regulations 2018 (LI 2018/200)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37)",
+    "target": "Orakei Act 1991 (1991 No 122)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37)",
+    "target": "Auckland City and Auckland Museum Empowering Act 1924",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37)",
+    "target": "Mount Smart Regional Recreation Centre Act 1985",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37)",
+    "target": "Auckland International Airport By-laws Approval Order 1989 (SR 1989/369)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37)",
+    "target": "Local Government (Auckland Transitional Provisions) Amendment Act 2013",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "National Animal Identification and Tracing Amendment Act 2019",
+    "target": "National Animal Identification and Tracing (Levies) Regulations 2012 (SR 2012/115)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "National Animal Identification and Tracing Amendment Act 2019",
+    "target": "National Animal Identification and Tracing (Obligations and Exemptions) Regulations 2012 (SR 2012/116)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Legislation Act 2012",
+    "target": "Auckland Regional Amenities Funding Act 2008",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Local Government Electoral Legislation Act 2023",
+    "target": "Local Electoral Regulations 2001 (SR 2001/145)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Road User) Amendment Rule 2019",
+    "target": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Insolvency (Personal Insolvency) Regulations 2007 (SR 2007/333)",
+    "target": "Insolvency (Personal Insolvency) Amendment Regulations 2019",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Insolvency (Personal Insolvency) Regulations 2007 (SR 2007/333)",
+    "target": "Insolvency (Personal Insolvency) Amendment Regulations 2016",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity Law Reform Act 2012",
+    "target": "Biosecurity (American Foulbrood—Apiary and Beekeeper Levy) Order 2003 (SR 2003/283)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity Law Reform Act 2012",
+    "target": "Biosecurity (Bovine Tuberculosis—Cattle Levy) Order 1998 (SR 1998/457)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity Law Reform Act 2012",
+    "target": "Biosecurity (Bovine Tuberculosis—Otago Land Levy) Order 1998 (SR 1998/442)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity Law Reform Act 2012",
+    "target": "Biosecurity (National American Foulbrood Pest Management Strategy) Order 1998 (SR 1998/260)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity Law Reform Act 2012",
+    "target": "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Order 1998 (SR 1998/179)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Enforcement Powers) Amendment Act 2009",
+    "target": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Regulations 2003 (SR 2003/153)",
+    "target": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2026",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Regulations 2003 (SR 2003/153)",
+    "target": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2014",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Regulations 2003 (SR 2003/153)",
+    "target": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2013",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Regulations 2003 (SR 2003/153)",
+    "target": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2010",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Regulations 2003 (SR 2003/153)",
+    "target": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2006",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2010",
+    "target": "Resource Management (Forms, Fees, and Procedure) Regulations 2003 (SR 2003/153)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland Regional Amenities Funding Act 2008",
+    "target": "Local Government (Auckland Council) Act 2009",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland Regional Amenities Funding Act 2008",
+    "target": "Local Government Act 2002",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland Regional Amenities Funding Act 2008",
+    "target": "Local Government (Rating) Act 2002",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland Regional Amenities Funding Act 2008",
+    "target": "Local Government Official Information and Meetings Act 1987",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2017",
+    "target": "Resource Management Act 1991",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Order 1998 (SR 1998/179)",
+    "target": "Veterinarians Act 2005",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (National American Foulbrood Pest Management Strategy) Order 1998 (SR 1998/260)",
+    "target": "Animal Products Act 1999",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "target": "Land Transport Management Act 2003",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "target": "Land Transport (Driver Licensing) Rule 1999",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "target": "Government Roading Powers Act 1989",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "target": "Transport (Vehicle and Driver Registration and Licensing) Act 1986",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)",
+    "target": "Land Transport (Offences and Penalties) Amendment Regulations 2002",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Fisheries (Reporting) Amendment Regulations 2018",
+    "target": "Fisheries Act 1996",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Fisheries (Reporting) Amendment Regulations 2018",
+    "target": "Legislation Act 2012",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland War Memorial Museum Act 1996",
+    "target": "Protection of Personal and Property Rights Act 1988",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland War Memorial Museum Act 1996",
+    "target": "Local Government Official Information and Meetings Act 1987",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland War Memorial Museum Act 1996",
+    "target": "Estate and Gift Duties Act 1968",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland War Memorial Museum Act 1996",
+    "target": "Stamp and Cheque Duties Act 1971",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland War Memorial Museum Act 1996",
+    "target": "Local Government Act 1974",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland War Memorial Museum Act 1996",
+    "target": "Land Transfer Act 2017",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland War Memorial Museum Act 1996",
+    "target": "Local Government (Rating) Act 2002",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2014",
+    "target": "Resource Management Act 1991",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Museum of Transport and Technology Act 2000",
+    "target": "Acts and Regulations Publication Act 1989",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Museum of Transport and Technology Act 2000",
+    "target": "Companies Act 1993",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Museum of Transport and Technology Act 2000",
+    "target": "Protection of Personal and Property Rights Act 1988",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Museum of Transport and Technology Act 2000",
+    "target": "Local Government Official Information and Meetings Act 1987",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Museum of Transport and Technology Act 2000",
+    "target": "Estate and Gift Duties Act 1968",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Museum of Transport and Technology Act 2000",
+    "target": "Stamp and Cheque Duties Act 1971",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Museum of Transport and Technology Act 2000",
+    "target": "Income Tax Act 2007 (2007 No 97)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Museum of Transport and Technology Act 2000",
+    "target": "Public Audit Act 2001",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Museum of Transport and Technology Act 2000",
+    "target": "Land Transfer Act 1952",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Insolvency (Personal Insolvency) Amendment Regulations 2016",
+    "target": "Insolvency Act 2006",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2020",
+    "target": "Resource Management Amendment Act 2020",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2020",
+    "target": "Legislation Act 2012",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2013",
+    "target": "Resource Management Act 1991",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland City and Auckland Museum Empowering Act 1924",
+    "target": "Acts and Regulations Publication Act 1989",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland City and Auckland Museum Empowering Act 1924",
+    "target": "Local Government Act 1974",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Orakei Act 1991 (1991 No 122)",
+    "target": "Local Government Act 1974",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Orakei Act 1991 (1991 No 122)",
+    "target": "Fees and Travelling Allowances Act 1951",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Orakei Act 1991 (1991 No 122)",
+    "target": "Local Government (Rating) Act 2002",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Auckland International Airport By-laws Approval Order 1989 (SR 1989/369)",
+    "target": "Auckland Airport Act 1987",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Maori Purposes Act 1977",
+    "target": "Maori Housing Act 1935",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Maori Purposes Act 1977",
+    "target": "Maori Purposes Act 1969",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Maori Purposes Act 1977",
+    "target": "Maori Trust Boards Act 1955",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)",
+    "target": "Customs and Excise Act 2018",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)",
+    "target": "Land Transport Act 1998",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Climate Change (Other Removal Activities) Regulations 2009 (SR 2009/284)",
+    "target": "Climate Change (Stationary Energy and Industrial Processes) Regulations 2009",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "National Animal Identification and Tracing (Obligations and Exemptions) Regulations 2012 (SR 2012/116)",
+    "target": "National Animal Identification and Tracing Amendment Act 2019",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109)",
+    "target": "Tax Administration Act 1994 (1994 No 166)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Health and Safety in Employment (Mining Operations and Quarrying Operations) Amendment Regulations 2015",
+    "target": "Health and Safety in Employment Act 1992",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Anti-Money Laundering and Countering Financing of Terrorism (Exemptions) Amendment Regulations 2018 (LI 2018/200)",
+    "target": "Anti-Money Laundering and Countering Financing of Terrorism Act 2009",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "National Animal Identification and Tracing (Levies) Regulations 2012 (SR 2012/115)",
+    "target": "National Animal Identification and Tracing (Obligations and Exemptions) Regulations 2012 (SR 2012/116)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "sg5_internal"
+  },
+  {
+    "source": "National Animal Identification and Tracing (Levies) Regulations 2012 (SR 2012/115)",
+    "target": "Arbitration Act 1996",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Land Transport (Driver Licensing and Driver Testing Fees) Regulations 1999 (SR 1999/93)",
+    "target": "Land Transport (Driver Licensing) Rule 1999",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Hazardous Substances (Fireworks) Regulations 2001 (SR 2001/121)",
+    "target": "Hazardous Substances (Classes 1 to 5 Controls) Regulations 2001",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Climate Change (General Exemptions) Order 2009 (SR 2009/370)",
+    "target": "Crown Minerals Act 1991",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Consumer Guarantees Act 1993",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Child Support Act 1991",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Rating Valuations Act 1998",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Land Transport (Driver Licensing) Rule 1999",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Financial Markets Conduct Act 2013",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Building Act 2004",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Insurance (Prudential Supervision) Act 2010",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Credit Contracts and Consumer Finance Regulations 2004 (SR 2004/240)",
+    "target": "Fair Trading Act 1986",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Court of Appeal (List Election Petitions) Rules 1998 (SR 1998/326)",
+    "target": "Judicature Act 1908",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Court of Appeal (List Election Petitions) Rules 1998 (SR 1998/326)",
+    "target": "High Court Rules 2016",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Court of Appeal (List Election Petitions) Rules 1998 (SR 1998/326)",
+    "target": "Legislation Act 2012",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Christchurch International Airport By-laws Approval Order 1989 (SR 1989/405)",
+    "target": "Local Government Act 1974",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Christchurch International Airport By-laws Approval Order 1989 (SR 1989/405)",
+    "target": "Sale of Liquor Act 1989",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Christchurch International Airport By-laws Approval Order 1989 (SR 1989/405)",
+    "target": "Traffic Regulations 1976",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Insolvency (Personal Insolvency) Amendment Regulations 2019",
+    "target": "Legislation Act 2012",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (American Foulbrood—Apiary and Beekeeper Levy) Order 2003 (SR 2003/283)",
+    "target": "Biosecurity (National American Foulbrood Pest Management Strategy) Order 1998 (SR 1998/260)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "sg5_internal"
+  },
+  {
+    "source": "Biosecurity (American Foulbrood—Apiary and Beekeeper Levy) Order 2003 (SR 2003/283)",
+    "target": "Animal Products Act 1999",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (Bovine Tuberculosis—Cattle Levy) Order 1998 (SR 1998/457)",
+    "target": "Ministries of Agriculture and Forestry (Restructuring) Act 1997",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (Bovine Tuberculosis—Otago Land Levy) Order 1998 (SR 1998/442)",
+    "target": "Biosecurity Act 1993",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Biosecurity (Bovine Tuberculosis—Otago Land Levy) Order 1998 (SR 1998/442)",
+    "target": "Local Government (Rating) Act 2002",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2026",
+    "target": "Resource Management Act 1991",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  },
+  {
+    "source": "Resource Management (Forms, Fees, and Procedure) Amendment Regulations 2026",
+    "target": "Legislation Act 2019 (2019 No 58)",
+    "edge_type": "citation",
+    "count": 1,
+    "scope": "boundary"
+  }
+]

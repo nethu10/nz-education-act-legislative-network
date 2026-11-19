@@ -1,0 +1,792 @@
+[
+  {
+    "source": "Crown Entities Act 2004",
+    "target": "Legislation Act 2019",
+    "count": 7
+  },
+  {
+    "source": "Crown Entities Act 2004",
+    "target": "Tax Administration Act 1994",
+    "count": 1
+  },
+  {
+    "source": "Crown Entities Act 2004",
+    "target": "Public Bodies Contracts Act 1959",
+    "count": 3
+  },
+  {
+    "source": "Crown Entities Act 2004",
+    "target": "Government Superannuation Fund Act 1956",
+    "count": 1
+  },
+  {
+    "source": "Teaching Council Rules 2016",
+    "target": "Legislation Act 2019",
+    "count": 4
+  },
+  {
+    "source": "Teaching Council Rules 2016",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999",
+    "target": "Legislation Act 2019",
+    "count": 4
+  },
+  {
+    "source": "Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999",
+    "target": "Privacy Act 2020",
+    "count": 2
+  },
+  {
+    "source": "Social Security Regulations 2018",
+    "target": "Legislation Act 2019",
+    "count": 6
+  },
+  {
+    "source": "Social Security Regulations 2018",
+    "target": "Social Security Act 2018",
+    "count": 4
+  },
+  {
+    "source": "Social Security Regulations 2018",
+    "target": "Income Tax Act 2007",
+    "count": 14
+  },
+  {
+    "source": "Social Security Regulations 2018",
+    "target": "Immigration Act 2009",
+    "count": 6
+  },
+  {
+    "source": "Social Security Regulations 2018",
+    "target": "Education (Playgroups) Regulations 2008",
+    "count": 1
+  },
+  {
+    "source": "Social Security Regulations 2018",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Social Security Regulations 2018",
+    "target": "Tax Administration Act 1994",
+    "count": 2
+  },
+  {
+    "source": "Social Security Regulations 2018",
+    "target": "Student Allowances Regulations 1998",
+    "count": 3
+  },
+  {
+    "source": "Social Security Regulations 2018",
+    "target": "Privacy Act 2020",
+    "count": 7
+  },
+  {
+    "source": "Social Security Regulations 2018",
+    "target": "Crown Entities Act 2004",
+    "count": 1
+  },
+  {
+    "source": "Social Security Regulations 2018",
+    "target": "Education (Early Childhood Services) Regulations 2008",
+    "count": 2
+  },
+  {
+    "source": "Treaty of Waitangi Act 1975",
+    "target": "Legislation Act 2019",
+    "count": 3
+  },
+  {
+    "source": "Treaty of Waitangi Act 1975",
+    "target": "Government Superannuation Fund Act 1956",
+    "count": 1
+  },
+  {
+    "source": "Treaty of Waitangi Act 1975",
+    "target": "Public Works Act 1981",
+    "count": 2
+  },
+  {
+    "source": "Education (Early Childhood Services) Regulations 2008",
+    "target": "Legislation Act 2019",
+    "count": 6
+  },
+  {
+    "source": "Education (Early Childhood Services) Regulations 2008",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Education (Early Childhood Services) Regulations 2008",
+    "target": "Employment Relations Act 2000",
+    "count": 2
+  },
+  {
+    "source": "Education (Early Childhood Services) Regulations 2008",
+    "target": "Privacy Act 2020",
+    "count": 2
+  },
+  {
+    "source": "Education (Early Childhood Services) Regulations 2008",
+    "target": "Public Works Act 1981",
+    "count": 1
+  },
+  {
+    "source": "Social Security Act 2018",
+    "target": "Legislation Act 2019",
+    "count": 57
+  },
+  {
+    "source": "Social Security Act 2018",
+    "target": "Immigration Act 2009",
+    "count": 4
+  },
+  {
+    "source": "Social Security Act 2018",
+    "target": "Income Tax Act 2007",
+    "count": 11
+  },
+  {
+    "source": "Social Security Act 2018",
+    "target": "Student Allowances Regulations 1998",
+    "count": 4
+  },
+  {
+    "source": "Social Security Act 2018",
+    "target": "Privacy Act 2020",
+    "count": 18
+  },
+  {
+    "source": "Social Security Act 2018",
+    "target": "Tax Administration Act 1994",
+    "count": 3
+  },
+  {
+    "source": "Social Security Act 2018",
+    "target": "Student Loan Scheme Act 2011",
+    "count": 2
+  },
+  {
+    "source": "Social Security Act 2018",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Social Security Act 2018",
+    "target": "Social Security Regulations 2018",
+    "count": 7
+  },
+  {
+    "source": "Social Security Act 2018",
+    "target": "Employment Relations Act 2000",
+    "count": 4
+  },
+  {
+    "source": "Social Security Act 2018",
+    "target": "Government Superannuation Fund Act 1956",
+    "count": 2
+  },
+  {
+    "source": "Education (Surrender, Retention, and Search) Rules 2013",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Education (School Trustee Elections) Regulations 2000",
+    "target": "Legislation Act 2019",
+    "count": 4
+  },
+  {
+    "source": "Education (School Trustee Elections) Regulations 2000",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Employment Relations Act 2000",
+    "target": "Legislation Act 2019",
+    "count": 13
+  },
+  {
+    "source": "Employment Relations Act 2000",
+    "target": "Privacy Act 2020",
+    "count": 5
+  },
+  {
+    "source": "Employment Relations Act 2000",
+    "target": "Income Tax Act 2007",
+    "count": 2
+  },
+  {
+    "source": "Employment Relations Act 2000",
+    "target": "Student Loan Scheme Act 2011",
+    "count": 1
+  },
+  {
+    "source": "Employment Relations Act 2000",
+    "target": "Immigration Act 2009",
+    "count": 5
+  },
+  {
+    "source": "Employment Relations Act 2000",
+    "target": "Crown Entities Act 2004",
+    "count": 1
+  },
+  {
+    "source": "Government Superannuation Fund Act 1956",
+    "target": "Legislation Act 2019",
+    "count": 19
+  },
+  {
+    "source": "Government Superannuation Fund Act 1956",
+    "target": "Crown Entities Act 2004",
+    "count": 15
+  },
+  {
+    "source": "Government Superannuation Fund Act 1956",
+    "target": "Income Tax Act 2007",
+    "count": 1
+  },
+  {
+    "source": "Government Superannuation Fund Act 1956",
+    "target": "Employment Relations Act 2000",
+    "count": 4
+  },
+  {
+    "source": "Education (Registration of Early Childhood Services Teachers) Regulations 2004",
+    "target": "Education (Early Childhood Services) Regulations 2008",
+    "count": 2
+  },
+  {
+    "source": "Education (School Risk Management Scheme) Regulations 2003",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Income Tax Act 2007",
+    "target": "Legislation Act 2019",
+    "count": 57
+  },
+  {
+    "source": "Income Tax Act 2007",
+    "target": "Tax Administration Act 1994",
+    "count": 425
+  },
+  {
+    "source": "Income Tax Act 2007",
+    "target": "Privacy Act 2020",
+    "count": 1
+  },
+  {
+    "source": "Income Tax Act 2007",
+    "target": "Immigration Act 2009",
+    "count": 4
+  },
+  {
+    "source": "Income Tax Act 2007",
+    "target": "Social Security Act 2018",
+    "count": 25
+  },
+  {
+    "source": "Income Tax Act 2007",
+    "target": "Government Superannuation Fund Act 1956",
+    "count": 3
+  },
+  {
+    "source": "Income Tax Act 2007",
+    "target": "Employment Relations Act 2000",
+    "count": 4
+  },
+  {
+    "source": "Income Tax Act 2007",
+    "target": "Student Loan Scheme Act 2011",
+    "count": 2
+  },
+  {
+    "source": "Income Tax Act 2007",
+    "target": "Crown Entities Act 2004",
+    "count": 3
+  },
+  {
+    "source": "Income Tax Act 2007",
+    "target": "Financial Advisers Act 2008",
+    "count": 1
+  },
+  {
+    "source": "Income Tax Act 2007",
+    "target": "Student Allowances Regulations 1998",
+    "count": 2
+  },
+  {
+    "source": "Income Tax Act 2007",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Student Allowances Regulations 1998",
+    "target": "Legislation Act 2019",
+    "count": 4
+  },
+  {
+    "source": "Student Allowances Regulations 1998",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Student Allowances Regulations 1998",
+    "target": "Social Security Act 2018",
+    "count": 13
+  },
+  {
+    "source": "Student Allowances Regulations 1998",
+    "target": "Tax Administration Act 1994",
+    "count": 1
+  },
+  {
+    "source": "Student Allowances Regulations 1998",
+    "target": "Crown Entities Act 2004",
+    "count": 1
+  },
+  {
+    "source": "Student Allowances Regulations 1998",
+    "target": "Income Tax Act 2007",
+    "count": 9
+  },
+  {
+    "source": "Student Allowances Regulations 1998",
+    "target": "Student Loan Scheme Act 2011",
+    "count": 2
+  },
+  {
+    "source": "Student Allowances Regulations 1998",
+    "target": "Immigration Act 2009",
+    "count": 21
+  },
+  {
+    "source": "Legislation Act 2019",
+    "target": "Crown Entities Act 2004",
+    "count": 1
+  },
+  {
+    "source": "Legislation Act 2019",
+    "target": "Employment Relations Act 2000",
+    "count": 4
+  },
+  {
+    "source": "Student Loan Scheme Act 2011",
+    "target": "Legislation Act 2019",
+    "count": 4
+  },
+  {
+    "source": "Student Loan Scheme Act 2011",
+    "target": "Tax Administration Act 1994",
+    "count": 32
+  },
+  {
+    "source": "Student Loan Scheme Act 2011",
+    "target": "Social Security Act 2018",
+    "count": 4
+  },
+  {
+    "source": "Student Loan Scheme Act 2011",
+    "target": "Income Tax Act 2007",
+    "count": 34
+  },
+  {
+    "source": "Student Loan Scheme Act 2011",
+    "target": "Privacy Act 2020",
+    "count": 2
+  },
+  {
+    "source": "Student Loan Scheme Act 2011",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Student Loan Scheme Act 2011",
+    "target": "Education (Early Childhood Services) Regulations 2008",
+    "count": 1
+  },
+  {
+    "source": "Student Loan Scheme Act 2011",
+    "target": "Student Allowances Regulations 1998",
+    "count": 1
+  },
+  {
+    "source": "Education Act 1989",
+    "target": "Immigration Act 2009",
+    "count": 8
+  },
+  {
+    "source": "Education Act 1989",
+    "target": "Crown Entities Act 2004",
+    "count": 61
+  },
+  {
+    "source": "Education Act 1989",
+    "target": "Government Superannuation Fund Act 1956",
+    "count": 16
+  },
+  {
+    "source": "Education Act 1989",
+    "target": "Employment Relations Act 2000",
+    "count": 9
+  },
+  {
+    "source": "Education Act 1989",
+    "target": "Tax Administration Act 1994",
+    "count": 9
+  },
+  {
+    "source": "Education Act 1989",
+    "target": "Income Tax Act 2007",
+    "count": 22
+  },
+  {
+    "source": "Education Act 1989",
+    "target": "Public Works Act 1981",
+    "count": 9
+  },
+  {
+    "source": "Education Act 1989",
+    "target": "Treaty of Waitangi Act 1975",
+    "count": 6
+  },
+  {
+    "source": "Education Act 1989",
+    "target": "Social Security Act 2018",
+    "count": 15
+  },
+  {
+    "source": "Education Act 1989",
+    "target": "Student Loan Scheme Act 2011",
+    "count": 2
+  },
+  {
+    "source": "Education Act 1989",
+    "target": "Children's Act 2014",
+    "count": 1
+  },
+  {
+    "source": "Education Act 1989",
+    "target": "Public Bodies Contracts Act 1959",
+    "count": 1
+  },
+  {
+    "source": "Education (Hostels) Regulations 2005",
+    "target": "Legislation Act 2019",
+    "count": 4
+  },
+  {
+    "source": "Education (Hostels) Regulations 2005",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Education (Hostels) Regulations 2005",
+    "target": "Children's Act 2014",
+    "count": 1
+  },
+  {
+    "source": "Tax Administration Act 1994",
+    "target": "Legislation Act 2019",
+    "count": 87
+  },
+  {
+    "source": "Tax Administration Act 1994",
+    "target": "Income Tax Act 2007",
+    "count": 508
+  },
+  {
+    "source": "Tax Administration Act 1994",
+    "target": "Immigration Act 2009",
+    "count": 3
+  },
+  {
+    "source": "Tax Administration Act 1994",
+    "target": "Student Loan Scheme Act 2011",
+    "count": 31
+  },
+  {
+    "source": "Tax Administration Act 1994",
+    "target": "Employment Relations Act 2000",
+    "count": 1
+  },
+  {
+    "source": "Tax Administration Act 1994",
+    "target": "Privacy Act 2020",
+    "count": 12
+  },
+  {
+    "source": "Tax Administration Act 1994",
+    "target": "Financial Advisers Act 2008",
+    "count": 1
+  },
+  {
+    "source": "Public Bodies Contracts Act 1959",
+    "target": "Legislation Act 2019",
+    "count": 4
+  },
+  {
+    "source": "Education (2020 School Staffing) Order 2019",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "International Student Contract Dispute Resolution Scheme Rules 2016",
+    "target": "Legislation Act 2019",
+    "count": 4
+  },
+  {
+    "source": "International Student Contract Dispute Resolution Scheme Rules 2016",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Children's Act 2014",
+    "target": "Legislation Act 2019",
+    "count": 8
+  },
+  {
+    "source": "Children's Act 2014",
+    "target": "Social Security Act 2018",
+    "count": 1
+  },
+  {
+    "source": "Children's Act 2014",
+    "target": "Crown Entities Act 2004",
+    "count": 1
+  },
+  {
+    "source": "Children's Act 2014",
+    "target": "Employment Relations Act 2000",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "Legislation Act 2019",
+    "count": 14
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "Crown Entities Act 2004",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "Privacy Act 2020",
+    "count": 19
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "Employment Relations Act 2000",
+    "count": 4
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "Social Security Act 2018",
+    "count": 4
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "Income Tax Act 2007",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "Lincoln University Act 1961",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "Massey University Act 1963",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "Tax Administration Act 1994",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "University of Auckland Act 1961",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "University of Canterbury Act 1961",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "University of Waikato Act 1963",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "Victoria University of Wellington Act 1961",
+    "count": 1
+  },
+  {
+    "source": "Immigration Act 2009",
+    "target": "Student Allowances Regulations 1998",
+    "count": 1
+  },
+  {
+    "source": "Lincoln University Act 1961",
+    "target": "Immigration Act 2009",
+    "count": 1
+  },
+  {
+    "source": "Massey University Act 1963",
+    "target": "Immigration Act 2009",
+    "count": 1
+  },
+  {
+    "source": "University of Auckland Act 1961",
+    "target": "Immigration Act 2009",
+    "count": 1
+  },
+  {
+    "source": "University of Canterbury Act 1961",
+    "target": "Immigration Act 2009",
+    "count": 1
+  },
+  {
+    "source": "University of Waikato Act 1963",
+    "target": "Immigration Act 2009",
+    "count": 1
+  },
+  {
+    "source": "Victoria University of Wellington Act 1961",
+    "target": "Immigration Act 2009",
+    "count": 1
+  },
+  {
+    "source": "Education (Playgroups) Regulations 2008",
+    "target": "Legislation Act 2019",
+    "count": 6
+  },
+  {
+    "source": "Education (Playgroups) Regulations 2008",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Public Works Act 1981",
+    "target": "Legislation Act 2019",
+    "count": 17
+  },
+  {
+    "source": "Public Works Act 1981",
+    "target": "Treaty of Waitangi Act 1975",
+    "count": 2
+  },
+  {
+    "source": "Financial Advisers Act 2008",
+    "target": "Tax Administration Act 1994",
+    "count": 1
+  },
+  {
+    "source": "Financial Advisers Act 2008",
+    "target": "Privacy Act 2020",
+    "count": 1
+  },
+  {
+    "source": "Te Kawerau ā Maki Claims Settlement Act 2015",
+    "target": "Legislation Act 2019",
+    "count": 6
+  },
+  {
+    "source": "Te Kawerau ā Maki Claims Settlement Act 2015",
+    "target": "Treaty of Waitangi Act 1975",
+    "count": 3
+  },
+  {
+    "source": "Teaching Council of Aotearoa New Zealand Election Rules 2018",
+    "target": "Legislation Act 2019",
+    "count": 4
+  },
+  {
+    "source": "Teaching Council of Aotearoa New Zealand Election Rules 2018",
+    "target": "Education Act 1989",
+    "count": 1
+  },
+  {
+    "source": "Privacy Act 2020",
+    "target": "Legislation Act 2019",
+    "count": 19
+  },
+  {
+    "source": "Privacy Act 2020",
+    "target": "Crown Entities Act 2004",
+    "count": 8
+  },
+  {
+    "source": "Privacy Act 2020",
+    "target": "Government Superannuation Fund Act 1956",
+    "count": 1
+  },
+  {
+    "source": "Privacy Act 2020",
+    "target": "Income Tax Act 2007",
+    "count": 2
+  },
+  {
+    "source": "Privacy Act 2020",
+    "target": "Social Security Act 2018",
+    "count": 6
+  },
+  {
+    "source": "Privacy Act 2020",
+    "target": "Education Act 1989",
+    "count": 2
+  },
+  {
+    "source": "Privacy Act 2020",
+    "target": "Immigration Act 2009",
+    "count": 4
+  },
+  {
+    "source": "Privacy Act 2020",
+    "target": "Student Loan Scheme Act 2011",
+    "count": 2
+  },
+  {
+    "source": "Privacy Act 2020",
+    "target": "Tax Administration Act 1994",
+    "count": 3
+  },
+  {
+    "source": "Privacy Act 2020",
+    "target": "Employment Relations Act 2000",
+    "count": 1
+  },
+  {
+    "source": "Privacy Act 2020",
+    "target": "Financial Advisers Act 2008",
+    "count": 1
+  },
+  {
+    "source": "Privacy Act 2020",
+    "target": "Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999",
+    "count": 1
+  },
+  {
+    "source": "Privacy Act 2020",
+    "target": "Social Security Regulations 2018",
+    "count": 1
+  }
+]

@@ -1,0 +1,979 @@
+[
+  {
+    "layer": "sg4",
+    "amendment_only": 1147,
+    "with_citations": 1299,
+    "extra": 152,
+    "extra_no_amendment": 48,
+    "top": [
+      {
+        "act": "Act",
+        "amendment": 0,
+        "citation": 205,
+        "combined": 205,
+        "citing_sources": 45
+      },
+      {
+        "act": "Spatial Planning Act 2023",
+        "amendment": 5,
+        "citation": 62,
+        "combined": 67,
+        "citing_sources": 1
+      },
+      {
+        "act": "Sentencing Act Commencement Order 2002",
+        "amendment": 0,
+        "citation": 50,
+        "combined": 50,
+        "citing_sources": 1
+      },
+      {
+        "act": "Sport and Recreation New Zealand Act Commencement Order 2002",
+        "amendment": 1,
+        "citation": 43,
+        "combined": 44,
+        "citing_sources": 1
+      },
+      {
+        "act": "Schedule 7 of the Local Government Act 2002",
+        "amendment": 0,
+        "citation": 42,
+        "combined": 42,
+        "citing_sources": 14
+      },
+      {
+        "act": "Health and Safety in Employment (Pressure Equipment, Cranes, and Passenger Ropeways) Regulations 1999",
+        "amendment": 3,
+        "citation": 27,
+        "combined": 30,
+        "citing_sources": 3
+      },
+      {
+        "act": "Mutual Assistance Act",
+        "amendment": 0,
+        "citation": 27,
+        "combined": 27,
+        "citing_sources": 1
+      },
+      {
+        "act": "Reserve Bank of New Zealand Act 1989",
+        "amendment": 0,
+        "citation": 25,
+        "combined": 25,
+        "citing_sources": 16
+      },
+      {
+        "act": "Personal and Property Rights Act 1988",
+        "amendment": 0,
+        "citation": 24,
+        "combined": 24,
+        "citing_sources": 5
+      },
+      {
+        "act": "Private Investigators and Security Guards Act 1974",
+        "amendment": 1,
+        "citation": 23,
+        "combined": 24,
+        "citing_sources": 1
+      },
+      {
+        "act": "Treaty of Waitangi",
+        "amendment": 0,
+        "citation": 24,
+        "combined": 24,
+        "citing_sources": 5
+      },
+      {
+        "act": "Hazardous Substances (Compressed Gases) Regulations 2004",
+        "amendment": 0,
+        "citation": 18,
+        "combined": 18,
+        "citing_sources": 1
+      },
+      {
+        "act": "Financial Markets Conduct (Asia Region Funds Passport) Regulations 2019",
+        "amendment": 0,
+        "citation": 17,
+        "combined": 17,
+        "citing_sources": 1
+      },
+      {
+        "act": "Justice (Restructuring) Act 1995",
+        "amendment": 0,
+        "citation": 16,
+        "combined": 16,
+        "citing_sources": 16
+      },
+      {
+        "act": "Affiliate Te Arawa Act",
+        "amendment": 0,
+        "citation": 16,
+        "combined": 16,
+        "citing_sources": 1
+      },
+      {
+        "act": "New Zealand Geographic Board Act 1946",
+        "amendment": 2,
+        "citation": 14,
+        "combined": 16,
+        "citing_sources": 9
+      },
+      {
+        "act": "Territorial Sea , Contiguous Zone, and Exclusive Economic Zone Act 1977",
+        "amendment": 0,
+        "citation": 15,
+        "combined": 15,
+        "citing_sources": 11
+      },
+      {
+        "act": "Schedule 1 of the Resource Management Act 1991",
+        "amendment": 0,
+        "citation": 15,
+        "combined": 15,
+        "citing_sources": 6
+      },
+      {
+        "act": "NHNP Act",
+        "amendment": 0,
+        "citation": 13,
+        "combined": 13,
+        "citing_sources": 1
+      },
+      {
+        "act": "Part 3 and section 114 of the Legislation Act 2019",
+        "amendment": 0,
+        "citation": 13,
+        "combined": 13,
+        "citing_sources": 13
+      },
+      {
+        "act": "Hazardous Substances (Tank Wagons and Transportable Containers) Regulations 2004",
+        "amendment": 0,
+        "citation": 13,
+        "combined": 13,
+        "citing_sources": 1
+      },
+      {
+        "act": "Hazardous Substances (Identification) Regulations 2001",
+        "amendment": 0,
+        "citation": 13,
+        "combined": 13,
+        "citing_sources": 1
+      },
+      {
+        "act": "Gas Regulations 1993",
+        "amendment": 0,
+        "citation": 13,
+        "combined": 13,
+        "citing_sources": 1
+      },
+      {
+        "act": "Sale of Goods Act 1908",
+        "amendment": 4,
+        "citation": 8,
+        "combined": 12,
+        "citing_sources": 5
+      },
+      {
+        "act": "New Zealand Walkways Act 1990",
+        "amendment": 2,
+        "citation": 10,
+        "combined": 12,
+        "citing_sources": 3
+      },
+      {
+        "act": "Hazardous Substances (Fireworks) Regulations 2001",
+        "amendment": 0,
+        "citation": 12,
+        "combined": 12,
+        "citing_sources": 2
+      },
+      {
+        "act": "Alcohol Act 2012",
+        "amendment": 0,
+        "citation": 12,
+        "combined": 12,
+        "citing_sources": 11
+      },
+      {
+        "act": "Hazardous Substances (Minimum Degrees of Hazard) Regulations 2001",
+        "amendment": 4,
+        "citation": 8,
+        "combined": 12,
+        "citing_sources": 3
+      },
+      {
+        "act": "Russia Sanctions Act 2022",
+        "amendment": 5,
+        "citation": 6,
+        "combined": 11,
+        "citing_sources": 2
+      },
+      {
+        "act": "Court of Appeal Fees Regulations 2001",
+        "amendment": 1,
+        "citation": 10,
+        "combined": 11,
+        "citing_sources": 2
+      },
+      {
+        "act": "1983 regulations",
+        "amendment": 0,
+        "citation": 11,
+        "combined": 11,
+        "citing_sources": 1
+      },
+      {
+        "act": "Maori Assembled Owners Regulations 1995",
+        "amendment": 0,
+        "citation": 11,
+        "combined": 11,
+        "citing_sources": 2
+      },
+      {
+        "act": "Maori Trust Boards Regulations 1985",
+        "amendment": 0,
+        "citation": 11,
+        "combined": 11,
+        "citing_sources": 5
+      },
+      {
+        "act": "Hazardous Substances (Emergency Management) Regulations 2001",
+        "amendment": 0,
+        "citation": 10,
+        "combined": 10,
+        "citing_sources": 2
+      },
+      {
+        "act": "Animal Welfare (Care and Procedures) Regulations 2018",
+        "amendment": 0,
+        "citation": 10,
+        "combined": 10,
+        "citing_sources": 1
+      },
+      {
+        "act": "Oranga Tamariki (National Care Standards and Related Matters) Regulations 2018",
+        "amendment": 0,
+        "citation": 10,
+        "combined": 10,
+        "citing_sources": 2
+      },
+      {
+        "act": "1986 No 129",
+        "amendment": 0,
+        "citation": 10,
+        "combined": 10,
+        "citing_sources": 1
+      },
+      {
+        "act": "Persons with Disabilities) Act 2008",
+        "amendment": 0,
+        "citation": 10,
+        "combined": 10,
+        "citing_sources": 10
+      },
+      {
+        "act": "Waitangi Amendment Act 2008",
+        "amendment": 0,
+        "citation": 10,
+        "combined": 10,
+        "citing_sources": 10
+      },
+      {
+        "act": "Credit Contracts and Consumer Finance Regulations 2004",
+        "amendment": 2,
+        "citation": 7,
+        "combined": 9,
+        "citing_sources": 4
+      },
+      {
+        "act": "District Courts Rules 2009",
+        "amendment": 1,
+        "citation": 8,
+        "combined": 9,
+        "citing_sources": 1
+      },
+      {
+        "act": "Geographical Indications Registration Act 2006",
+        "amendment": 0,
+        "citation": 9,
+        "combined": 9,
+        "citing_sources": 3
+      },
+      {
+        "act": "Hazardous Substances (Tracking) Regulations 2001",
+        "amendment": 0,
+        "citation": 9,
+        "combined": 9,
+        "citing_sources": 1
+      },
+      {
+        "act": "Electricity Regulations 1997",
+        "amendment": 1,
+        "citation": 8,
+        "combined": 9,
+        "citing_sources": 1
+      },
+      {
+        "act": "Health and Safety in Employment (Asbestos) Regulations 1998",
+        "amendment": 4,
+        "citation": 5,
+        "combined": 9,
+        "citing_sources": 3
+      },
+      {
+        "act": "regulations",
+        "amendment": 0,
+        "citation": 9,
+        "combined": 9,
+        "citing_sources": 5
+      },
+      {
+        "act": "Point England Development Enabling Act 2017",
+        "amendment": 0,
+        "citation": 8,
+        "combined": 8,
+        "citing_sources": 1
+      },
+      {
+        "act": "Land Transport Management (Apportionment and Refund of Excise Duty and Excise-Equivalent Duty) Regulations 2004",
+        "amendment": 1,
+        "citation": 7,
+        "combined": 8,
+        "citing_sources": 3
+      },
+      {
+        "act": "Outdoor Access Act 2008",
+        "amendment": 0,
+        "citation": 8,
+        "combined": 8,
+        "citing_sources": 5
+      },
+      {
+        "act": "Building (Forms) Amendment Regulations 2024",
+        "amendment": 5,
+        "citation": 3,
+        "combined": 8,
+        "citing_sources": 1
+      },
+      {
+        "act": "Court Act 2019",
+        "amendment": 0,
+        "citation": 8,
+        "combined": 8,
+        "citing_sources": 8
+      },
+      {
+        "act": "Hauraki Gulf Marine Park Amendment Act 2001",
+        "amendment": 4,
+        "citation": 4,
+        "combined": 8,
+        "citing_sources": 1
+      },
+      {
+        "act": "Family Proceedings Rules 1981",
+        "amendment": 2,
+        "citation": 6,
+        "combined": 8,
+        "citing_sources": 2
+      },
+      {
+        "act": "Insurance Law Reform Act 1977",
+        "amendment": 3,
+        "citation": 5,
+        "combined": 8,
+        "citing_sources": 4
+      },
+      {
+        "act": "Alcohol Advisory Council Act 1976",
+        "amendment": 5,
+        "citation": 3,
+        "combined": 8,
+        "citing_sources": 2
+      },
+      {
+        "act": "Climate Change (Stationary Energy and Industrial Processes) Amendment Regulations 2026",
+        "amendment": 5,
+        "citation": 3,
+        "combined": 8,
+        "citing_sources": 1
+      },
+      {
+        "act": "Medicines Amendment Act 2021",
+        "amendment": 5,
+        "citation": 3,
+        "combined": 8,
+        "citing_sources": 1
+      },
+      {
+        "act": "Temporary Safeguard Authorities Act 1987",
+        "amendment": 2,
+        "citation": 5,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "Electoral (Finance Reform and Advance Voting) Amendment Act 2010",
+        "amendment": 4,
+        "citation": 3,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "Central North Island Forests Land Collective Settlement Act 2008",
+        "amendment": 1,
+        "citation": 6,
+        "combined": 7,
+        "citing_sources": 5
+      },
+      {
+        "act": "Child Protection (Child Sex Offender Government Agency Registration) (Overseas Travel Reporting) Amendment Act 2024",
+        "amendment": 5,
+        "citation": 2,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "National War Memorial Act 1992",
+        "amendment": 2,
+        "citation": 5,
+        "combined": 7,
+        "citing_sources": 2
+      },
+      {
+        "act": "Climate Change (Unit Register) Regulations 2007",
+        "amendment": 0,
+        "citation": 7,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "Returning Offenders (Management and Information) (Drug and Alcohol Testing) Amendment Act 2016",
+        "amendment": 5,
+        "citation": 2,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "Securities Regulations 1983",
+        "amendment": 3,
+        "citation": 4,
+        "combined": 7,
+        "citing_sources": 3
+      },
+      {
+        "act": "Misuse of Drugs Amendment Act 1992",
+        "amendment": 5,
+        "citation": 2,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "Dietary Supplements Regulations 1985",
+        "amendment": 1,
+        "citation": 6,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "Human Tissue Act 1964",
+        "amendment": 1,
+        "citation": 6,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "Public and Community Housing Management (Prescribed Elements of Calculation Mechanism) (COVID-19 Income Relief Payment to be Income) Amendment Regulations 2020",
+        "amendment": 5,
+        "citation": 2,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "New Zealand Act 2002",
+        "amendment": 0,
+        "citation": 7,
+        "combined": 7,
+        "citing_sources": 7
+      },
+      {
+        "act": "Hazardous Substances (Disposal) Regulations 2001",
+        "amendment": 0,
+        "citation": 7,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "Family Courts Fees Regulations 2009",
+        "amendment": 5,
+        "citation": 2,
+        "combined": 7,
+        "citing_sources": 2
+      },
+      {
+        "act": "Telecommunications Act 1987",
+        "amendment": 2,
+        "citation": 5,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "Reserves and other Lands Disposal and Public Bodies Empowering Act 1917",
+        "amendment": 3,
+        "citation": 4,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "Royal Succession Act 2013",
+        "amendment": 5,
+        "citation": 2,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2018",
+        "amendment": 5,
+        "citation": 2,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "Orakei Act 1991",
+        "amendment": 0,
+        "citation": 6,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Land Transport (Road User) Amendment Rule 2017",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Armed Forces Discipline Amendment Act 2001",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "United Nations Sanctions (Lebanon) Amendment Regulations 2026",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Arms Amendment Act 2000",
+        "amendment": 4,
+        "citation": 2,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Housing Corporation Amendment Act 1991",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Domestic Violence Amendment Rules 2011",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Reserves and Other Lands Disposal Act 1970",
+        "amendment": 0,
+        "citation": 6,
+        "combined": 6,
+        "citing_sources": 3
+      },
+      {
+        "act": "Financial Markets Conduct (Climate-related Disclosures) Amendment Regulations 2023",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Lawyers and Conveyancers Act (Trust Account) Regulations 2008",
+        "amendment": 4,
+        "citation": 2,
+        "combined": 6,
+        "citing_sources": 2
+      },
+      {
+        "act": "Gas Governance (Critical Contingency Management) Amendment Regulations 2024",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Health and Safety in Employment (Petroleum Exploration and Extraction) Regulations 2013",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Majority Act 1970",
+        "amendment": 0,
+        "citation": 6,
+        "combined": 6,
+        "citing_sources": 6
+      },
+      {
+        "act": "Disputes Tribunals Act 1988",
+        "amendment": 0,
+        "citation": 6,
+        "combined": 6,
+        "citing_sources": 3
+      },
+      {
+        "act": "New Zealand Guardian Trust Company Act 1982",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Life Insurance Amendment Act 1920",
+        "amendment": 4,
+        "citation": 2,
+        "combined": 6,
+        "citing_sources": 2
+      },
+      {
+        "act": "Government Superannuation Fund Amendment Act (No 2) 2003",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Geneva Conventions Amendment Act 2005",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Medicines (Fees) Amendment Regulations 2006",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Mines Rescue Trust Act 1992",
+        "amendment": 0,
+        "citation": 6,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Amendment Act 2010",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Family Courts Amendment Rules (No 2) 2013",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Te Tiriti o Waitangi",
+        "amendment": 0,
+        "citation": 6,
+        "combined": 6,
+        "citing_sources": 2
+      },
+      {
+        "act": "Statutes Amendment Act 1948",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      }
+    ]
+  },
+  {
+    "layer": "sg5",
+    "amendment_only": 51,
+    "with_citations": 88,
+    "extra": 37,
+    "extra_no_amendment": 17,
+    "top": [
+      {
+        "act": "Act",
+        "amendment": 0,
+        "citation": 40,
+        "combined": 40,
+        "citing_sources": 2
+      },
+      {
+        "act": "Securities Amendment Act 1988",
+        "amendment": 0,
+        "citation": 18,
+        "combined": 18,
+        "citing_sources": 4
+      },
+      {
+        "act": "New Zealand Stock Exchange Restructuring Act 2002",
+        "amendment": 2,
+        "citation": 14,
+        "combined": 16,
+        "citing_sources": 2
+      },
+      {
+        "act": "Alcohol Act 2012",
+        "amendment": 0,
+        "citation": 15,
+        "combined": 15,
+        "citing_sources": 9
+      },
+      {
+        "act": "Reserve Bank of New Zealand Act 1989",
+        "amendment": 0,
+        "citation": 12,
+        "combined": 12,
+        "citing_sources": 7
+      },
+      {
+        "act": "Fisheries (South-East Area Commercial Fishing) Regulations 1986",
+        "amendment": 1,
+        "citation": 10,
+        "combined": 11,
+        "citing_sources": 4
+      },
+      {
+        "act": "Schedule 1 of the Resource Management Act 1991",
+        "amendment": 0,
+        "citation": 10,
+        "combined": 10,
+        "citing_sources": 2
+      },
+      {
+        "act": "Jury Rules 1990",
+        "amendment": 4,
+        "citation": 6,
+        "combined": 10,
+        "citing_sources": 3
+      },
+      {
+        "act": "Children Act 2004",
+        "amendment": 0,
+        "citation": 9,
+        "combined": 9,
+        "citing_sources": 4
+      },
+      {
+        "act": "Drugs Act 1975",
+        "amendment": 0,
+        "citation": 9,
+        "combined": 9,
+        "citing_sources": 6
+      },
+      {
+        "act": "Fisheries (Central Area Commercial Fishing) Regulations 1986",
+        "amendment": 1,
+        "citation": 8,
+        "combined": 9,
+        "citing_sources": 3
+      },
+      {
+        "act": "Fisheries (Auckland and Kermadec Areas Commercial Fishing) Regulations 1986",
+        "amendment": 1,
+        "citation": 8,
+        "combined": 9,
+        "citing_sources": 3
+      },
+      {
+        "act": "Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023",
+        "amendment": 2,
+        "citation": 7,
+        "combined": 9,
+        "citing_sources": 4
+      },
+      {
+        "act": "Smokefree Environments and Regulated Products Regulations 2021",
+        "amendment": 0,
+        "citation": 8,
+        "combined": 8,
+        "citing_sources": 3
+      },
+      {
+        "act": "Maori Purposes Act 1978",
+        "amendment": 1,
+        "citation": 7,
+        "combined": 8,
+        "citing_sources": 1
+      },
+      {
+        "act": "Bay of Plenty Regional Council (Maori Constituency Empowering) Act 2001",
+        "amendment": 5,
+        "citation": 3,
+        "combined": 8,
+        "citing_sources": 2
+      },
+      {
+        "act": "Industry Training Act 1992",
+        "amendment": 0,
+        "citation": 7,
+        "combined": 7,
+        "citing_sources": 4
+      },
+      {
+        "act": "Taxation (Annual Rates for 2021–22, GST, and Remedial Matters) Act 2022",
+        "amendment": 3,
+        "citation": 4,
+        "combined": 7,
+        "citing_sources": 2
+      },
+      {
+        "act": "Births, Deaths, and Marriages Registration (Fees) Regulations 1995",
+        "amendment": 4,
+        "citation": 3,
+        "combined": 7,
+        "citing_sources": 1
+      },
+      {
+        "act": "Fisheries (Licensed Fish Receivers) Regulations 1997",
+        "amendment": 1,
+        "citation": 6,
+        "combined": 7,
+        "citing_sources": 3
+      },
+      {
+        "act": "Terrorism Act 2009",
+        "amendment": 0,
+        "citation": 7,
+        "combined": 7,
+        "citing_sources": 4
+      },
+      {
+        "act": "Residential Care and Disability Support Services Regulations 2018",
+        "amendment": 5,
+        "citation": 2,
+        "combined": 7,
+        "citing_sources": 2
+      },
+      {
+        "act": "Schedule 4 of the Resource Management Act 1991",
+        "amendment": 0,
+        "citation": 7,
+        "combined": 7,
+        "citing_sources": 2
+      },
+      {
+        "act": "Health (Registration of Premises) Regulations 1966",
+        "amendment": 0,
+        "citation": 7,
+        "combined": 7,
+        "citing_sources": 2
+      },
+      {
+        "act": "Securities Regulations 1983",
+        "amendment": 0,
+        "citation": 7,
+        "combined": 7,
+        "citing_sources": 4
+      },
+      {
+        "act": "Building Consent Authorities) Regulations 2006",
+        "amendment": 0,
+        "citation": 7,
+        "combined": 7,
+        "citing_sources": 2
+      },
+      {
+        "act": "Auckland Regional Authority Act 1963",
+        "amendment": 1,
+        "citation": 5,
+        "combined": 6,
+        "citing_sources": 2
+      },
+      {
+        "act": "Auckland Harbour Board and Birkenhead Borough Empowering Act 1907",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Sale and Supply of Alcohol Regulations 2013",
+        "amendment": 1,
+        "citation": 5,
+        "combined": 6,
+        "citing_sources": 3
+      },
+      {
+        "act": "Schedule 1, Resource Management Act 1991",
+        "amendment": 0,
+        "citation": 6,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Statutes Drafting and Compilation Act 1920",
+        "amendment": 0,
+        "citation": 6,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Biosecurity (Forms) Regulations 1995",
+        "amendment": 4,
+        "citation": 2,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Takeovers Code Approval Amendment Regulations 2014",
+        "amendment": 0,
+        "citation": 6,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Waitemata County Council Empowering Act 1971",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Waitemata City Council (West Harbour) Empowering Act 1979",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Conservation Amendment Act 1996",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      },
+      {
+        "act": "Resource Management (Stock Exclusion) Regulations 2020",
+        "amendment": 5,
+        "citation": 1,
+        "combined": 6,
+        "citing_sources": 1
+      }
+    ]
+  }
+]
