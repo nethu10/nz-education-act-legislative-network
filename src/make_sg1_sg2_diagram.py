@@ -39,6 +39,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import networkx as nx
 from matplotlib.lines import Line2D
+from figkey_helper import make_fig, finish, FIG_W, TOPN
 
 SEED = "Education and Training Act 2020"
 SG1_PATH = Path("data/processed/sg1_final_list.json")
@@ -170,10 +171,14 @@ for c in sg2_in_graph:
     node_sizes[c["act"]] = 6 + (c["combined_score"] / sg2_max) * 55
 
 # ---- render ----
-fig, ax = plt.subplots(figsize=(22, 22), dpi=200)
+fig, ax, keyax = make_fig(len(sg1) + TOPN, 2)
+_f = (FIG_W / 22) ** 2
+_sg1_names = {a["act"] for a in sg1}
+node_sizes = {k: (v * _f * 6 if k in _sg1_names else max(v * _f * 8, 5)) for k, v in node_sizes.items()}
+node_sizes[SEED] = 380
 ax.set_facecolor(SURFACE)
 fig.patch.set_facecolor(SURFACE)
-nx.draw_networkx_edges(G, pos, ax=ax, edge_color=GRID, width=0.5, alpha=0.4)
+nx.draw_networkx_edges(G, pos, ax=ax, edge_color=GRID, width=0.38, alpha=0.5)
 
 for layer in (2, 1, 0):
     nodes = [n for n in G if G.nodes[n]["layer"] == layer]
@@ -185,45 +190,12 @@ for layer in (2, 1, 0):
         alpha=0.85 if layer == 2 else 1.0,
     )
 
-# seed label
-ax.text(*pos[SEED], "Education\nand Training\nAct 2020", fontsize=10.5,
-        color="white", ha="center", va="center", fontweight="bold", zorder=10)
-
-# SG1 labels (all 37, radiating outward)
-for a in sg1:
-    x, y = pos[a["act"]]
-    angle = np.arctan2(y, x)
-    lx, ly = x + 0.16 * np.cos(angle), y + 0.16 * np.sin(angle)
-    ha = "left" if np.cos(angle) >= 0 else "right"
-    ax.text(lx, ly, a["act"], fontsize=6.0, color=TEXT_PRIMARY, ha=ha, va="center", zorder=6)
-
-# top 20 SG2 labels only
-for c in top_sg2:
-    x, y = pos[c["act"]]
-    angle = np.arctan2(y, x)
-    lx, ly = x + 0.11 * np.cos(angle), y + 0.11 * np.sin(angle)
-    ha = "left" if np.cos(angle) >= 0 else "right"
-    ax.text(lx, ly, f"{c['act']} ({c['combined_score']})", fontsize=6.2,
-             color=TEXT_SECONDARY, ha=ha, va="center", style="italic", zorder=6)
-
 # legend
 legend_elems = [
     Line2D([0], [0], marker="o", color="none", markerfacecolor=INK, markeredgecolor="white", markersize=13, label="Seed Act"),
     Line2D([0], [0], marker="o", color="none", markerfacecolor=BLUE, markeredgecolor="white", markersize=11, label="SG1 — Amendment only"),
     Line2D([0], [0], marker="o", color="none", markerfacecolor=ORANGE, markeredgecolor="white", markersize=11, label="SG1 — Amendment + Citation"),
     Line2D([0], [0], marker="o", color="none", markerfacecolor=AQUA, markeredgecolor="white", markersize=11, label="SG1 — Citation only"),
-    Line2D([0], [0], marker="o", color="none", markerfacecolor=SG2_GREY, markeredgecolor="white", markersize=9, label="SG2 (422 Acts; top 20 labelled)"),
+    Line2D([0], [0], marker="o", color="none", markerfacecolor=SG2_GREY, markeredgecolor="white", markersize=9, label="SG2 (422 Acts; top 10 numbered)"),
 ]
-leg = ax.legend(handles=legend_elems, loc="upper left", bbox_to_anchor=(0.0, 1.0),
-                 frameon=False, fontsize=11, labelcolor=TEXT_PRIMARY)
-
-ax.set_title("Education and Training Act 2020 — Seed, SG1, and SG2\n"
-             "37 first-layer Acts and 422 second-layer Acts (score ≥ 3, deduplicated)",
-             fontsize=16, fontweight="bold", color=TEXT_PRIMARY, pad=20)
-
-ax.set_aspect("equal")
-ax.axis("off")
-
-fig.tight_layout()
-fig.savefig(str(OUTPUT_PATH), bbox_inches="tight", facecolor=SURFACE)
-print(f"Saved -> {OUTPUT_PATH}")
+finish(fig, ax, keyax, pos, SEED, sg1, [("SG2", top_sg2)], legend_elems, OUTPUT_PATH, SURFACE)

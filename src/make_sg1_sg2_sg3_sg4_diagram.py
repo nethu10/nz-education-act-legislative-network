@@ -30,6 +30,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import networkx as nx
 from matplotlib.lines import Line2D
+from figkey_helper import make_fig, finish, FIG_W, TOPN
 
 SEED = "Education and Training Act 2020"
 SG1_PATH = Path("data/processed/sg1_final_list.json")
@@ -215,11 +216,15 @@ for c in sg4_in_graph:
     node_edgecolors[c["act"]] = "white"
 
 # ---- render ----
-fig, ax = plt.subplots(figsize=(32, 32), dpi=200)
+fig, ax, keyax = make_fig(len(sg1) + TOPN * 3, 4)
+_f = (FIG_W / 32) ** 2
+_sg1_names = {a["act"] for a in sg1}
+node_sizes = {k: (v * _f * 5 if k in _sg1_names else max(v * _f * 6, 4)) for k, v in node_sizes.items()}
+node_sizes[SEED] = 380
 ax.set_facecolor(SURFACE)
 fig.patch.set_facecolor(SURFACE)
 
-nx.draw_networkx_edges(G, pos, ax=ax, edge_color="#d9d8d3", width=0.35, alpha=0.3)
+nx.draw_networkx_edges(G, pos, ax=ax, edge_color="#d9d8d3", width=0.183, alpha=0.5)
 
 for layer in (4, 3, 2, 1, 0):
     nodes = [n for n in G if G.nodes[n]["layer"] == layer]
@@ -232,63 +237,14 @@ for layer in (4, 3, 2, 1, 0):
         alpha=0.85 if layer >= 2 else 1.0,
     )
 
-ax.text(*pos[SEED], "Education\nand Training\nAct 2020", fontsize=9.5,
-        color="white", ha="center", va="center", fontweight="bold", zorder=10)
-
-for a in sg1:
-    x, y = pos[a["act"]]
-    angle = np.arctan2(y, x)
-    lx, ly = x + 0.18 * np.cos(angle), y + 0.18 * np.sin(angle)
-    ha = "left" if np.cos(angle) >= 0 else "right"
-    ax.text(lx, ly, a["act"], fontsize=5.8, color=TEXT_PRIMARY, ha=ha, va="center", zorder=6)
-
-for c in top_sg2:
-    x, y = pos[c["act"]]
-    angle = np.arctan2(y, x)
-    lx, ly = x + 0.14 * np.cos(angle), y + 0.14 * np.sin(angle)
-    ha = "left" if np.cos(angle) >= 0 else "right"
-    ax.text(lx, ly, f"{c['act']} ({c['combined_score']})", fontsize=5.4,
-            color=TEXT_SECONDARY, ha=ha, va="center", style="italic", zorder=6)
-
-for c in top_sg3:
-    x, y = pos[c["act"]]
-    angle = np.arctan2(y, x)
-    lx, ly = x + 0.14 * np.cos(angle), y + 0.14 * np.sin(angle)
-    ha = "left" if np.cos(angle) >= 0 else "right"
-    ax.text(lx, ly, f"{c['act']} ({c['combined_score']})", fontsize=5.4,
-            color=TEXT_SG3, ha=ha, va="center", style="italic", zorder=6)
-
-for c in top_sg4:
-    x, y = pos[c["act"]]
-    angle = np.arctan2(y, x)
-    lx, ly = x + 0.14 * np.cos(angle), y + 0.14 * np.sin(angle)
-    ha = "left" if np.cos(angle) >= 0 else "right"
-    ax.text(lx, ly, f"{c['act']} ({c['combined_score']})", fontsize=5.4,
-            color=TEXT_SG4, ha=ha, va="center", style="italic", zorder=6)
 
 legend_elems = [
     Line2D([0], [0], marker="o", color="none", markerfacecolor=INK, markeredgecolor="white", markersize=13, label="Seed Act"),
     Line2D([0], [0], marker="o", color="none", markerfacecolor=BLUE, markeredgecolor="white", markersize=11, label="SG1 — Amendment only"),
     Line2D([0], [0], marker="o", color="none", markerfacecolor=ORANGE, markeredgecolor="white", markersize=11, label="SG1 — Amendment + Citation"),
     Line2D([0], [0], marker="o", color="none", markerfacecolor=AQUA, markeredgecolor="white", markersize=11, label="SG1 — Citation only"),
-    Line2D([0], [0], marker="o", color="none", markerfacecolor=SG2_GREY, markeredgecolor="white", markersize=9, label=f"SG2 ({len(sg2_in_graph)} Acts; top 20 by score labelled)"),
-    Line2D([0], [0], marker="o", color="none", markerfacecolor=SG3_LAVENDER, markeredgecolor="white", markersize=8, label=f"SG3 ({len(sg3_in_graph)} Acts; top 20 by score labelled)"),
-    Line2D([0], [0], marker="o", color="none", markerfacecolor=SG4_ROSE, markeredgecolor="white", markersize=7, label=f"SG4 ({len(sg4_in_graph)} Acts; top 20 by score labelled)"),
+    Line2D([0], [0], marker="o", color="none", markerfacecolor=SG2_GREY, markeredgecolor="white", markersize=9, label=f"SG2 ({len(sg2_in_graph)} Acts; top 10 by score numbered)"),
+    Line2D([0], [0], marker="o", color="none", markerfacecolor=SG3_LAVENDER, markeredgecolor="white", markersize=8, label=f"SG3 ({len(sg3_in_graph)} Acts; top 10 by score numbered)"),
+    Line2D([0], [0], marker="o", color="none", markerfacecolor=SG4_ROSE, markeredgecolor="white", markersize=7, label=f"SG4 ({len(sg4_in_graph)} Acts; top 10 by score numbered)"),
 ]
-ax.legend(handles=legend_elems, loc="upper left", bbox_to_anchor=(0.0, 1.0),
-          frameon=False, fontsize=11, labelcolor=TEXT_PRIMARY)
-
-ax.set_title(
-    "Education and Training Act 2020 — Seed, SG1, SG2, SG3, and SG4\n"
-    f"{len(sg1)} first-layer, {len(sg2_in_graph)} second-layer (score ≥ 3), "
-    f"{len(sg3_in_graph)} third-layer (score ≥ 6), and {len(sg4_in_graph)} "
-    f"fourth-layer (score ≥ 6) Acts",
-    fontsize=16, fontweight="bold", color=TEXT_PRIMARY, pad=20,
-)
-
-ax.set_aspect("equal")
-ax.axis("off")
-
-fig.tight_layout()
-fig.savefig(str(OUTPUT_PATH), bbox_inches="tight", facecolor=SURFACE)
-print(f"\nSaved -> {OUTPUT_PATH}")
+finish(fig, ax, keyax, pos, SEED, sg1, [("SG2", top_sg2), ("SG3", top_sg3), ("SG4", top_sg4)], legend_elems, OUTPUT_PATH, SURFACE)

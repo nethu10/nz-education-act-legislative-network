@@ -117,13 +117,13 @@ def sg1_classify(a):
     return BLUE
 
 node_colors = {SEED: INK}
-node_sizes = {SEED: 2200}
+node_sizes = {SEED: 1300}
 for a in sg1:
     node_colors[a["act"]] = sg1_classify(a)
-    node_sizes[a["act"]] = 140 + (a["combined_score"] / 54) * 260
+    node_sizes[a["act"]] = 70 + (a["combined_score"] / 54) * 150
 
 # ---- render ----
-fig, ax = plt.subplots(figsize=(24, 24), dpi=200)
+fig, ax = plt.subplots(figsize=(11, 11), dpi=300)
 ax.set_facecolor(SURFACE)
 fig.patch.set_facecolor(SURFACE)
 
@@ -141,14 +141,24 @@ nx.draw_networkx_nodes(G, pos, nodelist=nodes, ax=ax,
                         node_size=[node_sizes[n] for n in nodes],
                         edgecolors="white", linewidths=1.0)
 
+from adjustText import adjust_text
+texts = []
 for n in nodes:
     x, y = pos[n]
     label = "Education and\nTraining Act 2020" if n == SEED else n
-    fontsize = 8.5 if n == SEED else 7.2
+    fontsize = 10 if n == SEED else 8.5
     color = "white" if n == SEED else TEXT_PRIMARY
     weight = "bold" if n == SEED else "normal"
-    ax.text(x, y + (0 if n == SEED else 0.045), label, fontsize=fontsize, color=color,
-            ha="center", va="center", fontweight=weight, zorder=10 if n == SEED else 6)
+    t = ax.text(x, y, label, fontsize=fontsize, color=color, ha="center", va="center",
+                fontweight=weight, zorder=10 if n == SEED else 6,
+                bbox=None if n == SEED else dict(facecolor="white", edgecolor="none", alpha=0.75, pad=0.6))
+    if n != SEED:
+        texts.append(t)
+    else:
+        seed_text = t
+adjust_text(texts, ax=ax, add_objects=[seed_text], expand=(1.15, 1.35),
+            arrowprops=dict(arrowstyle="-", color="#777777", lw=0.5, alpha=0.8),
+            max_move=(60, 60))
 
 legend_elems = [
     Line2D([0], [0], marker="o", color="none", markerfacecolor=INK, markeredgecolor="white", markersize=13, label="Seed Act"),
@@ -158,15 +168,11 @@ legend_elems = [
     Line2D([0], [0], color=SEED_EDGE, lw=2, label="Seed → SG1 connection"),
     Line2D([0], [0], color=INTERNAL_EDGE, lw=2, label="SG1-internal connection (width = strength)"),
 ]
-ax.legend(handles=legend_elems, loc="upper left", frameon=False, fontsize=11, labelcolor=TEXT_PRIMARY)
-
-ax.set_title(f"Education and Training Act 2020 — Seed and SG1, with SG1-internal connections\n"
-             f"37 first-layer Acts, {37 + len(pair_weight)} real edges "
-             f"(37 seed links + {len(pair_weight)} internal citation/amendment links)",
-             fontsize=15, fontweight="bold", color=TEXT_PRIMARY, pad=20)
+ax.legend(handles=legend_elems, loc="upper center", bbox_to_anchor=(0.5, 0.0), ncol=2, frameon=False, fontsize=9.5, labelcolor=TEXT_PRIMARY)
 
 ax.set_aspect("equal")
 ax.axis("off")
 fig.tight_layout()
-fig.savefig(str(OUTPUT_PATH), bbox_inches="tight", facecolor=SURFACE)
+fig.savefig(str(OUTPUT_PATH), bbox_inches="tight", facecolor=SURFACE, pad_inches=0.05)
+fig.savefig(str(OUTPUT_PATH).replace(".png", ".pdf"), bbox_inches="tight", facecolor=SURFACE, pad_inches=0.05)
 print(f"Saved -> {OUTPUT_PATH}")

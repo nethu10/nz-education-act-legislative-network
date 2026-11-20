@@ -98,7 +98,7 @@ max_score = max(node_score.values()) or 1
 node_sizes = [40 + 900 * (node_score[n] / max_score) ** 0.5 for n in G.nodes]
 node_colors = [node_score[n] for n in G.nodes]
 
-fig, ax = plt.subplots(figsize=(16, 16))
+fig, ax = plt.subplots(figsize=(11, 11))
 
 nx.draw_networkx_edges(G, pos, ax=ax, edge_color="#999999", alpha=0.12, arrows=False, width=0.6)
 
@@ -117,7 +117,7 @@ texts = []
 for n in top_hubs:
     x, y = pos[n]
     label = n if len(n) <= 50 else n[:47] + "..."
-    texts.append(ax.text(x, y, label, fontsize=7, fontweight="bold", zorder=5))
+    texts.append(ax.text(x, y, label, fontsize=9, fontweight="bold", zorder=5))
 
 if HAVE_ADJUST_TEXT:
     adjust_text(
@@ -145,7 +145,8 @@ plt.colorbar(nodes, ax=ax, shrink=0.6, label="Hub score (SG4-internal references
 
 OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 plt.tight_layout()
-plt.savefig(OUTPUT_PATH, dpi=200, bbox_inches="tight")
+plt.savefig(OUTPUT_PATH, dpi=300, bbox_inches="tight", pad_inches=0.05)
+plt.savefig(str(OUTPUT_PATH).replace(".png", ".pdf"), bbox_inches="tight", pad_inches=0.05)
 print(f"\nSaved -> {OUTPUT_PATH}")
 
 print(f"\nTop {TOP_N_LABELS} hubs (for reference):")
